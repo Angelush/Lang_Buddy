@@ -1,0 +1,177 @@
+{
+  "lesson_id": "ingles-l051",
+  "source": "ingles",
+  "lesson": 51,
+  "title": "More past tenses",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 051 - Anglais.mp3",
+  "themes": [
+    "Past tense",
+    "Theater",
+    "Socializing"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Was he at home yesterday? — I think so, but I didn’t phone.",
+      "base": "¿Estaba en casa ayer ? — Pienso que sí, pero no llamé por teléfono.",
+      "pronunciation": ".. dident foun. — 8 ... taiéd... klousd... ais. — 12 ... driimd baat..."
+    },
+    {
+      "line": 2,
+      "target": "He called yesterday, but he didn't see me.",
+      "base": "Vino ayer, pero no me vió. — ¿ Llamó por teléfono ? — No creo."
+    },
+    {
+      "line": 3,
+      "target": "Did he phone? — I don't think so.",
+      "base": "6 (Explicación de las formas interrogativa y negativa)."
+    },
+    {
+      "line": 4,
+      "target": "You do not change the verb, you simply put the auxiliary “do” into the past",
+      "base": ""
+    },
+    {
+      "line": 5,
+      "target": "I did not (didn't) like the food. He did not (didn't) phone. We did not (didn't) like him.",
+      "base": ""
+    },
+    {
+      "line": 6,
+      "target": "Questions are easy, too: Did he like it? Did she phone?",
+      "base": ""
+    },
+    {
+      "line": 7,
+      "target": "Did you like the play last night? — I didn't see it.",
+      "base": "¿Te gustó la obra anoche ? — No la vi."
+    },
+    {
+      "line": 8,
+      "target": "But did you go to the theatre? — Yes but I was so tired I closed my eyes.",
+      "base": "Pero ¿fuiste al teatro? — Sí, pero estaba tan cansado que cerré los ojos."
+    },
+    {
+      "line": 9,
+      "target": "Tell me, was the play interesting? — I didn't understand very much, it was in Greek.",
+      "base": "Dime, ¿fué interesante la obra? — No entendí mucho, estaba en griego."
+    },
+    {
+      "line": 10,
+      "target": "Then why did you go? — I liked the main actor",
+      "base": "Entonces ¿por qué fuiste ? — Me gustaba el actor principal."
+    },
+    {
+      "line": 11,
+      "target": "Did he act well? — I didn't watch the acting. I looked at him,",
+      "base": "¿Actuó bien? — No contemplé la actuación. Le miré a él."
+    },
+    {
+      "line": 12,
+      "target": "What did you do after the play? — I dreamed about the actor!",
+      "base": "¿Qué hiciste despues de la obra? — ¡Soñé con el actor!"
+    },
+    {
+      "line": 13,
+      "target": "He did not, he didn't: He didn't like the play.",
+      "base": ""
+    },
+    {
+      "line": 14,
+      "target": "Did they...?: Did they phone you?",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "He called yesterday, but he didn't see me.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Did he phone? — I don't think so.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "You do not change the verb, you simply put the auxiliary “do” into the past",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Did you like the play last night? — I didn't see it. (2) (3)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "But did you go to the theatre? — Yes but I was so tired I closed my eyes.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:tired"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Tell me, was the play interesting? — I didn't understand very much, it was in Greek.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Then why did you go? — I liked the main actor (4)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:actor"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Did he act well? — I didn't watch the acting. I looked at him, (5)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "What did you do after the play? — I dreamed about the actor! (6)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:actor"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "He did not, he didn't: He didn't like the play.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "Did they...?: Did they phone you?",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "play-theatre",
+    "tired",
+    "dream",
+    "main-actor"
+  ]
+}

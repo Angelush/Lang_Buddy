@@ -1,0 +1,36 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l063",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 63,
+  "title": "REVISION ET NOTES",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/63 Leçon 63.mp3",
+  "themes": [
+    "grammar",
+    "revision"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Falloir : ser preciso, ser necesario. I! faut. El verbo falloir es un verbo impersonal. Sólo nos encontramos con la forma de la tercera persona del singular.",
+      "base": "Falloir : ser necesario. Es impersonal. Solo existe en 3ª persona del singular."
+    },
+    {
+      "line": 2,
+      "target": "El auxiliar étre.",
+      "base": "El auxiliar ser (être). En francés se usa para la pasiva, verbos reflexivos y ciertos verbos de movimiento."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "El auxiliar étre.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": []
+}

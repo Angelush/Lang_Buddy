@@ -1,0 +1,111 @@
+{
+  "lesson_id": "ingles-l103",
+  "source": "ingles",
+  "lesson": 103,
+  "title": "103rd Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 103 - Anglais.mp3",
+  "themes": [
+    "Language analysis",
+    "Health"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "An Englishman uses an average of one thousand words in his spoken vocabulary.",
+      "base": "Un inglés usa una media de mil palabras en su vocabulario hablado."
+    },
+    {
+      "line": 2,
+      "target": "His reading vocabulary is much larger — between three and four thousand,",
+      "base": "Su vocabulario de lectura es mucho mas amplio — entre tres y cuatro mil palabras,"
+    },
+    {
+      "line": 3,
+      "target": "but many of these words are not used in everyday communication.",
+      "base": "pero muchas de estas palabras no se usan en la conversación (comunicación) de todos los dias."
+    },
+    {
+      "line": 4,
+      "target": "When you come to the end of this course, you will be able to use about three thousand English words.",
+      "base": "Cuando llegue usted al final de este curso, podra usar unas tres mil palabras inglesas."
+    },
+    {
+      "line": 5,
+      "target": "The English vocabulary is composed of roughly 50 % (fifty per cent) Latin words and 50 % Germanic ones,",
+      "base": "El vocabulario inglés esta compuesto aproximadamente por un 50 % [de] palabras latinas y un 50 % [de palabras] germánicas,"
+    },
+    {
+      "line": 6,
+      "target": "so there are often two words to describe the same thing.",
+      "base": "de manera que a veces hay dos palabras para describir una (la) misma cosa,"
+    },
+    {
+      "line": 7,
+      "target": "But don’t worry! Only those who do crossword puzzles, or play word-games, know the thousands of unusual words in the language.",
+      "base": "pero no se preocupe; sólo los que hacen crucigramas o practican juegos de palabras conocen los miles de vocablos insólitos del idioma."
+    },
+    {
+      "line": 8,
+      "target": "English also “ adopts ” words very easily, so that often people do not realise that they are foreign words,",
+      "base": "[El] inglés también « adopta » palabras con mucha facilidad, de modo que muchas veces la gente no se da cuenta de que son palabras extranjeras,"
+    },
+    {
+      "line": 9,
+      "target": "so all nationalities feel at home speaking English!",
+      "base": "asi que [la gente de] todas [las] nacionalidades se sienten a gusto (como en casa) hablando inglés."
+    },
+    {
+      "line": 10,
+      "target": "Doctor, tell me frankly what is wrong with me: not in Latin or Greek, but in simple, plain words.",
+      "base": "Doctor, digame francamente lo que tengo (lo qué está mal en mí): no en latin o griego, sino en palabras simples y normales."
+    },
+    {
+      "line": 11,
+      "target": "There is nothing wrong with you; you are a drunkard and a glutton.",
+      "base": "A usted no le pasa nade (no hay nada malo en usted) ; es usted un borracho y un glotón."
+    },
+    {
+      "line": 12,
+      "target": "Oh! Well say it in Latin and Greek, so I can tell my wife!",
+      "base": "¡Oh! Bueno, digamelo en latín y griego, a fin de que pueda decírselo a mi mujer."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 5,
+      "target": "The English vocabulary is composed of roughly 50 % (fifty per cent) Latin words and 50 % Germanic ones,",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "so all nationalities feel at home speaking English!",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Doctor, tell me frankly what is wrong with me: not in Latin or Greek, but in simple, plain words.",
+      "reasons": [
+        "vocab:frankly"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "There is nothing wrong with you; you are a drunkard and a glutton.",
+      "reasons": [
+        "vocab:drunkard"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "frankly",
+    "drunkard",
+    "glutton"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lesson_id": "ingles-l059",
+  "source": "ingles",
+  "lesson": 59,
+  "title": "The sexes",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 059 - Anglais.mp3",
+  "themes": [
+    "gender roles",
+    "social stereotypes",
+    "humor"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Men speak* of women as the “ fair sex ” or the “ gentle sex ” or the “ weaker sex ”'.",
+      "base": "Los hombres hablan de las mujeres como del « bello sexo » o el « sexo dulce » o el « sexo débil » (sexo más débil).",
+      "pronunciation": ".. spiik... uimén... dchentél. uiiké... — 2 ... reárli... — 3 ... kónsi dérd... — 4 ... driims... — 5 ... taim."
+    },
+    {
+      "line": 2,
+      "target": "Women rarely speak* of men as the “ stronger sex”.",
+      "base": "Las mujeres rara vez hablan de [los] hombres como del « sexo fuerte » (sexo más fuerte)."
+    },
+    {
+      "line": 3,
+      "target": "Some men think* they are considered as the “ paying sex”.",
+      "base": "Algunos hombres piensan que se les considera el « sexo que paga »."
+    },
+    {
+      "line": 4,
+      "target": "My wife dreams every night that she's married to a millionaire.",
+      "base": "Mi mujer sueña cada noche que está casada con un millonario."
+    },
+    {
+      "line": 5,
+      "target": "You're lucky. Mine dreams she's married to a millionaire in the daytime!",
+      "base": "Tienes suerte. [La] mía sueña que está casada con un millonario durante el día."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Men speak* of women as the “ fair sex ” or the “ gentle sex ” or the “ weaker sex ”'.",
+      "reasons": [
+        "vocab:sex"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Women rarely speak* of men as the “ stronger sex”.",
+      "reasons": [
+        "vocab:sex"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Some men think* they are considered as the “ paying sex”.",
+      "reasons": [
+        "vocab:sex"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "My wife dreams every night that she's married to a millionaire.",
+      "reasons": [
+        "vocab:married"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "You're lucky. Mine dreams she's married to a millionaire in the daytime! (1)",
+      "reasons": [
+        "vocab:time"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "fair-sex",
+    "gentle-sex",
+    "weaker-sex",
+    "stronger-sex",
+    "paying-sex",
+    "daytime",
+    "night-time",
+    "married",
+    "millionaire"
+  ]
+}

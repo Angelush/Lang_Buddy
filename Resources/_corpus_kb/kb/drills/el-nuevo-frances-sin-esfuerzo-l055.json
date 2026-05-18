@@ -1,0 +1,121 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l055",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 55,
+  "title": "(M. Martin et le cocktail)",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/55 Leçon 55.mp3",
+  "themes": [
+    "humor",
+    "daily-life",
+    "alcohol",
+    "narrative"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "L'autre soir, M. Martin a assisté à un cocktail au bureau.",
+      "base": "La otra noche, el Sr. Martin (ha asistido) asistió a un cóctel en la oficina.",
+      "pronunciation": "..kóctel... sanduich"
+    },
+    {
+      "line": 2,
+      "target": "Il a mangé quelques petits sandwichs et des canapés",
+      "base": "Comió algunos emparedados y canapés"
+    },
+    {
+      "line": 3,
+      "target": "mais il a surtout bu !",
+      "base": "¡ pero, sobre todo, bebió !",
+      "pronunciation": "..bü... uiski"
+    },
+    {
+      "line": 4,
+      "target": "Il a bu quatre grands whiskys",
+      "base": "Bebió cuatro whiskys dobles (grandes)"
+    },
+    {
+      "line": 5,
+      "target": "et ensuite il a vidé une bouteille de champagne !",
+      "base": "y, después, ¡ vació una botella de champán !"
+    },
+    {
+      "line": 6,
+      "target": "À dix heures, il a décidé de rentrer chez lui.",
+      "base": "A las diez, decidió volver a (su) casa."
+    },
+    {
+      "line": 7,
+      "target": "Il a laissé sa voiture et il a pris un taxi.",
+      "base": "Dejó el coche y cogió un taxi."
+    },
+    {
+      "line": 8,
+      "target": "Arrivé devant sa maison, il a réalisé qu'il n'avait pas ses clefs.",
+      "base": "(Llegado) Delante de su casa, se dio cuenta de (ha realizado) que no tenía (sus) las llaves.",
+      "pronunciation": "..navé... ke"
+    },
+    {
+      "line": 9,
+      "target": "",
+      "base": "Entonces, quiso entrar por la ventana, pero estando un poco ebrio (embriagado),",
+      "pronunciation": "..ivr"
+    },
+    {
+      "line": 10,
+      "target": "",
+      "base": "no pudo : rompió un cristal.",
+      "pronunciation": "..karô"
+    },
+    {
+      "line": 11,
+      "target": "",
+      "base": "De repente, alguien abrió la ventana de arriba",
+      "pronunciation": "..ano"
+    },
+    {
+      "line": 12,
+      "target": "",
+      "base": "y gritó : — ¿ Pero qué hace ? ¡ Dios santo ! (¡ nombre de Dios !)",
+      "pronunciation": "et a crié : — Mais qu'est-ce que vous faites, nom de Dieu !!"
+    },
+    {
+      "line": 13,
+      "target": "",
+      "base": "¡ Era su vecino ! ¡ No era su casa !",
+      "pronunciation": "seté"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 3,
+      "target": "mais il a surtout bu !",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Il a bu quatre grands whiskys",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Arrivé devant sa maison, il a réalisé qu'il n'avait pas ses clefs.",
+      "reasons": [
+        "vocab:clef"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "boire",
+    "realiser",
+    "clef",
+    "carreau",
+    "ivre"
+  ]
+}

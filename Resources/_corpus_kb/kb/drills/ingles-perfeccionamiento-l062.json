@@ -1,0 +1,188 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l062",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 62,
+  "title": "Into the future",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/62 Lesson 62.mp3",
+  "themes": [
+    "language evolution",
+    "international English",
+    "cultural influence",
+    "linguistics"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "And what of tomorrow? How will British and American English develop over the coming quarter-century?",
+      "base": ""
+    },
+    {
+      "line": 16,
+      "target": "The Gold Rush gave us words like bonanza, panhandler and prospector,",
+      "base": ""
+    },
+    {
+      "line": 17,
+      "target": "while settlers talked of staking a claim or striking it rich (if things went well, they bit the dust).",
+      "base": ""
+    },
+    {
+      "line": 18,
+      "target": "Relaxation mainly took the form of gambling, where players had to put up or shut up.",
+      "base": ""
+    },
+    {
+      "line": 19,
+      "target": "Gamblers would call your bluff if they didn't believe you were holding a good hand, but you could still hit the jackpot.",
+      "base": ""
+    },
+    {
+      "line": 20,
+      "target": "The railroad stretched further and across the country, and people either got sidetracked or worse, they went off the rails.",
+      "base": ""
+    },
+    {
+      "line": 21,
+      "target": "The wiser among them preferred to backtrack rather than find themselves in a difficult situation.",
+      "base": ""
+    },
+    {
+      "line": 22,
+      "target": "All of these words and phrases (and many more) remain part of our everyday speech.",
+      "base": ""
+    },
+    {
+      "line": 23,
+      "target": "Given the impact of science, technology,",
+      "base": ""
+    },
+    {
+      "line": 24,
+      "target": "global finance and worldwide communications,",
+      "base": ""
+    },
+    {
+      "line": 25,
+      "target": "English will continue to eagerly create new words — rather than just borrowing from other languages as it did in the past,",
+      "base": ""
+    },
+    {
+      "line": 26,
+      "target": "and to become a real second language for the rest of the world.",
+      "base": ""
+    },
+    {
+      "line": 27,
+      "target": "The reasons for the spread of this new world language — which is no longer culturally based — are debatable.",
+      "base": ""
+    },
+    {
+      "line": 28,
+      "target": "Be that as it may, correct English may soon be judged on the basis of international utility.",
+      "base": ""
+    },
+    {
+      "line": 29,
+      "target": "rather than on the ability to speak and pronounce the language like a native speaker.",
+      "base": ""
+    },
+    {
+      "line": 30,
+      "target": "The idea, however, is not new. Back in the 19th century, a famous writer said that so-called correct English was nothing but the slang of pedants!",
+      "base": ""
+    },
+    {
+      "line": 31,
+      "target": "We hope you will enjoy speaking English throughout the world and that your knowledge and understanding have been increased by studying this book.",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "And what of tomorrow? How will British and American English develop over the coming quarter-century? (1)",
+      "reasons": [
+        "vocab:english"
+      ]
+    },
+    {
+      "line": 16,
+      "target": "The Gold Rush gave us words like bonanza, panhandler and prospector,",
+      "reasons": [
+        "answer_to_question",
+        "vocab:prospector"
+      ]
+    },
+    {
+      "line": 20,
+      "target": "The railroad stretched further and across the country, and people either got sidetracked or worse, they went off the rails. (12)",
+      "reasons": [
+        "vocab:rails"
+      ]
+    },
+    {
+      "line": 21,
+      "target": "The wiser among them preferred to backtrack rather than find themselves in a difficult situation. (13)",
+      "reasons": [
+        "vocab:backtrack"
+      ]
+    },
+    {
+      "line": 23,
+      "target": "Given the impact of science, technology,",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 24,
+      "target": "global finance and worldwide communications,",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 25,
+      "target": "English will continue to eagerly create new words — rather than just borrowing from other languages as it did in the past,",
+      "reasons": [
+        "vocab:english"
+      ]
+    },
+    {
+      "line": 28,
+      "target": "Be that as it may, correct English may soon be judged on the basis of international utility. (16)",
+      "reasons": [
+        "vocab:english"
+      ]
+    },
+    {
+      "line": 30,
+      "target": "The idea, however, is not new. Back in the 19th century, a famous writer said that so-called correct English was nothing but the slang of pedants! (18)",
+      "reasons": [
+        "vocab:english"
+      ]
+    },
+    {
+      "line": 31,
+      "target": "We hope you will enjoy speaking English throughout the world and that your knowledge and understanding have been increased by studying this book.",
+      "reasons": [
+        "vocab:english"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "international-english",
+    "pot-pourri",
+    "bonanza",
+    "panhandler",
+    "prospector",
+    "railroad",
+    "sidetrack",
+    "backtrack",
+    "off-the-rails",
+    "split-infinitive"
+  ]
+}

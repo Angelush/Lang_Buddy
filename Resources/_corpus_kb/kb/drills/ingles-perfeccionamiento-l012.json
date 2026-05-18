@@ -1,0 +1,343 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l012",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 12,
+  "title": "Money Matters",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/12 Lesson 12.mp3",
+  "themes": [
+    "business",
+    "finance",
+    "numbers",
+    "dialogue"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "I've just been over the figures with the accountant and he says we'll have to be careful next year.",
+      "base": "Acabo de examinar las cifras con el contable y de acuerdo con lo que dice nosotros deberíamos tener mucho cuidado el año que viene."
+    },
+    {
+      "line": 2,
+      "target": "Turnover is up three-and-a-half percent (3½ %) and return on investment is steady,",
+      "base": "El volumen de negocio se eleva hasta el tres y medio porciento (3,5 %) y el beneficio sobre la inversión es estable"
+    },
+    {
+      "line": 3,
+      "target": "but our overheads are also up — by four point two percent (4.2 %).",
+      "base": "pero nuestros gastos generales son también altos y se elevan hasta 4,2 %."
+    },
+    {
+      "line": 4,
+      "target": "Our interest repayments on the bank loan come to two hundred and sixteen pounds (£216) a month",
+      "base": "Nuestros reembolsos de intereses sobre los préstamos bancarios alcanzan las doscientas dieciséis libras (216 £) al mes"
+    },
+    {
+      "line": 5,
+      "target": "and investment on R & D is constant at a thousand pounds (£1,000) per quarter.",
+      "base": "y la inversión en I+D (Investigación y Desarrollo) es constante [y alcanza] las mil libras (1.000 £) por trimestre."
+    },
+    {
+      "line": 6,
+      "target": "One thousand! Isn't that a little high?",
+      "base": "¡Mil libras! ¿No es un poco alto? — Los nuevos productos son la vida de la industria, muchacho."
+    },
+    {
+      "line": 7,
+      "target": "Well, if we want to cut back, we can start by looking at bonuses. Look at this: two thousand four hundred and sixteen pounds (£2,416) productivity bonus to Miller.",
+      "base": "Bien, si queremos reducir, pudiéramos empezar por las primas. Fíjate en esto: dos mil cuatrocientas dieciséis libras (2.416 £) de prima de productividad para Miller."
+    },
+    {
+      "line": 8,
+      "target": "Well, two thousand pounds is a lot of money, but Miller's the product manager for the RX 214",
+      "base": "Bueno, dos mil libras es mucho dinero, pero Miller es el jefe de producto del RX 214"
+    },
+    {
+      "line": 9,
+      "target": "and look how successful that's been.",
+      "base": "y considera el éxito que eso ha tenido. — ¿Ah, te parece? Observa las cifras:"
+    },
+    {
+      "line": 10,
+      "target": "sales up by nought point three percent (0.3 %) for the year. Not exactly what you'd call record-breaking...",
+      "base": "las ventas han subido un cero punto tres por ciento (0,3 %) durante el año. No es lo que llamaríamos exactamente un nuevo récord..."
+    },
+    {
+      "line": 11,
+      "target": "and look at these two: a thousand pounds to Cookson — and one thousand four hundred to Mathey.",
+      "base": "y observa estas dos: mil libras para Cookson — y mil cuatrocientas libras para Mathey."
+    },
+    {
+      "line": 12,
+      "target": "Yes, I suppose we'll have to cut back on generosity.",
+      "base": "Sí, supongo que tendremos que reducir la generosidad."
+    },
+    {
+      "line": 13,
+      "target": "This used to be a family business, my boy, but now we're in a billion-dollar industry, and money's tight.",
+      "base": "Esto en otro tiempo era un negocio familiar, hijo, pero ahora somos una industria de un billón de dólares, y el dinero se hace escaso."
+    },
+    {
+      "line": 14,
+      "target": "Well, if it comes to that, Dad, you're not exactly hard up. — I worked my way up from the bottom.",
+      "base": "Bueno, con respecto a eso, papá, tú no estás verdaderamente «pelado». — Empecé desde abajo."
+    },
+    {
+      "line": 15,
+      "target": "When I started, I didn't have two ha'pennies to rub together. — Yes, yes I know.",
+      "base": "Cuando empecé, no tenía ni siquiera dos duros. — Sí, sí, lo sé. ¿Cuándo es tu próxima reunión con el banco?"
+    },
+    {
+      "line": 16,
+      "target": "On the thirteenth. I'm going to ask the manager to reschedule the repayment of the last loan.",
+      "base": "El día trece, voy a pedirle al director que me intente espaciar los pagos del último préstamo."
+    },
+    {
+      "line": 17,
+      "target": "Oh Lord! I hope you're not superstitious. Your meeting's on Friday the thirteenth!",
+      "base": "¡Dios mío! Espero que no seas supersticioso. ¡Tu reunión es el viernes trece!"
+    },
+    {
+      "line": 18,
+      "target": "On the contrary. Hundreds of people choose Friday the thirteenth. It's a lucky day.",
+      "base": "Por el contrario, cientos de personas eligen el viernes trece. ¡Es un día que trae suerte!"
+    },
+    {
+      "line": 19,
+      "target": "Oh, and I must call Maxwell at home — the warehouse switchboard shuts down at the weekend. Have you got his number to hand?",
+      "base": "Oh, y debo llamar a Maxwell a su casa — la centralita del almacén se cierra el fin de semana. ¿Tienes su número a mano?"
+    },
+    {
+      "line": 20,
+      "target": "Yes, it's seven-oh-six, three-one-seven two (706 3172). The dialling code's oh-two-one-two .",
+      "base": "Sí, es el siete cero seis, tres uno siete dos (706 3172). El prefijo es el cero dos uno dos (0212)."
+    },
+    {
+      "line": 21,
+      "target": "Thanks, son. Oh, by the way, could you lend me a couple of quid for a taxi?",
+      "base": "Gracias, hijo. Oh, a propósito, ¿me prestas un par de libras para un taxi?"
+    },
+    {
+      "line": 22,
+      "target": "Rockefeller was asked how he became a millionaire. — One day, I found a dime on the ground. I used it to buy an apple.",
+      "base": "Se pidió a Rockefeller que comentara cómo se había convertido en millonario. — Un día, me encontré diez centavos en el suelo, los utilicé para comprar una manzana."
+    },
+    {
+      "line": 23,
+      "target": "Then I sold the apple for a quarter. I bought two apples for that, and then sold them at a profit.",
+      "base": "Luego vendí la manzana por veinticinco centavos, compré dos manzanas con esa cantidad y luego las vendí con beneficio."
+    },
+    {
+      "line": 24,
+      "target": "I would have continued like that, but my father died and I inherited his fortune.",
+      "base": "Debía haber continuado así, pero mi padre murió y heredé su fortuna."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "I've just been over the figures with the accountant and he says we'll have to be careful next year.",
+      "reasons": [
+        "vocab:accountant"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Turnover is up three-and-a-half percent (3½ %) and return on investment is steady,",
+      "reasons": [
+        "vocab:turnover"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "but our overheads are also up — by four point two percent (4.2 %).",
+      "reasons": [
+        "vocab:overheads"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Our interest repayments on the bank loan come to two hundred and sixteen pounds (£216) a month",
+      "reasons": [
+        "vocab:repayments"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "and investment on R & D is constant at a thousand pounds (£1,000) per quarter.",
+      "reasons": [
+        "vocab:investment"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "One thousand! Isn't that a little high?",
+      "reasons": [
+        "short_response",
+        "vocab:d"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Well, if we want to cut back, we can start by looking at bonuses. Look at this: two thousand four hundred and sixteen pounds (£2,416) productivity bonus to Miller.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:bonus"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Well, two thousand pounds is a lot of money, but Miller's the product manager for the RX 214",
+      "reasons": [
+        "vocab:d"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "and look how successful that's been.",
+      "reasons": [
+        "short_response",
+        "vocab:d"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "sales up by nought point three percent (0.3 %) for the year. Not exactly what you'd call record-breaking...",
+      "reasons": [
+        "vocab:up"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "and look at these two: a thousand pounds to Cookson — and one thousand four hundred to Mathey.",
+      "reasons": [
+        "vocab:d"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Yes, I suppose we'll have to cut back on generosity.",
+      "reasons": [
+        "vocab:back"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "This used to be a family business, my boy, but now we're in a billion-dollar industry, and money's tight.",
+      "reasons": [
+        "vocab:industry"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "Well, if it comes to that, Dad, you're not exactly hard up. — I worked my way up from the bottom.",
+      "reasons": [
+        "vocab:up"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "When I started, I didn't have two ha'pennies to rub together. — Yes, yes I know.",
+      "reasons": [
+        "vocab:pennies"
+      ]
+    },
+    {
+      "line": 16,
+      "target": "On the thirteenth. I'm going to ask the manager to reschedule the repayment of the last loan.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:loan"
+      ]
+    },
+    {
+      "line": 17,
+      "target": "Oh Lord! I hope you're not superstitious. Your meeting's on Friday the thirteenth!",
+      "reasons": [
+        "vocab:up"
+      ]
+    },
+    {
+      "line": 18,
+      "target": "On the contrary. Hundreds of people choose Friday the thirteenth. It's a lucky day.",
+      "reasons": [
+        "vocab:d"
+      ]
+    },
+    {
+      "line": 19,
+      "target": "Oh, and I must call Maxwell at home — the warehouse switchboard shuts down at the weekend. Have you got his number to hand?",
+      "reasons": [
+        "vocab:weekend"
+      ]
+    },
+    {
+      "line": 20,
+      "target": "Yes, it's seven-oh-six, three-one-seven two (706 3172). The dialling code's oh-two-one-two (0212).",
+      "reasons": [
+        "answer_to_question",
+        "vocab:code"
+      ]
+    },
+    {
+      "line": 21,
+      "target": "Thanks, son. Oh, by the way, could you lend me a couple of quid for a taxi?",
+      "reasons": [
+        "vocab:quid"
+      ]
+    },
+    {
+      "line": 22,
+      "target": "Rockefeller was asked how he became a millionaire. — One day, I found a dime on the ground. I used it to buy an apple.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:dime"
+      ]
+    },
+    {
+      "line": 23,
+      "target": "Then I sold the apple for a quarter. I bought two apples for that, and then sold them at a profit.",
+      "reasons": [
+        "vocab:profit"
+      ]
+    },
+    {
+      "line": 24,
+      "target": "I would have continued like that, but my father died and I inherited his fortune.",
+      "reasons": [
+        "vocab:fortune"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "PLC",
+    "accountant",
+    "turnover",
+    "return-on-investment",
+    "overheads",
+    "bank-loan",
+    "interest-repayments",
+    "R-and-D",
+    "productivity-bonus",
+    "cut-back",
+    "family-business",
+    "billion-dollar-industry",
+    "moneys-tight",
+    "hard-up",
+    "warehouse",
+    "switchboard",
+    "weekend",
+    "dialling-code",
+    "quid",
+    "taxi",
+    "dime",
+    "quarter",
+    "profit",
+    "Rockefeller",
+    "millionaire",
+    "fortune",
+    "ha-pennies"
+  ]
+}

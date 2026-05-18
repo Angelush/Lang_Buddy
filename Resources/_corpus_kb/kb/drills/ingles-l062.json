@@ -1,0 +1,180 @@
+{
+  "lesson_id": "ingles-l062",
+  "source": "ingles",
+  "lesson": 62,
+  "title": "Scotland",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 062 - Anglais.mp3",
+  "themes": [
+    "geography",
+    "culture",
+    "travel",
+    "comparisons"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Scotland is half as big as England but the population is much smaller.",
+      "base": "Escocia es la mitad de grande que (medio tan grande como) Inglaterra pero la población es mucho menor.",
+      "pronunciation": ".. halfás big... popiuleishén... — 2 ... mein riidchóns... haitánds... uaild... — 3 ... sauz... loulánds... — 4 ooldzou... glasgou ... senté."
+    },
+    {
+      "line": 2,
+      "target": "There are two main regions: in the north",
+      "base": "Hay dos regiones principales: en el norte, las Highlands (tierra altas) que son salvajes y bellas"
+    },
+    {
+      "line": 3,
+      "target": "and hands which are wild and beautiful, more agricultural, © fowlands which are",
+      "base": "y en el sur, las Lowlands (tierras bajas) que son más agrícolas."
+    },
+    {
+      "line": 4,
+      "target": "Although Edinburgh is the capital Glasgow is the main industrial centre.",
+      "base": "Aunque Edimburgo es la capital, Glasgow es el principal centro industrial."
+    },
+    {
+      "line": 5,
+      "target": "Scotland was separated from England by a wall, built* by the Roman emperor Ha-drian.",
+      "base": "Escocia estuvo separada de Inglaterra por un muro construido por el emperador romano Adriano.",
+      "pronunciation": ".. uol bilt... roman empérór... — 6 ... eksist 7 ili"
+    },
+    {
+      "line": 6,
+      "target": "Parts of this wall still exist today.",
+      "base": "Partes de este muro existen aún hoy."
+    },
+    {
+      "line": 7,
+      "target": "Some older people still speak* Gaelic, but most Scots speak” English.",
+      "base": "Algunos ancianos hablan aún gaélico, pero la mayoría de los escoceses hablan inglés.",
+      "pronunciation": ".. gellik.. — 8... uns ditérént..."
+    },
+    {
+      "line": 8,
+      "target": "Scottish towns look very different from English ones.",
+      "base": "Las ciudades escocesas tienen muy diferente aspecto del de las inglesas."
+    },
+    {
+      "line": 9,
+      "target": "In English towns, the houses are mainly built of red brick,",
+      "base": "En las ciudades inglesas las casas están construidas principalmente de ladrillo rojo,"
+    },
+    {
+      "line": 10,
+      "target": "whereas in Scotland, the houses are mainly of grey slate.",
+      "base": "mientras que en Escocia, las casas están hechas principalmente de pizarra gris."
+    },
+    {
+      "line": 11,
+      "target": "Britain's highest mountain, Ben Nevis, is in Scotland.",
+      "base": "La montaña más alta de Gran Bretaña, [el] Ben Nevis, está en Escocia."
+    },
+    {
+      "line": 12,
+      "target": "The Scots have their own religion, called Presbyterianism, and their own laws.",
+      "base": "Los escoceses tienen su propia religión, llamada presbiterianismo, y sus propias leyes."
+    },
+    {
+      "line": 13,
+      "target": "So although Scotland is part of Great Britain,",
+      "base": "De modo que, aunque Escocia es parte de Gran Bretaña,"
+    },
+    {
+      "line": 14,
+      "target": "it has never been united with England in the same way as Wales.",
+      "base": "nunca ha estado unida con Inglaterra del mismo modo que Gales."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "There are two main regions: in the north",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "and hands which are wild and beautiful, more agricultural, © fowlands which are",
+      "reasons": [
+        "vocab:wild"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Although Edinburgh is the capital Glasgow is the main industrial centre.",
+      "reasons": [
+        "vocab:edinburgh"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Scotland was separated from England by a wall, built* by the Roman emperor Ha-drian.",
+      "reasons": [
+        "vocab:roman"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Parts of this wall still exist today.",
+      "reasons": [
+        "short_response",
+        "vocab:wall"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Some older people still speak* Gaelic, but most Scots speak” English. (1)",
+      "reasons": [
+        "vocab:scots"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Scottish towns look very different from English ones.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Britain's highest mountain, Ben Nevis, is in Scotland. (2) (3)",
+      "reasons": [
+        "vocab:nevis"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "The Scots have their own religion, called Presbyterianism, and their own laws. (4)",
+      "reasons": [
+        "vocab:presbyterianism"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "So although Scotland is part of Great Britain,",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "en2b-Highlands",
+    "en2b-Lowlands",
+    "wild",
+    "beautiful",
+    "agricultural",
+    "en2b-Edinburgh",
+    "en2b-Glasgow",
+    "en2b-Ben-Nevis",
+    "en2b-Presbyterianism",
+    "en2b-Gaelic",
+    "en2b-Scots",
+    "wall",
+    "en2b-Roman",
+    "en2b-Hadrian"
+  ]
+}

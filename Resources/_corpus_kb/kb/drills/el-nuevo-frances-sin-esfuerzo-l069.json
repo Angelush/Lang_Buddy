@@ -1,0 +1,124 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l069",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 69,
+  "title": "Le corps humain (suite et fin)",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/69 Leçon 69.mp3",
+  "themes": [
+    "human body",
+    "anatomy",
+    "health",
+    "everyday actions"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "",
+      "base": "Los brazos se articulan (doblan) en los codos y en",
+      "pronunciation": "..kud... puañé"
+    },
+    {
+      "line": 2,
+      "target": "",
+      "base": "Terminan (son terminados) en (por) las manos, que",
+      "pronunciation": "a A2"
+    },
+    {
+      "line": 3,
+      "target": "",
+      "base": "es uno de los más útiles. Los dedos terminan (por)"
+    },
+    {
+      "line": 4,
+      "target": "",
+      "base": "Las piernas se articulan (doblan) en las rodillas y en",
+      "pronunciation": "..pli...jénû ... schevill’"
+    },
+    {
+      "line": 5,
+      "target": "",
+      "base": "En general, uno se mantiene en pie sobre los (sus)"
+    },
+    {
+      "line": 6,
+      "target": "",
+      "base": "y (se) duerme acostado sobre la espalda."
+    },
+    {
+      "line": 7,
+      "target": "",
+      "base": "La gente puede ser alta o baja, gorda o flaca."
+    },
+    {
+      "line": 8,
+      "target": "",
+      "base": "En todo caso, esperamos que usted tenga (esté en)",
+      "pronunciation": "..santé"
+    },
+    {
+      "line": 9,
+      "target": "",
+      "base": "Si tiene hambre y tiene prisa,"
+    },
+    {
+      "line": 10,
+      "target": "vous pouvez manger sur le pouce et",
+      "base": "puede comer de pie y a galope (sobre el pulgar) y,"
+    },
+    {
+      "line": 11,
+      "target": "vous pouvez demander un coup de",
+      "base": "puede pedir que le echen una mano (den un golpe"
+    },
+    {
+      "line": 12,
+      "target": "on dit qu’on vous a tourné le dos.",
+      "base": "se dice que le han vuelto la espalda."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 10,
+      "target": "vous pouvez manger sur le pouce (4) et",
+      "reasons": [
+        "vocab:le"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "vous pouvez demander un coup (5) de",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "on dit qu’on vous a tourné le dos.",
+      "reasons": [
+        "short_response",
+        "vocab:dos"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "doigts",
+    "pouce",
+    "ongles",
+    "coudes",
+    "poignets",
+    "genoux",
+    "chevilles",
+    "pieds",
+    "debout",
+    "couche",
+    "dos",
+    "fr3b-pressé",
+    "fr3b-santé",
+    "pouce-sur-le",
+    "coup-de-main",
+    "fr3b-tourné-le-dos"
+  ]
+}

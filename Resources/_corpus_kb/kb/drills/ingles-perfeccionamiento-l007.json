@@ -1,0 +1,65 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l007",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 7,
+  "title": "REVISION AND NOTES",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/07 Lesson 07.mp3",
+  "themes": [
+    "review",
+    "grammar",
+    "word-formation",
+    "historical-english"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "El inglés ha perdido muchas de sus inflexiones —",
+      "base": ""
+    },
+    {
+      "line": 2,
+      "target": "Como usted verá en las dos lecciones siguientes,",
+      "base": ""
+    },
+    {
+      "line": 3,
+      "target": "Hemos dicho ya que el idioma inglés perdió la",
+      "base": ""
+    },
+    {
+      "line": 4,
+      "target": "Hemos hablado de ciertas características que no",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Como usted verá en las dos lecciones siguientes,",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Hemos hablado de ciertas características que no",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "enp1ai-down",
+    "enp1ai-highways-and-byways",
+    "enp1ai-but-me-no-buts",
+    "enp1ai-ex-out",
+    "enp1ai-thou",
+    "enp1ai-ye",
+    "enp1ai-maketh",
+    "enp1ai-highway",
+    "enp1ai-byway"
+  ]
+}

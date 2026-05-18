@@ -1,0 +1,87 @@
+{
+  "lesson_id": "ingles-l008",
+  "source": "ingles",
+  "lesson": 8,
+  "title": "Eighth Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 008 - Anglais.mp3",
+  "themes": [
+    "shopping",
+    "food",
+    "quantifiers"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Can I help you?",
+      "base": "¿ Qué desea ? (¿ Puedo ayudarle ?)",
+      "pronunciation": "Kénai.. — 2 ... áni tii? — 3 of coors. duiu uont sam ? — 4 jes, pliis... tu paunds... ándá pakit of bisskits. — 5 ... sam biins ?"
+    },
+    {
+      "line": 2,
+      "target": "Have you got any tea?",
+      "base": "¿ Tiene usted té ?"
+    },
+    {
+      "line": 3,
+      "target": "Of course. Do you want some?",
+      "base": "Por supuesto, ¿ quiere usted (algo [de té])?"
+    },
+    {
+      "line": 4,
+      "target": "Yes please. Give me two pounds. And a packet of biscuits.",
+      "base": "¿ Quiere usted (algunas) judías ?"
+    },
+    {
+      "line": 5,
+      "target": "Do you want some beans?",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Have you got any tea? (1)",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:tea"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Of course. Do you want some? (1)",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:course"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Yes please. Give me two pounds. And a packet of biscuits. (2)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:pound"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Do you want some beans?",
+      "reasons": [
+        "short_response",
+        "vocab:beans"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "tea",
+    "pound",
+    "biscuits",
+    "beans",
+    "packet",
+    "of-course"
+  ]
+}

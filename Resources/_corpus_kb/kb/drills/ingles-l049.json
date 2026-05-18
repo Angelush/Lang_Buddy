@@ -1,0 +1,46 @@
+{
+  "lesson_id": "ingles-l049",
+  "source": "ingles",
+  "lesson": 49,
+  "title": "REVISIONS AND NOTES",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 049 - Anglais.mp3",
+  "themes": [
+    "Review",
+    "Grammar"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Something vs Anything. — Something (afirmativas). Anything (negativas/interrogativas/indiferencia: 'cualquier cosa').",
+      "base": "Something / Anything. — Uso de 'anything' en diferentes contextos."
+    },
+    {
+      "line": 2,
+      "target": "Possessive Pronouns. — Mine, yours, hers, his, ours, theirs. No article 'the' before them.",
+      "base": "Pronombres posesivos. — No llevan artículo."
+    },
+    {
+      "line": 3,
+      "target": "Questions with 'How'. — How far? (distancia). How often? (frecuencia). How long? (tiempo/duración).",
+      "base": "Preguntas con 'How'."
+    },
+    {
+      "line": 4,
+      "target": "Shall. — Suggestions/Offers. Shall I open a window? (¿Abro...?).",
+      "base": "Shall: ofrecimientos y sugerencias."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 4,
+      "target": "Shall. — Suggestions/Offers. Shall I open a window? (¿Abro...?).",
+      "reasons": [
+        "answer_to_question"
+      ]
+    }
+  ],
+  "vocab_introduced": []
+}

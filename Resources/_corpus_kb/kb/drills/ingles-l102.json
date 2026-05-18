@@ -1,0 +1,159 @@
+{
+  "lesson_id": "ingles-l102",
+  "source": "ingles",
+  "lesson": 102,
+  "title": "102nd Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 102 - Anglais.mp3",
+  "themes": [
+    "Art",
+    "Family life",
+    "Work"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Outside the art gallery: — I liked that exhibition very much,",
+      "base": "A la salida de una galeria de arte: — Me ha gustado mucho esta exposicion,"
+    },
+    {
+      "line": 2,
+      "target": "especially the modern painting of a man on a horse.",
+      "base": "especialmente la pintura moderna de un hombre a caballo."
+    },
+    {
+      "line": 3,
+      "target": "How do you know it was a man on a horse?",
+      "base": "¿Cómo sabes que era un hombre a caballo ?"
+    },
+    {
+      "line": 4,
+      "target": "Well, it was obvious, wasn't it?",
+      "base": "Bueno, estaba claro ¿no?"
+    },
+    {
+      "line": 5,
+      "target": "In that case, it couldn't have been a modern painting.",
+      "base": "En ese caso no seria (no habría podido ser) una pintura moderna."
+    },
+    {
+      "line": 6,
+      "target": "A mother had just scolded her son and he started crying.",
+      "base": "Una madre acababa de reñir (había justo reñido) a su hijo y él comenzó a ilorar."
+    },
+    {
+      "line": 7,
+      "target": "At that moment, his father came in.",
+      "base": "En ese momento, su padre entró."
+    },
+    {
+      "line": 8,
+      "target": "What's the matter with you ? he asked.",
+      "base": "¿ Qué pasa? preguntó."
+    },
+    {
+      "line": 9,
+      "target": "The child turned his back and said nothing.",
+      "base": "El niño le dió la espalda (volvió su espalda) y [no] dijo nada."
+    },
+    {
+      "line": 10,
+      "target": "Come on!, said his father, tell Daddy.",
+      "base": "¡Vamos! dijo su padre, dí [selo] a papá."
+    },
+    {
+      "line": 11,
+      "target": "The son turned round: — If you must know, I've just had an argument with your wife!",
+      "base": "El hijo se volvió: — Si quieres (si tienes que) saberlo, ¡acabo de tener una discusión con tu mujer!"
+    },
+    {
+      "line": 12,
+      "target": "Employer. — We're looking for someone who is used to ordering men.",
+      "base": "Patrono. — Buscamos a alguien acostumbrado a mandar a los hombres."
+    },
+    {
+      "line": 13,
+      "target": "Man. — In that case, you want my wife.",
+      "base": "Hombre. — En ese caso, necesita usted a mi mujer."
+    },
+    {
+      "line": 14,
+      "target": "Do not forget to learn a few irregular verbs from time to time.",
+      "base": "No se olvide de aprender algunos verbos irregulares de vez en cuando."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Outside the art gallery: — I liked that exhibition very much,",
+      "reasons": [
+        "vocab:exhibition"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Well, it was obvious, wasn't it?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "In that case, it couldn't have been a modern painting.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "A mother had just scolded her son and he started crying.",
+      "reasons": [
+        "vocab:scold"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "At that moment, his father came in. (1)",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "What's the matter with you ? he asked.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "The child turned his back and said nothing.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Come on!, said his father, tell Daddy. (2)",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "The son turned round: — If you must know, I've just had an argument with your wife!",
+      "reasons": [
+        "vocab:argument"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "exhibition",
+    "scold",
+    "argument"
+  ]
+}

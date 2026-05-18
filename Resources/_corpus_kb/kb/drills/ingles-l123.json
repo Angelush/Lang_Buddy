@@ -1,0 +1,180 @@
+{
+  "lesson_id": "ingles-l123",
+  "source": "ingles",
+  "lesson": 123,
+  "title": "How is your English getting on?",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 123 - Anglais.mp3",
+  "themes": [
+    "language learning",
+    "progress",
+    "encouragement",
+    "study tips"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Have you noticed that every day you are learning new words and expressions?",
+      "base": "¿Se ha dado usted cuenta de que cada día aprende nuevas palabras y expresiones?"
+    },
+    {
+      "line": 2,
+      "target": "You can now hold conversations, read notices, ask your way — even argue with someone!",
+      "base": "Ahora puede usted mantener conversaciones, leer avisos, preguntar por una dirección — ¡incluso discutir con alguien!"
+    },
+    {
+      "line": 3,
+      "target": "We must continue to add new material every day,",
+      "base": "Debemos continuar añadiendo nuevo material cada día,"
+    },
+    {
+      "line": 4,
+      "target": "so that, at the end of the course, you will be able to understand English as it is spoken by the English.",
+      "base": "de modo que, al final del curso, sea usted capaz de entender el inglés tal y como lo habla un inglés."
+    },
+    {
+      "line": 5,
+      "target": "We hope that you find time to revise the past lessons, and that, above all, you do it aloud.",
+      "base": "Esperamos que encuentre usted tiempo para repasar las lecciones anteriores, y, sobre todo, que lo haga usted en voz alta."
+    },
+    {
+      "line": 6,
+      "target": "This is vital, because it helps you to remember and to improve your pronunciation.",
+      "base": "Esto es esencial, porque le ayuda a recordar y a mejorar su pronunciación."
+    },
+    {
+      "line": 7,
+      "target": "You will always have a slight accent,",
+      "base": "Tendrá usted siempre un ligero acento,"
+    },
+    {
+      "line": 8,
+      "target": "but don't worry: people will be able to understand you, which is most important.",
+      "base": "pero no se preocupe: la gente podrá entenderle, y eso es lo más importante."
+    },
+    {
+      "line": 9,
+      "target": "And, besides, a slight foreign accent is charming.",
+      "base": "Y, además, un ligero acento extranjero es encantador."
+    },
+    {
+      "line": 10,
+      "target": "There are certain expressions which you cannot really translate,",
+      "base": "Hay ciertas expresiones que no se pueden en verdad traducir con exactitud,"
+    },
+    {
+      "line": 11,
+      "target": "so you can say them in your own language and people will say: \"How charming!\"",
+      "base": "así que usted puede decirlas en su propia lengua y la gente dirá: «¡Qué encanto!»."
+    },
+    {
+      "line": 12,
+      "target": "So revise and read aloud every day as much as you can.",
+      "base": "Así pues, revise y lea en voz alta cada día tanto como pueda."
+    },
+    {
+      "line": 13,
+      "target": "You will find that your English is becoming more and more natural.",
+      "base": "Se dará usted cuenta de que su inglés se está haciendo cada día más natural."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Have you noticed that every day you are learning new words and expressions?",
+      "reasons": [
+        "vocab:notice"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "You can now hold conversations, read notices, ask your way — even argue with someone!",
+      "reasons": [
+        "answer_to_question",
+        "vocab:notice"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "We must continue to add new material every day,",
+      "reasons": [
+        "vocab:material"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "so that, at the end of the course, you will be able to understand English as it is spoken by the English.",
+      "reasons": [
+        "vocab:course"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "We hope that you find time to revise the past lessons, and that, above all, you do it aloud.",
+      "reasons": [
+        "vocab:aloud"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "You will always have a slight accent,",
+      "reasons": [
+        "short_response",
+        "vocab:accent"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "And, besides, a slight foreign accent is charming.",
+      "reasons": [
+        "short_response",
+        "vocab:charming"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "There are certain expressions which you cannot really translate,",
+      "reasons": [
+        "vocab:translate"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "so you can say them in your own language and people will say: \"How charming!\"",
+      "reasons": [
+        "vocab:charming"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "So revise and read aloud every day as much as you can.",
+      "reasons": [
+        "vocab:aloud"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "You will find that your English is becoming more and more natural.",
+      "reasons": [
+        "vocab:natural"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "en4aii-notice",
+    "en4aii-expressions",
+    "en4aii-conversations",
+    "en4aii-notices",
+    "en4aii-way",
+    "en4aii-material",
+    "en4aii-end",
+    "en4aii-course",
+    "en4aii-aloud",
+    "en4aii-accent",
+    "en4aii-charming",
+    "en4aii-translate",
+    "en4aii-natural"
+  ]
+}

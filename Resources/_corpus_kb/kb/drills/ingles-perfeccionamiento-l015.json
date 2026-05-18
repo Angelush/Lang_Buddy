@@ -1,0 +1,311 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l015",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 15,
+  "title": "You Tarzan, Me Jane — I think...",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/15 Lesson 15.mp3",
+  "themes": [
+    "gender",
+    "language",
+    "society",
+    "humor"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Is \"doctor\" masculine or feminine? Can a \"chairman\" be a woman?",
+      "base": "¿Es «doctor» masculino o femenino? ¿Un presidente (*chairman*) puede ser una mujer?"
+    },
+    {
+      "line": 2,
+      "target": "Gender — or dividing nouns into masculine, feminine and neuter —",
+      "base": "El género — hacer la separación de los nombres en masculino, femenino y neutro —"
+    },
+    {
+      "line": 3,
+      "target": "used to exist in Old English but gradually the notion disappeared, making matters much simpler.",
+      "base": "existía tiempo atrás en el inglés antiguo, pero poco a poco la noción desapareció, haciendo las cosas mucho más simples."
+    },
+    {
+      "line": 4,
+      "target": "Life is so much easier when language is unisex!",
+      "base": "¡La vida es mucho más fácil cuando el idioma es unisex!"
+    },
+    {
+      "line": 5,
+      "target": "Of course, there are still relics from the past — and some words have an automatic connotation of gender:",
+      "base": "Por supuesto, existen todavía reliquias del pasado — y algunas palabras tienen una connotación automática del género:"
+    },
+    {
+      "line": 6,
+      "target": "we tend to see a doctor as a man and a nurse as a woman — although the opposite is often true.",
+      "base": "tenemos la tendencia a ver a un doctor como un hombre y a una enfermera como una mujer — aunque lo contrario es algunas veces cierto."
+    },
+    {
+      "line": 7,
+      "target": "Certain words automatically have the gender-ending \"-man\".",
+      "base": "Algunas palabras, automáticamente, tienen una terminación específica para el género «-man»."
+    },
+    {
+      "line": 8,
+      "target": "Changes in society and wider sharing of jobs between the sexes have led to the restrictive use of \"-man\" words becoming outdated.",
+      "base": "Los cambios en la sociedad y un más amplio reparto de los empleos entre los sexos han influido en la utilización restrictiva de las palabras que terminan en «-man» convirtiéndolas en anticuadas."
+    },
+    {
+      "line": 9,
+      "target": "This sometimes gives us hilarious incongruities such as:",
+      "base": "Esto provoca incongruencias hilarantes tales como:"
+    },
+    {
+      "line": 10,
+      "target": "The first tendency was to differentiate between the sexes — policewoman, male nurse, house-husband and so on.",
+      "base": "La primera tendencia era diferenciar los sexos — *policewoman* (mujer policía), *male nurse* (hombre enfermero), *house-husband* («doméstico» hombre) y así muchos más."
+    },
+    {
+      "line": 11,
+      "target": "But over the last decade, often due to the influence of feminist movements,",
+      "base": "Pero en la última década, debido muy frecuentemente a la influencia de los movimientos feministas,"
+    },
+    {
+      "line": 12,
+      "target": "many words have become all-embracing.",
+      "base": "muchas palabras han dado origen a otras palabras que engloban todo."
+    },
+    {
+      "line": 13,
+      "target": "Nurse and doctor exist without prefix or suffix,",
+      "base": "La enfermera y el doctor existen sin prefijos o sufijos,"
+    },
+    {
+      "line": 14,
+      "target": "even Prime Minister and President no longer have a strictly male connotation!",
+      "base": "¡incluso Primer Ministro y Presidente ya no tienen una connotación estrictamente masculina!"
+    },
+    {
+      "line": 15,
+      "target": "Some excesses were also committed —",
+      "base": "También se cometieron algunos excesos —"
+    },
+    {
+      "line": 16,
+      "target": "but it got a little out of hand when words like \"personager\" began appearing in the place of \"manager\"!",
+      "base": "pero las cosas se descontrolaron excesivamente cuando palabras como «personager» comenzaron a utilizarse en lugar de «manager»."
+    },
+    {
+      "line": 17,
+      "target": "Today's movement is more balanced,",
+      "base": "La tendencia de hoy es mucho más equilibrada,"
+    },
+    {
+      "line": 18,
+      "target": "tending towards words like \"the chair\" (instead of 'chairman' or \"chairperson\")",
+      "base": "se utilizan palabras como: «the chair» (en lugar de «chairman» o «chairperson»)"
+    },
+    {
+      "line": 19,
+      "target": "which is, I suppose, neuter... and takes us back to where we started!",
+      "base": "la cual es, supongo, neutra,... ¡y nos vuelve a llevar al punto de partida!"
+    },
+    {
+      "line": 20,
+      "target": "A young man was filling in a job application form.",
+      "base": "Un joven (hombre) estaba rellenando un impreso de solicitud para un puesto de trabajo."
+    },
+    {
+      "line": 21,
+      "target": "He had no difficulty with headings like \"Name\", \"Age\" and \"Address\"",
+      "base": "Él no tuvo ninguna dificultad en las secciones con títulos como «Nombre», «Edad» y «Dirección»,"
+    },
+    {
+      "line": 22,
+      "target": "but when it came to \"Sex\", he thought for a moment and wrote:",
+      "base": "pero cuando llegó a «Sexo», reflexionó por un momento y escribió:"
+    },
+    {
+      "line": 23,
+      "target": "Occasionally.",
+      "base": "Ocasionalmente."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Is \"doctor\" masculine or feminine? Can a \"chairman\" be a woman?",
+      "reasons": [
+        "vocab:masculine"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Gender — or dividing nouns into masculine, feminine and neuter —",
+      "reasons": [
+        "answer_to_question",
+        "vocab:masculine"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "used to exist in Old English but gradually the notion disappeared, making matters much simpler.",
+      "reasons": [
+        "vocab:english"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Life is so much easier when language is unisex!",
+      "reasons": [
+        "vocab:unisex"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Of course, there are still relics from the past — and some words have an automatic connotation of gender:",
+      "reasons": [
+        "vocab:gender"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "we tend to see a doctor as a man and a nurse as a woman — although the opposite is often true.",
+      "reasons": [
+        "vocab:nurse"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Certain words automatically have the gender-ending \"-man\".",
+      "reasons": [
+        "short_response",
+        "vocab:gender"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Changes in society and wider sharing of jobs between the sexes have led to the restrictive use of \"-man\" words becoming outdated.",
+      "reasons": [
+        "vocab:outdated"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "This sometimes gives us hilarious incongruities such as:",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "The first tendency was to differentiate between the sexes — policewoman, male nurse, house-husband and so on.",
+      "reasons": [
+        "vocab:nurse"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "But over the last decade, often due to the influence of feminist movements,",
+      "reasons": [
+        "vocab:movements"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "many words have become all-embracing.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Nurse and doctor exist without prefix or suffix,",
+      "reasons": [
+        "short_response",
+        "vocab:nurse"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "Some excesses were also committed —",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 16,
+      "target": "but it got a little out of hand when words like \"personager\" began appearing in the place of \"manager\"!",
+      "reasons": [
+        "vocab:hand"
+      ]
+    },
+    {
+      "line": 17,
+      "target": "Today's movement is more balanced,",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 18,
+      "target": "tending towards words like \"the chair\" (instead of 'chairman' or \"chairperson\")",
+      "reasons": [
+        "vocab:chair"
+      ]
+    },
+    {
+      "line": 19,
+      "target": "which is, I suppose, neuter... and takes us back to where we started!",
+      "reasons": [
+        "vocab:neuter"
+      ]
+    },
+    {
+      "line": 20,
+      "target": "A young man was filling in a job application form.",
+      "reasons": [
+        "vocab:form"
+      ]
+    },
+    {
+      "line": 21,
+      "target": "He had no difficulty with headings like \"Name\", \"Age\" and \"Address\"",
+      "reasons": [
+        "vocab:headings"
+      ]
+    },
+    {
+      "line": 23,
+      "target": "Occasionally.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "doctor",
+    "chairman",
+    "gender",
+    "masculine",
+    "feminine",
+    "neuter",
+    "Old-English",
+    "unisex",
+    "nurse",
+    "policewoman",
+    "male-nurse",
+    "house-husband",
+    "feminist-movements",
+    "fireperson",
+    "person-hole",
+    "personager",
+    "the-chair",
+    "chairperson",
+    "job-application-form",
+    "headings",
+    "outdated",
+    "update",
+    "get-out-of-hand",
+    "fill-in-out"
+  ]
+}

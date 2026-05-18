@@ -1,0 +1,135 @@
+{
+  "lesson_id": "ingles-l058",
+  "source": "ingles",
+  "lesson": 58,
+  "title": "Plurals and body parts",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 058 - Anglais.mp3",
+  "themes": [
+    "plurals",
+    "body parts",
+    "daily expressions",
+    "vocabulary"
+  ],
+  "lines": [
+    {
+      "line": 6,
+      "target": "Teacher. — Is “ trousers ” singular or plu-",
+      "base": "Profesor. — « Pantalones » ¿es singular o plural ?",
+      "pronunciation": "tausés... singuiulá... purál? — 7 piupil... — 8 ... chiki... — 9... rannérs... klouss... — 10 ... speer uiil... — 11 ... chin chin! — 12... aarms... eelbous... fingárs. — 13 ... locus... legs, niis... fit... tóus."
+    },
+    {
+      "line": 7,
+      "target": "Pupil. — Please sir, singular at the top",
+      "base": "Alumno. — Por favor señor, singular por arriba y plural por abajo."
+    },
+    {
+      "line": 8,
+      "target": "That was a cheeky answer.",
+      "base": "Es una respuesta descarada."
+    },
+    {
+      "line": 9,
+      "target": "The two runners were very close, they",
+      "base": "Los dos corredores estaban muy próximos, estaban casi igualados (cuello y cuello — en español puede decirse « codo con codo »)."
+    },
+    {
+      "line": 10,
+      "target": "When you are driving*, always keep* the",
+      "base": "Cuando conduzcas, ten (guarda) siempre a mano la rueda de repuesto."
+    },
+    {
+      "line": 11,
+      "target": "And, of course, when you are drinking*",
+      "base": "Y, por supuesto, cuando bebas cerveza, puedes decir « chin chin» (« chin » significa « barbilla »)."
+    },
+    {
+      "line": 12,
+      "target": "Other parts of the body are the arms, the",
+      "base": "Otras partes del cuerpo son los brazos, los codos y los dedos."
+    },
+    {
+      "line": 13,
+      "target": "Lower, we have the legs, the knees, the",
+      "base": "Más abajo, tenemos las piernas, las rodillas, los pies y los dedos de los piés."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 6,
+      "target": "Teacher. — Is “ trousers ” singular or plu-",
+      "reasons": [
+        "vocab:trousers"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Pupil. — Please sir, singular at the top",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "That was a cheeky answer. (5)",
+      "reasons": [
+        "short_response",
+        "vocab:cheeky"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "The two runners were very close, they",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "When you are driving*, always keep* the",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "And, of course, when you are drinking*",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Other parts of the body are the arms, the",
+      "reasons": [
+        "vocab:arms"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Lower, we have the legs, the knees, the",
+      "reasons": [
+        "short_response",
+        "vocab:legs"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "trousers",
+    "cheeky",
+    "neck-and-neck",
+    "spare-wheel",
+    "handy",
+    "chin-chin",
+    "arms",
+    "elbows",
+    "fingers",
+    "legs",
+    "knees",
+    "feet",
+    "toes"
+  ]
+}

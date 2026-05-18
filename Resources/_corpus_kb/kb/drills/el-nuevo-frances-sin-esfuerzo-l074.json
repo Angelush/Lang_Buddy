@@ -1,0 +1,204 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l074",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 74,
+  "title": "À Mardi-Cinéma",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/74 Leçon 74.mp3",
+  "themes": [
+    "media",
+    "entertainment",
+    "career",
+    "interview"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Madame, mademoiselle, monsieur, bonsoir et bienvenue à ‘Mardi-Cinéma’.",
+      "base": "Señora, señorita, señor, buenas noches y bienvenidos(a) a ‘Mardi-Cinéma’ (martes-cine)."
+    },
+    {
+      "line": 2,
+      "target": "Aujourd’hui, nous avons le plaisir d’accueillir l’acteur Jean Belmont.",
+      "base": "Hoy, tenemos el gusto (placer) de recibir (acoger) al actor Jean Belmont."
+    },
+    {
+      "line": 3,
+      "target": "Merci d’être venu , Jean. Alors vous, avez eu une vie fabuleuse, n’est-ce pas ?",
+      "base": "Gracias por (de) haber (ser) venido Jean. ¿Así que (entonces) ha tenido una vida fabulosa, no es así?",
+      "pronunciation": "..fabülës'"
+    },
+    {
+      "line": 4,
+      "target": "Oui, en effet. Très variée. Mais j’ai toujours été très apprécié.",
+      "base": "Sí, en efecto. Muy variada. Pero he sido siempre muy apreciado."
+    },
+    {
+      "line": 5,
+      "target": "Quand j’étais à l’école, tout le monde m’aimait énormément.",
+      "base": "Cuando estaba en el colegio, todo el mundo me quería (amaba enormemente) mucho."
+    },
+    {
+      "line": 6,
+      "target": "Il faut dire que j’étais très doué et j’avais je pots 15) pes les filles.",
+      "base": "Hay que decir que era muy listo y tenía mucho éxito con las chicas.",
+      "pronunciation": "..Cué...kot"
+    },
+    {
+      "line": 7,
+      "target": "les autres gars me respectaient énormément.",
+      "base": "Después, en (la armada) el ejército los otros muchachos me respetaban."
+    },
+    {
+      "line": 8,
+      "target": "J’ai quitté l’armée après la guerre — ils m’ont demandé de rester —",
+      "base": "(He dejado) Dejé el ejército después de la guerra - me pidieron que me quedara (de quedar) -"
+    },
+    {
+      "line": 9,
+      "target": "et là, j’ai rencontré Brigitte Charlot, avec qui j’ai commencé ma brillante carrière.",
+      "base": "y allí me encontré (he encontrado) a Brigitte Charlot, con quien empezó (ha empezado) mi brillante carrera.",
+      "pronunciation": ".. brilliant’"
+    },
+    {
+      "line": 10,
+      "target": "J’étais, d’abord cascadeur , mais ensuite, comme je suis si beau,",
+      "base": "Primeramente fui ‘especialista’ (doble especial) pero después, como soy tan guapo,"
+    },
+    {
+      "line": 11,
+      "target": "Jules Bassin m’a sorti des figurants et… me voilà aujourd’hui.",
+      "base": "Jules Bassin me sacó de los extras y… aquí estoy hoy."
+    },
+    {
+      "line": 12,
+      "target": "Et quelle est la qualité que vous préférez chez les gens ?",
+      "base": "¿Y cuál es la cualidad que prefiere en la gente?"
+    },
+    {
+      "line": 13,
+      "target": "La modestie.",
+      "base": "La modestia."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Madame, mademoiselle, monsieur, bonsoir et bienvenue (1) à ‘Mardi-Cinéma’.",
+      "reasons": [
+        "vocab:monsieur"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Aujourd’hui, nous avons le plaisir d’accueillir (2) l’acteur Jean Belmont.",
+      "reasons": [
+        "vocab:accueillir"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Merci d’être venu (3), Jean. Alors vous, avez eu une vie fabuleuse, n’est-ce pas ?",
+      "reasons": [
+        "vocab:fabuleuse"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Oui, en effet. Très variée. Mais j’ai toujours été très apprécié.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:variée"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Quand j’étais à l’école, tout le monde m’aimait énormément.",
+      "reasons": [
+        "vocab:école"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Il faut dire que j’étais très doué (4) et j’avais je pots 15) pes les filles.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "les autres gars (6) me respectaient énormément.",
+      "reasons": [
+        "short_response",
+        "vocab:gars"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "J’ai quitté l’armée après la guerre — ils m’ont demandé de rester —",
+      "reasons": [
+        "vocab:rester"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "et là, j’ai rencontré Brigitte Charlot, avec qui j’ai commencé ma brillante carrière.",
+      "reasons": [
+        "vocab:brillante"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "J’étais, d’abord cascadeur (7), mais ensuite, comme je suis si beau,",
+      "reasons": [
+        "vocab:beau"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Jules Bassin m’a sorti (8) des figurants et… me voilà aujourd’hui.",
+      "reasons": [
+        "vocab:figurant"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "La modestie.",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:modestie"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "fr3b-Mardi-Cinéma",
+    "madame",
+    "mademoiselle",
+    "monsieur",
+    "bonsoir",
+    "bienvenue",
+    "accueillir",
+    "acteur",
+    "vie-fabuleuse",
+    "fr3b-variée",
+    "fr3b-apprécié",
+    "rester",
+    "rencontrer",
+    "brillante",
+    "fr3b-carrrière",
+    "cascadeur",
+    "beau",
+    "fr3b-école",
+    "aimer",
+    "fr3b-énormément",
+    "gars",
+    "respecter",
+    "fr3b-armée",
+    "guerre",
+    "figurant",
+    "modestie"
+  ]
+}

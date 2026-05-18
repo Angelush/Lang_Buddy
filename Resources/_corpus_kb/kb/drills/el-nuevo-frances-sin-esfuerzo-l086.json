@@ -1,0 +1,134 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l086",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 86,
+  "title": "A l’école primaire",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/86 Leçon 86.mp3",
+  "themes": [
+    "école",
+    "grammaire",
+    "humour"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "L'institutrice s'adresse à ses élèves à la fin de la leçon :",
+      "base": "La maestra (institutriz) se dirige a sus alumnos al final de la explicación (lección).",
+      "pronunciation": "linstitûtris’ sadres"
+    },
+    {
+      "line": 2,
+      "target": "Allons, mes petits je vous ai appris les temps de tous les verbes.",
+      "base": "Bueno, vamos (mis pequeños), os he enseñado (aprendido) los tiempos de todos los verbes.",
+      "pronunciation": "..apri...tu"
+    },
+    {
+      "line": 3,
+      "target": "Vous connaissez le présent, le passé, le futur et l‘imparfait.",
+      "base": "Conocéis el presente, el pretérito perfecto (pasado) el futuro y el imperfecto."
+    },
+    {
+      "line": 4,
+      "target": "J'espère que vous avez bien compris. Voyons voir...",
+      "base": "Espero que hayáis entendido bien (habéis bien comprendido). Vamos a ver ...",
+      "pronunciation": "..vuayón"
+    },
+    {
+      "line": 5,
+      "target": "Yvon, si je te dis \"Je me suis lavé, tu t'es lavé, il s’est lavé,",
+      "base": "Yvon, si te digo “Yo me he lavado”, tu te has lavado, él se ha lavado,"
+    },
+    {
+      "line": 6,
+      "target": "nous nous sommes lavés, vous vous_ êtes lavés, ils se sont lavés ; qu'est-ce que c'est ?",
+      "base": "nosotros nos hemos lavado, vosotros os habéis lavado, ellos se han lavado ; ¿ qué es ?"
+    },
+    {
+      "line": 7,
+      "target": "Ben, Mademoiselle, c'est dimanche !",
+      "base": "Pues, | es domingo, señorita !"
+    },
+    {
+      "line": 8,
+      "target": "Passons à autre chose. _ Laurence, nous âvons parlé de sens civique :",
+      "base": "Pasemos a otra cosa. Laurence, hemos hablado del sentido cívico :",
+      "pronunciation": "..lorens... sans"
+    },
+    {
+      "line": 9,
+      "target": "alors, qu'est-ce qu'on fait d'une voiture qui est trop vieille,",
+      "base": "¿ qué se hace con (de) un coche que es demasiado viejo,"
+    },
+    {
+      "line": 10,
+      "target": "qui est rouillée et dont on ne veut plus ?",
+      "base": "que está oxidado y que ya no se quiere ?",
+      "pronunciation": "..ruyé"
+    },
+    {
+      "line": 11,
+      "target": "On la vend à mon père, Mademoiselle !",
+      "base": "¡Se le vende a mi padre, señorita !"
+    },
+    {
+      "line": 12,
+      "target": "Aie | Qu'est-ce que j'ai mal au genou ! dit le cancre .",
+      "base": "¡ Ay ! ¡ Cómo me duele la rodilla !- dice el mal estudiante."
+    },
+    {
+      "line": 13,
+      "target": "Ah, un peu de migraine, répond son professeur.",
+      "base": "Ah, un poco de jaqueca, responde su profesor.",
+      "pronunciation": "..migrèn"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "L'institutrice (1) s'adresse à ses élèves à la fin de la leçon :",
+      "reasons": [
+        "vocab:institutrice"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Ben, Mademoiselle, c'est dimanche !",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "On la vend à mon père, Mademoiselle !",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Aie | Qu'est-ce que j'ai mal au genou ! dit le cancre (6).",
+      "reasons": [
+        "vocab:cancre"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Ah, un peu de migraine, répond son professeur.",
+      "reasons": [
+        "short_response",
+        "vocab:migraine"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "institutrice",
+    "cancre",
+    "migraine",
+    "rouille"
+  ]
+}

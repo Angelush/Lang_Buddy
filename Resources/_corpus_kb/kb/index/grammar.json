@@ -1,0 +1,492 @@
+{
+  "subjontif-present": {
+    "title": "Le Subjonctif Présent",
+    "category": "verb-mood",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/subjontif-present.md"
+  },
+  "possessives": {
+    "title": "Possessive Pronouns",
+    "category": "Pronouns",
+    "target_lang": "",
+    "cefr": "A2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/possessives.md"
+  },
+  "must-have-participle": {
+    "title": "Must have + Participle (Deduction)",
+    "category": "modals",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/must-have-participle.md"
+  },
+  "enp3b": {
+    "title": "Subjunctive: be that as it may",
+    "category": "mood",
+    "target_lang": "",
+    "cefr": "C1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/enp3b.md"
+  },
+  "chez": {
+    "title": "La préposition 'chez'",
+    "category": "syntax",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/chez.md"
+  },
+  "have-to-do": {
+    "title": "Have to do",
+    "category": "verb_forms",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/have-to-do.md"
+  },
+  "future-will": {
+    "title": "Future with Will",
+    "category": "Verbs",
+    "target_lang": "",
+    "cefr": "A2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/future-will.md"
+  },
+  "en4ai-conditional-past": {
+    "title": "Conditional Past",
+    "category": "Verb Tenses",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/en4ai-conditional-past.md"
+  },
+  "accusative-infinitive": {
+    "title": "Accusative and infinitive",
+    "category": "syntax",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/accusative-infinitive.md"
+  },
+  "enp1aii": {
+    "title": "Definite article usage with proper nouns",
+    "category": "articles",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/enp1aii.md"
+  },
+  "fr3b": {
+    "title": "Possessive adjectives and pronouns",
+    "category": "determiners_pronouns",
+    "target_lang": "",
+    "cefr": "B1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/fr3b.md"
+  },
+  "irregular-plurals": {
+    "title": "Irregular Plurals",
+    "category": "Nouns",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/irregular-plurals.md"
+  },
+  "relatifs-composes": {
+    "title": "Pronombres relativos compuestos (lequel, auquel)",
+    "category": "Sintaxis",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/relatifs-composes.md"
+  },
+  "relative-pronouns-whose": {
+    "title": "Whose (relative)",
+    "category": "pronouns",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/relative-pronouns-whose.md"
+  },
+  "enp2ai": {
+    "title": "Spanish-English cognates (es- → s-)",
+    "category": "vocabulary strategy",
+    "target_lang": "",
+    "cefr": "A2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/enp2ai.md"
+  },
+  "modal-verbs": {
+    "title": "Modal verbs (might/may/could)",
+    "category": "Verbs",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/modal-verbs.md"
+  },
+  "en1a": {
+    "title": "Present Simple: Statements and Questions",
+    "category": "verb tense",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/en1a.md"
+  },
+  "en4ai-make-vs-do": {
+    "title": "Make vs Do",
+    "category": "Vocabulary/Verb Usage",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/en4ai-make-vs-do.md"
+  },
+  "enp1ai": {
+    "title": "Distinction between 'say' and 'tell'",
+    "category": "verbs",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/enp1ai.md"
+  },
+  "phone-language": {
+    "title": "Phone language",
+    "category": "functional",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/phone-language.md"
+  },
+  "quantifiers-countable": {
+    "title": "Much, Many, Few, Little",
+    "category": "Quantifiers",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/quantifiers-countable.md"
+  },
+  "y-en-pronouns": {
+    "title": "Y and En Pronouns",
+    "category": "syntax",
+    "target_lang": "fr",
+    "cefr": "A2",
+    "rule": "In French, the pronouns **y** and **en** are used to replace phrases introduced by prepositions to avoid repetition and streamline the sentence.\n\n- **y** replaces a group introduced by the preposition **à** (or other locative prepositions like *dans*, *sur*, *sous*, except *de*). It often refers to a place (locative) or an abstract thing/idea.\n- **en** replaces a group introduced by the preposition **de**. It is used for partitives (quantity), origins, or things/ideas introduced by *de*.",
+    "common_errors": "- **Confusion with people**: [SPECULATIVE] Learners often try to use *y* or *en* to replace people (e.g., *Je parle à Pierre* -> *J'y parle* is incorrect; it should be *Je lui parle*).\n- **Misuse of 'en' for locations**: [SPECULATIVE] English speakers might use *en* thinking of \"in\", whereas *y* is the correct locative pronoun for \"there\" (except when the location is introduced by *de*).",
+    "correct_policy": "The agent should always correct the misuse of *y* and *en* as they are fundamental to natural-sounding French. However, in the very early stages of oral practice, if the learner uses the full noun phrase instead of the pronoun (e.g., *Je vais à l'école* instead of *J'y vais*), the agent should model the pronominal version in the next turn rather than interrupting with a formal correction.",
+    "file_path": "kb/grammar/y-en-pronouns.md"
+  },
+  "relative-clauses": {
+    "title": "Relative clauses",
+    "category": "syntax",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/relative-clauses.md"
+  },
+  "enp2b": {
+    "title": "Relative Clauses Omission",
+    "category": "Syntax",
+    "target_lang": "",
+    "cefr": "C1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/enp2b.md"
+  },
+  "past-simple": {
+    "title": "Past Simple Regular",
+    "category": "Verbs",
+    "target_lang": "",
+    "cefr": "A2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/past-simple.md"
+  },
+  "pronoms-ordre": {
+    "title": "Orden de los pronombres personales",
+    "category": "Pronombres",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/pronoms-ordre.md"
+  },
+  "negation": {
+    "title": "La négation (ne ... pas)",
+    "category": "syntax",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/negation.md"
+  },
+  "en4aii": {
+    "title": "Reflexive and impersonal constructions",
+    "category": "pronouns",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/en4aii.md"
+  },
+  "possessive-case": {
+    "title": "The Saxon Genitive ('s)",
+    "category": "Possession",
+    "target_lang": "",
+    "cefr": "A2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/possessive-case.md"
+  },
+  "en4ai": {
+    "title": "Verb send and its idioms",
+    "category": "lexical-verb",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/en4ai.md"
+  },
+  "en4ai-periphrastic-forms": {
+    "title": "Periphrastic forms",
+    "category": "Syntax",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/en4ai-periphrastic-forms.md"
+  },
+  "possessif": {
+    "title": "L'adjectif possessif",
+    "category": "agreement",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/possessif.md"
+  },
+  "etre-auxiliary": {
+    "title": "L'auxiliaire être",
+    "category": "verbs",
+    "target_lang": "",
+    "cefr": "B1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/etre-auxiliary.md"
+  },
+  "enp1b": {
+    "title": "Prepositional phrases and their idiomatic use",
+    "category": "prepositions",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/enp1b.md"
+  },
+  "fr2b": {
+    "title": "Gerund with en + participe présent",
+    "category": "verb-forms",
+    "target_lang": "",
+    "cefr": "A2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/fr2b.md"
+  },
+  "enp2aii": {
+    "title": "Word stress patterns",
+    "category": "pronunciation",
+    "target_lang": "",
+    "cefr": "A2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/enp2aii.md"
+  },
+  "review": {
+    "title": "General Review",
+    "category": "misc",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/review.md"
+  },
+  "enp3a": {
+    "title": "Will vs Would for offers",
+    "category": "modals",
+    "target_lang": "",
+    "cefr": "C1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/enp3a.md"
+  },
+  "pronom-en": {
+    "title": "Le pronom 'en'",
+    "category": "syntax",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/pronom-en.md"
+  },
+  "verbe-faire": {
+    "title": "Usos idiomáticos del verbo faire",
+    "category": "Verbos",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/verbe-faire.md"
+  },
+  "heure": {
+    "title": "L'heure",
+    "category": "syntax",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/heure.md"
+  },
+  "partitif": {
+    "title": "L'article partitif",
+    "category": "syntax",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/partitif.md"
+  },
+  "front-room-expression": {
+    "title": "Expressions for living room",
+    "category": "Vocabulary",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/front-room-expression.md"
+  },
+  "en2b": {
+    "title": "Plural nouns (irregular)",
+    "category": "nouns",
+    "target_lang": "",
+    "cefr": "B1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/en2b.md"
+  },
+  "falloir-usage": {
+    "title": "Le verbe falloir",
+    "category": "verbs",
+    "target_lang": "",
+    "cefr": "B1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/falloir-usage.md"
+  },
+  "demonstratifs": {
+    "title": "Les adjectifs démonstratifs",
+    "category": "agreement",
+    "target_lang": "",
+    "cefr": "A1",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/demonstratifs.md"
+  },
+  "en4bi": {
+    "title": "Present continuous",
+    "category": "tenses",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/en4bi.md"
+  },
+  "present-perfect-vs-simple-past": {
+    "title": "Present Perfect vs Simple Past",
+    "category": "verbs",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/present-perfect-vs-simple-past.md"
+  },
+  "conditionnel": {
+    "title": "Le Conditionnel Présent",
+    "category": "verb-mood",
+    "target_lang": "",
+    "cefr": "B2",
+    "rule": "(See lessons listed below.)",
+    "common_errors": "",
+    "correct_policy": "",
+    "file_path": "kb/grammar/conditionnel.md"
+  }
+}

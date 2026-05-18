@@ -1,0 +1,18 @@
+{
+  "lesson_id": "ingles-l014",
+  "source": "ingles",
+  "lesson": 14,
+  "title": "Fourteenth Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 014 - Anglais.mp3",
+  "themes": [
+    "revision",
+    "articles",
+    "possessives"
+  ],
+  "lines": [],
+  "gap_candidates": [],
+  "vocab_introduced": []
+}

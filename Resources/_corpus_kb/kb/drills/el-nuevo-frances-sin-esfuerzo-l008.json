@@ -1,0 +1,163 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l008",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 8,
+  "title": "Une visite",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/08 Leçon 08.mp3",
+  "themes": [
+    "work",
+    "visiting"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "-Bonjour mademoiselle, est-ce que votre père est_ à la maison ?",
+      "base": "Buenos días, señorita. ¿ Su padre está en (a la) casa ?",
+      "pronunciation": ".. per èta la mèzôn"
+    },
+    {
+      "line": 2,
+      "target": "-Non, monsieur ; il est_ au bureau . Vous voulez parler à ma mère ?",
+      "base": "No, señor ; está en (al) la oficina.",
+      "pronunciation": ".. to büré ; vu vulé parlé a ma mér"
+    },
+    {
+      "line": 3,
+      "target": "Non, ne la dérangez pas.",
+      "base": "¿ Quiere hablar con (a) mi madre ?"
+    },
+    {
+      "line": 4,
+      "target": "A quelle heure est-ce qu'il rentre normalement ?",
+      "base": "No, no la molesto.",
+      "pronunciation": "a kelér . . . jantr' normalmant ?"
+    },
+    {
+      "line": 5,
+      "target": "-Oh, pas avant huit__heures.",
+      "base": "¿ A qué hora vuelve normalmente ?",
+      "pronunciation": "pasaván uitér"
+    },
+    {
+      "line": 6,
+      "target": "Vous voulez l'adresse de son bureau ?",
+      "base": "¡ Oh ! No antes de [las] ocho (horas)."
+    },
+    {
+      "line": 7,
+      "target": "S'il vous plaît -Attendez, je la cherche.",
+      "base": "¿ Quiere la dirección de la (su) oficina ?",
+      "pronunciation": ".. uv... plé ... jë la xerx"
+    },
+    {
+      "line": 8,
+      "target": "Voilà. Sept rue Marbeuf, dans le hui-tième .",
+      "base": "Si no le molesta (Por favor). - Espere, voy a buscarla (la busco).",
+      "pronunciation": ".. sèt rú marbëf … üitièm'"
+    },
+    {
+      "line": 9,
+      "target": "-Merci beaucoup, mademoiselle. Au revoir.",
+      "base": "Aquí está. Calle Marbeuf [número] 7, en el [distrito número 8) (octavo)."
+    },
+    {
+      "line": 10,
+      "target": "-De rien, monsieur. Au revoir.",
+      "base": "Muchas gracias, señorita. Adiós.",
+      "pronunciation": "..orévuar"
+    },
+    {
+      "line": 11,
+      "target": "A quelle heure. ? Il est huit_ heures . Est-ce que vous _ avez l'heure s'il vous plaît ?",
+      "base": "De nada, (señor). Adiós."
+    },
+    {
+      "line": 12,
+      "target": "",
+      "base": "¿ Aqué hora... ? Son (es) las ocho (horas). ¿ Qué hora tiene, por favor ?"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "-Non, monsieur ; il est_ au bureau (2). Vous voulez parler à ma mère ?",
+      "reasons": [
+        "answer_to_question",
+        "vocab:bureau"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Non, ne la dérangez pas.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "A quelle heure est-ce qu'il rentre normalement ?",
+      "reasons": [
+        "short_response",
+        "vocab:normalement"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "-Oh, pas avant (3) huit__heures.",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:avant"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Vous voulez l'adresse de son bureau ?",
+      "reasons": [
+        "short_response",
+        "vocab:adresse"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "S'il vous plaît (4) -Attendez, je la cherche.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Voilà. Sept rue Marbeuf, dans le hui-tième (5).",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "-Merci beaucoup, mademoiselle. Au revoir.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "-De rien, monsieur. Au revoir.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "bureau",
+    "adresse",
+    "chercher",
+    "rentrer",
+    "normalement",
+    "avant"
+  ]
+}

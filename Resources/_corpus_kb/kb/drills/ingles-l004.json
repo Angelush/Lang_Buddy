@@ -1,0 +1,202 @@
+{
+  "lesson_id": "ingles-l004",
+  "source": "ingles",
+  "lesson": 4,
+  "title": "Fourth Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 004 - Anglais.mp3",
+  "themes": [
+    "family",
+    "age",
+    "description",
+    "streets"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "This is my sister. — How old is she?",
+      "base": "Esta es mi hermana. — ¿Cuántos años tiene? (¿Cómo vieja es ella?)",
+      "pronunciation": "dziss is mai sistá. hau old is shii? — 2 shiis zértiin. — 3 dziss is aué gaardén. is it big? not riéli. — 4 dziss aa mai perénts. aa dzei old? aim not shuér! — 5 dziss is aud niu kaa. itss á big red kaa. — 6 dzat is aué laibréri. itss á smol laibreri. — 7 is dziss steishén striit? no, iuér in brich striit. — 8 steishén striit is ouvé dzeé. uér? nié dzous shops. — 9 én old kaa bót á niu baik. — 10 aué perénts aar in dzé kaa. — 11 á smol hauss uiz á big gaadén. — 12 helou, dchon. uér aa iué perénts? aim not riéli shuér. — 13 péhaps dzei aar at dzé shops. á, hiié dzeir aar!"
+    },
+    {
+      "line": 2,
+      "target": "She's thirteen.",
+      "base": "(Ella) tiene (es) 13 años."
+    },
+    {
+      "line": 3,
+      "target": "This is our garden. — Is it big? — Not really.",
+      "base": "Este es nuestro jardín. — ¿Es (él) grande? — No exactamente."
+    },
+    {
+      "line": 4,
+      "target": "These are my parents. — Are they old? — I'm not sure!",
+      "base": "Estos son mis padres. — ¿Son (ellos) viejos? — ¡(Yo) no estoy seguro!"
+    },
+    {
+      "line": 5,
+      "target": "This is our new car. It's a big red car.",
+      "base": "Este es nuestro nuevo coche. (El) es un coche grande [y] rojo."
+    },
+    {
+      "line": 6,
+      "target": "That is our library. It's a small library.",
+      "base": "Esa es nuestra biblioteca. (Ella) es una biblioteca pequeña."
+    },
+    {
+      "line": 7,
+      "target": "Is this Station Street? — No, you're in Bridge Street.",
+      "base": "¿Es ésta Station Street? — No, (tú, vosotros, usted, ustedes) estás (estáis, está, están) en Bridge Street."
+    },
+    {
+      "line": 8,
+      "target": "Station Street is over there. — Where? — Near those shops.",
+      "base": "Station Street está por allí. — ¿Dónde? — Cerca [de] aquellas tiendas."
+    },
+    {
+      "line": 9,
+      "target": "An old car but a new bike.",
+      "base": "Un coche viejo pero una bicicleta nueva."
+    },
+    {
+      "line": 10,
+      "target": "Our parents are in the car.",
+      "base": "Nuestros padres están en el coche."
+    },
+    {
+      "line": 11,
+      "target": "A small house with a big garden.",
+      "base": "Una casa pequeña con un jardín grande."
+    },
+    {
+      "line": 12,
+      "target": "Hello, John. Where are your parents? — I'm not really sure.",
+      "base": "Hola, John. ¿Dónde están tus (sus) padres? — Realmente, (yo) no estoy seguro."
+    },
+    {
+      "line": 13,
+      "target": "Perhaps they are at the shops. Ah, here they are!",
+      "base": "Quizá (ellos) están en las tiendas. ¡Ah, aquí (ellos) están!"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "This is my sister. — How old is she?",
+      "reasons": [
+        "vocab:sister"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "She's thirteen.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "This is our garden. — Is it big? — Not really.",
+      "reasons": [
+        "vocab:garden"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "These are my parents. — Are they old? — I'm not sure!",
+      "reasons": [
+        "answer_to_question",
+        "vocab:parents"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "This is our new car. It's a big red car.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:car"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "That is our library. It's a small library.",
+      "reasons": [
+        "short_response",
+        "vocab:library"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Is this Station Street? — No, you're in Bridge Street.",
+      "reasons": [
+        "vocab:station"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Station Street is over there. — Where? — Near those shops.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:shop"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "An old car but a new bike.",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:car"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Our parents are in the car.",
+      "reasons": [
+        "short_response",
+        "vocab:car"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "A small house with a big garden.",
+      "reasons": [
+        "short_response",
+        "vocab:garden"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Hello, John. Where are your parents? — I'm not really sure.",
+      "reasons": [
+        "vocab:parents"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Perhaps they are at the shops. Ah, here they are!",
+      "reasons": [
+        "answer_to_question",
+        "vocab:shop"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "sister",
+    "old",
+    "garden",
+    "big",
+    "parents",
+    "new",
+    "car",
+    "library",
+    "small",
+    "station",
+    "street",
+    "shop",
+    "bike"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l059",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 59,
+  "title": "Un peu de tourisme (suite)",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/59 Leçon 59.mp3",
+  "themes": [
+    "travel",
+    "city",
+    "nature"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Nous sommes toujours dans notre",
+      "base": "Estamos todavía en nuestro bonito pueblo"
+    },
+    {
+      "line": 2,
+      "target": "et nous venons de visiter l'église",
+      "base": "y acabamos (venimos) de visitar la iglesia de Santa Maria."
+    },
+    {
+      "line": 3,
+      "target": "Nous ___allons maintenant faire un petit",
+      "base": "Ahora vamos a dar (hacer) una pequeña vuelta fuera ;"
+    },
+    {
+      "line": 4,
+      "target": "pour admirer les beaux jardins publics",
+      "base": "para admirar los bonitos jardines públicos con su(s) césped(es),"
+    },
+    {
+      "line": 5,
+      "target": "leurs rosiers et leurs _ arbres en fleurs .",
+      "base": "sus rosales, y sus árboles en flor.",
+      "pronunciation": "..rozié"
+    },
+    {
+      "line": 6,
+      "target": "Maintenant, si ca vous dit , on peut",
+      "base": "Ahora, si les apetece (si eso les dice), podemos (se puede) visitar el museo",
+      "pronunciation": ".. müzé"
+    },
+    {
+      "line": 7,
+      "target": "où l’on peut voir toute l’histoire de",
+      "base": "donde se puede ver toda la historia de St-Jean-le-Mont..."
+    },
+    {
+      "line": 8,
+      "target": "Ah bon ? Vous n'êtes pas friands de",
+      "base": "¿ Ah sí (bueno) ? ¿ Ustedes no son aficionados a los museos ?",
+      "pronunciation": ".. frián"
+    },
+    {
+      "line": 9,
+      "target": "Quoi alors ? Ah, ça y est ; j'ai",
+      "base": "¿ Entonces qué ? | Ah, ya está ! ¡ Ya he entendido ! (comprendido)."
+    },
+    {
+      "line": 10,
+      "target": "Nous continuons alors notre promenade,",
+      "base": "Continuamos (entonces) nuestro paseo rodeando la gendarmería [el cuartel de la guardia civil]"
+    },
+    {
+      "line": 11,
+      "target": "et nous nous dirigeons vers la place du",
+      "base": "y nos dirigimos hacia la plaza del mercado ;",
+      "pronunciation": "... diriyón"
+    },
+    {
+      "line": 12,
+      "target": "et voici la fin de notre voyage : le “Res-",
+      "base": "y he aquí el fin de nuestro viaje : el “Restaurante de Francia”."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "et nous venons de visiter (2) l'église",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Nous ___allons maintenant faire un petit",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "pour admirer les beaux jardins publics",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "leurs rosiers et leurs _ arbres en fleurs (3).",
+      "reasons": [
+        "vocab:fleur"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Maintenant, si ca vous dit (4), on peut",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "où l’on (5) peut voir toute l’histoire de",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Ah bon ? Vous n'êtes pas friands (6) de",
+      "reasons": [
+        "vocab:friand"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Quoi alors ? Ah, ça y est (7) ; j'ai",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Nous continuons alors notre promenade,",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:promenade"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "et nous nous dirigeons vers la place du",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "pelouse",
+    "rosier",
+    "fleur",
+    "musee",
+    "friand",
+    "promenade",
+    "gendarmerie"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l026",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 26,
+  "title": "Que fait Monsieur Duclos le matin ?",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/26 Leçon 26.mp3",
+  "themes": [
+    "daily-routine",
+    "clothing",
+    "reflexive-verbs"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Nous avons parlé de ce que fait M. Duclos le soir.",
+      "base": "Hemos hablado de lo que hace[l] Sr. Duclos por la noche."
+    },
+    {
+      "line": 2,
+      "target": "Regardons-le maintenant le matin, quand le réveil sonne.",
+      "base": "Veámosle (mirémosle) ahora, por la mañana, cuando suena el despertador.",
+      "pronunciation": "..manténén lé matán ... i"
+    },
+    {
+      "line": 3,
+      "target": "D'abord, il se lève... très lentement.",
+      "base": "Primero, se levanta muy despacito (lentamente).",
+      "pronunciation": "..lántéman ren"
+    },
+    {
+      "line": 4,
+      "target": "Il va à la salle de bains et se lave le visage",
+      "base": "Va al cuarto (a la sala) de baño y se lava la cara",
+      "pronunciation": "..lav...visaj"
+    },
+    {
+      "line": 5,
+      "target": "...à l'eau froide, pour se réveiller. Ensuite, il se rase et se brosse les dents.",
+      "base": "..Con (al) agua fría, para despertarse.",
+      "pronunciation": "..lô fruad'... reveillé"
+    },
+    {
+      "line": 6,
+      "target": "De retour dans sa chambre, il commence à s'habiller.",
+      "base": "Después, se afeita y se (lava) cepilla los dientes.",
+      "pronunciation": "..raz...dan"
+    },
+    {
+      "line": 7,
+      "target": "Les jours de travail, il met une chemise blanche, une cravate bleue",
+      "base": "Una vez (de vuelta a) en su habitación, comienza a vestirse.",
+      "pronunciation": "..sabillé"
+    },
+    {
+      "line": 8,
+      "target": "et un costume gris foncé.",
+      "base": "Los días de trabajo se pone una camisa blanca, una corbata azul",
+      "pronunciation": "..mé... cravat"
+    },
+    {
+      "line": 9,
+      "target": "Il met des chaussettes et des chaussures noires,",
+      "base": "y un traje gris oscuro.",
+      "pronunciation": "..grifonsé"
+    },
+    {
+      "line": 10,
+      "target": "et un imperméable s'il pleut.",
+      "base": "[Se] pone (unos) calcetines y (unos) zapatos negros,",
+      "pronunciation": "..nuar"
+    },
+    {
+      "line": 11,
+      "target": "Enfin, il prend sa serviette et descend dans la rue.",
+      "base": "y un impermeable si llueve.",
+      "pronunciation": ".. ampermeabl' sil plé"
+    },
+    {
+      "line": 12,
+      "target": "",
+      "base": "Por fin, coge su cartera y baja a (en) la calle.",
+      "pronunciation": "..pran... désan"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Regardons-le maintenant le matin, quand le réveil sonne.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "D'abord, il se lève... très lentement.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "De retour dans sa chambre, il commence à s'habiller.",
+      "reasons": [
+        "vocab:habiller"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Les jours de travail, il met une chemise blanche, une cravate bleue",
+      "reasons": [
+        "vocab:chemise"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "et un costume gris foncé.",
+      "reasons": [
+        "short_response",
+        "vocab:costume"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Il met des chaussettes et des chaussures noires,",
+      "reasons": [
+        "short_response",
+        "vocab:chaussures"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "et un imperméable s'il pleut.",
+      "reasons": [
+        "short_response",
+        "vocab:imperméable"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Enfin, il prend sa serviette et descend dans la rue.",
+      "reasons": [
+        "vocab:serviette"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "se-lever",
+    "se-laver",
+    "se-raser",
+    "s-habiller",
+    "chemise",
+    "cravate",
+    "costume",
+    "chaussures",
+    "serviette",
+    "fr2-imperméable"
+  ]
+}

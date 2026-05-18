@@ -1,0 +1,116 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l054",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 54,
+  "title": "Une mauvaise rencontre",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/54 Leçon 54.mp3",
+  "themes": [
+    "humor",
+    "narrative",
+    "death",
+    "folklore"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Un jour, à Paris, Monsieur Le Clerc va faire des courses.",
+      "base": "Un día, en París, el señor Le Clerc va a hacer unas compras.",
+      "pronunciation": "..kurs"
+    },
+    {
+      "line": 2,
+      "target": "Au marché il rencontre un étranger, un grand homme habillé en noir.",
+      "base": "En el mercado se encuentra con un extranjero, un hombre alto vestido de negro.",
+      "pronunciation": "..etranjé"
+    },
+    {
+      "line": 3,
+      "target": "L'étranger lui dit : — Mais que faites-vous ici M. Le Clerc ?",
+      "base": "El extranjero le dice — ¿ Pero... qué hace aquí señor Le Clerc ?"
+    },
+    {
+      "line": 4,
+      "target": "Qui êtes-vous ? répond notre homme. — Je suis la Mort.",
+      "base": "¿ Quién es usted ? responde nuestro hombre. — Soy la Muerte."
+    },
+    {
+      "line": 5,
+      "target": "Terrifié, M. Le Clerc rentre à la maison, fait sa valise",
+      "base": "Aterrorizado, el Sr. Le Clerc vuelve a (su) casa, hace la (su) maleta"
+    },
+    {
+      "line": 6,
+      "target": "et dit à sa femme : — J'ai rencontré la Mort.",
+      "base": "y dice a su mujer : — Me he encontrado con la Muerte."
+    },
+    {
+      "line": 7,
+      "target": "",
+      "base": "Me voy a Toulouse. ¡ Adiós (querida), mi amor !",
+      "pronunciation": "..adié"
+    },
+    {
+      "line": 8,
+      "target": "",
+      "base": "La Sra. Le Clerc está furiosa, cree que es una (mala) broma pesada.",
+      "pronunciation": "..crua... plezanteri"
+    },
+    {
+      "line": 9,
+      "target": "",
+      "base": "Así que (entonces), va al mercado y encuentra al alto extranjero.",
+      "pronunciation": "Alors elle va au marché et trouve le grand étranger."
+    },
+    {
+      "line": 10,
+      "target": "",
+      "base": "¿ Por qué ha asustado a mi marido ?",
+      "pronunciation": "Alors, pourquoi vous avez effrayé mon mari ?"
+    },
+    {
+      "line": 11,
+      "target": "",
+      "base": "La Muerte le responde : — (Bien) Mire, señora, estoy sorprendido ;",
+      "pronunciation": "La Mort lui répond : — Bien, Madame, je suis surpris ;"
+    },
+    {
+      "line": 12,
+      "target": "",
+      "base": "he visto a su marido en París, pero tengo cita con él",
+      "pronunciation": "j'ai vu votre mari à Paris, mais j'ai rendez-vous avec lui"
+    },
+    {
+      "line": 13,
+      "target": "",
+      "base": "esta noche... en Toulouse.",
+      "pronunciation": "ce soir... à Toulouse."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 4,
+      "target": "Qui êtes-vous ? répond notre homme. — Je suis la Mort.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Terrifié, M. Le Clerc rentre à la maison, fait sa valise",
+      "reasons": [
+        "answer_to_question"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "etranger",
+    "grand-haut",
+    "terrifie",
+    "rencontrer",
+    "adieu",
+    "plaisanterie"
+  ]
+}

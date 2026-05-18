@@ -1,0 +1,35 @@
+{
+  "lesson_id": "ingles-l063",
+  "source": "ingles",
+  "lesson": 63,
+  "title": "Revisions and notes",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 063 - Anglais.mp3",
+  "themes": [
+    "review",
+    "grammar consolidation"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "To get. — Este « pequeño » verbo se utiliza aún más que el verbo « hacer » en castellano (cosa que puede ser desalentadora, pues no hay más que mirar a los diccionarios para comprobar la serie de matices y significados que se le atribuyen). Hay que examinarlo desde dos puntos de vista: el de la eufonía (que suene bien la frase) y el del significado propiamente dicho.",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "To get. — Este « pequeño » verbo se utiliza aún más que el verbo « hacer » en castellano (cosa que puede ser desalentadora, pues no hay más que mirar a los diccionarios para comprobar la serie de matices y significados que se le atribuyen). Hay que examinarlo desde dos puntos de vista: el de la eufonía (que suene bien la frase) y el del significado propiamente dicho.",
+      "reasons": [
+        "vocab:get"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "trousers",
+    "get",
+    "irregular-verbs"
+  ]
+}

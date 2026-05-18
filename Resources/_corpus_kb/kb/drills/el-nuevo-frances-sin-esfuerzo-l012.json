@@ -1,0 +1,152 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l012",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 12,
+  "title": "Un tour dans Paris",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/12 Leçon 12.mp3",
+  "themes": [
+    "tourism",
+    "paris"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Bonjour mesdames, bonjour mesdemoi-selles, bonjour messieurs ! Je suis votre guide.",
+      "base": "¡ Buenos días señoras, buenos días señoritas, buenos días señores ! Soy su guía."
+    },
+    {
+      "line": 2,
+      "target": "Alors, commençons ici par la place du Panthéon : à ma droite, vous voyez le Panthéon même ,",
+      "base": "Comencemos aquí, por la plaza del Panthéon : a mi derecha ustedes ven el propio Panthéon,",
+      "pronunciation": "..plas dú Panteón... druat a"
+    },
+    {
+      "line": 3,
+      "target": "et à ma gauche, l’église de Saint-Etien-ne du Mont.",
+      "base": "y a mi izquierda, la iglesia de Saint-Etienne du Mont.",
+      "pronunciation": "..eglis dé santetien’"
+    },
+    {
+      "line": 4,
+      "target": "-Pardon monsieur, dit un touriste, mais où. . ? — Tout _ à l’heure, répond le guide.",
+      "base": "Perdonfe] (señor), dice un turista, ¿ (pero) dónde. . . ? -Luego (todo a la hora), responde el guía.",
+      "pronunciation": "tutalér repond"
+    },
+    {
+      "line": 5,
+      "target": "Le Panthéon était d'abord une église et ensuite. . .",
+      "base": "El Panthéon fue (era) primero una iglesia y después. . .",
+      "pronunciation": "..ansüit'"
+    },
+    {
+      "line": 6,
+      "target": "-S'il vous plaît, monsieur, dit le même touriste, mais où sont. .",
+      "base": "Por favor, señor, dice el mismo turista ¿ (pero) dónde están. ..?"
+    },
+    {
+      "line": 7,
+      "target": "Mais laissez-moi terminer, je vous_ en prie , répond le guide. =",
+      "base": "Pero... se lo ruego, déjeme terminar, responde el guía.",
+      "pronunciation": "..lésé mua términé je vusanpri"
+    },
+    {
+      "line": 8,
+      "target": "-Mais monsieur, c'est très important !",
+      "base": "(Pero señor), ¡ Es muy importante |",
+      "pronunciation": "..tresamportant"
+    },
+    {
+      "line": 9,
+      "target": "-Eh bien, qu'est-ce que “Vous voulez savoir ?",
+      "base": "Bueno, ¿ qué es lo que quiere saber ?",
+      "pronunciation": "..kès ké vu vulé savuar ?"
+    },
+    {
+      "line": 10,
+      "target": "-Où sont les toilettes ? |",
+      "base": "¿ Dónde están los servicios ?",
+      "pronunciation": "..tualèt’"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Bonjour mesdames, bonjour mesdemoi-selles, bonjour messieurs (1) ! Je suis votre guide.",
+      "reasons": [
+        "vocab:guide"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Alors, commençons ici par la place du Panthéon : à ma droite, vous voyez le Panthéon même (2),",
+      "reasons": [
+        "vocab:commençons"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "et à ma gauche, l’église de Saint-Etien-ne du Mont.",
+      "reasons": [
+        "vocab:église"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "-Pardon monsieur, dit un touriste, mais où. . (3) ? — Tout _ à l’heure, (4) répond le guide.",
+      "reasons": [
+        "vocab:guide"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Le Panthéon était d'abord une église et ensuite. . .",
+      "reasons": [
+        "answer_to_question",
+        "vocab:église"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Mais laissez-moi terminer, je vous_ en prie (5), répond le guide. =",
+      "reasons": [
+        "vocab:terminer"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "-Mais monsieur, c'est très important !",
+      "reasons": [
+        "short_response",
+        "vocab:important"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "-Eh bien, qu'est-ce que “Vous voulez savoir (6) ?",
+      "reasons": [
+        "vocab:savoir"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "-Où sont les toilettes ? |",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:toilettes"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "guide",
+    "fr1-commençons",
+    "fr1-église",
+    "terminer",
+    "important",
+    "toilettes",
+    "savoir"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "lesson_id": "ingles-l045",
+  "source": "ingles",
+  "lesson": 45,
+  "title": "Holiday plans",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 045 - Anglais.mp3",
+  "themes": [
+    "Holidays",
+    "Family",
+    "Planning"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "David and Joan are discussing their plans.",
+      "base": "David y Joan discuten sus proyectos.",
+      "pronunciation": ". diskissin... — 4 ... uedzé is fain... álon dzé coost. — 7 damm uanss... — 11 ... antiik — 13... naasti! — 44... steishén... uiil piieiból..."
+    },
+    {
+      "line": 2,
+      "target": "I think we'll go to Brighton next weekend.",
+      "base": "Creo que iremos a Brighton el proximo fin de semana."
+    },
+    {
+      "line": 3,
+      "target": "But why? There’s nothing to do at this time of the year.",
+      "base": "¿Pero por qué ? No hay nada que hacer en esta época del año."
+    },
+    {
+      "line": 4,
+      "target": "I know, but look- if the weather is fine, we can drive along the coast",
+      "base": "Ya lo sé, pero mira, si el tiempo es bueno, podemos pasear en coche a lo largo de la costa"
+    },
+    {
+      "line": 5,
+      "target": "and visit all those little villages.",
+      "base": "y visitar todos esos pueblecitos."
+    },
+    {
+      "line": 6,
+      "target": "Yes, but David, er... My mother’s coming next weekend.",
+      "base": "Si, pero David, eh... Mi madre viene el próximo fin de semana."
+    },
+    {
+      "line": 7,
+      "target": "Damn! — But she only comes once a year!",
+      "base": "¡Vaya! Pero si sólo viene una vez al año."
+    },
+    {
+      "line": 8,
+      "target": "Yes, and it's always when we want to go away.",
+      "base": "Si, y es siempre cuando queremos marcharnos."
+    },
+    {
+      "line": 9,
+      "target": "You mean: when you want to go away.",
+      "base": "Querrás decir cuando tú quieres marcharte."
+    },
+    {
+      "line": 10,
+      "target": "I'm reason. — She's arriving on Friday.",
+      "base": "Lo siento. — Ella llega el viernes."
+    },
+    {
+      "line": 11,
+      "target": "Then we'll take her with us and visit the antique shops.",
+      "base": "Entonces nos la llevaremos a visitar las tiendas de antiguedades."
+    },
+    {
+      "line": 12,
+      "target": "she'll feel at home among all those old things.",
+      "base": "Se sentirá en casa entre todas esas cosas viejas."
+    },
+    {
+      "line": 13,
+      "target": "David! Don't be nasty!",
+      "base": "¡David! ¡No seas malo!"
+    },
+    {
+      "line": 14,
+      "target": "I'll meet her at the station, then we'll be able to make our plans together.",
+      "base": "Iré a buscarla a la estación, luego podremos hacer juntos nuestros planes."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 4,
+      "target": "I know, but look- if the weather is fine, we can drive along the coast",
+      "reasons": [
+        "answer_to_question",
+        "vocab:coast"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "and visit all those little villages.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Damn! — But she only comes once a year! (2)",
+      "reasons": [
+        "vocab:damn"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "You mean: when you want to go away.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "I'm reason. — She's arriving on Friday.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Then we'll take her with us and visit the antique shops. (3)",
+      "reasons": [
+        "vocab:antique"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "David! Don't be nasty!",
+      "reasons": [
+        "short_response",
+        "vocab:nasty"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "coast",
+    "damn",
+    "antique",
+    "nasty"
+  ]
+}

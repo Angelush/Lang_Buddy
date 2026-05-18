@@ -1,0 +1,149 @@
+{
+  "lesson_id": "ingles-l047",
+  "source": "ingles",
+  "lesson": 47,
+  "title": "An Englishman and a Spanishman",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 047 - Anglais.mp3",
+  "themes": [
+    "Humor",
+    "Cultural stereotypes",
+    "Etiquette"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "An Englishman and a Spanishman are discussing their respective countries.",
+      "base": "Un inglés y un español discuten sobre sus respectivos países."
+    },
+    {
+      "line": 2,
+      "target": "Of course, says the Englishman, you Spanishmen are not gentlemen.",
+      "base": "Desde luego, dice el inglés, ustedes los españoles no son caballeros."
+    },
+    {
+      "line": 3,
+      "target": "And why not? replies his friend, slightly annoyed.",
+      "base": "¿Y por qué no? responde su amigo, ligeramente molesto.",
+      "pronunciation": ".. slaitli... ánoid. — 9... diskraib... deheschérs. — 12 ... feist... — 13 ... greit..."
+    },
+    {
+      "line": 4,
+      "target": "Well, for example, if you enter a bathroom by mistake,",
+      "base": "Bien, por ejemplo, si usted entra en un cuarto de baño por equivocación,"
+    },
+    {
+      "line": 5,
+      "target": "and you see a young lady washing, what do you say?",
+      "base": "y ve a una joven señora lavándose, ¿ qué dice ?"
+    },
+    {
+      "line": 6,
+      "target": "We say “ Excuse me, madam ”.",
+      "base": "Diríamos « Perdóneme, señora »."
+    },
+    {
+      "line": 7,
+      "target": "Exactly, says the Englishman, but a gentleman says: Excuse me, sir.",
+      "base": "Exactamente, dice el inglés, pero un caballero diría: « Perdóneme, señor »."
+    },
+    {
+      "line": 8,
+      "target": "A gentleman is a person capable of two things.",
+      "base": "Un caballero es una persona capaz de dos cosas:"
+    },
+    {
+      "line": 9,
+      "target": "He can describe a pretty girl without using gestures,",
+      "base": "Puede describir a una chica guapa sin hacer uso de gestos,"
+    },
+    {
+      "line": 10,
+      "target": "and he always hears a funny story for the first time.",
+      "base": "y siempre oye una historia divertida por primera vez."
+    },
+    {
+      "line": 11,
+      "target": "Two English gentlemen are eating a meal in their club.",
+      "base": "Dos caballeros ingleses están comiendo en su club."
+    },
+    {
+      "line": 12,
+      "target": "They taste the soup with great interest, and one says to the other:",
+      "base": "Prueban la sopa con gran interés, y uno le dice al otro:"
+    },
+    {
+      "line": 13,
+      "target": "It's an interesting soup, but not a great soup.",
+      "base": "Es una sopa interesante, pero no una gran sopa."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 3,
+      "target": "And why not? replies his friend, slightly annoyed. (2)",
+      "reasons": [
+        "vocab:annoyed"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Well, for example, if you enter a bathroom by mistake, (3)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "We say “ Excuse me, madam ”.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Exactly, says the Englishman, but a gentleman says: Excuse me, sir.",
+      "reasons": [
+        "vocab:gentleman"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "A gentleman is a person capable of two things.",
+      "reasons": [
+        "vocab:gentleman"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "He can describe a pretty girl without using gestures,",
+      "reasons": [
+        "vocab:gesture"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "and he always hears a funny story for the first time.",
+      "reasons": [
+        "vocab:funny"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "They taste the soup with great interest, and one says to the other: (4)",
+      "reasons": [
+        "vocab:taste"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "gentleman",
+    "annoyed",
+    "gesture",
+    "funny",
+    "taste"
+  ]
+}

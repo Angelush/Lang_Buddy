@@ -1,0 +1,121 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l077",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 77,
+  "title": "Soixante-dix-septième leçon (révision — imparfait, futur, numération)",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/77 Leçon 77.mp3",
+  "themes": [
+    "grammar",
+    "revision",
+    "numbers"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "El pretérito imperfecto de indicativo (Ver lección 73).",
+      "base": ""
+    },
+    {
+      "line": 2,
+      "target": "El futuro imperfecto de indicativo.",
+      "base": ""
+    },
+    {
+      "line": 3,
+      "target": "La numeración.",
+      "base": ""
+    },
+    {
+      "line": 1492,
+      "target": ": Mil (o mille) quatre cent quatre-vingt-douze.",
+      "base": ""
+    },
+    {
+      "line": 1700,
+      "target": ": Mil (o mille) sept cents.",
+      "base": ""
+    },
+    {
+      "line": 1880,
+      "target": ": Mil (o mille) huit cent quatre-vingts.",
+      "base": ""
+    },
+    {
+      "line": 1969,
+      "target": ": Mil (o mille) neuf cent soixante-neuf.",
+      "base": ""
+    },
+    {
+      "line": 1983,
+      "target": ": Mil (o mille) neuf cent quatre-vingt-trois.",
+      "base": ""
+    },
+    {
+      "line": 2000,
+      "target": ": Deux mille.",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "El futuro imperfecto de indicativo.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "La numeración.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 1492,
+      "target": ": Mil (o mille) quatre cent quatre-vingt-douze.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 1700,
+      "target": ": Mil (o mille) sept cents.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 1880,
+      "target": ": Mil (o mille) huit cent quatre-vingts.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 1969,
+      "target": ": Mil (o mille) neuf cent soixante-neuf.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 1983,
+      "target": ": Mil (o mille) neuf cent quatre-vingt-trois.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 2000,
+      "target": ": Deux mille.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": []
+}

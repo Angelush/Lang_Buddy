@@ -1,0 +1,158 @@
+{
+  "lesson_id": "ingles-l041",
+  "source": "ingles",
+  "lesson": 41,
+  "title": "Success",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 041 - Anglais.mp3",
+  "themes": [
+    "Humor",
+    "Anecdotes"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Peter and Dave are fishing: Pete. — I've got a bite!",
+      "base": "Pete y David están pescando. Pete. — ¡ Pican! (tengo una « picada »).",
+      "pronunciation": ".. bait. — 2 ... traut? — 3 au... uops ! — 6... mómi ses ... laik... preié. — 7 hevénli... kiip... álaiv. — 8 ... eit. — 9... ináf... — 11 smails bicos... mail bituin... — 12 kiip kuaiét... laibréri... — 13 ... pulové... kiip..."
+    },
+    {
+      "line": 2,
+      "target": "Dave. — Is it a trout?",
+      "base": "Dave. — ¿ Es una trucha ?"
+    },
+    {
+      "line": 3,
+      "target": "Pete. — Ow, no! It's a wasp!",
+      "base": "Pete. — ¡Ay, nol, es una avispa."
+    },
+    {
+      "line": 4,
+      "target": "Little girl. — Please drink your tea, Mr Williams. I want to watch you.",
+      "base": "Niña. — Por favor, bébase su té, Sr. Williams. Quiero verle."
+    },
+    {
+      "line": 5,
+      "target": "Mr Williams. — Of course my dear. But why?",
+      "base": "Sr. Williams. — Claro, cariño, pero ¿ por qué ?"
+    },
+    {
+      "line": 6,
+      "target": "Little girl. — Because Mummy says you drink like a fish!",
+      "base": "Niña. — ¡Porque mamá dice que bebe usted como un pez!"
+    },
+    {
+      "line": 7,
+      "target": "Heavenly Father, bless us and keep us all alive.",
+      "base": "Padre celestial, bendícenos y consérvanos la vida."
+    },
+    {
+      "line": 8,
+      "target": "There are eight of us for dinner",
+      "base": "Somos ocho (hay ocho de nosotros) a cenar."
+    },
+    {
+      "line": 9,
+      "target": "and there's only enough for five.",
+      "base": "Y hay sólo suficiente para cinco."
+    },
+    {
+      "line": 10,
+      "target": "What is the longest word in English? — I don’t know.",
+      "base": "¿Cuál es la palabra más larga en inglés ? — No lo sé."
+    },
+    {
+      "line": 11,
+      "target": "“ Smiles ”, because there is a mile between the first and the last letter.",
+      "base": "«Smiles» (sonrisas, risas), porque hay una « mile » (milla) entre la primera y la última letra."
+    },
+    {
+      "line": 12,
+      "target": "Keep quiet in the library. People are reading.",
+      "base": "Guarden silencio en la biblioteca. La gente está leyendo."
+    },
+    {
+      "line": 13,
+      "target": "I don't want this old pullover. You can keep it.",
+      "base": "No quiero este viejo jersey. Puede usted quedárselo."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Peter and Dave are fishing: Pete. — I've got a bite!",
+      "reasons": [
+        "vocab:bite"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Dave. — Is it a trout?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Pete. — Ow, no! It's a wasp!",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:wasp"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Little girl. — Because Mummy says you drink like a fish!",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Heavenly Father, bless us and keep us all alive. (2)",
+      "reasons": [
+        "vocab:alive"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "There are eight of us for dinner",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "and there's only enough for five.",
+      "reasons": [
+        "short_response",
+        "vocab:enough"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "“ Smiles ”, because there is a mile between the first and the last letter.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Keep quiet in the library. People are reading.",
+      "reasons": [
+        "short_response",
+        "vocab:quiet"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "bite",
+    "wasp",
+    "alive",
+    "enough",
+    "keep-quiet"
+  ]
+}

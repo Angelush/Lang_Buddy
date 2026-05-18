@@ -1,0 +1,168 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l026",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 26,
+  "title": "London",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/26 Lesson 26.mp3",
+  "themes": [
+    "travel",
+    "culture",
+    "city-life",
+    "history"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "\"When a man is tired of London, he is tired of life\". The famous saying of Doctor Johnson",
+      "base": "«Cuando un hombre se cansa de Londres, está cansado de la vida». La frase célebre del Doctor Johnson"
+    },
+    {
+      "line": 2,
+      "target": "is still true for the 8 million who live in the capital and the countless millions of tourists who flock there every year.",
+      "base": "sigue siendo verdadera para los ocho millones de personas que viven en la capital y los innumerables millones de turistas que fluyen en manadas todos los años."
+    },
+    {
+      "line": 3,
+      "target": "London is a true megalopolis; it is the largest city in Europe and the third or fourth largest in the world.",
+      "base": "Londres es una verdadera megalópolis; es la ciudad más grande de Europa y la tercera o cuarta más grande del mundo."
+    },
+    {
+      "line": 4,
+      "target": "But the City of London — the financial district and the heart of the capital — is the world's smallest city.",
+      "base": "Pero la «city» de Londres — el distrito financiero y el corazón de la capital — es la ciudad más pequeña del mundo."
+    },
+    {
+      "line": 5,
+      "target": "It measures only one square mile. Indeed the City is sometimes referred to simply as The Square Mile.",
+      "base": "Mide solamente una milla cuadrada. En efecto a la City algunas veces se le denomina simplemente La Milla Cuadrada."
+    },
+    {
+      "line": 6,
+      "target": "The Lord Mayor of London is in fact the mayor of the city only and he has to ask permission to travel officially to other parts of the capital.",
+      "base": "El Alcalde de Londres es de hecho únicamente alcalde de la City, y tiene que solicitar permiso para viajar oficialmente a otros distritos de la capital."
+    },
+    {
+      "line": 7,
+      "target": "But, as you can imagine, this permission is rarely refused!",
+      "base": "Pero, como usted se puede imaginar, ¡este permiso es raramente rechazado!"
+    },
+    {
+      "line": 8,
+      "target": "\"For there is in London all that life can afford\", continued our friend Samuel Johnson.",
+      "base": "«Pues existe en Londres todo lo que la vida puede ofrecer», continuaba diciendo nuestro amigo Samuel Johnson."
+    },
+    {
+      "line": 10,
+      "target": "There are scores of theatres, dozens of world-famous shops, fine architecture — there are even mosques.",
+      "base": "Existen veintenas de teatros, docenas de tiendas de celebridad mundial, arquitectura soberbia — existen incluso mezquitas."
+    },
+    {
+      "line": 11,
+      "target": "From the East End, the old docklands and home of the true Londoner,",
+      "base": "Desde el East End, los antiguos «docks» y el hogar del verdadero londinense,"
+    },
+    {
+      "line": 12,
+      "target": "to the West End with its theatres, cinemas and glittering night-life,",
+      "base": "Hasta el West End, con sus teatros, sus cines y su deslumbrante vida nocturna,"
+    },
+    {
+      "line": 13,
+      "target": "not forgetting the cosmopolitan Soho — originally a French quarter and now packed with restaurants offering every kind of cuisine imaginable (though rarely English),",
+      "base": "sin olvidar el cosmopolita barrio de Soho — originalmente un distrito francés y ahora repleto de restaurantes que ofrecen toda clase de cocinas imaginables (aunque raramente inglesas),"
+    },
+    {
+      "line": 14,
+      "target": "London is a vast, bustling, exciting city so full of life that it is easy to forget that it has been destroyed at least four times. When reconstruction began after the Second World War, it was decided to decongest the city; the concept of \"new towns\" was adopted,",
+      "base": "Londres es una ciudad grande, bulliciosa y apasionante, tan llena de vida que es fácil de olvidar que ha sido destruida al menos cuatro veces. Cuando se comenzó la reconstrucción después de la Segunda Guerra Mundial, se decidió descongestionar la ciudad; el concepto de «nuevas ciudades» fue adoptado,"
+    },
+    {
+      "line": 15,
+      "target": "to move inhabitants and companies out of the centre into custom-built towns within easy reach of the capital.",
+      "base": "con el fin de trasladar a los habitantes y a las empresas fuera del centro a ciudades especialmente construidas y con acceso fácil a la capital."
+    },
+    {
+      "line": 16,
+      "target": "But judging by today's rush-hour traffic jams, the solution has only been partly successful.",
+      "base": "Pero a juzgar por los actuales atascos de tráfico en las horas punta, la solución ha tenido solamente un éxito parcial."
+    },
+    {
+      "line": 17,
+      "target": "London is a city where tradition and modernity rub shoulders with easy familiarity,",
+      "base": "Londres es una ciudad en donde la tradición y la modernidad están íntimamente vinculadas,"
+    },
+    {
+      "line": 18,
+      "target": "where the scarlet uniforms of the Horse Guards blend with the often outrageous fashions of the young along the King's Road.",
+      "base": "donde los uniformes escarlatas de los Horse Guards se mezclan con las modas a veces exageradas de la gente joven a lo largo de King's Road."
+    },
+    {
+      "line": 19,
+      "target": "The capital has always had a cosmopolitan vocation and the unsuspecting visitor may be forgiven his bewilderment",
+      "base": "La capital siempre ha tenido una vocación cosmopolita, y podemos perdonar al visitante confiado su estupefacción"
+    },
+    {
+      "line": 20,
+      "target": "at the Caribbean dancing of the Notting Hill Carnival or the snaking dragons of the Chinese New Year celebrations in Chinatown.",
+      "base": "ante los bailes caribeños del Carnaval de Notting Hill o los dragones sinuosos de la festividad del Año Nuevo chino en Chinatown."
+    },
+    {
+      "line": 21,
+      "target": "If London has lost some of its international influence since the 1950s,",
+      "base": "Si Londres ha perdido parte de su influencia internacional desde los años cincuenta,"
+    },
+    {
+      "line": 22,
+      "target": "it has retained and increased its fascination by incorporating influences from all over the world.",
+      "base": "ha mantenido y aumentado su fascinación incorporando las influencias de todos los lugares del mundo."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "is still true for the 8 million who live in the capital and the countless millions of tourists who flock there every year. (2)",
+      "reasons": [
+        "vocab:flock"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "London is a true megalopolis; it is the largest city in Europe and the third or fourth largest in the world. (3)",
+      "reasons": [
+        "vocab:megalopolis"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "\"For there is in London all that life can afford\", continued our friend Samuel Johnson. (5)",
+      "reasons": [
+        "vocab:afford"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "to move inhabitants and companies out of the centre into custom-built towns within easy reach of the capital. (8)",
+      "reasons": [
+        "vocab:built"
+      ]
+    },
+    {
+      "line": 17,
+      "target": "London is a city where tradition and modernity rub shoulders with easy familiarity, (9)",
+      "reasons": [
+        "vocab:shoulders"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "megalopolis",
+    "flock",
+    "bustle",
+    "custom-built",
+    "afford",
+    "rub-shoulders"
+  ]
+}

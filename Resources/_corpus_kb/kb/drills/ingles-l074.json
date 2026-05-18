@@ -1,0 +1,191 @@
+{
+  "lesson_id": "ingles-l074",
+  "source": "ingles",
+  "lesson": 74,
+  "title": "Let's learn some useful expressions",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 074 - Anglais.mp3",
+  "themes": [
+    "greetings",
+    "social-conventions",
+    "introductions",
+    "British-culture"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Let's learn some useful expressions.",
+      "base": "Aprendamos algunas expresiones útiles.",
+      "pronunciation": ".. iusfol ekspreshens. — 2 ... hau duiudu? — 3 ... ansé — 4 ... hau aar yu?... — 5 ... avoid... — 6 ... reerli sheik... — 7 ... pólait konvérseishén. — 10 ... intróduis andru... — 11 ... pliisd... — 12 ... uedzé... — 14 ... rigaards. — 15 ... keer ... iCrself..."
+    },
+    {
+      "line": 2,
+      "target": "When English people meet* for the first time, they say*: \"How do you do?\".",
+      "base": "Cuando los ingleses se encuentran por primera vez dicen: «¿cómo está usted?»"
+    },
+    {
+      "line": 3,
+      "target": "The answer is: \"How do you do?\"",
+      "base": "La respuesta es la misma frase: «¿cómo está usted?»."
+    },
+    {
+      "line": 4,
+      "target": "After this first meeting, you may say: \"How are you?\", or simply \"Hello\".",
+      "base": "Tras este primer encuentro, puede decirse «¿Qué tal le va?» («¿cómo está usted?»), o simplemente «hola»."
+    },
+    {
+      "line": 5,
+      "target": "Younger people find* these formulas too formal and try to avoid them.",
+      "base": "Los jóvenes (la gente más joven) encuentran estas fórmulas demasiado formales e intentan evitarlas."
+    },
+    {
+      "line": 6,
+      "target": "People rarely shake* hands in England.",
+      "base": "La gente raramente se estrecha la mano en inglaterra."
+    },
+    {
+      "line": 7,
+      "target": "Here is a typical \"polite\" conversation:",
+      "base": "Aquí tenemos una típica conversación «educada»:"
+    },
+    {
+      "line": 8,
+      "target": "Hello, David, how are you?",
+      "base": "Hola, David, ¿qué tal te va?"
+    },
+    {
+      "line": 9,
+      "target": "Fine, thank you. And you?",
+      "base": "Bien, gracias, ¿y a ti?"
+    },
+    {
+      "line": 10,
+      "target": "I'm very well. Let* me introduce Andrew Williams.",
+      "base": "Me va bien. Te voy a (permite que) presentar [a] Andrew Williams."
+    },
+    {
+      "line": 11,
+      "target": "How do you do? — Pleased to meet* you.",
+      "base": "¿Cómo está usted? — Encantado de conocerle."
+    },
+    {
+      "line": 12,
+      "target": "Terrible weather, isn't it? — Yes, but it's getting* warmer now. (N. 2)",
+      "base": "¡Qué tiempo tan malo! ¿verdad? — Sí, pero ahora empieza a hacer más calor."
+    },
+    {
+      "line": 13,
+      "target": "I hope we will have some sun soon.",
+      "base": "Espero que pronto haga sol (tendremos pronto algo de sol)."
+    },
+    {
+      "line": 14,
+      "target": "Well, I must be off or I'll be late. Give* my regards to your wife. Good-bye.",
+      "base": "Bueno, tengo que irme o llegaré tarde. Da (mis) recuerdos a tu esposa. Adiós."
+    },
+    {
+      "line": 15,
+      "target": "I will. Take* care of yourself. Good-bye.",
+      "base": "[Así] lo haré. Cuídate. Adiós."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 3,
+      "target": "The answer is: \"How do you do?\"",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "After this first meeting, you may say: \"How are you?\", or simply \"Hello\". (2)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Younger people find* these formulas too formal and try to avoid them.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:formal"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "People rarely shake* hands in England.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Here is a typical \"polite\" conversation:",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Hello, David, how are you?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Fine, thank you. And you?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "I'm very well. Let* me introduce Andrew Williams. (3)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:introduce"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Terrible weather, isn't it? — Yes, but it's getting* warmer now. (N. 2)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "I hope we will have some sun soon.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "Well, I must be off or I'll be late. Give* my regards to your wife. Good-bye. (4)",
+      "reasons": [
+        "vocab:regards"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "I will. Take* care of yourself. Good-bye.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "regards",
+    "introduce",
+    "formal",
+    "handshake"
+  ]
+}

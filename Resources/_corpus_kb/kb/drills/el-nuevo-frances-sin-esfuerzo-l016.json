@@ -1,0 +1,177 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l016",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 16,
+  "title": "Des achats... !",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/16 Leçon 16.mp3",
+  "themes": [
+    "joke",
+    "shopping",
+    "travel"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Bonjour, madame. Je cherche un piège à rats . Vous __ en avez un ?",
+      "base": "Buenos dias, (señora). Busco una ratonera (trampa para ratas). ¿Tiene (de eso) una ?",
+      "pronunciation": "..xèrx piej a rat. vuzán"
+    },
+    {
+      "line": 2,
+      "target": "Bien sûr, monsieur. Attendez une mi-nute, je vais _ en apporter un.",
+      "base": "Por supuesto (señor). Espere un momento (minuto), voy a traerle una (de ello).",
+      "pronunciation": ".. jë vezan aporté"
+    },
+    {
+      "line": 3,
+      "target": "Dépéchez-vous , madame. J'ai un train à prendre.",
+      "base": "Dése prisa (señora). Tengo que coger (un) el tren.",
+      "pronunciation": "depexe-vu. je én tran a prandr"
+    },
+    {
+      "line": 4,
+      "target": "Un train ? Oh, monsieur, je suis désolée ;",
+      "base": "¿ El (un) tren ? Lo siento (Oh, señor, estoy desolada)."
+    },
+    {
+      "line": 5,
+      "target": "je n'ai pas__un modèle assez grand |",
+      "base": "¡ No dispongo de (tengo) un modelo suficientemente grande !",
+      "pronunciation": "¡ jé ne pas én model asé gran !"
+    },
+    {
+      "line": 6,
+      "target": "Un douanier arrête un voyageur à la sortie de la douane :",
+      "base": "Un aduanero para [a] un viajero a la salida de la aduana :",
+      "pronunciation": "..uanié arrèt en vuayagêr a la sorti dé la duan'"
+    },
+    {
+      "line": 7,
+      "target": "Bonjour monsieur. Ouvrez votre sac, s'il vous plaît.",
+      "base": "Buenosdías, señor. Abra su bolso, por favor.",
+      "pronunciation": "uvré votr' sac"
+    },
+    {
+      "line": 8,
+      "target": "Le voyageur ouvre son sac. . . qui est plein de diamants.",
+      "base": "El viajero abre su bolso... que está lleno de diamantes.",
+      "pronunciation": ".. UV... plén dé diamant"
+    },
+    {
+      "line": 9,
+      "target": "Ces diamants sont pour mes lapins, dit le voyageur.",
+      "base": "Estos diamantes son para mis conejos, dice el viajero."
+    },
+    {
+      "line": 10,
+      "target": "Pour vos lapins, vous dites ? s'exclame le douanier.",
+      "base": "¿ Para sus conejos, dice ? (se) exclama el aduanero."
+    },
+    {
+      "line": 11,
+      "target": "Parfaitement. S'ils ne veulent pas de diamants, ils n'auront rien à manger !",
+      "base": "| Ya lo creo (perfectamente) ! ¡ Si no quieren diamantes se quedarán sin comer (no tendrán nada para comer) !",
+      "pronunciation": "parfetéman. sil né vél' pa de diamant il n'orón rián"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Bonjour, madame. Je cherche un piège à rats (1). Vous __ en (2) avez un ?",
+      "reasons": [
+        "vocab:rat"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Bien sûr, monsieur. Attendez une mi-nute, je vais _ en (2) apporter un.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:apporter"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Dépéchez-vous (3), madame. J'ai un train à prendre.",
+      "reasons": [
+        "short_response",
+        "vocab:train"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Un train ? Oh, monsieur, je suis désolée (4) ;",
+      "reasons": [
+        "vocab:train"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "je n'ai pas__un modèle assez grand (5) |",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:modèle"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Un douanier arrête un voyageur à la sortie de la douane :",
+      "reasons": [
+        "vocab:douanier"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Bonjour monsieur. Ouvrez votre sac, s'il vous plaît.",
+      "reasons": [
+        "short_response",
+        "vocab:sac"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Le voyageur ouvre son sac. . . qui est plein de diamants.",
+      "reasons": [
+        "vocab:sac"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Ces diamants sont pour mes lapins, dit le voyageur.",
+      "reasons": [
+        "vocab:diamants"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Pour vos lapins, vous dites ? s'exclame le douanier.",
+      "reasons": [
+        "vocab:lapin"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Parfaitement. S'ils ne veulent (6) pas de diamants, ils n'auront (7) rien à manger !",
+      "reasons": [
+        "answer_to_question",
+        "vocab:diamants"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "rat",
+    "apporter",
+    "train",
+    "fr1-modèle",
+    "douanier",
+    "sac",
+    "diamants",
+    "lapin",
+    "vouloir",
+    "auront"
+  ]
+}

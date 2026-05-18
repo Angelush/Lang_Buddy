@@ -1,0 +1,124 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l043",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 43,
+  "title": "Newspeak",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/43 Lesson 43.mp3",
+  "themes": [
+    "language",
+    "linguistics",
+    "dystopia",
+    "control"
+  ],
+  "lines": [
+    {
+      "line": 9,
+      "target": "Ungood will do just as well — because it's an exact opposite, other is not.",
+      "base": "Nobueno haría también la misma función — mejor debido a que es exactamente lo contrario, lo cual no es el caso de la otra."
+    },
+    {
+      "line": 10,
+      "target": "Or again, if you want a stronger word for good, what use is there in having a whole string of vague useless words like «excellent» and splendid and all the rest?",
+      "base": "O entonces, Si usted desea una versión más fuerte de bueno, ¿de qué sirve tener una sarta completa de palabras vagas e inútiles como excelente y espléndido y todas las demás?"
+    },
+    {
+      "line": 11,
+      "target": "Plusgood covers the meaning; or doubleplusgood if you want something stronger still.",
+      "base": "Plusbueno cubre ese sentido; o dobleplusbueno si usted desea algo todavía más fuerte. (...) Finalmente, toda la idea del bien y del mal"
+    },
+    {
+      "line": 12,
+      "target": "In the end, the whole notion of goodness and badness will be covered by only six words — in reality one word.",
+      "base": "será cubierta por seis palabras solamente — en realidad una sola palabra. ¿No ve usted la belleza de eso, Winston?"
+    },
+    {
+      "line": 13,
+      "target": "Don't you see the beauty of that, Winston?",
+      "base": "Usted no es consciente de la belleza de la destrucción de palabras. ¿Sabe usted que «Newspeak» es el único lenguaje del mundo cuyo vocabulario se restringe todos los años?"
+    },
+    {
+      "line": 14,
+      "target": "You don't grasp the beauty of the destruction of words. Do you know that Newspeak is the only language in the world whose vocabulary gets smaller every year?",
+      "base": "Al final, terminaremos haciendo literalmente imposible el crimen del pensamiento, debido a que no existirán palabras para expresarlo."
+    },
+    {
+      "line": 15,
+      "target": "Finally, we shall make thoughtcrime literally impossible, because there will be no words in which to express it.",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 9,
+      "target": "Ungood will do just as well — because it's an exact opposite, other is not.",
+      "reasons": [
+        "vocab:ungood"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Or again, if you want a stronger word for good, what use is there in having a whole string of vague useless words like «excellent» and splendid and all the rest?",
+      "reasons": [
+        "vocab:useless"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Plusgood covers the meaning; or doubleplusgood if you want something stronger still.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:cover"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "In the end, the whole notion of goodness and badness will be covered by only six words — in reality one word.",
+      "reasons": [
+        "vocab:notion"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Don't you see the beauty of that, Winston?",
+      "reasons": [
+        "short_response",
+        "vocab:of"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "You don't grasp the beauty of the destruction of words. Do you know that Newspeak is the only language in the world whose vocabulary gets smaller every year?",
+      "reasons": [
+        "answer_to_question",
+        "vocab:of"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "Finally, we shall make thoughtcrime literally impossible, because there will be no words in which to express it.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:thoughtcrime"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "newspeak",
+    "thoughtcrime",
+    "ungood",
+    "plusgood",
+    "doubleplusgood",
+    "get-rid-of",
+    "vague",
+    "useless",
+    "notion",
+    "cover",
+    "subsidiary",
+    "rub-out",
+    "fewer",
+    "string"
+  ]
+}

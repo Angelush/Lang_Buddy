@@ -1,0 +1,222 @@
+{
+  "lesson_id": "ingles-l013",
+  "source": "ingles",
+  "lesson": 13,
+  "title": "Thirteenth Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 013 - Anglais.mp3",
+  "themes": [
+    "living",
+    "lifestyle",
+    "preferences"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Where do you live? — I live in London.",
+      "base": "¿ Dónde vive usted ? — (Yo) vivo en Londres.",
+      "pronunciation": "uer liv? — 2... sitiss... — 3 not rieli... kantri? — 4 hau... iivnings... — 5... riid.... uérk... peints. — 6 ... portreits ? 7 ... bazrum... hool. — 9 ... hotels..."
+    },
+    {
+      "line": 2,
+      "target": "Do you like it? — Yes, I like big cities. Do you?",
+      "base": "¿ Le gusta ? — Sí, me gustan las grandes ciudades. ¿Y a usted ?"
+    },
+    {
+      "line": 3,
+      "target": "Not really. I prefer the country.",
+      "base": "No mucho (realmente, no). (Yo) prefiero el campo."
+    },
+    {
+      "line": 4,
+      "target": "How do you spend your evenings in the country?",
+      "base": "¿ Cómo pasa usted las (sus) tardes en el campo ?"
+    },
+    {
+      "line": 5,
+      "target": "I read, I work in the garden. My wife paints.",
+      "base": "(Yo) leo, (yo) trabajo en el jardín. Mi esposa pinta."
+    },
+    {
+      "line": 6,
+      "target": "Does she paint portraits?",
+      "base": "¿ Pinta (ella) retratos ?"
+    },
+    {
+      "line": 7,
+      "target": "No, she paints the bathroom and the hall.",
+      "base": "No, (ella) pinta el baño y el vestíbulo."
+    },
+    {
+      "line": 8,
+      "target": "Does your wife like the country too?",
+      "base": "¿Le gusta también a su esposa el campo ?"
+    },
+    {
+      "line": 9,
+      "target": "No, she prefers hotels in London.",
+      "base": "No, (ella) prefiere [los] hoteles de Londres."
+    },
+    {
+      "line": 10,
+      "target": "« To read » is the infinitive of the verb.",
+      "base": "« Leer » es el infinitivo del verbo.",
+      "pronunciation": "infinitiv of ... verb. — 11 novels. — 14 á lot of uérk."
+    },
+    {
+      "line": 11,
+      "target": "She likes to read novels.",
+      "base": "Le gusta (a ella) leer novelas."
+    },
+    {
+      "line": 12,
+      "target": "I prefer to live in the country.",
+      "base": "(Yo) prefiero vivir en el campo."
+    },
+    {
+      "line": 13,
+      "target": "She doesn't like to live in the country.",
+      "base": "No le gusta (a ella) vivir en el campo."
+    },
+    {
+      "line": 14,
+      "target": "There is a lot of work.",
+      "base": "Hay mucho trabajo."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Where do you live? — I live in London.",
+      "reasons": [
+        "vocab:live"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Do you like it? — Yes, I like big cities. Do you?",
+      "reasons": [
+        "answer_to_question",
+        "vocab:cities"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Not really. I prefer the country.",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:prefer"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "How do you spend your evenings in the country? (1)",
+      "reasons": [
+        "vocab:country"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "I read, I work in the garden. My wife paints.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:paint"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Does she paint portraits?",
+      "reasons": [
+        "short_response",
+        "vocab:paint"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "No, she paints the bathroom and the hall.",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:bathroom"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Does your wife like the country too?",
+      "reasons": [
+        "short_response",
+        "vocab:wife"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "No, she prefers hotels in London.",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:london"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "« To read » is the infinitive of the verb. (2)",
+      "reasons": [
+        "vocab:read"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "She likes to read novels.",
+      "reasons": [
+        "short_response",
+        "vocab:read"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "I prefer to live in the country.",
+      "reasons": [
+        "short_response",
+        "vocab:live"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "She doesn't like to live in the country.",
+      "reasons": [
+        "short_response",
+        "vocab:live"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "There is a lot of work. (3)",
+      "reasons": [
+        "short_response",
+        "vocab:work"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "live",
+    "en1a-London",
+    "big-cities",
+    "country",
+    "read",
+    "work",
+    "garden",
+    "wife",
+    "paint",
+    "portraits",
+    "bathroom",
+    "hall",
+    "hotels",
+    "to-read",
+    "novels",
+    "prefer",
+    "modern"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "lesson_id": "ingles-l072",
+  "source": "ingles",
+  "lesson": 72,
+  "title": "The old gentleman on the train",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 072 - Anglais.mp3",
+  "themes": [
+    "transport",
+    "social-interaction",
+    "humour"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "The train stopped at a station but no one got* on.",
+      "base": "El tren se paró en una estación pero nadie subió.",
+      "pronunciation": ".. trein... nou-uan... — 3 ... dehentélmén ... billérd... glaasis... — 4 ... koot... hevili. — 5 ... uaipt... straipt hankéchiif. — 6 ... eksept... — 7... obviósli... — 8 ... noutist... ridin... diskriitli. — 9 ... sheer... — 10 ... shou... — 11 ... ófendin... — 12 ...riicht... peich... térn... neibór... — 13 ... put..."
+    },
+    {
+      "line": 2,
+      "target": "At the last minute, the door opened",
+      "base": "En el último momento, la puerta se abrió"
+    },
+    {
+      "line": 3,
+      "target": "and an old gentleman with a grey beard and glasses got* into the compartment.",
+      "base": "y un anciano caballero con barba gris y gafas entró en el compartimento."
+    },
+    {
+      "line": 4,
+      "target": "I just caught it! he said, sitting down heavily.",
+      "base": "¡Lo cogí por los pelos (justo)! dijo, sentándose pesadamente."
+    },
+    {
+      "line": 5,
+      "target": "He took* off his glasses and wiped his face with a striped handkerchief. (N. 1)",
+      "base": "Se quitó las gafas y se secó el rostro con un pañuelo a rayas."
+    },
+    {
+      "line": 6,
+      "target": "Everyone was reading* and smoking, except the old gentleman.",
+      "base": "Todo el mundo leía y fumaba, menos el viejo caballero."
+    },
+    {
+      "line": 7,
+      "target": "He had obviously had no time to buy* a paper before catching the train.",
+      "base": "Evidentemente no había tenido tiempo de comprar un periódico antes de coger el tren."
+    },
+    {
+      "line": 8,
+      "target": "David soon noticed that the man was reading* his paper with him, but very discreetly.",
+      "base": "David se dió cuenta enseguida de que el hombre estaba leyendo su periódico con él, pero muy discretamente."
+    },
+    {
+      "line": 9,
+      "target": "David's paper had twenty pages and he would have liked to share it with him,",
+      "base": "El periódico de David tenía veinte páginas y le hubiera gustado compartirlo con él,"
+    },
+    {
+      "line": 10,
+      "target": "but he did not want to show the old gentleman that he had noticed he was reading* it:",
+      "base": "pero no quería mostrar al anciano caballero que se había dado cuenta de que lo estaba leyendo,"
+    },
+    {
+      "line": 11,
+      "target": "he was afraid of offending him.",
+      "base": "tenía miedo de ofenderle."
+    },
+    {
+      "line": 12,
+      "target": "David reached the bottom of the page, but did not want to turn it because his neighbour was still reading*.",
+      "base": "David llegó al final de la página, pero no quería pasarla, porque su vecino estaba aún leyendo."
+    },
+    {
+      "line": 13,
+      "target": "At last, David solved the problem. He folded the paper, put it on the seat,",
+      "base": "Por fin, David resolvió el problema. Dobló el periódico, y lo puso en el asiento,"
+    },
+    {
+      "line": 14,
+      "target": "closed his eyes and pretended to be asleep.",
+      "base": "cerró los ojos y simuló dormir (estar dormido)."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "At the last minute, the door opened",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "and an old gentleman with a grey beard and glasses got* into the compartment. (1) (2) (3)",
+      "reasons": [
+        "vocab:gentleman"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "He took* off his glasses and wiped his face with a striped handkerchief. (N. 1)",
+      "reasons": [
+        "vocab:handkerchief"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Everyone was reading* and smoking, except the old gentleman. (5)",
+      "reasons": [
+        "vocab:gentleman"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "David soon noticed that the man was reading* his paper with him, but very discreetly.",
+      "reasons": [
+        "vocab:discreetly"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "but he did not want to show the old gentleman that he had noticed he was reading* it:",
+      "reasons": [
+        "vocab:gentleman"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "he was afraid of offending him.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "gentleman",
+    "compartment",
+    "handkerchief",
+    "discreetly"
+  ]
+}

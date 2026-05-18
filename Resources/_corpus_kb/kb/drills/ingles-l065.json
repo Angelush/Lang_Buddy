@@ -1,0 +1,217 @@
+{
+  "lesson_id": "ingles-l065",
+  "source": "ingles",
+  "lesson": 65,
+  "title": "Public transport",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 065 - Anglais.mp3",
+  "themes": [
+    "transportation",
+    "urban life",
+    "daily routines"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "David Wilson travels to work every morning by tube.",
+      "base": "David Wilson va (viaja) a trabajar todas las mañanas en (por) metro.",
+      "pronunciation": ".. tiud. — 2 ándegraund... — 3 anlail a i ns -. éndegraund... e. aik... — 4 ... ákoordintu... dsstanss =F siison tikét... álous... pilriód... 6 ooldzou.., Emplois. Shox ¢ .— 7 ... dehórni. — 8 ... colsou... viu. — 9 ... dabél... dekérs..."
+    },
+    {
+      "line": 2,
+      "target": "The tube—or the Underground—is something like the Metro in Paris.",
+      "base": "El metro — o el « Underground » (subterráneo) es parecido (algo como) el metro de (en) París."
+    },
+    {
+      "line": 3,
+      "target": "But, unlike the Metro, it is rather old-fashioned and quite expensive.",
+      "base": "Pero a diferencia de éste, está un poco pasado de moda y es muy caro."
+    },
+    {
+      "line": 4,
+      "target": "You pay according to the distance you want to travel.",
+      "base": "Se paga conforme a la distancia que se quiera recorrer (viajar)."
+    },
+    {
+      "line": 5,
+      "target": "You can buy* a season ticket, which allows you to travel for a certain period at a lower price.",
+      "base": "Se puede comprar un abono (billete de temporada) que permite viajar durante (por) un cierto período a precio más bajo."
+    },
+    {
+      "line": 6,
+      "target": "Although most of the tube is automatic, there are still employees who check your ticket at the exit.",
+      "base": "Aunque la mayor parte del metro está automatizado (es automático), aún hay empleados que revisan los billetes a la salida."
+    },
+    {
+      "line": 7,
+      "target": "So you must keep” your ticket until you finish your journey.",
+      "base": "Por tanto hay que guardar el billete hasta que se termine el viaje."
+    },
+    {
+      "line": 8,
+      "target": "You can also travel by bus, which is slower but gives* you a better view.",
+      "base": "También se puede ir (viajar) en autobús, que es más lento pero ofrece (da) un panorama (vista) mejor."
+    },
+    {
+      "line": 9,
+      "target": "Most buses are double-deckers and you are allowed to smoke upstairs.",
+      "base": "La mayor parte de los autobuses son de dos pisos y se permite fumar en la parte de arriba."
+    },
+    {
+      "line": 10,
+      "target": "On these buses, there is a driver and a conductor, who collects your fares.",
+      "base": "En estos autobuses, hay un conductor y un cobrador que recibe (recoge) el dinero (vuestras tarifas)."
+    },
+    {
+      "line": 11,
+      "target": "Finally, there are the famous London taxis or “Hackney Cabs ”.",
+      "base": "Finalmente están los famosos taxis de Londres o Hackney cabs."
+    },
+    {
+      "line": 12,
+      "target": "These large, black, diesel-engined vehicles are a familiar sight in the Capital.",
+      "base": "Estos amplios vehículos negros, con motor diesel, son una visión familiar en la Capital."
+    },
+    {
+      "line": 13,
+      "target": "If the cab is free, you will see* a little “For Hire ” sign in the front.",
+      "base": "Si el taxi está libre, se ve una señal de «se alquila» en la parte delantera."
+    },
+    {
+      "line": 14,
+      "target": "Of course, the best way to see the city is on foot, but you need a rest from time to time.",
+      "base": "Por supuesto el mejor modo de ver la ciudad es a pie, pero hará falta un descanso de vez en cuando."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "David Wilson travels to work every morning by tube.",
+      "reasons": [
+        "vocab:tube"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "The tube—or the Underground—is something like the Metro in Paris.",
+      "reasons": [
+        "vocab:tube"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "But, unlike the Metro, it is rather old-fashioned and quite expensive. (1)",
+      "reasons": [
+        "vocab:expensive"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "You pay according to the distance you want to travel. (2)",
+      "reasons": [
+        "vocab:travel"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "You can buy* a season ticket, which allows you to travel for a certain period at a lower price.",
+      "reasons": [
+        "vocab:period"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Although most of the tube is automatic, there are still employees who check your ticket at the exit. (3)",
+      "reasons": [
+        "vocab:exit"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "So you must keep” your ticket until you finish your journey. (4)",
+      "reasons": [
+        "vocab:ticket"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "You can also travel by bus, which is slower but gives* you a better view.",
+      "reasons": [
+        "vocab:bus"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Most buses are double-deckers and you are allowed to smoke upstairs. (5)",
+      "reasons": [
+        "vocab:decker"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "On these buses, there is a driver and a conductor, who collects your fares. (6)",
+      "reasons": [
+        "vocab:driver"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Finally, there are the famous London taxis or “Hackney Cabs ”. (7)",
+      "reasons": [
+        "vocab:cabs"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "These large, black, diesel-engined vehicles are a familiar sight in the Capital.",
+      "reasons": [
+        "vocab:capital"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "If the cab is free, you will see* a little “For Hire ” sign in the front. (8)",
+      "reasons": [
+        "vocab:hire"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "Of course, the best way to see the city is on foot, but you need a rest from time to time.",
+      "reasons": [
+        "vocab:foot"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "tube",
+    "en2b-Underground",
+    "en2b-Metro",
+    "old-fashioned",
+    "expensive",
+    "distance",
+    "travel",
+    "period",
+    "price",
+    "automatic",
+    "employees",
+    "check",
+    "ticket",
+    "exit",
+    "bus",
+    "driver",
+    "conductor",
+    "fare",
+    "double-decker",
+    "smoke",
+    "upstairs",
+    "taxi",
+    "en2b-Hackney-Cabs",
+    "en2b-For-Hire",
+    "capital",
+    "view",
+    "foot"
+  ]
+}

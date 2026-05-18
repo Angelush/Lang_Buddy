@@ -1,0 +1,121 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l073",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 73,
+  "title": "Les souvenirs",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/73 Leçon 73.mp3",
+  "themes": [
+    "memory",
+    "past",
+    "nostalgia",
+    "imperfect tense"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "C'était comment la France avant la guerre, grand-père ?",
+      "base": ""
+    },
+    {
+      "line": 2,
+      "target": "Ah tu sais, c'était bien différent de maintenant !",
+      "base": ""
+    },
+    {
+      "line": 3,
+      "target": "Nous n'étions pas aussi riches et nous n'avions pas autant de belles choses,",
+      "base": ""
+    },
+    {
+      "line": 10,
+      "target": "Ils se parlaient, ils se connaissaient tous et nous demandaient toujours des nouvelles .",
+      "base": "Se hablaban, se conocían todos y nos preguntaban siempre [por los demás) (noticias)."
+    },
+    {
+      "line": 11,
+      "target": "Puis, il y a eu la guerre et les hommes sont partis .",
+      "base": "Después vino (hubo) la guerra y los hombres se fueron."
+    },
+    {
+      "line": 12,
+      "target": "Et les enfants étaient mieux élevés que de nos jours !",
+      "base": "¡Y los niños estaban mejor educados que hoy en día!"
+    },
+    {
+      "line": 13,
+      "target": "Ils ne s'endormaient pas pendant que leur grand-père leur parlait !",
+      "base": "¡No se dormían mientras su abuelo les hablaba!"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "C'était comment la France avant la guerre, grand-père ?",
+      "reasons": [
+        "vocab:père"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Ah tu sais, c'était bien différent de maintenant !",
+      "reasons": [
+        "answer_to_question",
+        "vocab:différent"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Nous n'étions pas aussi (1) riches et nous n'avions pas autant de (2) belles choses,",
+      "reasons": [
+        "vocab:chose"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Ils se parlaient, ils se connaissaient tous et nous demandaient toujours des nouvelles (7).",
+      "reasons": [
+        "vocab:nouvelles"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Puis, il y a eu la guerre et les hommes sont partis (8).",
+      "reasons": [
+        "vocab:parti"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Ils ne s'endormaient pas pendant que leur grand-père leur (10) parlait (11) !",
+      "reasons": [
+        "vocab:père"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "souvenir",
+    "guerre",
+    "grand-père",
+    "fr3b-différent",
+    "maintenant",
+    "riche",
+    "chose",
+    "jardin",
+    "cultiver",
+    "fr3b-légume",
+    "copain",
+    "fermier",
+    "oeuf-frais",
+    "lait",
+    "fr3b-tiède",
+    "viande",
+    "aimable",
+    "nouvelles",
+    "parti",
+    "endormir",
+    "parler"
+  ]
+}

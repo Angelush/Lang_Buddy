@@ -1,0 +1,145 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l072",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 72,
+  "title": "Le lendemain, au grand restaurant",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/72 Leçon 72.mp3",
+  "themes": [
+    "restaurants",
+    "food",
+    "modern life",
+    "social interaction"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Cette carte ! Quelle merveille ! Je n'ai jamais vu une chose pareille !",
+      "base": "¡Esta carta! ¡Qué maravilla! ¡Nunca he visto una cosa semejante (parecida)!",
+      "pronunciation": ".. merveill... pareil!"
+    },
+    {
+      "line": 2,
+      "target": "Oui, c'est impressionnant … et ce cadre . Quel luxe !",
+      "base": "Sí, es impresionante… y este ambiente (cuadro). ¡Qué lujo!",
+      "pronunciation": "..lüks"
+    },
+    {
+      "line": 3,
+      "target": "Dis-moi, Anne, qu'est-ce que c'est que ce machin-là ?",
+      "base": "Dime, Anne, ¿qué es ese chisme?"
+    },
+    {
+      "line": 4,
+      "target": "\"Cardinal de l’océan avec son accompagnement de diaments du Périgord ?\"",
+      "base": "¿Cardenal del océano con (su) acompañamiento de diamantes del Perigord?",
+      "pronunciation": "..loseán...diamán .. . perigor"
+    },
+    {
+      "line": 5,
+      "target": "Ah bon... ? Heu, dis-moi Anne : tu es bien une fille moderne ?",
+      "base": "¿Ah, sí? Pues, dime Anne: ¿eres una chica moderna, cierto?",
+      "pronunciation": "..omar...truf"
+    },
+    {
+      "line": 6,
+      "target": "Mais oui, et j'en suis fière ; mais où veux-tu en venir ?",
+      "base": "Pues claro, y estoy orgullosa, ¿pero, dónde quieres ir a parar (venir con ello)?"
+    },
+    {
+      "line": 9,
+      "target": "Heu, voilà... je propose que chacun paye sa part de l'addition. D'accord ?",
+      "base": "Pues, mira... propongo que cada uno pague su parte (de la cuenta) ¿De acuerdo?"
+    },
+    {
+      "line": 10,
+      "target": "Mais bien sûr ! Maintenant, tu pourras manger tranquillement !",
+      "base": "¡Por supuesto! ¡Ahora, podrás comer tranquilo (tranquilamente)!",
+      "pronunciation": "..purrá... trankilman"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Cette carte ! (2) Quelle merveille ! Je n'ai jamais vu une chose pareille ! (3)",
+      "reasons": [
+        "vocab:pareil"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Oui, c'est impressionnant … et ce cadre (4). Quel luxe !",
+      "reasons": [
+        "vocab:cadre"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Dis-moi, Anne, qu'est-ce que c'est que ce machin-là (5) ?",
+      "reasons": [
+        "vocab:machin"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "\"Cardinal de l’océan avec son accompagnement de diaments du Périgord (6) ?\"",
+      "reasons": [
+        "answer_to_question",
+        "vocab:périgord"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Ah bon... ? Heu, dis-moi Anne : tu es bien (7) une fille moderne ?",
+      "reasons": [
+        "answer_to_question",
+        "vocab:moderne"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Mais oui, et j'en suis fière ; mais où veux-tu en venir (9) ?",
+      "reasons": [
+        "answer_to_question",
+        "vocab:fière"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Heu, voilà... je propose que chacun (10) paye sa part de l'addition. D'accord ?",
+      "reasons": [
+        "answer_to_question",
+        "vocab:addition"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Mais bien sûr ! Maintenant, tu pourras manger tranquillement !",
+      "reasons": [
+        "answer_to_question",
+        "vocab:tranquillement"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "carte",
+    "merveille",
+    "pareil",
+    "cadre",
+    "luxe",
+    "machin",
+    "cardinal-de-locean",
+    "homard",
+    "truffes",
+    "fr3b-Périgord",
+    "moderne",
+    "epoque",
+    "fr3b-fière",
+    "chacun",
+    "part",
+    "addition",
+    "tranquillement"
+  ]
+}

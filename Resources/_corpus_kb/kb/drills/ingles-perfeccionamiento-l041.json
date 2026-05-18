@@ -1,0 +1,425 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l041",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 41,
+  "title": "1984",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/41 Lesson 41.mp3",
+  "themes": [
+    "dystopia",
+    "surveillance",
+    "totalitarianism",
+    "literary analysis"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "It was a bright cold day in April, and the clocks were striking thirteen.",
+      "base": "Era un día claro y frío de Abril y los relojes marcaban las trece horas. (2)"
+    },
+    {
+      "line": 2,
+      "target": "Winston Smith, his chin nuzzled into his breast in an effort to escape the wind,",
+      "base": "Winston Smith, con el mentón hundido en su pecho en un esfuerzo para protegerse del horroroso viento, (3) (4)"
+    },
+    {
+      "line": 3,
+      "target": "slipped quickly through the glass doors of Victory Mansions, though not quite quickly enough",
+      "base": "pasaba rápidamente por las puertas de cristal de Victory Mansions, aunque no lo suficientemente rápido"
+    },
+    {
+      "line": 4,
+      "target": "to prevent a swirl of gritty dust from entering along with him.",
+      "base": "para evitar que un torbellino de polvo arenoso entrara junto con él."
+    },
+    {
+      "line": 5,
+      "target": "The hallway smelt of boiled cabbage and of old rag mats. At one end of it a poster, too large for indoor display,",
+      "base": "El entrada olía a col hervida y a viejos tapices de trapo. Y en un extremo un «poster» a color, demasiado grande para ser colocado en el interior,"
+    },
+    {
+      "line": 6,
+      "target": "was tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five,",
+      "base": "había sido clavado en la pared. (5)"
+    },
+    {
+      "line": 7,
+      "target": "with a heavy black moustache and some features. Winston made for the stairs.",
+      "base": "Mostraba simplemente un rostro enorme, de más de un metro de ancho: el rostro de un hombre de alrededor de cuarenta y cinco años de edad,"
+    },
+    {
+      "line": 8,
+      "target": "It was no use trying the lift. Ever at its best it was seldom working,",
+      "base": "con un bigote negro y espeso y de rasgos atractivos. Winston se dirigió a las escaleras. (6)"
+    },
+    {
+      "line": 9,
+      "target": "and at present the electric current was cut off during daylight hours.",
+      "base": "Es inútil intentarlo por el ascensor. Aún en el mejor de los casos, funciona raramente,"
+    },
+    {
+      "line": 10,
+      "target": "It was part of the economy drive in preparation for Hate Week.",
+      "base": "y en el presente, la corriente eléctrica estuvo cortada durante las horas diurnas."
+    },
+    {
+      "line": 11,
+      "target": "The flat was seven flights up, and Winston, who had a varicose ulcer above his right ankle,",
+      "base": "Era parte de un esfuerzo económico para preparar la Semana del Odio. (7)"
+    },
+    {
+      "line": 12,
+      "target": "went slowly, resting several times on the way.",
+      "base": "El apartamento está en el séptimo piso, y Winston, que tenía treinta y nueve años y tenía una úlcera varicosa encima de su tobillo derecho,"
+    },
+    {
+      "line": 13,
+      "target": "On each landing, opposite the lift-shaft, the poster with the enormous face gazed from the wall.",
+      "base": "subió lentamente, reposando varias veces en el camino."
+    },
+    {
+      "line": 14,
+      "target": "It was one of those pictures which are so contrived that the eyes follow you about when you move.",
+      "base": "En cada descanso, frente a la cabina del ascensor, el «poster» con un rostro enorme vigilando toda la pared."
+    },
+    {
+      "line": 15,
+      "target": "The caption beneath it ran:",
+      "base": "Era una de esas imágenes que son diseñadas de tal manera que los ojos le siguen a uno cuando se mueve frente a ellas."
+    },
+    {
+      "line": 16,
+      "target": "BIG BROTHER IS WATCHING YOU",
+      "base": "El pie de foto proclamaba:"
+    },
+    {
+      "line": 17,
+      "target": "It was London. He tried to squeeze out some childhood memory that should tell him whether London had always been quite like this.",
+      "base": "¡EL GRAN HERMANO TE VIGILA!"
+    },
+    {
+      "line": 18,
+      "target": "The Ministry of Truth was startlingly different from any other object in view.",
+      "base": "Era Londres. El intentó desterrar de su mente un recuerdo de la niñez que le diría si Londres había sido siempre así. (8)"
+    },
+    {
+      "line": 19,
+      "target": "It was an enormous pyramid of glittering white concrete, soaring up, 300 metres into the air.",
+      "base": "El Ministerio de la Verdad era sorprendentemente diferente de cualquier otro objeto a la vista."
+    },
+    {
+      "line": 20,
+      "target": "From where Winston stood it was just possible to read, picked out on its face in elegant lettering,",
+      "base": "Era una enorme estructura piramidal de hormigón blanco y brillante, que se elevaba hasta 300 metros en el aire."
+    },
+    {
+      "line": 21,
+      "target": "the three slogans of the Party:",
+      "base": "Desde donde Winston se encontraba era justamente posible leer, destacado en letras elegantes"
+    },
+    {
+      "line": 22,
+      "target": "WAR IS PEACE",
+      "base": "en su fachada, los tres lemas del partido:"
+    },
+    {
+      "line": 23,
+      "target": "FREEDOM IS SLAVERY",
+      "base": "LA GUERRA ES LA PAZ"
+    },
+    {
+      "line": 24,
+      "target": "IGNORANCE IS STRENGTH.",
+      "base": "LA LIBERTAD ES ESCLAVITUD"
+    },
+    {
+      "line": 25,
+      "target": "",
+      "base": "LA IGNORANCIA ES FORTALEZA. (9)"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "It was a bright cold day in April, and the clocks were striking thirteen. (2)",
+      "reasons": [
+        "vocab:bright"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Winston Smith, his chin nuzzled into his breast in an effort to escape the wind, (3) (4)",
+      "reasons": [
+        "vocab:into"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "slipped quickly through the glass doors of Victory Mansions, though not quite quickly enough",
+      "reasons": [
+        "vocab:though"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "to prevent a swirl of gritty dust from entering along with him.",
+      "reasons": [
+        "vocab:him"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "The hallway smelt of boiled cabbage and of old rag mats. At one end of it a poster, too large for indoor display,",
+      "reasons": [
+        "vocab:way"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "was tacked to the wall. (5) It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five,",
+      "reasons": [
+        "vocab:tacked"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "with a heavy black moustache and some features. Winston made for the stairs. (6)",
+      "reasons": [
+        "vocab:stairs"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "It was no use trying the lift. Ever at its best it was seldom working,",
+      "reasons": [
+        "vocab:best"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "and at present the electric current was cut off during daylight hours.",
+      "reasons": [
+        "vocab:off"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "It was part of the economy drive in preparation for Hate Week. (7)",
+      "reasons": [
+        "vocab:drive"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "The flat was seven flights up, and Winston, who had a varicose ulcer above his right ankle,",
+      "reasons": [
+        "vocab:flat"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "went slowly, resting several times on the way.",
+      "reasons": [
+        "short_response",
+        "vocab:way"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "On each landing, opposite the lift-shaft, the poster with the enormous face gazed from the wall.",
+      "reasons": [
+        "vocab:face"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "It was one of those pictures which are so contrived that the eyes follow you about when you move.",
+      "reasons": [
+        "vocab:out"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "The caption beneath it ran:",
+      "reasons": [
+        "short_response",
+        "vocab:it"
+      ]
+    },
+    {
+      "line": 16,
+      "target": "BIG BROTHER IS WATCHING YOU",
+      "reasons": [
+        "short_response",
+        "vocab:chin"
+      ]
+    },
+    {
+      "line": 17,
+      "target": "It was London. He tried to squeeze out some childhood memory that should tell him whether London had always been quite like this. (8)",
+      "reasons": [
+        "vocab:way"
+      ]
+    },
+    {
+      "line": 18,
+      "target": "The Ministry of Truth was startlingly different from any other object in view.",
+      "reasons": [
+        "vocab:view"
+      ]
+    },
+    {
+      "line": 19,
+      "target": "It was an enormous pyramid of glittering white concrete, soaring up, 300 metres into the air.",
+      "reasons": [
+        "vocab:into"
+      ]
+    },
+    {
+      "line": 20,
+      "target": "From where Winston stood it was just possible to read, picked out on its face in elegant lettering,",
+      "reasons": [
+        "vocab:face"
+      ]
+    },
+    {
+      "line": 21,
+      "target": "the three slogans of the Party:",
+      "reasons": [
+        "short_response",
+        "vocab:party"
+      ]
+    },
+    {
+      "line": 22,
+      "target": "WAR IS PEACE",
+      "reasons": [
+        "short_response",
+        "vocab:peace"
+      ]
+    },
+    {
+      "line": 23,
+      "target": "FREEDOM IS SLAVERY",
+      "reasons": [
+        "short_response",
+        "vocab:slavery"
+      ]
+    },
+    {
+      "line": 24,
+      "target": "IGNORANCE IS STRENGTH. (9)",
+      "reasons": [
+        "short_response",
+        "vocab:strength"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "1984",
+    "bright",
+    "cold",
+    "day",
+    "april",
+    "clocks",
+    "striking",
+    "thirteen",
+    "winston-smith",
+    "chin",
+    "nuzzled",
+    "into",
+    "breast",
+    "in-an-effort",
+    "to-escape",
+    "the-wind",
+    "slipped",
+    "quickly",
+    "through",
+    "glass-doors",
+    "victory-mansions",
+    "though",
+    "not-quite",
+    "quickly-enough",
+    "to-prevent",
+    "a-swirl",
+    "of-gritty-dust",
+    "from-entering",
+    "along-with-him",
+    "the-hallway",
+    "smelt",
+    "of-boiled-cabbage",
+    "and-of-old-rag-mats",
+    "at-one-end",
+    "of-it",
+    "a-poster",
+    "too-large",
+    "for-indoor-display",
+    "tacked",
+    "to-the-wall",
+    "it-depicted",
+    "simply",
+    "an-enormous-face",
+    "more-than-a-metre-wide",
+    "the-face-of-a-man",
+    "about-forty-five",
+    "with-a-heavy-black-moustache",
+    "and-some-features",
+    "winston",
+    "made-for-the-stairs",
+    "it-was-no-use",
+    "trying",
+    "the-lift",
+    "ever-at-its-best",
+    "it-was-seldom-working",
+    "and-at-present",
+    "the-electric-current",
+    "was-cut-off",
+    "during-daylight-hours",
+    "it-was-part-of",
+    "the-economy-drive",
+    "in-preparation-for",
+    "hate-week",
+    "the-flat",
+    "was-seven-flights-up",
+    "and-winston",
+    "who-had-a-varicose-ulcer",
+    "above-his-right-ankle",
+    "went-slowly",
+    "resting-several-times",
+    "on-the-way",
+    "on-each-landing",
+    "opposite-the-lift",
+    "the-poster-with-the-enormous-face",
+    "gazing-from-the-wall",
+    "it-was-one-of-those-pictures",
+    "which-were-so-contrived",
+    "that-the-eyes-followed-you-about",
+    "when-you-moved",
+    "the-caption-beneath-it-ran",
+    "big-brother-is-watching-you",
+    "it-was-london",
+    "he-tried-to-squeeze-out",
+    "some-childhood-memory",
+    "that-told-him",
+    "whether-london-had-always-been",
+    "like-this",
+    "the-ministry-of-truth",
+    "was-startlingly-different",
+    "from-any-other-object-in-view",
+    "it-was-an-enormous-pyramid",
+    "of-glittering-white-concrete",
+    "soaring-up",
+    "300-metres-into-the-air",
+    "from-where-winston-stood",
+    "it-was-just-possible-to-read",
+    "picked-out",
+    "on-its-face",
+    "in-elegant-lettering",
+    "the-three-slogans-of-the-party",
+    "war-is-peace",
+    "freedom-is-slavery",
+    "ignorance-is-strength"
+  ]
+}

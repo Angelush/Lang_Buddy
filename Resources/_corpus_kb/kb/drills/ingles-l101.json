@@ -1,0 +1,151 @@
+{
+  "lesson_id": "ingles-l101",
+  "source": "ingles",
+  "lesson": 101,
+  "title": "Some stories",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 101 - Anglais.mp3",
+  "themes": [
+    "Humour",
+    "Stories"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Confirmed bachelor. — Believe me, all women are silly; I have only met one intelligent woman in my whole life.",
+      "base": "Soltero convencido. — Créeme, todas las mujeres son tontas ; en toda mi vida me he encontrado sólo con una mujer inteligente."
+    },
+    {
+      "line": 2,
+      "target": "Why didn't you marry her then?",
+      "base": "Entonces ¿ por qué no te casaste con ella?"
+    },
+    {
+      "line": 3,
+      "target": "I asked her, but she refused me.",
+      "base": "Se lo pedí, pero me rechazó."
+    },
+    {
+      "line": 4,
+      "target": "Barber: — Have I shaved you before, sir?",
+      "base": "Barbero. — ¿Le he afeitado antes, señor ?"
+    },
+    {
+      "line": 5,
+      "target": "Customer: — No, I got those scars during the war.",
+      "base": "Cliente. — No, me hicieron (obtuve) estas cicatrices durante la guerra."
+    },
+    {
+      "line": 6,
+      "target": "Listen, Tommy, if you promise never to say that rude word again, I will give you ten pence.",
+      "base": "Escucha Tommy, si prometes no decir nunca más esa palabra [tan] grosera, te daré diez peniques."
+    },
+    {
+      "line": 7,
+      "target": "Oh, I know another that is worth at least fifty pence!",
+      "base": "Oh, sé otra que vale por lo menos cincuenta peniques."
+    },
+    {
+      "line": 8,
+      "target": "The manager of a large firm criticised an employee for his inefficiency.",
+      "base": "El director de una gran empresa criticaba a un empleado por su ineficacia."
+    },
+    {
+      "line": 9,
+      "target": "The employee was so annoyed that he started criticising the way in which the company was run.",
+      "base": "El empleado estaba tan enfadado que comenzó a criticar la forma como (en que) la empresa era dirigida."
+    },
+    {
+      "line": 10,
+      "target": "Are you the manager of this company? the manager asked him furiously.",
+      "base": "¿Es usted el director de esta empresa? le preguntó el director furioso (furiosamente)."
+    },
+    {
+      "line": 11,
+      "target": "Of course not, said the employee.",
+      "base": "Por supuesto [que] no, dijo el empleado."
+    },
+    {
+      "line": 12,
+      "target": "Then don't talk like a fool! shouted the manager.",
+      "base": "¡Entonces no hable como un idiota !, gritó el director."
+    },
+    {
+      "line": 13,
+      "target": "A pessimist reminds us that a cup is half empty",
+      "base": "Un pesimista nos recuerda que la taza esta medio vacía,"
+    },
+    {
+      "line": 14,
+      "target": "and an optimist reminds us that it is half full,",
+      "base": "y un optimista nos recuerda que está medio llena."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Confirmed bachelor. — Believe me, all women are silly; I have only met one intelligent woman in my whole life. (1)",
+      "reasons": [
+        "vocab:bachelor"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Why didn't you marry her then?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "I asked her, but she refused me.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Barber: — Have I shaved you before, sir?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Customer: — No, I got those scars during the war.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "The manager of a large firm criticised an employee for his inefficiency. (2)",
+      "reasons": [
+        "vocab:inefficiency"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Of course not, said the employee.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "A pessimist reminds us that a cup is half empty",
+      "reasons": [
+        "vocab:pessimist"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "bachelor",
+    "inefficiency",
+    "pessimist"
+  ]
+}

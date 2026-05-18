@@ -1,0 +1,137 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l033",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 33,
+  "title": "Quelques questions",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/33 Leçon 33.mp3",
+  "themes": [
+    "transport",
+    "inquiry",
+    "shopping"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Que font les Parisiens quand __ils veulent voyager rapidement ?",
+      "base": "¿ Qué hacen los parisienses cuando quieren viajar rápidamente ?"
+    },
+    {
+      "line": 2,
+      "target": "que le métro est-_il bon marché",
+      "base": "¿ Por qué el metro es barato ?"
+    },
+    {
+      "line": 3,
+      "target": "Combien de billets y-a-t-il dans un carnet ? (réponse phrase 10 !)",
+      "base": "¿ Cuántas billetes hay en un carnet ?",
+      "pronunciation": "yatil"
+    },
+    {
+      "line": 4,
+      "target": "Comment va-t-on de Vincennes au Quartier Latin ?",
+      "base": "¿ Cómo se va de Vincennes al Barrio Latino ?",
+      "pronunciation": "..vaton"
+    },
+    {
+      "line": 5,
+      "target": "Quel est le nom de la station où on change de ligne ?",
+      "base": "¿ Cuál es el nombre de la estación en la que se cambia de línea ?"
+    },
+    {
+      "line": 6,
+      "target": "(Un touriste demande un ticket)",
+      "base": "(Un turista pide un billete)"
+    },
+    {
+      "line": 7,
+      "target": "Un aller-retour pour la Gare de l'Est s’il vous plaît.",
+      "base": "Un billete de ida y vuelta para la Estación del Este, por favor.",
+      "pronunciation": "..alé-rêtur"
+    },
+    {
+      "line": 8,
+      "target": "Mais monsieur, il n'y a pas de billets aller-retour",
+      "base": "Pero. . señor, no hay billetes de ida y vuelta"
+    },
+    {
+      "line": 9,
+      "target": "et, d'ailleurs, le ticket coûte toujours le même prix ;",
+      "base": "y, además, todos los billetes cuestan lo mismo.",
+      "pronunciation": "..daiërs"
+    },
+    {
+      "line": 10,
+      "target": "mais prenez plutôt un carnet de dix tickets.",
+      "base": "Le interesa coger un carnet de diez billetes.",
+      "pronunciation": "..carné dë di"
+    },
+    {
+      "line": 11,
+      "target": "D'accord. Ça fait combien ?",
+      "base": "De acuerdo. ¿ Cuánto es ?"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "que le métro est-_il bon marché",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Combien de billets y-a-t-il dans un carnet ? (réponse phrase 10 !)",
+      "reasons": [
+        "vocab:carnet"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Comment va-t-on de Vincennes au Quartier Latin ?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Quel est le nom de la station où on change de ligne ?",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "(Un touriste demande un ticket)",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "mais prenez plutôt un carnet de dix tickets.",
+      "reasons": [
+        "short_response",
+        "vocab:carnet"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "D'accord. Ça fait combien ?",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "guichet",
+    "carnet",
+    "plutot"
+  ]
+}

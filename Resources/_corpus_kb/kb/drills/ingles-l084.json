@@ -1,0 +1,27 @@
+{
+  "lesson_id": "ingles-l084",
+  "source": "ingles",
+  "lesson": 84,
+  "title": "REVISIONS AND NOTES",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 084 - Anglais.mp3",
+  "themes": [
+    "review",
+    "grammar",
+    "culture"
+  ],
+  "lines": [
+    {
+      "line": 4,
+      "target": "oz (115 g) of flour, salt, 1/2 pt (0,28 l) of milk, 1 egg.",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [],
+  "vocab_introduced": [
+    "smooth",
+    "pour"
+  ]
+}

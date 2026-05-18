@@ -1,0 +1,43 @@
+{
+  "lesson_id": "ingles-l042",
+  "source": "ingles",
+  "lesson": 42,
+  "title": "REVISIONS AND NOTES",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 042 - Anglais.mp3",
+  "themes": [
+    "Review",
+    "Grammar"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "To come and to go. — To come: venir, es decir hacia el que habla; to go: ir, irse, alejarse. She comes downstairs: Ella baja las escaleras (viene por las escaleras hacia abajo). She goes downstairs: Ella baja la escalera (y nosotros permanecemos arriba).",
+      "base": "Venir e ir. — To come: hacia el hablante; to go: alejándose."
+    },
+    {
+      "line": 2,
+      "target": "Phrasal verbs. — Changing the preposition changes the meaning: to come in: entrar; to come down: bajar; to come out: salir; to come back: volver.",
+      "base": "Verbos compuestos. — Cambiando la preposición varía el sentido."
+    },
+    {
+      "line": 3,
+      "target": "To tell vs To say. — To tell (contar/informar) followed by person: Tell me. To say (decir) followed by 'that'.",
+      "base": "To tell y to say. — Tell siempre informa a alguien. Say suele ir seguido de 'that'."
+    },
+    {
+      "line": 4,
+      "target": "Important expressions: Neither do I; He drinks like a fish; There are four of us for dinner.",
+      "base": "Expresiones: A mí tampoco; Bebe como un pez; Somos cuatro a cenar."
+    },
+    {
+      "line": 5,
+      "target": "Measures: 1 mile = 1,609 km; 1 foot = 0,30m; 1 pound = 0,45 kg.",
+      "base": "Medidas inglesas."
+    }
+  ],
+  "gap_candidates": [],
+  "vocab_introduced": []
+}

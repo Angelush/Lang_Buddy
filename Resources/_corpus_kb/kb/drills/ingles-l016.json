@@ -1,0 +1,189 @@
+{
+  "lesson_id": "ingles-l016",
+  "source": "ingles",
+  "lesson": 16,
+  "title": "Sixteenth Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 016 - Anglais.mp3",
+  "themes": [
+    "daily routine",
+    "transport",
+    "time expressions"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Where do you live? — I live in a suburb called Harrow.",
+      "base": "¿Dónde vive usted? — Vivo en un barrio de las afueras llamado Harrow."
+    },
+    {
+      "line": 2,
+      "target": "How do you go to work? — I take the tube every morning.",
+      "base": "¿Cómo va usted a trabajar ? — Cojo el metro todas las mañanas."
+    },
+    {
+      "line": 3,
+      "target": "Why do you take the train? You've got a car.",
+      "base": "¿Por qué coge usted el tren? Usted tiene coche.",
+      "pronunciation": "uai trein ?...—4 ... tuumách trafik... tuumáni pipól. — 5 etó! ekspensif. — 6 uen du iu ius jur kaar ?..."
+    },
+    {
+      "line": 4,
+      "target": "There is too much traffic and there are too many people.",
+      "base": "Hay demasiada circulación y (hay) demasiada gente."
+    },
+    {
+      "line": 5,
+      "target": "And petrol is too expensive.",
+      "base": "Y la gasolina es muy cara."
+    },
+    {
+      "line": 6,
+      "target": "When do you use your car? — At week-ends.",
+      "base": "¿Cuándo usa usted su coche? — Los fines de semana."
+    },
+    {
+      "line": 7,
+      "target": "We go to the country. We go to Windsor quite often.",
+      "base": "Vamos al campo. Vamos a Windsor bastante a menudo.",
+      "pronunciation": ".. tu undsó kuait ren, — 9... satédei... kam? — 10..."
+    },
+    {
+      "line": 8,
+      "target": "I don't know Windsor.",
+      "base": "No conozco Windsor."
+    },
+    {
+      "line": 9,
+      "target": "I'm going there on Saturday. Do you want to come?",
+      "base": "Voy [a ir] allí el sábado. ¿ Quiere usted venir?"
+    },
+    {
+      "line": 10,
+      "target": "Yes, please.",
+      "base": "Sí, por favor,"
+    },
+    {
+      "line": 11,
+      "target": "Too much traffic; too many cars.",
+      "base": "Demasiado tráfico ; demasiados coches.",
+      "pronunciation": ".. nois.... piipól."
+    },
+    {
+      "line": 12,
+      "target": "Too much noise; too many people.",
+      "base": "Demasiado ruido ; demasiada gente."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "How do you go to work? — I take the tube every morning.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Why do you take the train? You've got a car. (1)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:got"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "There is too much traffic and there are too many people. (2) (3)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:traffic"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "And petrol is too expensive.",
+      "reasons": [
+        "short_response",
+        "vocab:petrol"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "When do you use your car? — At week-ends. (4)",
+      "reasons": [
+        "vocab:use"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "We go to the country. We go to Windsor quite often.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:country"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "I don't know Windsor.",
+      "reasons": [
+        "short_response",
+        "vocab:know"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "I'm going there on Saturday. Do you want to come?",
+      "reasons": [
+        "vocab:going"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Yes, please.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Too much traffic; too many cars.",
+      "reasons": [
+        "short_response",
+        "vocab:traffic"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Too much noise; too many people.",
+      "reasons": [
+        "short_response",
+        "vocab:much"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "why",
+    "train",
+    "youve-got",
+    "too-much",
+    "traffic",
+    "people",
+    "petrol",
+    "expensive",
+    "when",
+    "use",
+    "weekends",
+    "country",
+    "windsor",
+    "quite",
+    "often",
+    "know",
+    "going",
+    "saturday",
+    "want",
+    "come"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "lesson_id": "ingles-l007",
+  "source": "ingles",
+  "lesson": 7,
+  "title": "Seventh Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 007 - Anglais.mp3",
+  "themes": [
+    "revision",
+    "pronunciation",
+    "grammar review"
+  ],
+  "lines": [],
+  "gap_candidates": [],
+  "vocab_introduced": []
+}

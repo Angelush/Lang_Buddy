@@ -1,0 +1,173 @@
+{
+  "lesson_id": "ingles-l044",
+  "source": "ingles",
+  "lesson": 44,
+  "title": "Give me that wallet",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 044 - Anglais.mp3",
+  "themes": [
+    "Possession",
+    "Character",
+    "Humor"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Give me that wallet, it's mine.",
+      "base": "Déme esa cartera, es la mia.",
+      "pronunciation": ".. wolet... main. — 2 ioors... paunds insaid — 6 jus mine — 7 whose... — 10 sinik... mári haróld... — 14 valiu ... nézin."
+    },
+    {
+      "line": 2,
+      "target": "How do you know? — Well, it's not yours, and there are ten pounds inside it.",
+      "base": "¿Cómo lo sabe ? — Pues bien, no es suya y hay diez libras dentro."
+    },
+    {
+      "line": 3,
+      "target": "He borrows my things, but he isn't pleased when I borrow his. (N. 2)",
+      "base": "Me pide prestadas mis cosas, pero no le gusta que le pida prestadas las suyas."
+    },
+    {
+      "line": 4,
+      "target": "These people are all friends of hers. They want to come to the party.",
+      "base": "Esta gente son todos amigos de ella. Quieren venir a la fiesta."
+    },
+    {
+      "line": 5,
+      "target": "What, all of them? — Well, perhaps only a few of them.",
+      "base": "¡Qué! ¿todos ? — Bueno, quizá sólo unos cuantos."
+    },
+    {
+      "line": 6,
+      "target": "Where is my pen? — Here, you can use mine. — That's very kind of you.",
+      "base": "¿Dónde está mi pluma ? — Tenga, puede usar la mía. — Muy amable de su parte."
+    },
+    {
+      "line": 7,
+      "target": "Whose is this sports car? — It's theirs.",
+      "base": "¿De quién es este deportivo? — Es de ellos."
+    },
+    {
+      "line": 8,
+      "target": "I suppose they are very rich. — No, their house is smaller than yours.",
+      "base": "Supongo que son muy ricos — No, su casa es más pequeña que la vuestra."
+    },
+    {
+      "line": 9,
+      "target": "In fact, they live in a tent!",
+      "base": "De hecho, ¡viven en una tienda de campaña!"
+    },
+    {
+      "line": 10,
+      "target": "So you're going to marry Harold. What is he like?",
+      "base": "Entonces, vas a casarte con Harold. ¿Cómo es?"
+    },
+    {
+      "line": 11,
+      "target": "He's honest, kind, gentle, sweet and noble.",
+      "base": "Es sincero, agradable, amable, considerado y noble."
+    },
+    {
+      "line": 12,
+      "target": "And what are you going to eat?",
+      "base": "Y ¿ de qué vais a comer ?"
+    },
+    {
+      "line": 13,
+      "target": "A cynic is a person who knows the price of everything",
+      "base": "« Un cínico es una persona que conoce el precio de todo"
+    },
+    {
+      "line": 14,
+      "target": "and the value of nothing (Oscar Wilde).",
+      "base": "pero no conoce el valor de nada ». (Oscar Wilde)"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Give me that wallet, it's mine.",
+      "reasons": [
+        "vocab:wallet"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "He borrows my things, but he isn't pleased when I borrow his. (2) (N. 2)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:borrow"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Where is my pen? — Here, you can use mine. — That's very kind of you.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Whose is this sports car? — It's theirs.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "I suppose they are very rich. — No, their house is smaller than yours.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "In fact, they live in a tent!",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "He's honest, kind, gentle, sweet and noble. (5)",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:honest"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "And what are you going to eat?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "A cynic is a person who knows the price of everything",
+      "reasons": [
+        "answer_to_question",
+        "vocab:cynic"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "and the value of nothing (Oscar Wilde).",
+      "reasons": [
+        "short_response",
+        "vocab:value"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "wallet",
+    "borrow",
+    "honest",
+    "cynic",
+    "value"
+  ]
+}

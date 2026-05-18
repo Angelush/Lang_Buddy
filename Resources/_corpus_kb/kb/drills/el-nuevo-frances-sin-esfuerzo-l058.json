@@ -1,0 +1,172 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l058",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 58,
+  "title": "Un peu de tourisme",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/58 Leçon 58.mp3",
+  "themes": [
+    "travel",
+    "directions",
+    "city"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "St-Jean-le-Mont est__ un ravissant petit",
+      "base": "St-Jean-le-Mont es un pequeño pueblo encantandor que se encuentra",
+      "pronunciation": "sanyán lémôn ... ravisän ... vilaj'"
+    },
+    {
+      "line": 2,
+      "target": "à cinquante kilomètres de Paris, en pleine",
+      "base": "a cincuenta kms. de París, en pleno bosque.",
+      "pronunciation": ".. for?"
+    },
+    {
+      "line": 3,
+      "target": "Vous sortez de l'autoroute et vous",
+      "base": "Usted (sale de) deja la autopista y coge le R.N. 6.",
+      "pronunciation": "..eren’sis"
+    },
+    {
+      "line": 4,
+      "target": "Ensuite vous prenez une petite route,",
+      "base": "(En seguida) Poco después toma una pequeña carretera bordeada de árboles",
+      "pronunciation": ".. bordé"
+    },
+    {
+      "line": 5,
+      "target": "et vous entrez dans le village au bout de",
+      "base": "y (usted) entra en el pueblo (al cabo de) 3 kms. después."
+    },
+    {
+      "line": 6,
+      "target": "Vous passez d'abord devant__ un__ étang",
+      "base": "Primero pasa [por] delante [de] un estanque y enseguida",
+      "pronunciation": "..etán"
+    },
+    {
+      "line": 7,
+      "target": "vous__ arrivez devant la Mairie et la place",
+      "base": "llega ante (delante) el ayuntamiento y la plaza del mercado."
+    },
+    {
+      "line": 8,
+      "target": "Il faut__ aller d'abord au Syndicat",
+      "base": "Primero hay que ir al “Syndicat d'Initiative”",
+      "pronunciation": ".. sandicâ dinisiativ’"
+    },
+    {
+      "line": 9,
+      "target": "pour savoir ce qu'il y a à visiter.",
+      "base": "para saber lo que (hay a) se puede visitar."
+    },
+    {
+      "line": 10,
+      "target": "Ensuite, une visite à l'église s'impose ;",
+      "base": "Después se impone una visita a la iglesia ;",
+      "pronunciation": "..sampoz"
+    },
+    {
+      "line": 11,
+      "target": "elle date du quatorzième siècle et elle",
+      "base": "data del siglo XIV y es espléndida."
+    },
+    {
+      "line": 12,
+      "target": "Comme la plupart des églises en",
+      "base": "Como la mayoria de las iglesias en Francia, es católica.",
+      "pronunciation": "..plüpar"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "St-Jean-le-Mont est__ un ravissant petit",
+      "reasons": [
+        "vocab:ravissant"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "à cinquante kilomètres de Paris, en pleine",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Vous sortez de l'autoroute (2) et vous",
+      "reasons": [
+        "short_response",
+        "vocab:route"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Ensuite vous prenez une petite route,",
+      "reasons": [
+        "short_response",
+        "vocab:route"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Vous passez d'abord devant__ un__ étang",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "vous__ arrivez devant la Mairie et la place",
+      "reasons": [
+        "short_response",
+        "vocab:mairie"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Il faut__ aller (5) d'abord au Syndicat",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Ensuite, une visite à l'église s'impose ;",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "elle date du quatorzième siècle (8) et elle",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Comme la plupart (9) des églises en",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "ravissant",
+    "foret",
+    "autoroute",
+    "route",
+    "etang",
+    "mairie",
+    "marche",
+    "syndicat-d-initiative",
+    "eglise",
+    "siecle"
+  ]
+}

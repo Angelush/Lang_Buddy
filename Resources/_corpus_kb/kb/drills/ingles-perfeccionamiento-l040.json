@@ -1,0 +1,337 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l040",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 40,
+  "title": "Literature",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/40 Lesson 40.mp3",
+  "themes": [
+    "literature",
+    "culture",
+    "British authors",
+    "reading"
+  ],
+  "lines": [
+    {
+      "line": 8,
+      "target": "But literature is not just made up of names from the past: the literary tradition is in good health, and authors are writing their works in English all over the world.",
+      "base": "Pero la literatura no está compuesta de nombres del pasado: la tradición literaria goza de buena salud, y autores que escriben sus obras en inglés en todo el mundo. (5)"
+    },
+    {
+      "line": 9,
+      "target": "Why do the British have such a long-standing tradition of writers, while at the same time having a reputation for being reserved and reticent to discuss emotions? That is perhaps the reason!",
+      "base": "¿Por qué tienen los británicos una tan larga tradición de escritores, mientras que al mismo tiempo tienen fama reservados y reticentes para discutir sus emociones? ¡Eso es quizás la razón! (6)"
+    },
+    {
+      "line": 12,
+      "target": "An English writer of Hungarian origin described how men from different countries declare their love for a woman:",
+      "base": "Un escritor inglés de origen húngaro describió cómo los hombres de los distintos países declaran su amor a una mujer:"
+    },
+    {
+      "line": 13,
+      "target": "A Frenchman will go down on his knees and say — Darling, I love you, I want to marry you.",
+      "base": "Un francés se pondrá de rodillas y dirá: — Querida, te amo, quiero casarme contigo."
+    },
+    {
+      "line": 14,
+      "target": "A Russian, too, will go down on his knees and declare — If you don’t marry me, I will blow my brains out!",
+      "base": "Un ruso también se pondrá de rodillas y declarará: — Si no te casas conmigo, ¡me haré saltar la tapa de los sesos! (6)"
+    },
+    {
+      "line": 15,
+      "target": "Whereas an Englishman, consumed by passion, will say — I say, why don’t we...?",
+      "base": "Mientras que un inglés, devorado por la pasión, dirá: — Y si nosotros...? (7)"
+    },
+    {
+      "line": 16,
+      "target": "Fortunately, not all English literature is concerned with such matters.",
+      "base": "Afortunadamente, la literatura inglesa no se preocupa únicamente de tales cuestiones."
+    },
+    {
+      "line": 17,
+      "target": "Great writing transforms the minds of readers and leads them to a fuller understanding of humanity,",
+      "base": "La gran literatura transforma las mentes de los lectores y los lleva a una comprensión más acabada de la humanidad,"
+    },
+    {
+      "line": 18,
+      "target": "although there are some more cynical observers who suggest that literature used to be an art and finance a profession",
+      "base": "aunque existen algunos observadores más cínicos que sugieren que la literatura era en otros tiempos un arte y las finanzas una profesión,"
+    },
+    {
+      "line": 19,
+      "target": "whereas today the opposite is very often true: paperback rights for a popular novelist",
+      "base": "mientras que hoy en día lo contrario es muy a menudo la verdad: los derechos del libro de bolsillo para un novelista de moda"
+    },
+    {
+      "line": 20,
+      "target": "sell for millions of dollars, and book stands at airports and stations are crammed with pulp fiction.",
+      "base": "que se venden por millones de dólares, y los kioskos en los aeropuertos y las estaciones están repletos de obras de ficción que no valen un cuarto."
+    },
+    {
+      "line": 21,
+      "target": "However, we would hate you to become like a professor of English who was very erudite",
+      "base": "Sin embargo, nos disgustaría que se convirtiera usted en cierto profesor de inglés muy erudito,"
+    },
+    {
+      "line": 22,
+      "target": "but of whom his students used to say — He knows everything about literature... except how to enjoy it. (N4)",
+      "base": "de quien sus estudiantes decían: — Lo sabe todo acerca de la literatura... excepto cómo disfrutarla."
+    },
+    {
+      "line": 23,
+      "target": "One of the great pleasures of mastering a language is to be able to read writers in the original.",
+      "base": "Uno de los placeres mayores de dominar un idioma es el de ser capaz de leer a los autores en las versiones originales."
+    },
+    {
+      "line": 24,
+      "target": "In the next few lessons we will present you with some examples of the work of two twentieth-century authors,",
+      "base": "En las dos o tres lecciones siguientes le presentaremos algunos ejemplos de las obras de dos autores del siglo 20,"
+    },
+    {
+      "line": 25,
+      "target": "and we hope you will not only appreciate the extracts but enjoy reading them, too.",
+      "base": "y esperamos que no solamente apreciará los pasajes, sino que disfrutará al leerlos también."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 8,
+      "target": "But literature is not just made up of names from the past: the literary tradition is in good health, and authors are writing their works in English all over the world. (5)",
+      "reasons": [
+        "vocab:tradition"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Why do the British have such a long-standing tradition of writers, while at the same time having a reputation for being reserved and reticent to discuss emotions? That is perhaps the reason! (6)",
+      "reasons": [
+        "vocab:tradition"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "An English writer of Hungarian origin described how men from different countries declare their love for a woman:",
+      "reasons": [
+        "answer_to_question",
+        "vocab:declare"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "A Frenchman will go down on his knees and say — Darling, I love you, I want to marry you.",
+      "reasons": [
+        "vocab:you"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "A Russian, too, will go down on his knees and declare — If you don’t marry me, I will blow my brains out! (6)",
+      "reasons": [
+        "vocab:russian"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "Whereas an Englishman, consumed by passion, will say — I say, why don’t we...? (7)",
+      "reasons": [
+        "vocab:english"
+      ]
+    },
+    {
+      "line": 16,
+      "target": "Fortunately, not all English literature is concerned with such matters.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:english"
+      ]
+    },
+    {
+      "line": 17,
+      "target": "Great writing transforms the minds of readers and leads them to a fuller understanding of humanity,",
+      "reasons": [
+        "vocab:mind"
+      ]
+    },
+    {
+      "line": 18,
+      "target": "although there are some more cynical observers who suggest that literature used to be an art and finance a profession",
+      "reasons": [
+        "vocab:profession"
+      ]
+    },
+    {
+      "line": 19,
+      "target": "whereas today the opposite is very often true: paperback rights for a popular novelist (8)",
+      "reasons": [
+        "vocab:list"
+      ]
+    },
+    {
+      "line": 20,
+      "target": "sell for millions of dollars, and book stands at airports and stations are crammed with pulp fiction. (9)",
+      "reasons": [
+        "vocab:millions"
+      ]
+    },
+    {
+      "line": 21,
+      "target": "However, we would hate you to become like a professor of English who was very erudite (10)",
+      "reasons": [
+        "vocab:become"
+      ]
+    },
+    {
+      "line": 22,
+      "target": "but of whom his students used to say — He knows everything about literature... except how to enjoy it. (N4)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:whom"
+      ]
+    },
+    {
+      "line": 23,
+      "target": "One of the great pleasures of mastering a language is to be able to read writers in the original.",
+      "reasons": [
+        "vocab:original"
+      ]
+    },
+    {
+      "line": 24,
+      "target": "In the next few lessons we will present you with some examples of the work of two twentieth-century authors,",
+      "reasons": [
+        "vocab:you"
+      ]
+    },
+    {
+      "line": 25,
+      "target": "and we hope you will not only appreciate the extracts but enjoy reading them, too.",
+      "reasons": [
+        "vocab:read"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "literature",
+    "glory",
+    "vast",
+    "span",
+    "centuries",
+    "influential",
+    "names",
+    "list",
+    "twice-this-length",
+    "greatest",
+    "british-born",
+    "adopt",
+    "language",
+    "write",
+    "old-chestnut",
+    "many",
+    "best",
+    "english-authors",
+    "irish",
+    "shakespeare",
+    "spring-to-mind",
+    "shudder",
+    "idea",
+    "reading",
+    "difficult",
+    "author",
+    "surprisingly",
+    "easy",
+    "extremely",
+    "modern",
+    "writer",
+    "made-up-of",
+    "names-from-the-past",
+    "tradition",
+    "good-health",
+    "world",
+    "authors",
+    "works",
+    "english",
+    "all-over-the-world",
+    "long-standing",
+    "tradition-of-writers",
+    "reputation",
+    "being-reserved",
+    "reticent",
+    "discuss",
+    "emotions",
+    "perhaps-the-reason",
+    "english-writer",
+    "hungarian-origin",
+    "describe",
+    "men-from-different-countries",
+    "declare",
+    "love-for-a-woman",
+    "frenchman",
+    "go-down-on-his-knees",
+    "darling",
+    "love-you",
+    "want-to-marry-you",
+    "russian",
+    "blow-my-brains-out",
+    "englishman",
+    "consumed-by-passion",
+    "say-why-dont-we",
+    "fortunately",
+    "concerned-with",
+    "such-matters",
+    "great-writing",
+    "transform",
+    "minds",
+    "readers",
+    "lead-to",
+    "fuller-understanding",
+    "humanity",
+    "cynical",
+    "observers",
+    "suggest",
+    "literature-used-to-be",
+    "an-art",
+    "finance",
+    "a-profession",
+    "whereas",
+    "today",
+    "the-opposite",
+    "true",
+    "paperback-rights",
+    "popular-novelist",
+    "sell-for-millions",
+    "dollars",
+    "book-stands",
+    "airports",
+    "stations",
+    "are-crammed-with",
+    "pulp-fiction",
+    "hate",
+    "become",
+    "like-a-professor",
+    "of-english",
+    "very-erudite",
+    "of-whom",
+    "students",
+    "used-to-say",
+    "he-knows-everything-about-literature",
+    "except-how-to-enjoy-it",
+    "one-of-the-great-pleasures",
+    "mastering",
+    "a-language",
+    "to-be-able-to-read",
+    "writers",
+    "in-the-original",
+    "the-next-few-lessons",
+    "present-with",
+    "some-examples",
+    "the-work-of",
+    "two-twentieth-century-authors",
+    "hope",
+    "will-not-only-appreciate",
+    "the-extracts",
+    "but-enjoy-reading-them",
+    "too"
+  ]
+}

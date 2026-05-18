@@ -1,0 +1,23 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l007",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 7,
+  "title": "Revision et notes",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/07 Leçon 07.mp3",
+  "themes": [
+    "grammar",
+    "review"
+  ],
+  "lines": [
+    {
+      "line": 11,
+      "target": "est blond — Es rubio",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [],
+  "vocab_introduced": []
+}

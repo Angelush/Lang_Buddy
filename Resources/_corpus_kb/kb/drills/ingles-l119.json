@@ -1,0 +1,68 @@
+{
+  "lesson_id": "ingles-l119",
+  "source": "ingles",
+  "lesson": 119,
+  "title": "Revision and Notes",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 119 - Anglais.mp3",
+  "themes": [
+    "review",
+    "grammar",
+    "prepositions",
+    "verbs"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "To drive. — Along the last few lessons this verb has appeared frequently, accompanied by various postposed prepositions. Let's remember some:",
+      "base": "To drive. — A lo largo de las últimas lecciones este verbo ha aparecido con frecuencia, acompañado de diversas preposiciones postpuestas. Recordemos algunas:"
+    },
+    {
+      "line": 2,
+      "target": "Back. — A word that can change the meaning of a verb. To go back: to return. To put back: to put again, to replace. To give back: to return, to hand over. To take back: to take again, to return (to bring back). We have seen its use to indicate «back-behind» (see lesson 116, Note 3).",
+      "base": "Back. — Una palabra que puede hacer cambiar el significado de un verbo. To go back: volver. To put back: volver a poner, reponer. To give back: devolver, entregar. To take back: tomar de nuevo, devolver (llevar de vuelta). Hemos visto su empleo para indicar «atrás-detrás» (ver lección 116, N. 3)."
+    },
+    {
+      "line": 3,
+      "target": "Make and do. — Although we have given a basic rule [make: to make, to do something more precise and concrete; do: to do, to execute, with a more general character; see lesson 114 ], its use depends a lot on set phrases. Practice of the English language will be what helps you choose automatically what is appropriate in each case.",
+      "base": "Make and do. — Aunque hayamos dado una regla básica [make: fabricar, hacer algo más preciso y concreto; do: hacer, ejecutar, con un carácter más general; ver lección 114 (1)], su empleo depende bastante de frases ya hechas. La práctica de la lengua inglesa será lo que le ayudará a elegir automáticamente lo que en cada caso conviene."
+    },
+    {
+      "line": 4,
+      "target": "A little mystery (lesson 113). — Gregg told Mr Hind that the second will of his father, the one that disinherited him, was dated the 31st of November. But November only has thirty days. To remember the number of days in each month, children at school learn this little poem:",
+      "base": "Un poco de misterio (lección 113). — Gregg dijo al Sr. Hind que el segundo testamento de su padre, el que lo desheredaba, estaba fechado el 31 de noviembre. Pero noviembre solo tiene treinta días. Para recordar el número de días de cada mes, los niños en la escuela aprenden este pequeño poema:"
+    },
+    {
+      "line": 5,
+      "target": "To glance: to take a look; there are other verbs that express the meaning of some Spanish turns: to wink: to wink an eye; to frown: to frown; to fuss: to bother with (or «to worry about») trivialities.",
+      "base": "To glance: echar un vistazo; hay otros verbos que expresan el sentido de algunos giros españoles: to wink: guiñar un ojo; to frown: fruncir el ceño; to fuss: fastidiar con (o «afligirse por») naderías."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Back. — A word that can change the meaning of a verb. To go back: to return. To put back: to put again, to replace. To give back: to return, to hand over. To take back: to take again, to return (to bring back). We have seen its use to indicate «back-behind» (see lesson 116, Note 3).",
+      "reasons": [
+        "vocab:back"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "To glance: to take a look; there are other verbs that express the meaning of some Spanish turns: to wink: to wink an eye; to frown: to frown; to fuss: to bother with (or «to worry about») trivialities.",
+      "reasons": [
+        "vocab:frown"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "en4aii-back",
+    "en4aii-junk",
+    "en4aii-junk-food",
+    "en4aii-glance",
+    "en4aii-wink",
+    "en4aii-frown",
+    "en4aii-fuss"
+  ]
+}

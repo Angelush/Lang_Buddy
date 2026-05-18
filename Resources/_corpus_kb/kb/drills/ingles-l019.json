@@ -1,0 +1,199 @@
+{
+  "lesson_id": "ingles-l019",
+  "source": "ingles",
+  "lesson": 19,
+  "title": "Nineteenth Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 019 - Anglais.mp3",
+  "themes": [
+    "questions",
+    "review",
+    "daily routine"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Answer these questions about lesson eighteen.",
+      "base": "Responda [a] estas preguntas sobre la leccion 18."
+    },
+    {
+      "line": 2,
+      "target": "What does David do on the train?",
+      "base": "¿Que hace David en el tren ?"
+    },
+    {
+      "line": 3,
+      "target": "Does he sit down?",
+      "base": "¿Se sienta ?"
+    },
+    {
+      "line": 4,
+      "target": "What are commuters?",
+      "base": "¿ Qué son los « commuters » ?"
+    },
+    {
+      "line": 5,
+      "target": "How long does the journey take?",
+      "base": "¿ Cuánto tiempo (cómo largo) dura el viaje ?",
+      "pronunciation": ".. dchérni... — 6... uok kuikli ? huai? — 7 --. ON ubt floo... — 9 dishis ? — 41... niér or faa? — 12... klouss. — 13 klousis"
+    },
+    {
+      "line": 6,
+      "target": "Does he walk quickly? Why?",
+      "base": "¿Camina deprisa ? ¿ Por qué?"
+    },
+    {
+      "line": 7,
+      "target": "On what floor is his office?",
+      "base": "¿ En qué piso está su oficina ?"
+    },
+    {
+      "line": 8,
+      "target": "Does he arrive on time?",
+      "base": "¿ Llega a tiempo ?"
+    },
+    {
+      "line": 9,
+      "target": "What does his wife do with the dishes?",
+      "base": "¿ Qué hace su mujer con los platos ?"
+    },
+    {
+      "line": 10,
+      "target": "What time does she leave the house?",
+      "base": "¿ [A] qué hora se va de (deja la) casa?"
+    },
+    {
+      "line": 11,
+      "target": "Is her office near or far?",
+      "base": "¿ Su oficina está cerca o lejos ?"
+    },
+    {
+      "line": 12,
+      "target": "Her office is near the house; it is close.",
+      "base": "Su oficina está cerca [de] casa; (ella) está próxima."
+    },
+    {
+      "line": 13,
+      "target": "The shop closes at six o'clock.",
+      "base": "La tienda cierra a [las] seis."
+    },
+    {
+      "line": 14,
+      "target": "Please sit down. — No, I prefer to stand.",
+      "base": "Por favor, siéntese. — No, prefiero estar de pie."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Answer these questions about lesson eighteen.",
+      "reasons": [
+        "vocab:about"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "What does David do on the train?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Does he sit down?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "What are commuters?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "How long does the journey take?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Does he walk quickly? Why?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "On what floor is his office?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Does he arrive on time?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "What does his wife do with the dishes?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "What time does she leave the house?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Is her office near or far?",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:far"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Her office is near the house; it is close.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:close"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "The shop closes at six o'clock.",
+      "reasons": [
+        "short_response",
+        "vocab:close"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "about",
+    "far",
+    "close",
+    "on-foot"
+  ]
+}

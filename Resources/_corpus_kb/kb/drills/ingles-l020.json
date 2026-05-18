@@ -1,0 +1,182 @@
+{
+  "lesson_id": "ingles-l020",
+  "source": "ingles",
+  "lesson": 20,
+  "title": "A bargain",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 020 - Anglais.mp3",
+  "themes": [
+    "shopping",
+    "family",
+    "humor"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Have you got any cigarettes?",
+      "base": "¿Tiene usted cigarrillos ?",
+      "pronunciation": ". siguérrelss ? — 2 uét kaind... — 3 ... térki... — 4 ... pence — 5 ... doktor of filosofi. — 6 neibór... — 7 ... kaapet... biutiful... — 9. riól orientó... magnifisént... kosts... — 10... ridikiulós !... mach tu dé. — 11... anofér, — 12. penss... peni... — 13 ... its iórs,"
+    },
+    {
+      "line": 2,
+      "target": "What kind do you want?",
+      "base": "Sí, ¿ de qué clase [los] quiere ?"
+    },
+    {
+      "line": 3,
+      "target": "Turkish ones please. — Here you are.",
+      "base": "¡Ah! turcos, por favor. — Aquí están, señor."
+    },
+    {
+      "line": 4,
+      "target": "Thank you. How much is that? — Fifty pence, please.",
+      "base": "Gracias. ¿Cuánto es? Cincuenta peniques, por favor."
+    },
+    {
+      "line": 5,
+      "target": "Mother. — My son's a doctor of philosophy.",
+      "base": "Madre. — Mi hijo es (un) doctor en (de) filosofía."
+    },
+    {
+      "line": 6,
+      "target": "Neighbour. — Oh good. What kind of illness is “ philosophy '?",
+      "base": "Vecino: — ¡Qué bien! ¿ Qué tipo de enfermedad es [la] « filosofía » ?"
+    },
+    {
+      "line": 7,
+      "target": "Do you want a carpet, sir? Here are some beautiful carpets.",
+      "base": "¿Quiere una alfombra, señor ? Tenemos (aquí hay) bonitas alfombras."
+    },
+    {
+      "line": 8,
+      "target": "How much is that little one?",
+      "base": "¿ Cuánto cuesta esa pequeña ?"
+    },
+    {
+      "line": 9,
+      "target": "It is a real Oriental carpet sir. It is magnificent. It costs fifty pounds.",
+      "base": "Es una alfombra oriental auténtica, señor ; es magnífica. Cuesta cincuenta libras."
+    },
+    {
+      "line": 10,
+      "target": "Ridiculous! That's much too dear.",
+      "base": "¡Es ridículo ! Es demasiado cara."
+    },
+    {
+      "line": 11,
+      "target": "Well, make me an offer.",
+      "base": "Bueno, hagame una oferta."
+    },
+    {
+      "line": 12,
+      "target": "Fifty pence; and not one penny more.",
+      "base": "Cincuenta peniques ; y ni un penique más."
+    },
+    {
+      "line": 13,
+      "target": "What? Fifty pence for this real Turkish carpet? Well, take it sir, it's yours.",
+      "base": "¿Qué? ¿Cincuenta peniques por esta auténtica alfombra turca ? Bueno, llévesela, señor, es suya."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "What kind do you want?",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:kind"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Turkish ones please. — Here you are.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Thank you. How much is that? — Fifty pence, please.",
+      "reasons": [
+        "vocab:pence"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Mother. — My son's a doctor of philosophy.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Neighbour. — Oh good. What kind of illness is “ philosophy '?",
+      "reasons": [
+        "vocab:kind"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Do you want a carpet, sir? Here are some beautiful carpets.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "How much is that little one?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "It is a real Oriental carpet sir. It is magnificent. It costs fifty pounds.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:pounds"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Ridiculous! That's much too dear.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Well, make me an offer.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Fifty pence; and not one penny more.",
+      "reasons": [
+        "short_response",
+        "vocab:pence"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "What? Fifty pence for this real Turkish carpet? Well, take it sir, it's yours.",
+      "reasons": [
+        "vocab:pence"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "kind",
+    "bargain",
+    "pence",
+    "pounds"
+  ]
+}

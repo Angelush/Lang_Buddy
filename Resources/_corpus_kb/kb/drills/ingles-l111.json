@@ -1,0 +1,142 @@
+{
+  "lesson_id": "ingles-l111",
+  "source": "ingles",
+  "lesson": 111,
+  "title": "Lesson 111",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 111 - Anglais.mp3",
+  "themes": [
+    "jokes",
+    "wordplay",
+    "education",
+    "daily life"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "El escritor joven. — ¿Por qué ha puesto usted mi novela con los libros de medicina ?",
+      "base": ""
+    },
+    {
+      "line": 2,
+      "target": "El editor. — Porque la encuentro excelente para hacer (enviar) dormir a la gente.",
+      "base": ""
+    },
+    {
+      "line": 3,
+      "target": "Profesora. — ¿Qué está mal en esta frase: «El caballo y la vaca está en el campo» ?",
+      "base": ""
+    },
+    {
+      "line": 4,
+      "target": "Niña. — Por favor, señorita, las señoras primero.",
+      "base": ""
+    },
+    {
+      "line": 5,
+      "target": "Profesor. — ¿Cómo se protege usted del agua contaminada ?",
+      "base": ""
+    },
+    {
+      "line": 6,
+      "target": "Estudiante. — Bebo cerveza.",
+      "base": ""
+    },
+    {
+      "line": 7,
+      "target": "Johnny. — Abuelo, un bebé fue alimentado con leche de elefante y aumentó (ganó) veinte libras [de peso] en una semana.",
+      "base": ""
+    },
+    {
+      "line": 8,
+      "target": "Abuelo. — Eso es imposible. ¿De quién [es] el bebé ?",
+      "base": ""
+    },
+    {
+      "line": 9,
+      "target": "Johnny. — Del elefante.",
+      "base": ""
+    },
+    {
+      "line": 10,
+      "target": "Una tía quería ver cuál de sus sobrinas era la más educada.",
+      "base": ""
+    },
+    {
+      "line": 11,
+      "target": "Entonces puso en una bandeja una manzana pequeña y otra grande.",
+      "base": "so she put one small apple and one big one on a plate."
+    },
+    {
+      "line": 12,
+      "target": "Veamos quién tiene mejores modales.",
+      "base": "Let's see who has the best manners."
+    },
+    {
+      "line": 13,
+      "target": "Ella [los] tiene, dijo Joan, cogiendo la más grande.",
+      "base": "She has, said Joan, taking the biggest."
+    },
+    {
+      "line": 14,
+      "target": "No se olvide de aprender algunos verbos irregulares de vez en cuando.",
+      "base": "Do not forget to learn a few irregular verbs from time to time."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "El editor. — Porque la encuentro excelente para hacer (enviar) dormir a la gente.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:enviar"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Niña. — Por favor, señorita, las señoras primero.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Estudiante. — Bebo cerveza.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Johnny. — Del elefante.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Veamos quién tiene mejores modales.",
+      "reasons": [
+        "short_response",
+        "vocab:modales"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "en4ai-send",
+    "en4ai-enviar",
+    "en4ai-teacher",
+    "en4ai-professor",
+    "en4ai-feed",
+    "en4ai-alimentar",
+    "en4ai-baby",
+    "en4ai-bebe",
+    "en4ai-manners",
+    "en4ai-modales"
+  ]
+}

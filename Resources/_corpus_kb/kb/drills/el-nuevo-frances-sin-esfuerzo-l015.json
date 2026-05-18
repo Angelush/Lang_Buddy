@@ -1,0 +1,165 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l015",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 15,
+  "title": "Les petites annonces",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/15 Leçon 15.mp3",
+  "themes": [
+    "work",
+    "advertising",
+    "social"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Recherche jeune fille pour garder mes_enfants le soir.",
+      "base": "Busco chica joven para cuidar a mis hijos por la tarde.",
+      "pronunciation": ".. jénfill... mesantán"
+    },
+    {
+      "line": 2,
+      "target": "Téléphoner le matin au 20. 31. 56",
+      "base": "Telefonear por la mañana al 203156.",
+      "pronunciation": ".. vèn tranteën sènkank'sis"
+    },
+    {
+      "line": 3,
+      "target": "Je vends un canapé et deux fauteuils modernes. Prix à débattre.",
+      "base": "Vendo un sofá y 2 sillones modernos. Precio a convenir (debatir).",
+      "pronunciation": "..van...fotëy... pri"
+    },
+    {
+      "line": 4,
+      "target": "A louer. Petit studio. Calme et clair. Salle de bains.",
+      "base": "Alquilo (Para alquilar). Pequeño estudio. Tranquilo y luminoso (claro). Baño (Sala de baño).",
+      "pronunciation": "a lué péti sal dé bèn"
+    },
+    {
+      "line": 5,
+      "target": "Ecrire à Mme DELAYE, 3 boulevard Malesherbes, Paris huitième.",
+      "base": "Escribir a Sra. DELAYE, 3 boulevard Malesherbes, París 8.",
+      "pronunciation": ".. malserb'"
+    },
+    {
+      "line": 6,
+      "target": "-Bonjour Madame. Je vous __ appelle au sujet de votre annonce.",
+      "base": "Buenos días señora. La llamo con respecto al (a su) anuncio.",
+      "pronunciation": "..osüjé ... votr anons"
+    },
+    {
+      "line": 7,
+      "target": "-Très bien. Comment vous __appelez-vous ?",
+      "base": "Muybien. ¿ Cómo se llama (usted) ?"
+    },
+    {
+      "line": 8,
+      "target": "-Je m'appelle Martine Lenoir, Madame.",
+      "base": "Me llamo Martine Lenoir, señora."
+    },
+    {
+      "line": 9,
+      "target": "-Et quel âge avez-vous , Martine ?",
+      "base": "¿ Y qué edad tiene (usted), Martine ?"
+    },
+    {
+      "line": 10,
+      "target": "-J'ai quatorze _ans, Madame.",
+      "base": "Tengo 14 años, señora.",
+      "pronunciation": "..katorz"
+    },
+    {
+      "line": 11,
+      "target": "-Oh, mais vous êtes beaucoup trop jeune !",
+      "base": "¡Ah!; Pero usted es (mucho) demasiado joven !",
+      "pronunciation": ".. vuzèt bocú tro"
+    },
+    {
+      "line": 12,
+      "target": "Je suis désolée . Au revoir.",
+      "base": "Lo siento. Adiós.",
+      "pronunciation": ".. dezolé"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Recherche (1) jeune fille pour garder mes_enfants le soir.",
+      "reasons": [
+        "vocab:garder"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Je vends un canapé et deux fauteuils modernes. Prix à débattre.",
+      "reasons": [
+        "vocab:fauteuil"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "A louer. Petit studio. Calme et clair. Salle de bains.",
+      "reasons": [
+        "vocab:louer"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "-Bonjour Madame. Je vous __ appelle au sujet (3) de votre annonce.",
+      "reasons": [
+        "vocab:annonce"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "-Très bien. Comment vous __appelez-vous (4) ?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "-Je m'appelle Martine Lenoir, Madame.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "-Et quel âge avez-vous (5), Martine ?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "-J'ai quatorze _ans, Madame.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Je suis désolée (7). Au revoir.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "annonce",
+    "garder",
+    "vendre",
+    "fr1-canapé",
+    "fauteuil",
+    "louer",
+    "studio",
+    "clair",
+    "sujet",
+    "fr1-desolée"
+  ]
+}

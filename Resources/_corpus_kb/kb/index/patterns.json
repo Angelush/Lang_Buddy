@@ -1,0 +1,650 @@
+{
+  "passer-temps-a": {
+    "title": "passer [temps] à [infinitif]",
+    "form": "passer [temps] à [infinitif]",
+    "function": "expresar duración de una actividad",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/passer-temps-a.md"
+  },
+  "en4ai-used-to-be": {
+    "title": "used to be",
+    "form": "used to be",
+    "function": "past state/habit",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-used-to-be.md"
+  },
+  "i-hope-not": {
+    "title": "I hope not",
+    "form": "I hope not",
+    "function": "expresar deseo de que algo no suceda",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/i-hope-not.md"
+  },
+  "make-love-to": {
+    "title": "make love to",
+    "form": "make love to",
+    "function": "hacer la corte a (histórico)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/make-love-to.md"
+  },
+  "i-d-better": {
+    "title": "I'd better <verb>",
+    "form": "I'd better <verb>",
+    "function": "Advising or deciding a better course of action",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/i-d-better.md"
+  },
+  "enp3b": {
+    "title": "be that as it may",
+    "form": "be that as it may",
+    "function": "concesión; pesar de todo; sea como sea",
+    "target_lang": "",
+    "cefr": "C1",
+    "file_path": "kb/patterns/enp3b.md"
+  },
+  "by-heart": {
+    "title": "by heart",
+    "form": "by heart",
+    "function": "de memoria",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/by-heart.md"
+  },
+  "en4ai-make-up-your-mind": {
+    "title": "make up one's mind",
+    "form": "make up one's mind",
+    "function": "reaching a decision",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-make-up-your-mind.md"
+  },
+  "en4ai-make-yourself-understood": {
+    "title": "make oneself understood",
+    "form": "make oneself understood",
+    "function": "ability to communicate effectively",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-make-yourself-understood.md"
+  },
+  "se-faire-comprendre": {
+    "title": "se faire + infinitif",
+    "form": "se faire + infinitif",
+    "function": "causativo reflexivo (hacerse entender/reír)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/se-faire-comprendre.md"
+  },
+  "y-pronoun": {
+    "title": "Pronoun Y",
+    "form": "y + verb",
+    "function": "pronoun replacing à + complement / locative",
+    "target_lang": "fr",
+    "cefr": "A2",
+    "file_path": "kb/patterns/y-pronoun.md"
+  },
+  "de-plus-en-plus": {
+    "title": "de plus en plus",
+    "form": "de plus en plus",
+    "function": "progresión (cada vez más)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/de-plus-en-plus.md"
+  },
+  "what-does-do": {
+    "title": "What does [subject] do?",
+    "form": "What does [subject] do?",
+    "function": "Ask about profession or action",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/what-does-do.md"
+  },
+  "knock-over": {
+    "title": "knock over",
+    "form": "knock over",
+    "function": "atropellar / hacer caer",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/knock-over.md"
+  },
+  "make-sure": {
+    "title": "make sure",
+    "form": "make sure",
+    "function": "asegurarse de algo",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/make-sure.md"
+  },
+  "quelque-chose-de": {
+    "title": "quelque chose de + adjectif",
+    "form": "quelque chose de + adjectif",
+    "function": "something [adjective]",
+    "target_lang": "",
+    "cefr": "B1",
+    "file_path": "kb/patterns/quelque-chose-de.md"
+  },
+  "venir-de": {
+    "title": "venir de + infinitif",
+    "form": "venir de + infinitif",
+    "function": "recent past (to have just done something)",
+    "target_lang": "",
+    "cefr": "B1",
+    "file_path": "kb/patterns/venir-de.md"
+  },
+  "enp1aii": {
+    "title": "the + plural-form country name",
+    "form": "the + plural-form country name",
+    "function": "definite article with countries that are plural in form (United States, Netherlands, Maldives)",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/enp1aii.md"
+  },
+  "il-ne-reste-que": {
+    "title": "ne ... que",
+    "form": "ne ... que",
+    "function": "restricción (solo, no queda más que)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/il-ne-reste-que.md"
+  },
+  "en4ai-make-do-with": {
+    "title": "make do with [something]",
+    "form": "make do with [something]",
+    "function": "managing with what is available",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-make-do-with.md"
+  },
+  "dont": {
+    "title": "dont",
+    "form": "dont",
+    "function": "pronombre relativo (del cual, de los que)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/dont.md"
+  },
+  "fr3b": {
+    "title": "D'habitude, [subject] [verb]",
+    "form": "D'habitude, [subject] [verb]",
+    "function": "Expressing habitual actions",
+    "target_lang": "",
+    "cefr": "B1",
+    "file_path": "kb/patterns/fr3b.md"
+  },
+  "en4ai-make-a-choice": {
+    "title": "make a choice",
+    "form": "make a choice",
+    "function": "deciding between options",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-make-a-choice.md"
+  },
+  "ca-fait": {
+    "title": "Ça fait ...",
+    "form": "Ça fait ...",
+    "function": "total / cost",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/ca-fait.md"
+  },
+  "voila-voici": {
+    "title": "Voilà / Voici",
+    "form": "Voilà / Voici",
+    "function": "presentative",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/voila-voici.md"
+  },
+  "at-once": {
+    "title": "at once",
+    "form": "at once",
+    "function": "de inmediato / enseguida",
+    "target_lang": "",
+    "cefr": "B1",
+    "file_path": "kb/patterns/at-once.md"
+  },
+  "quand-futur": {
+    "title": "quand + futur... futur",
+    "form": "quand + futur... futur",
+    "function": "correlación temporal en futuro (cuando + subjuntivo en ES)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/quand-futur.md"
+  },
+  "remind-me-of": {
+    "title": "remind me of",
+    "form": "remind me of",
+    "function": "recordar a (alguien/algo)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/remind-me-of.md"
+  },
+  "enp2ai": {
+    "title": "so much so that",
+    "form": "so much so that",
+    "function": "consecutive clause (tal... que)",
+    "target_lang": "",
+    "cefr": "A2",
+    "file_path": "kb/patterns/enp2ai.md"
+  },
+  "en4ai-drawing-up": {
+    "title": "draw up [a document]",
+    "form": "draw up [a document]",
+    "function": "drafting or writing a formal document",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-drawing-up.md"
+  },
+  "ni-ni": {
+    "title": "ni... ni...",
+    "form": "ni... ni...",
+    "function": "negación doble",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/ni-ni.md"
+  },
+  "comment-ca-va": {
+    "title": "Comment ça va ?",
+    "form": "Comment ça va ?",
+    "function": "greeting",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/comment-ca-va.md"
+  },
+  "d-une-pierre-deux-coups": {
+    "title": "faire d'une pierre deux coups",
+    "form": "faire d'une pierre deux coups",
+    "function": "matar dos pájaros de un tiro",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/d-une-pierre-deux-coups.md"
+  },
+  "have-been-to": {
+    "title": "have you ever been to <place>",
+    "form": "have you ever been to <place>",
+    "function": "Asking about experience visiting a place",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/have-been-to.md"
+  },
+  "en1a": {
+    "title": "How are you?",
+    "form": "How are you?",
+    "function": "greeting and asking about well-being",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/en1a.md"
+  },
+  "i-wonder": {
+    "title": "I wonder",
+    "form": "I wonder",
+    "function": "expresar curiosidad / preguntarse",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/i-wonder.md"
+  },
+  "ne-point": {
+    "title": "ne ... point",
+    "form": "ne ... point",
+    "function": "negación enfática (más que ne...pas)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/ne-point.md"
+  },
+  "enp1ai": {
+    "title": "say vs tell",
+    "form": "say vs tell",
+    "function": "distinguishing direct/indirect speech (say) from content reporting to someone (tell + obj)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/enp1ai.md"
+  },
+  "look-well": {
+    "title": "look well",
+    "form": "look well",
+    "function": "tener buen aspecto",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/look-well.md"
+  },
+  "assis-pipe": {
+    "title": "une pipe à la bouche / des chaussures aux pieds",
+    "form": "une pipe à la bouche / des chaussures aux pieds",
+    "function": "describing state/clothing without 'with' or 'having'",
+    "target_lang": "",
+    "cefr": "B1",
+    "file_path": "kb/patterns/assis-pipe.md"
+  },
+  "in-order-to": {
+    "title": "in order to",
+    "form": "in order to",
+    "function": "para (propósito)",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/in-order-to.md"
+  },
+  "enp2b": {
+    "title": "get rid of",
+    "form": "get rid of",
+    "function": "deshacerse de",
+    "target_lang": "",
+    "cefr": "C1",
+    "file_path": "kb/patterns/enp2b.md"
+  },
+  "en-pronoun": {
+    "title": "Pronoun EN",
+    "form": "en + verb",
+    "function": "pronoun replacing de + complement / partitive",
+    "target_lang": "fr",
+    "cefr": "A2",
+    "file_path": "kb/patterns/en-pronoun.md"
+  },
+  "abbreviations": {
+    "title": "e.g., i.e.",
+    "form": "e.g., i.e.",
+    "function": "Used for examples and clarification",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/abbreviations.md"
+  },
+  "i-want-you-to": {
+    "title": "I want you to <verb>",
+    "form": "I want you to <verb>",
+    "function": "Requesting someone to do something",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/i-want-you-to.md"
+  },
+  "i-had-better": {
+    "title": "I had better [verb]",
+    "form": "I had better [verb]",
+    "function": "Expressing a strong suggestion or necessity for oneself",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/i-had-better.md"
+  },
+  "used-to-doing": {
+    "title": "used to doing",
+    "form": "used to doing",
+    "function": "estar acostumbrado a",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/used-to-doing.md"
+  },
+  "do-you-mind": {
+    "title": "Do you mind if I [verb]?",
+    "form": "Do you mind if I [verb]?",
+    "function": "Politely ask for permission",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/do-you-mind.md"
+  },
+  "take-for-granted": {
+    "title": "take for granted",
+    "form": "take for granted",
+    "function": "dar por sentado",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/take-for-granted.md"
+  },
+  "en4aii": {
+    "title": "ought to + verb",
+    "form": "ought to + verb",
+    "function": "giving advice or recommendations",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4aii.md"
+  },
+  "en4ai-worth-buying": {
+    "title": "be worth [verb]-ing",
+    "form": "be worth [verb]-ing",
+    "function": "express the value of an action",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-worth-buying.md"
+  },
+  "il-y-a": {
+    "title": "Il y a ...",
+    "form": "Il y a ...",
+    "function": "existential",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/il-y-a.md"
+  },
+  "like-a-fish": {
+    "title": "drink like a fish",
+    "form": "drink like a fish",
+    "function": "beber muchísimo / como un pez",
+    "target_lang": "",
+    "cefr": "A2",
+    "file_path": "kb/patterns/like-a-fish.md"
+  },
+  "est-ce-que": {
+    "title": "Est-ce que ... ?",
+    "form": "Est-ce que ... ?",
+    "function": "interrogative",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/est-ce-que.md"
+  },
+  "nothing-wrong-with": {
+    "title": "nothing wrong with",
+    "form": "nothing wrong with",
+    "function": "no pasa nada con",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/nothing-wrong-with.md"
+  },
+  "question-tags": {
+    "title": "..., isn't it?",
+    "form": "..., isn't it?",
+    "function": "pedir confirmación",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/question-tags.md"
+  },
+  "en4ai-sending-people-to-sleep": {
+    "title": "send someone to sleep",
+    "form": "send someone to sleep",
+    "function": "idiom for making someone bored/tired",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-sending-people-to-sleep.md"
+  },
+  "en4ai": {
+    "title": "send someone to sleep",
+    "form": "send someone to sleep",
+    "function": "hacer dormir a alguien",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai.md"
+  },
+  "it-takes": {
+    "title": "it takes (time)",
+    "form": "it takes (time)",
+    "function": "se tarda (tiempo)",
+    "target_lang": "",
+    "cefr": "A2",
+    "file_path": "kb/patterns/it-takes.md"
+  },
+  "ca-va": {
+    "title": "Ça va",
+    "form": "Ça va",
+    "function": "status inquiry / response",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/ca-va.md"
+  },
+  "en4ai-more-than-i-need": {
+    "title": "more than I need",
+    "form": "more than I need",
+    "function": "express excess of requirement",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-more-than-i-need.md"
+  },
+  "enp1b": {
+    "title": "believe in (X) vs believe (X)",
+    "form": "believe in (X) vs believe (X)",
+    "function": "express acceptance of existence/truth of abstract concepts vs trust in a person's words",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/enp1b.md"
+  },
+  "neither-do-i": {
+    "title": "neither do I",
+    "form": "neither do I",
+    "function": "yo tampoco",
+    "target_lang": "",
+    "cefr": "A2",
+    "file_path": "kb/patterns/neither-do-i.md"
+  },
+  "fr2b": {
+    "title": "Jouer de [instrument]",
+    "form": "Jouer de [instrument]",
+    "function": "Tocar un instrumento musical",
+    "target_lang": "",
+    "cefr": "A2",
+    "file_path": "kb/patterns/fr2b.md"
+  },
+  "enp2aii": {
+    "title": "is far from rosy",
+    "form": "is far from rosy",
+    "function": "express strong negative assessment (lit. not like a rose)",
+    "target_lang": "",
+    "cefr": "A2",
+    "file_path": "kb/patterns/enp2aii.md"
+  },
+  "could-have-been": {
+    "title": "could have been",
+    "form": "could have been",
+    "function": "podría haber sido",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/could-have-been.md"
+  },
+  "je-vous-en-prie": {
+    "title": "Je vous en prie",
+    "form": "Je vous en prie",
+    "function": "polite response",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/je-vous-en-prie.md"
+  },
+  "enp3a": {
+    "title": "Will that be...?",
+    "form": "Will that be...?",
+    "function": "offering options in service contexts",
+    "target_lang": "",
+    "cefr": "C1",
+    "file_path": "kb/patterns/enp3a.md"
+  },
+  "en4ai-used-to-looking-after": {
+    "title": "be used to [verb]-ing",
+    "form": "be used to [verb]-ing",
+    "function": "express being accustomed to an action",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-used-to-looking-after.md"
+  },
+  "better-than": {
+    "title": "better than",
+    "form": "better than",
+    "function": "mejor que (comparativo)",
+    "target_lang": "",
+    "cefr": "A2",
+    "file_path": "kb/patterns/better-than.md"
+  },
+  "en4ai-set-off": {
+    "title": "set off",
+    "form": "set off",
+    "function": "starting a journey",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-set-off.md"
+  },
+  "pas-du-tout": {
+    "title": "Pas du tout",
+    "form": "Pas du tout",
+    "function": "strong negation",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/pas-du-tout.md"
+  },
+  "as-vs-like": {
+    "title": "as vs like",
+    "form": "as vs like",
+    "function": "Used for comparisons",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/as-vs-like.md"
+  },
+  "en2b": {
+    "title": "Is X singular or plural?",
+    "form": "Is X singular or plural?",
+    "function": "Question about noun number",
+    "target_lang": "",
+    "cefr": "B1",
+    "file_path": "kb/patterns/en2b.md"
+  },
+  "ou-est": {
+    "title": "Où est ... ?",
+    "form": "Où est ... ?",
+    "function": "location inquiry",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/ou-est.md"
+  },
+  "en4bi": {
+    "title": "present continuous for current activities",
+    "form": "present continuous for current activities",
+    "function": "describing ongoing actions",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4bi.md"
+  },
+  "criticise-for": {
+    "title": "criticise for",
+    "form": "criticise for",
+    "function": "criticar por",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/criticise-for.md"
+  },
+  "en4ai-agree-on": {
+    "title": "agree on [something]",
+    "form": "agree on [something]",
+    "function": "express agreement regarding a specific topic",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-agree-on.md"
+  },
+  "en4ai-ladies-first": {
+    "title": "ladies first",
+    "form": "ladies first",
+    "function": "polite social convention",
+    "target_lang": "",
+    "cefr": "B2",
+    "file_path": "kb/patterns/en4ai-ladies-first.md"
+  },
+  "ne-plus": {
+    "title": "ne ... plus",
+    "form": "ne ... plus",
+    "function": "no longer",
+    "target_lang": "",
+    "cefr": "B1",
+    "file_path": "kb/patterns/ne-plus.md"
+  },
+  "a-quelle-heure": {
+    "title": "À quelle heure ... ?",
+    "form": "À quelle heure ... ?",
+    "function": "time inquiry",
+    "target_lang": "",
+    "cefr": "A1",
+    "file_path": "kb/patterns/a-quelle-heure.md"
+  }
+}

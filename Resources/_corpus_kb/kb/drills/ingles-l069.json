@@ -1,0 +1,79 @@
+{
+  "lesson_id": "ingles-l069",
+  "source": "ingles",
+  "lesson": 69,
+  "title": "A funny misunderstanding",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 069 - Anglais.mp3",
+  "themes": [
+    "humor",
+    "misunderstanding",
+    "workplace"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Excuse me, doesn’t my nephew Peter Bates — work in this office?",
+      "base": ".. dasent... nefiu... pité beits... — 2 ... ánkel... funeral..."
+    },
+    {
+      "line": 2,
+      "target": "Oh, you're his uncle. He went* to your funeral this morning.",
+      "base": "Oh, es usted su tío. Se ha ido a su entierro esta mañana."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Excuse me, doesn’t my nephew Peter Bates — work in this office? (1)",
+      "reasons": [
+        "vocab:bates"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Oh, you're his uncle. He went* to your funeral this morning.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:uncle"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "excuse-me",
+    "nephew",
+    "en2b-Peter-Bates",
+    "work",
+    "office",
+    "uncle",
+    "funeral",
+    "this-morning",
+    "whisky",
+    "bottles",
+    "cellar",
+    "darling",
+    "bought",
+    "empty",
+    "life",
+    "people",
+    "about-half",
+    "en2b-Thomas",
+    "en2b-Jones",
+    "shopping-centre",
+    "pram",
+    "little-boys",
+    "inside",
+    "beautiful",
+    "children",
+    "doctor",
+    "lawyer",
+    "forgot",
+    "wifes-birthday",
+    "en2b-What-did-she-say",
+    "en2b-Nothing",
+    "alright",
+    "three-weeks"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l045",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 45,
+  "title": "M. Duclos trouve son client",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/45 Leçon 45.mp3",
+  "themes": [
+    "miscommunication",
+    "hotel",
+    "travel",
+    "apologies"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "M. Duclos se sent tres géné à cause de",
+      "base": "[El] Sr. Duclos se siente muy molesto a causa de su",
+      "pronunciation": "..sésen...cas'... sonérrér"
+    },
+    {
+      "line": 2,
+      "target": "Derrière lui, une voix dit : -Vous me",
+      "base": "Detrás de él una voz dice :-¿ Me busca por"
+    },
+    {
+      "line": 3,
+      "target": "Je suis Maurice Chavan. Heureux de vous",
+      "base": "Yo soy Maurice Chavan. Encantado (Feliz) de",
+      "pronunciation": ".. moris schaván"
+    },
+    {
+      "line": 4,
+      "target": "md Je suis Michel Duclos de",
+      "base": "Encantado. Yo soy Michel Duclos de la...",
+      "pronunciation": "anschanté"
+    },
+    {
+      "line": 5,
+      "target": "Je sais, répond le Suisse avec un sourire",
+      "base": "Lo sé, responde el suizo con una sonrisa irónica.",
+      "pronunciation": ".. surrir ironik"
+    },
+    {
+      "line": 6,
+      "target": "Euh... Voulez-vous me suivre ?",
+      "base": "Eh... ¿Quiere seguirme? Vamos a (buscar) por"
+    },
+    {
+      "line": 7,
+      "target": "Les deux __ hommes se dirigent vers",
+      "base": "Los dos hombres se dirigen hacia los ascensores.",
+      "pronunciation": ".. dirij ... lasansër"
+    },
+    {
+      "line": 8,
+      "target": "J'espère que vous__avez fait un bon",
+      "base": "¿Espero que haya hecho un buen viaje?"
+    },
+    {
+      "line": 9,
+      "target": "Oui, ce n’était pas mal , quoique",
+      "base": "Sí, no ha estado (estaba) mal, aunque no me gusta",
+      "pronunciation": "..kuaké"
+    },
+    {
+      "line": 10,
+      "target": "Voulez-vous aller tout de suite à votre",
+      "base": "¿Quiere ir enseguida a su hotel"
+    },
+    {
+      "line": 11,
+      "target": "ou voulez-vous passer au bureau d'a-",
+      "base": "o quiere pasar primero (a) por la oficina?"
+    },
+    {
+      "line": 12,
+      "target": "Non, je veux prendre une douche et me",
+      "base": "No, antes de nada (todo) quiero tomar una ducha y"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Derrière lui, une voix dit : -Vous me",
+      "reasons": [
+        "short_response",
+        "vocab:voix"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Je suis Maurice Chavan. Heureux de vous",
+      "reasons": [
+        "short_response",
+        "vocab:heureux"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "md Je suis Michel Duclos de",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Je sais, répond le Suisse avec un sourire",
+      "reasons": [
+        "short_response",
+        "vocab:sourire"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Euh... Voulez-vous me suivre ?",
+      "reasons": [
+        "short_response",
+        "vocab:suivre"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Les deux __ hommes se dirigent vers",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "J'espère que vous__avez fait (4) un bon",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Oui, ce n’était pas mal (5), quoique (6)",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Voulez-vous aller tout de suite à votre",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "ou voulez-vous passer au bureau d'a-",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Non, je veux prendre une douche et me",
+      "reasons": [
+        "short_response",
+        "vocab:douche"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "gene",
+    "erreur",
+    "derriere",
+    "voix",
+    "peut-etre",
+    "heureux",
+    "connaitre",
+    "fr2b-enschanté",
+    "sourire",
+    "ironique",
+    "suivre",
+    "voiture",
+    "ascenseur",
+    "voyage",
+    "avion",
+    "douche",
+    "raser"
+  ]
+}

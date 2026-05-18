@@ -1,0 +1,197 @@
+{
+  "lesson_id": "ingles-l040",
+  "source": "ingles",
+  "lesson": 40,
+  "title": "Useful expressions",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 040 - Anglais.mp3",
+  "themes": [
+    "Useful expressions",
+    "Comparisons",
+    "Etiquette"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Can I help you? — Yes, I'm looking for...",
+      "base": "¿Puedo ayudarle ? — Sí, busco (por)..."
+    },
+    {
+      "line": 2,
+      "target": "Please sit down. You look tired.",
+      "base": "Por favor, siéntese. Parece usted cansado.",
+      "pronunciation": "luk taléd — 4... taun senté? — 5 ... laardché... smoolé... — 6 ... meik ¡órsell... — 7 ... águein. — 8 ... biltrut... neidzé duai. — 9 kaant... — MH ... fuéntli... — 12... sloué... — 13... edinbér."
+    },
+    {
+      "line": 3,
+      "target": "Have a drink. What will you have?",
+      "base": "Tome algo de beber. ¿ Qué desea ?"
+    },
+    {
+      "line": 4,
+      "target": "Can you tell me the way to the town centre? (N. 3)",
+      "base": "¿Puede decirme el camino para el centro de la ciudad ?"
+    },
+    {
+      "line": 5,
+      "target": "London is larger than Paris but smaller than New York.",
+      "base": "Londres es más grande que París pero más pequeño que Nueva York."
+    },
+    {
+      "line": 6,
+      "target": "Please come in. Make yourself at home.",
+      "base": "Por favor, entre. Siéntase como en su casa (« hágase en casa »)."
+    },
+    {
+      "line": 7,
+      "target": "Sorry, say that again.",
+      "base": "Lo siento, digamelo de nuevo."
+    },
+    {
+      "line": 8,
+      "target": "I don't like beetroot. — No, neither do I.",
+      "base": "No me gusta la remolacha. No, a mí tampoco."
+    },
+    {
+      "line": 9,
+      "target": "Can't you do better than that?",
+      "base": "¿ No puedes hacerlo mejor (que eso) ?"
+    },
+    {
+      "line": 10,
+      "target": "This lesson is more interesting than the first one.",
+      "base": "Esta lección es más interesante que la primera (una)."
+    },
+    {
+      "line": 11,
+      "target": "I can't speak English fluently yet, but I can understand quite well.",
+      "base": "Aún no hablo inglés con fluidez, pero puedo entender muy bien."
+    },
+    {
+      "line": 12,
+      "target": "Please speak a little slower. Thanks.",
+      "base": "Por favor hable un poco más despacio. Gracias."
+    },
+    {
+      "line": 13,
+      "target": "How far is it from London to Edinburgh?",
+      "base": "¿ Que distancia hay (cómo lejos es) de Londres a Edimburgo ?"
+    },
+    {
+      "line": 14,
+      "target": "He won't speak to you, he's in a bad mood.",
+      "base": "No quiere hablarte, está de mal humor."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Can I help you? — Yes, I'm looking for...",
+      "reasons": [
+        "vocab:look"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Please sit down. You look tired. (1)",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:look"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Have a drink. What will you have?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Can you tell me the way to the town centre? (N. 3)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "London is larger than Paris but smaller than New York.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Please come in. Make yourself at home.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Sorry, say that again.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "I don't like beetroot. — No, neither do I. (2)",
+      "reasons": [
+        "vocab:beetroot"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Can't you do better than that?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "This lesson is more interesting than the first one.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "I can't speak English fluently yet, but I can understand quite well.",
+      "reasons": [
+        "vocab:fluently"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Please speak a little slower. Thanks.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "How far is it from London to Edinburgh?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "He won't speak to you, he's in a bad mood. (3)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:mood"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "look",
+    "beetroot",
+    "fluently",
+    "mood"
+  ]
+}

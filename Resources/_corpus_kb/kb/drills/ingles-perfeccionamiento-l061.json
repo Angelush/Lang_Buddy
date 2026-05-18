@@ -1,0 +1,39 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l061",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 61,
+  "title": "The silver screen",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/61 Lesson 61.mp3",
+  "themes": [
+    "cinema",
+    "Hollywood",
+    "entertainment industry",
+    "cultural history"
+  ],
+  "lines": [],
+  "gap_candidates": [],
+  "vocab_introduced": [
+    "silver-screen",
+    "movie-maker",
+    "orange-groves",
+    "studio-mogul",
+    "oscars",
+    "dream-factory",
+    "blockbuster",
+    "star-studded",
+    "miscast",
+    "bankable-star",
+    "turkey-film",
+    "talent-scout",
+    "drugstore",
+    "ice-cream-soda",
+    "moviegoer",
+    "thrill",
+    "escapism",
+    "make-it-big",
+    "credits"
+  ]
+}

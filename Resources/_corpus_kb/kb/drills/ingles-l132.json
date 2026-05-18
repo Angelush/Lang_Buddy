@@ -1,0 +1,94 @@
+{
+  "lesson_id": "ingles-l132",
+  "source": "ingles",
+  "lesson": 132,
+  "title": "More about letters",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil Inglés/Audio/Lesson 132 - Anglais.mp3",
+  "themes": [
+    "business",
+    "letters"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Did you notice how simple the style of the",
+      "base": "¿Se ha dado usted cuenta de lo simple que era"
+    },
+    {
+      "line": 2,
+      "target": "In an English letter, and especially a busi-",
+      "base": "En una carta inglesa, y especialmente en una carta"
+    },
+    {
+      "line": 3,
+      "target": "There are no frills or extravagant saluta-",
+      "base": "No hay términos afectados o saludos extravagantes"
+    },
+    {
+      "line": 4,
+      "target": "Our Miss Watson could have written* her",
+      "base": "Nuestra Srta. Watson podría haber escrito la his-"
+    },
+    {
+      "line": 5,
+      "target": "but she did not, and it worked. Simplicity",
+      "base": "pero no lo hizo, y funcionó. La simplicidad siempre"
+    },
+    {
+      "line": 6,
+      "target": "In official correspondence, the English use",
+      "base": "En la correspondencia oficial, se usan, en inglés,"
+    },
+    {
+      "line": 7,
+      "target": "“ That is to say ”' is written* “ ¡.e.” (from",
+      "base": "« Es decir » se escribe je. — del latin id est —."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "In an English letter, and especially a busi-",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "There are no frills or extravagant saluta-",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Our Miss Watson could have written* her",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "but she did not, and it worked. Simplicity",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "In official correspondence, the English use",
+      "reasons": [
+        "short_response",
+        "vocab:correspondence"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "plain",
+    "correspondence"
+  ]
+}

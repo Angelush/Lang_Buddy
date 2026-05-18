@@ -1,0 +1,69 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l093",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 93,
+  "title": "Leçon 93",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/93 Leçon 93.mp3",
+  "themes": [
+    "train-travel",
+    "regulations"
+  ],
+  "lines": [
+    {
+      "line": 11,
+      "target": "Venez avec moi. Vous _ aurez une amende !",
+      "base": "Venga conmigo. ¡ Le pondré (tendrá) una multa !"
+    },
+    {
+      "line": 12,
+      "target": "Quand__jls sont partis, un autre passager demande à Mr C. :",
+      "base": "e se han ido, otro viajero (pasajero) pregunta al Sr. C. :"
+    },
+    {
+      "line": 13,
+      "target": "Dites-moi, comment avez-vous su que l’autre n’était pas en règle ?",
+      "base": "Dígame, ¿ cómo ha sabido que el otro no estaba en regla ?"
+    },
+    {
+      "line": 14,
+      "target": "C'était facile. Son billet dépassait de sa poche",
+      "base": "Era fácil. ¡ Su billete sobresalía de su bolsillo"
+    },
+    {
+      "line": 15,
+      "target": "et j'ai vu qu'il avait la même couleur que le mien !",
+      "base": "y he visto que tenía el mismo color que el mío !"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 11,
+      "target": "Venez avec moi. Vous _ aurez une amende (6) !",
+      "reasons": [
+        "vocab:amende"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Dites-moi, comment avez-vous su que l’autre n’était pas en règle (7) ?",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "C'était facile. Son billet dépassait de sa poche",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "amende",
+    "en-regle"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l075",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 75,
+  "title": "Une consultation efficace",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/75 Leçon 75.mp3",
+  "themes": [
+    "health",
+    "medicine",
+    "diagnosis",
+    "humor"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Le docteur Leblond est non seulement médecin, mais un peu psychiatre aussi .",
+      "base": "El doctor L. no es médico solamente, sino que también es un poco psiquiatra.",
+      "pronunciation": ".. psikiatr’"
+    },
+    {
+      "line": 2,
+      "target": "Un jour, un homme entre dans son cabinet",
+      "base": "Un día, un hombre entra en su consulta",
+      "pronunciation": "..cabiné"
+    },
+    {
+      "line": 3,
+      "target": "en se plaignant de maux de tête affreux.",
+      "base": "quejándose de unos dolores (males) de cabeza horrorosos.",
+      "pronunciation": ".. pleñän … tèt afrë"
+    },
+    {
+      "line": 4,
+      "target": "Alors, dit le docteur, ça dure depuis combien de temps ?",
+      "base": "Bueno, (entonces) dice el doctor, (¿eso dura desde cuánto tiempo?) ¿cuánto tiempo hace que le ocurre eso?"
+    },
+    {
+      "line": 5,
+      "target": "Oh, depuis que je suis au monde. Enfin, depuis quelques années.",
+      "base": "Oh, desde que vine al (estoy en el) mundo. En fin, desde hace algunos años."
+    },
+    {
+      "line": 6,
+      "target": "Et vous avez mal maintenant ? -Oh que oui, docteur.",
+      "base": "¿Y ahora le duele? (¿Y tiene mal ahora?) - ¡Ay, (que) sí, doctor!"
+    },
+    {
+      "line": 7,
+      "target": "J'ai bigrement mal depuis . . oh, depuis dix minutes.",
+      "base": "Me duele muchísimo desde hace diez minutos.",
+      "pronunciation": ".. bigreman"
+    },
+    {
+      "line": 8,
+      "target": "Qu'est-ce que vous faites comme travail ? -Je suis guitariste de rock.",
+      "base": "¿En qué trabaja? (¿Qué hace como trabajo?) - Soy guitarrista de rock."
+    },
+    {
+      "line": 9,
+      "target": "Et où habitez-vous ?",
+      "base": "¿Y dónde vive?",
+      "pronunciation": "..abité... laeropor"
+    },
+    {
+      "line": 10,
+      "target": "J'habite à côté de l'aéroport d'Orly depuis cinq ou six ans .",
+      "base": "Vivo al lado del aeropuerto de Orly desde hace cinco o seis años."
+    },
+    {
+      "line": 11,
+      "target": "Le docteur a compris depuis longtemps.",
+      "base": "El doctor ha comprendido desde hace un buen rato (largo tiempo). Se levanta"
+    },
+    {
+      "line": 12,
+      "target": "Il se lève et va à un placard d'où il sort une énorme scie.",
+      "base": "y va a un armario de donde saca una enorme sierra.",
+      "pronunciation": "…SI"
+    },
+    {
+      "line": 13,
+      "target": "Bon, on va examiner votre cerveau, pour voir...",
+      "base": "Bueno, vamos (se va) a examinar su cerebro para ver...",
+      "pronunciation": "..servó"
+    },
+    {
+      "line": 14,
+      "target": "Ce n’est pas la peine, docteur, je me sens mieux depuis deux minutes. Au revoir !",
+      "base": "No vale (es) la pena, doctor, me siento mejor desde hace dos minutos. ¡Adiós!"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Le docteur Leblond est non seulement médecin, mais un peu psychiatre aussi (1).",
+      "reasons": [
+        "vocab:psychiatre"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Un jour, un homme entre dans son cabinet",
+      "reasons": [
+        "short_response",
+        "vocab:cabinet"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "en se plaignant de maux de tête (2) affreux.",
+      "reasons": [
+        "vocab:plaignant"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Alors, dit le docteur, ça dure depuis combien de temps (2) ?",
+      "reasons": [
+        "vocab:dure"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Oh, depuis que je suis au monde. Enfin, depuis quelques années.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:depuis"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "J'ai bigrement (3) mal depuis . . oh, depuis dix minutes.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:depuis"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Qu'est-ce que vous faites comme travail (4) ? -Je suis guitariste de rock.",
+      "reasons": [
+        "vocab:travail"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Et où habitez-vous ?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "J'habite à côté de l'aéroport d'Orly depuis cinq ou six ans (5).",
+      "reasons": [
+        "answer_to_question",
+        "vocab:aéroport"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Le docteur a compris depuis longtemps.",
+      "reasons": [
+        "short_response",
+        "vocab:temps"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Il se lève et va à un placard d'où il sort une énorme scie.",
+      "reasons": [
+        "vocab:énorme"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Bon, on va examiner votre cerveau, pour voir...",
+      "reasons": [
+        "short_response",
+        "vocab:examiner"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "Ce n’est pas la peine, docteur, je me sens (6) mieux depuis deux minutes. Au revoir !",
+      "reasons": [
+        "vocab:mieux"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "consultation",
+    "efficace",
+    "fr3b-médecin",
+    "psychiatre",
+    "cabinet",
+    "plaignant",
+    "maux-de-tête",
+    "affreux",
+    "fr3b-ça-dure",
+    "temps",
+    "mauvais",
+    "travail",
+    "guitariste",
+    "rock",
+    "habiter",
+    "fr3b-à-côté-de",
+    "fr3b-aéroport",
+    "fr3b-Orly",
+    "comprendre",
+    "placard",
+    "fr3b-énorme",
+    "scie",
+    "examiner",
+    "cerveau",
+    "mieux",
+    "depuis"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l080",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 80,
+  "title": "[OCR missing from source slice]",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/80 Leçon 80.mp3",
+  "themes": [
+    "missing"
+  ],
+  "lines": [],
+  "gap_candidates": [],
+  "vocab_introduced": []
+}

@@ -1,0 +1,162 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l023",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 23,
+  "title": "Le Loto",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/23 Leçon 23.mp3",
+  "themes": [
+    "games",
+    "culture"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Qu'est-ce que vous faites là, Jean ?",
+      "base": "¿ Qué hace ahí, Jean ?"
+    },
+    {
+      "line": 2,
+      "target": "“Je fais mon Loto. C'est un jeu très intéressant. =",
+      "base": "Relleno mi boleto del “Loto” (Hago mi Loto). Es un juego muy interesante."
+    },
+    {
+      "line": 3,
+      "target": "Regardez : vous prenez cette carte et vous choisissez une série de chiffres.",
+      "base": "Mire : usted toma este(a) (carta) boleto y elige una serie de cifras.",
+      "pronunciation": "..schuazisé .. . seri dé xifr'"
+    },
+    {
+      "line": 4,
+      "target": "Par exemple, ici, j'ai le cing, le vingt-deux, le quarante-trois et le quarante huit.",
+      "base": "Por ejemplo, aqui, tengo el 5, le 22, el 43 y el 48.",
+      "pronunciation": "..karant'"
+    },
+    {
+      "line": 5,
+      "target": "Ensuite, vous mettez une croix sur ces chiffres",
+      "base": "Luego, pone una cruz sobre esas cifras",
+      "pronunciation": "ansüit ...crua"
+    },
+    {
+      "line": 6,
+      "target": "et vous donnez la carte au patron du ta-bac.",
+      "base": "y entrega (da) el(a) (carta) boleto al patrón del (tabaco) estanco."
+    },
+    {
+      "line": 7,
+      "target": "-Et alors ? -Ben vous __ attendez les résultats.",
+      "base": "¿ Y qué (entonces) ? - Pues ... espera los resultados.",
+      "pronunciation": "..ban...resiltá"
+    },
+    {
+      "line": 8,
+      "target": "Si vous _ avez choisi les bons chiffres vous gagnez.",
+      "base": "Si ha elegido los números premiados (las buenas cifras), gana.",
+      "pronunciation": "..schuazí...gañé"
+    },
+    {
+      "line": 9,
+      "target": "-Et vous_ avez gagné ? - Non, pas_ encore.",
+      "base": "¿ Y usted ha ganado ? - No, todavia no."
+    },
+    {
+      "line": 10,
+      "target": "-Bon, moi je vais jouer : je choisis le seize ;",
+      "base": "Bueno, voy a jugar : elijo el 16,",
+      "pronunciation": "..yué...18séz"
+    },
+    {
+      "line": 11,
+      "target": "ensuite le treize, le quatorze et le vingt.",
+      "base": "luego el 13, el 14 y el 20.",
+      "pronunciation": "..trez... katorz...vén"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "“Je fais mon Loto. C'est un jeu très intéressant. =",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Regardez : vous prenez cette carte et vous choisissez une série de chiffres.",
+      "reasons": [
+        "vocab:chiffres"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Par exemple, ici, j'ai le cing, le vingt-deux, le quarante-trois et le quarante huit.",
+      "reasons": [
+        "vocab:vingt"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Ensuite, vous mettez une croix sur ces chiffres",
+      "reasons": [
+        "short_response",
+        "vocab:chiffres"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "et vous donnez la carte au patron du ta-bac.",
+      "reasons": [
+        "vocab:carte"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "-Et alors ? -Ben (1) vous __ attendez les résultats.",
+      "reasons": [
+        "vocab:résultats"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Si vous _ avez choisi les bons (2) chiffres vous gagnez.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:chiffres"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "-Bon, moi je vais jouer : je choisis le seize ;",
+      "reasons": [
+        "answer_to_question",
+        "vocab:seize"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "ensuite le treize, le quatorze et le vingt.",
+      "reasons": [
+        "short_response",
+        "vocab:vingt"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "interessant",
+    "carte",
+    "choisir",
+    "chiffres",
+    "croix",
+    "patron",
+    "attendre",
+    "fr1-résultats",
+    "gagner",
+    "seize",
+    "treize",
+    "quatorze",
+    "vingt"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l020",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 20,
+  "title": "Encore un peu de revision",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/20 Leçon 20.mp3",
+  "themes": [
+    "review",
+    "expressions"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Aujourd’hui, nous __ allons revoir quelques _ expressions utiles :",
+      "base": "Hoy vamos a volver a ver algunas expresiones útiles :",
+      "pronunciation": ".. révuar kelkezesprésión ütil'"
+    },
+    {
+      "line": 2,
+      "target": "Venez vers huit__ heures, d'accord ? -Parfait.",
+      "base": "Venid hacia las ocho (horas). ¿ De acuerdo ? -Perfecto."
+    },
+    {
+      "line": 3,
+      "target": "Elle est malade et elle prend beaucoup de médicaments.",
+      "base": "Está enferma y toma muchos medicamentos."
+    },
+    {
+      "line": 4,
+      "target": "Je cherche un nouveau stylo . Vous_en avez un ?",
+      "base": "Busco un nuevo bolígrato. ¿ Tiene (de ello) uno ?",
+      "pronunciation": ".. stilô"
+    },
+    {
+      "line": 5,
+      "target": "ll n’a pas faim et il n'a pas soif : il a déjà mangé.",
+      "base": "No tiene hambre y no tiene sed : ya ha comido."
+    },
+    {
+      "line": 6,
+      "target": "Qui est à l'appareil ? Oh, c'est Sophie. Comment _allez-vous ?",
+      "base": "¿ Quién está al aparato ? ¡ Oh, es Sophie ! ¿ Cómo está usted ?"
+    },
+    {
+      "line": 7,
+      "target": "Ma femme a mucho trabajo ahora.",
+      "base": "Mi mujer tiene mucho trabajo ahora (en este momento)."
+    },
+    {
+      "line": 8,
+      "target": "Des diamants para sus conejos ? ¡ No me haga reir !",
+      "base": "¿ (Unos) Diamantes para sus conejos ? ¡ No me haga reir !"
+    },
+    {
+      "line": 9,
+      "target": "Vous voulez un verre de vin ? -Avec plaisir.",
+      "base": "¿ Quiere un vaso de vino ? - Con gusto."
+    },
+    {
+      "line": 10,
+      "target": "Comment vous appelezvous ? Je m'appelle Sophie Delaye.",
+      "base": "¿ Cómo se llama usted ? - Me llamo Sophie Delaye."
+    },
+    {
+      "line": 11,
+      "target": "Je suis désolé , je suis pris samedi soir. -Eh bien tant pis !",
+      "base": "Lo siento (estoy desolado), estoy ocupado (cogido) el sábado por la noche."
+    },
+    {
+      "line": 12,
+      "target": "Cette nueva bata le va muy bien.",
+      "base": "Este nuevo vestido le va muy bien."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Venez vers huit__ heures, d'accord ? -Parfait.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Elle est malade et elle prend beaucoup de médicaments.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:malade"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Je cherche un nouveau stylo (3). Vous_en avez un ?",
+      "reasons": [
+        "vocab:stylo"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "ll n’a pas faim et il n'a pas soif : il a déjà mangé.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Ma femme a mucho trabajo ahora.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Vous voulez un verre de vin ? -Avec plaisir.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Comment vous appelezvous ? Je m'appelle Sophie Delaye.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Je suis désolé , je suis pris (4) samedi soir. -Eh bien tant pis !",
+      "reasons": [
+        "answer_to_question",
+        "vocab:pris"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Cette nueva bata le va muy bien.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "stylo",
+    "malade",
+    "fr1-desolé",
+    "pris",
+    "robe"
+  ]
+}

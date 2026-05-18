@@ -1,0 +1,76 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l034",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 34,
+  "title": "Headlines",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "Resources/Assimil - Ingles Perfeccionamiento/Audio/34 Lesson 34.mp3",
+  "themes": [
+    "headlines",
+    "journalistic style",
+    "wordplay",
+    "media language"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Now that you understand the language",
+      "base": ""
+    },
+    {
+      "line": 2,
+      "target": "these often prove ten times more difficult",
+      "base": ""
+    },
+    {
+      "line": 3,
+      "target": "Since space is at a premium in a news-",
+      "base": ""
+    },
+    {
+      "line": 4,
+      "target": "or to give ordinary words a sense that",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "these often prove ten times more difficult",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "or to give ordinary words a sense that",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "headline",
+    "drama",
+    "haul",
+    "to-hit",
+    "premier",
+    "to-be-bearish",
+    "gp",
+    "crash",
+    "high-tech",
+    "share",
+    "price",
+    "key",
+    "wonder",
+    "drug",
+    "trial",
+    "bid",
+    "snow",
+    "joke",
+    "white-christmas",
+    "on-the-cards"
+  ]
+}

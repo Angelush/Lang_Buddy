@@ -1,0 +1,50 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l049",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 49,
+  "title": "Révision",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/49 Leçon 49.mp3",
+  "themes": [
+    "review",
+    "verb-devoir",
+    "past-participle",
+    "negation"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Devoir.",
+      "base": "Devoir."
+    },
+    {
+      "line": 2,
+      "target": "Verbo Avoir : la concordancia del participio (Ver",
+      "base": "Verbo Avoir : la concordancia del participio (Ver"
+    },
+    {
+      "line": 3,
+      "target": "Le participe passé :",
+      "base": "El participio pasado :"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Verbo Avoir : la concordancia del participio (Ver",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Le participe passé :",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": []
+}

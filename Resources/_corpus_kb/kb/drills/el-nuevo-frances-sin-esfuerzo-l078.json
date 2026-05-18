@@ -1,0 +1,124 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l078",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 78,
+  "title": "La femme est la patronne",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "Resources/Assimil - El Nuevo Francés sin Esfuerzo/Audio/78 Leçon 78.mp3",
+  "themes": [
+    "work",
+    "shopping",
+    "clothing",
+    "family"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Jean et Mireille font l'inventaire de leur magasin de vêtements :",
+      "base": "Jean y Mireille hacen el inventario de su tienda de ropa (vestidos):",
+      "pronunciation": ".. mireill / 2 ...jüp'... tail / 5 ...sua...di ÿ"
+    },
+    {
+      "line": 2,
+      "target": "M. : Bon, ici, j'ai vingt-deux jupes gris clair , taille trente-trois. . .",
+      "base": "M.: Bueno, aquí, tengo 22 faldas grises claras, talla..."
+    },
+    {
+      "line": 3,
+      "target": "J. : Oui, mais attends. Michelle en a commandé une, n'est-ce pas ?",
+      "base": "J.: Sí, pero espera. Michelle ha encargado una. ¿verdad?"
+    },
+    {
+      "line": 4,
+      "target": "M. : Je la lui ai donnée la semaine dernière. On peut continuer ?",
+      "base": "M.: Se la he dado la semana pasada. ¿Podemos continuar?"
+    },
+    {
+      "line": 5,
+      "target": "J. : D'accord. M. : Après, nous avons dix chemisiers en soie, dix écharpes. .",
+      "base": "J.: De acuerdo. — M.: Luego tenemos 10 blusas de seda, 10 bufandas."
+    },
+    {
+      "line": 6,
+      "target": "J. : Stop ! Dix ? J'en ai douze. Où sont les deux autres ?",
+      "base": "J.: ¡Para! ¿Diez? Yo tengo 12. ¿Dónde están las otras dos?"
+    },
+    {
+      "line": 7,
+      "target": "",
+      "base": "M.: ¡Pero, tú no te acuerdas de nada! ¡Los dos japoneses! ¡Les vendí dos ayer!",
+      "pronunciation": "M. : Mais tu ne te souviens de rien ! Les deux Japonais ! Je leur en ai vendu deux hier !"
+    },
+    {
+      "line": 8,
+      "target": "",
+      "base": "J.: Bueno, vale. Luego hay 40 pares de medias y...",
+      "pronunciation": "J. : Ça va alors. Ensuite il y a quarante paires de bas (5) et..."
+    },
+    {
+      "line": 9,
+      "target": "",
+      "base": "M.: ¿Qué pasa? — J.: No encuentro mi lápiz.",
+      "pronunciation": "M. : Qu'est-ce qu'il y a ? J. : Je ne trouve pas mon crayon."
+    },
+    {
+      "line": 10,
+      "target": "",
+      "base": "M.: Pero si te lo acabo de dar. (Pero te lo he pasado hace un poco). Aquí está, debajo de la escalera.",
+      "pronunciation": "M. : Mais je te l'ai passé tout à l'heure. (6) (7) Le voilà, sous l'escabeau (8)."
+    },
+    {
+      "line": 11,
+      "target": "",
+      "base": "J.: ¿Sabes? estoy un poco cansado; ¿podemos pararnos dos minutos, por favor?",
+      "pronunciation": "J. : Tu sais je suis un peu fatigué ; on peut s'arrêter deux minutes, s'il te plaît ?"
+    },
+    {
+      "line": 12,
+      "target": "",
+      "base": "M.: Ya te lo he dicho: nos pararemos cuando hayamos acabado, y no antes.",
+      "pronunciation": "M. : Je te l'ai déjà dit : on s'arrêtera quand on aura (9) fini, et pas avant."
+    },
+    {
+      "line": 13,
+      "target": "",
+      "base": "J.: ¡Qué dura eres como patrona, caray!",
+      "pronunciation": "J. : Qu'est-ce que tu es dure comme patronne alors (10) !"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "M. : Bon, ici, j'ai vingt-deux jupes gris clair (1), taille trente-trois. . .",
+      "reasons": [
+        "vocab:jupe"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "M. : Je la lui ai donnée (3) la semaine dernière. On peut continuer ?",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "J. : D'accord. M. : Après, nous avons dix chemisiers en soie, dix écharpes. .",
+      "reasons": [
+        "answer_to_question",
+        "vocab:soie"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "jupe",
+    "chemisier",
+    "echarpe",
+    "bas-paire",
+    "escabeau",
+    "tout-a-lheure",
+    "soie"
+  ]
+}
