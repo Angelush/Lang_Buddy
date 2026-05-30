@@ -1,0 +1,97 @@
+{
+  "lesson_id": "ingles-l104",
+  "source": "ingles",
+  "lesson": 104,
+  "title": "Aphorisms",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 104 - Anglais.mp3",
+  "themes": [
+    "Wit",
+    "Aphorisms"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Don't criticise society: only those who can't get into it do that.",
+      "base": "No critique a la sociedad : sólo los que no pueden entrar en ella [lo] hacen (eso)."
+    },
+    {
+      "line": 2,
+      "target": "The only way to get rid of a temptation is to yield to it.",
+      "base": "La única manera de librarse de una tentación es caer en ella."
+    },
+    {
+      "line": 3,
+      "target": "An ex-President, re-visiting the White House: “It's a nice place to visit, but I prefer to live here”.",
+      "base": "Un ex-presidente, visitando de nuevo la Casa Blanca: «Es un bonito lugar para visitar, pero prefiero vivir [en el] (aquí) »."
+    },
+    {
+      "line": 4,
+      "target": "The best way to forget your troubles is to wear tight shoes.",
+      "base": "La mejor manera de olvidar los (sus) problemas es llevar (vestir) zapatos estrechos."
+    },
+    {
+      "line": 5,
+      "target": "An enthusiastic young priest: “ What a beautiful moon! And it's in my parish! ”.",
+      "base": "Un sacerdote joven y entusiasta : «¡ Qué (una) luna [tan] hermosa! ¡Y está en mi parroquía ! »"
+    },
+    {
+      "line": 6,
+      "target": "Money cannot buy you friends, but it can buy you a better class of enemy.",
+      "base": "[El] dinero no puede comprarle [a unos] amigos, pero puede comprarle [a uno] una clase mejor de enemigos."
+    },
+    {
+      "line": 7,
+      "target": "Man, to a woman who accused him of being drunk:",
+      "base": "[Un] hombre, a una mujer que lo acusaba de estar borracho:"
+    },
+    {
+      "line": 8,
+      "target": "“Madam, you are ugly — but tomorrow I will be sober ”.",
+      "base": "« Señora, usted es fea, pero mañana yo estaré sobrio »."
+    },
+    {
+      "line": 9,
+      "target": "Its not that money makes everything good; it's that no money makes everything bad.",
+      "base": "No es que [el] dinero haga todo bueno; es que [el] no [tener] dinero [lo] hace todo malo."
+    },
+    {
+      "line": 10,
+      "target": "The only way to behave to a woman is to make love to her if she is beautiful, and to someone else if she is plain.",
+      "base": "La unica manera de comportarse con una mujer es hacerle la corte (el amor) si es bella, y hacérsela a otra, si es fea."
+    },
+    {
+      "line": 11,
+      "target": "Your health comes first, you can hang yourself later,",
+      "base": "Tu salud es (viene) [lo] primero, puedes colgarte más tarde."
+    },
+    {
+      "line": 12,
+      "target": "A fool is someone who walks into his friend's antique shop and shouts: “ What's new?”",
+      "base": "Un tonto es alguien que entra en la tienda de antigüedades de su amigo y grita: «¿ Qué hay de nuevo ? »."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "The only way to get rid of a temptation is to yield to it.",
+      "reasons": [
+        "vocab:temptation"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "“Madam, you are ugly — but tomorrow I will be sober ”.",
+      "reasons": [
+        "vocab:sober"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "aphorism",
+    "temptation",
+    "sober"
+  ]
+}

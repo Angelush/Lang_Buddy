@@ -145,7 +145,7 @@ items from:
 - one notch above (the stretch zone)
 - never more
 
-If `Resources/_corpus_kb/kb/` carries CEFR metadata on vocab and
+If `corpus/_corpus_kb/kb/` carries CEFR metadata on vocab and
 patterns (e.g. tagged A2, B1, B2), prefer items at the right level.
 If not, use general CEFR-aware judgment.
 

@@ -1,0 +1,114 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l076",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 76,
+  "title": "Soixante-seizième leçon (anecdotes)",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/76 Leçon 76.mp3",
+  "themes": [
+    "humor",
+    "social",
+    "music",
+    "money",
+    "transport"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Après un concert donné par l'orchestre de Paris, un spectateur",
+      "base": "Después de un concierto dado por la orquesta de París, un espectador"
+    },
+    {
+      "line": 2,
+      "target": "sans doute pas très futé — passe un petit mot au chef d'orchestre :",
+      "base": "sin duda no muy astuto — hace pasar (pasa) una notita (una pequeña palabra) al director (jefe) de orquesta:",
+      "pronunciation": "..füté ... orkestr'"
+    },
+    {
+      "line": 3,
+      "target": "",
+      "base": "\"No quiero que crea que soy un (no quiero parecer) chivato, (querido) señor,",
+      "pronunciation": "\"Je ne veux pas paraître rapporteur, cher monsieur,"
+    },
+    {
+      "line": 4,
+      "target": "",
+      "base": "pero creo útil el señalarle que el hombre que toca (la caja grande) el bombo",
+      "pronunciation": "mais je crois utile de vous signaler que l'homme qui joue de la grosse caisse (2)"
+    },
+    {
+      "line": 5,
+      "target": "",
+      "base": "no toca más que cuando usted le mira\".",
+      "pronunciation": "ne frappe que lorsque (3) vous le regardez\"."
+    },
+    {
+      "line": 6,
+      "target": "",
+      "base": "Mi mujer quería un coche nuevo para Navidad",
+      "pronunciation": "Ma femme voulait une nouvelle voiture pour Noël"
+    },
+    {
+      "line": 7,
+      "target": "",
+      "base": "y (entonces) le he (ofrecido) regalado un collar de perlas.",
+      "pronunciation": "alors je lui ai offert (4) un collier de perles."
+    },
+    {
+      "line": 8,
+      "target": "",
+      "base": "Ya sé lo que vas a decir, pero ya sabes... (comprendes),",
+      "pronunciation": "Je sais ce que tu vas dire, mais tu comprends (5)..."
+    },
+    {
+      "line": 9,
+      "target": "",
+      "base": "todavía no se fabrican falsos Citroën.",
+      "pronunciation": "on ne fabrique pas encore de fausses Citroën."
+    },
+    {
+      "line": 10,
+      "target": "",
+      "base": "Jean-Michel Dupont era arribista hasta tal punto que",
+      "pronunciation": "Jean-Michel Dupont était arriviste à tel point que"
+    },
+    {
+      "line": 11,
+      "target": "",
+      "base": "cuando entraba detrás de usted en una puerta giratoria (tambor)",
+      "pronunciation": "lorsqu'il entrait derrière vous dans une porte à tambour"
+    },
+    {
+      "line": 12,
+      "target": "",
+      "base": "¡ lograba, a pesar de ello (cuando mismo), salir el primero!",
+      "pronunciation": "il réussissait (6) quand même à en sortir le premier !"
+    },
+    {
+      "line": 13,
+      "target": "",
+      "base": "¡ Desconfía de ese ligón! Es un (verdadero) auténtico nuevo rico;",
+      "pronunciation": "Méfie-toi de ce dragueur ! C'est un vrai nouveau riche ;"
+    },
+    {
+      "line": 14,
+      "target": "",
+      "base": "y te (prevengo) advierto que ¡ es mucho más nuevo que rico!",
+      "pronunciation": "et je te préviens qu'il est beaucoup plus nouveau que riche !"
+    }
+  ],
+  "gap_candidates": [],
+  "vocab_introduced": [
+    "fute",
+    "rapporteur",
+    "grosse-caisse",
+    "offrir",
+    "reussir",
+    "arriviste",
+    "porte-a-tambour",
+    "dragueur",
+    "prevenir"
+  ]
+}

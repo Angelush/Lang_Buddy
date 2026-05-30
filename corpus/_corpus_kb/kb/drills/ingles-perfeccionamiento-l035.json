@@ -1,0 +1,73 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l035",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 35,
+  "title": "Revision and Notes",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "corpus/Assimil - Ingles Perfeccionamiento/Audio/35 Lesson 35.mp3",
+  "themes": [
+    "revision",
+    "Spanish-English cognates",
+    "passive voice",
+    "impersonal one",
+    "headlines"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Como hemos visto, el inglés y el español tienen",
+      "base": "Como hemos visto, el inglés y el español tienen"
+    },
+    {
+      "line": 2,
+      "target": "Puntualizaremos algunos detalles sobre la voz",
+      "base": "Profundicemos en la voz pasiva. Sabemos formar"
+    },
+    {
+      "line": 3,
+      "target": "One: el pronombre impersonal existe perfecta-",
+      "base": "*One* como pronombre impersonal existe, pero"
+    },
+    {
+      "line": 4,
+      "target": "Los títulos de los periódicos americanos, pero",
+      "base": "Los titulares de los periódicos, especialmente los"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Puntualizaremos algunos detalles sobre la voz",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "One: el pronombre impersonal existe perfecta-",
+      "reasons": [
+        "short_response",
+        "vocab:one"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Los títulos de los periódicos americanos, pero",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "stable",
+    "stole",
+    "state",
+    "spy",
+    "stranger",
+    "scapegoat",
+    "to-be-said-to-be",
+    "one"
+  ]
+}

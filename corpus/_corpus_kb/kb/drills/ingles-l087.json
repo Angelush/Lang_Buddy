@@ -1,0 +1,136 @@
+{
+  "lesson_id": "ingles-l087",
+  "source": "ingles",
+  "lesson": 87,
+  "title": "A talkative neighbour",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 087 - Anglais.mp3",
+  "themes": [
+    "travel",
+    "social etiquette",
+    "holidays"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "| must tell* you about my holiday!",
+      "base": "Tengo que contarle mis vacaciones."
+    },
+    {
+      "line": 2,
+      "target": "Eventually, we had to go* to France. We couldn't get” a hotel anywhere in Spain.",
+      "base": "Finalmente tuvimos que ir a Francia. No pudimos encontrar hotel en ninguna parte de España.",
+      "pronunciation": "ivenchéli... kudent... ániueer... — 3 ... shud... faasineítin. — 4... kudent... chaarté... noormál flait.. — 5 ... uérzit ... kómftéból. — 6 i” tookin... eidchis, — 7 ániuei... flu... — 8 ... steid... — 9 ... dzeer... diera. — 10... flu... — 11 ... akchuéli... — 12 ... eksaitin... — 13 ... chat."
+    },
+    {
+      "line": 3,
+      "target": "Have you ever been to France? No? You should go* there some day, it's fascinating.",
+      "base": "¿Ha estado usted alguna vez en Francia? ¿ No? debería usted ir algún día. Es fascinante."
+    },
+    {
+      "line": 4,
+      "target": "We couldn't get* a charter, so we had to take* a normal flight, which was expensive,",
+      "base": "No pudimos coger un charter, así que tomamos un vuelo normal, que era caro."
+    },
+    {
+      "line": 5,
+      "target": "but it was worth it; it was much more comfortable.",
+      "base": "Pero valió la pena, fué mucho más cómodo."
+    },
+    {
+      "line": 6,
+      "target": "| should start planning my holidays soon. We have been talking (N. 1) about them for ages.",
+      "base": "Debería empezar a planear mís vacaciones pronto. Hemos estado habiando de ellas mucho tiempo."
+    },
+    {
+      "line": 7,
+      "target": "Anyway, we flew* to Nice and spent” ten days in the South of France.",
+      "base": "Pues bien, volamos a Nice y pasamos diez días en el sur de Francia."
+    },
+    {
+      "line": 8,
+      "target": "When we couldn't find* a hotel, we stayed in what they call “ pensions”.",
+      "base": "Cuando no podíamos encontrar hotel, nos alojábamos en lo que ellos llaman « pensiones »."
+    },
+    {
+      "line": 9,
+      "target": "They're like Bed and Breakfasts in London, but dearer.",
+      "base": "Son como los « Bed and Breakfast» de Londres, pero mas caros."
+    },
+    {
+      "line": 10,
+      "target": "Then we flew* up to Paris. You must know* Paris?",
+      "base": "Luego volamos a Paris. ¿Conoce usted Paris?"
+    },
+    {
+      "line": 11,
+      "target": "Yes, actually I've been there a few times...",
+      "base": "Si, efectivamente, he ido algunas veces..."
+    },
+    {
+      "line": 12,
+      "target": "Well, you should go* back. It's an exciting city and it...",
+      "base": "Bien, debería usted volver. Es una ciudad apasionante y..."
+    },
+    {
+      "line": 13,
+      "target": "| really must go now, Joan will be waiting for me. Thanks for the chat.",
+      "base": "De veras tengo que irme ahora, Joan estará esperándome. Gracias por la charla."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Eventually, we had to go* to France. We couldn't get” a hotel anywhere in Spain. (1) (2)",
+      "reasons": [
+        "vocab:eventually"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "We couldn't get* a charter, so we had to take* a normal flight, which was expensive,",
+      "reasons": [
+        "answer_to_question",
+        "vocab:charter"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "When we couldn't find* a hotel, we stayed in what they call “ pensions”.",
+      "reasons": [
+        "vocab:pension"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "They're like Bed and Breakfasts in London, but dearer.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Yes, actually I've been there a few times... (4)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:actually"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "| really must go now, Joan will be waiting for me. Thanks for the chat.",
+      "reasons": [
+        "vocab:chat"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "eventually",
+    "charter",
+    "pension",
+    "actually",
+    "chat"
+  ]
+}

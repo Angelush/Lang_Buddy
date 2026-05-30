@@ -1,0 +1,124 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l079",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 79,
+  "title": "La politique",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/79 Leçon 79.mp3",
+  "themes": [
+    "politics",
+    "society",
+    "elections",
+    "humor"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "La semaine prochaine, les Français voteront pour élire un nouveau président.",
+      "base": "La próxima semana, los franceses votarán para elegir un nuevo presidente."
+    },
+    {
+      "line": 2,
+      "target": "Ces élections présidentielles ont lieu tous les sept ans .",
+      "base": "Esas elecciones presidenciales tienen lugar cada siete años.",
+      "pronunciation": ".. / 3 ...drua"
+    },
+    {
+      "line": 3,
+      "target": "Tous ceux qui ont plus de dix-huit ans ont le droit de voter.",
+      "base": "Todos aquellos que tienen más de dieciocho años tienen (el) derecho (de) a votar."
+    },
+    {
+      "line": 4,
+      "target": "",
+      "base": "La elección se hace (pasa) en dos tiempos o \"vueltas\", como se les llama.",
+      "pronunciation": "L'élection se passe en deux temps (2) ou \"tours\", comme on les appelle."
+    },
+    {
+      "line": 5,
+      "target": "",
+      "base": "En la (Al) primera vuelta hay, a menudo, una decena de candidatos,",
+      "pronunciation": "Au premier tour il y a souvent une dizaine (3) de candidats,"
+    },
+    {
+      "line": 6,
+      "target": "",
+      "base": "pero son los dos que han obtenido mayor cantidad de votos (los más votos)",
+      "pronunciation": "mais ce sont les deux qui ont obtenu le plus de voix (4)"
+    },
+    {
+      "line": 7,
+      "target": "",
+      "base": "quienes pueden presentarse a la segunda vuelta.",
+      "pronunciation": "qui peuvent se présenter au deuxième tour."
+    },
+    {
+      "line": 8,
+      "target": "",
+      "base": "Así pues, hace dos semanas, los candidatos se han presentado",
+      "pronunciation": "Donc il y a deux semaines, les candidats se sont présentés"
+    },
+    {
+      "line": 9,
+      "target": "",
+      "base": "y los electores les han dado sus votos.",
+      "pronunciation": "et les électeurs leur ont donné leurs voix."
+    },
+    {
+      "line": 10,
+      "target": "",
+      "base": "Ahora no queda más que un candidato de derecha y uno de izquierda.",
+      "pronunciation": "Maintenant il ne reste qu'un candidat de droite et un de gauche."
+    },
+    {
+      "line": 11,
+      "target": "",
+      "base": "¿Quién va a ser elegido? No se sabe (nosotros no sabemos nada),",
+      "pronunciation": "Lequel va être choisi ? Nous n'en savons rien (5),"
+    },
+    {
+      "line": 12,
+      "target": "",
+      "base": "pero le recordamos ese dicho, que dice:",
+      "pronunciation": "mais nous vous rappelons ce dicton, qui dit :"
+    },
+    {
+      "line": 13,
+      "target": "",
+      "base": "\"El capitalismo es la explotación del hombre por el hombre,",
+      "pronunciation": "\"Le capitalisme est l'exploitation de l'homme par l'homme"
+    },
+    {
+      "line": 14,
+      "target": "",
+      "base": "mientras que el socialismo es lo contrario\".",
+      "pronunciation": "alors que (6) le socialisme, c'est le contraire\" !"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "La semaine prochaine, les Français voteront pour élire un nouveau président.",
+      "reasons": [
+        "vocab:vote"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Tous ceux qui ont plus de dix-huit ans ont le droit de voter.",
+      "reasons": [
+        "vocab:vote"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "election",
+    "tour-vote",
+    "voix-vote",
+    "dizaine",
+    "dicton",
+    "capitalisme-socialisme"
+  ]
+}

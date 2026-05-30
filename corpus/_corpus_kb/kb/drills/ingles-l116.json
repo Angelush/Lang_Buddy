@@ -1,0 +1,70 @@
+{
+  "lesson_id": "ingles-l116",
+  "source": "ingles",
+  "lesson": 116,
+  "title": "Let's go to Oxford",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 116 - Anglais.mp3",
+  "themes": [
+    "Travel",
+    "Family",
+    "Driving"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "On Sunday, David decided he would go and see* his parents who lived in Oxford.",
+      "base": "El domingo, David decidió que iría a ver a sus padres que vivían en Oxford.",
+      "pronunciation": ".. disaidid... oksféd. — 2 ... dvoid... krauds... — 3 ... — 5 ..."
+    },
+    {
+      "line": 2,
+      "target": "They wanted to leave* early to avoid the crowds, so they got up at half past six.",
+      "base": "Querían salir pronto para evitar las aglomeraciones, así que se levantaron a las seis y media."
+    },
+    {
+      "line": 3,
+      "target": "By seven o'clock, they were ready. They got into the car and set off.",
+      "base": "A las siete estaban listos. Subieron al coche y se pusieron en camino."
+    },
+    {
+      "line": 4,
+      "target": "Have you got everything? said Joan.",
+      "base": "¿ Tienes todo? dijo Joan."
+    },
+    {
+      "line": 5,
+      "target": "Of course I have. I rang* Dad last night and told* him we would arrive at about ten.",
+      "base": "Por supuesto que sí. Llamé a papá anoche y le dije que llegaríamos sobre las diez."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "They wanted to leave* early to avoid the crowds, so they got up at half past six. (1)",
+      "reasons": [
+        "vocab:crowd"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Have you got everything? said Joan.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Of course I have. I rang* Dad last night and told* him we would arrive at about ten. (2)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "en4ai-avoid",
+    "en4ai-crowd"
+  ]
+}

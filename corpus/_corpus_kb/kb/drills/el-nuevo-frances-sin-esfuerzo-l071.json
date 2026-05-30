@@ -1,0 +1,193 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l071",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 71,
+  "title": "Une déception",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/71 Leçon 71.mp3",
+  "themes": [
+    "food",
+    "culture",
+    "travel",
+    "disappointment"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Anne, est-ce que c'est vrai que les Français aiment bien manger ?",
+      "base": "¿Anne, es verdad que a los franceses les gusta comer bien?"
+    },
+    {
+      "line": 2,
+      "target": "Mais oui. Cela fait partie de nos qualités (ou de nos défauts !) ;",
+      "base": "¡Pues claro! Eso forma (hace) parte de nuestras cualidades (¡o de nuestros defectos!)",
+      "pronunciation": "..kalité.. . defô"
+    },
+    {
+      "line": 3,
+      "target": "mais pourquoi tu me poses cette question ?",
+      "base": "¿Pero por qué haces (pones) esa pregunta?",
+      "pronunciation": "pos"
+    },
+    {
+      "line": 4,
+      "target": "Avant de venir en France, tout le monde m'a dit :",
+      "base": "Antes de venir a Francia, todo el mundo me dijo:"
+    },
+    {
+      "line": 5,
+      "target": "\"Ah, vous verrez , en France, on mange bien ;",
+      "base": "“Ah, ya verá, en Francia, se come bien;",
+      "pronunciation": "..verré"
+    },
+    {
+      "line": 6,
+      "target": "vous mangerez des spécialités, des produits frais,",
+      "base": "comerá especialidades, productos frescos,",
+      "pronunciation": "..manyeré ... fre"
+    },
+    {
+      "line": 7,
+      "target": "vous goûterez à des “petits vins de pays”",
+      "base": "saboreará (a) ‘vinillos del país’ y muchas cosas más (y todo y todo).\"",
+      "pronunciation": "..guteré...etuetú —"
+    },
+    {
+      "line": 8,
+      "target": "Mais ça fait trois jours que je suis ici",
+      "base": "Pero hace tres días que estoy aquí"
+    },
+    {
+      "line": 9,
+      "target": "et, aux Champs Elysées, par exemple, je n'ai vu que",
+      "base": "y, en los Campos Elíseos, por ejemplo, no he visto más que"
+    },
+    {
+      "line": 10,
+      "target": "des restaurants à hamburgers ou des pizzerias… pas très typiques !",
+      "base": "restaurantes de hamburguesas o pizzerías… ¡no muy típicas!",
+      "pronunciation": ".. amburguér ... pizzeriá"
+    },
+    {
+      "line": 11,
+      "target": "Oui, mais le prix du mètre carré est tellement élevé là",
+      "base": "Sí, pero el precio del metro cuadrado es tan elevado aquí (ahí)",
+      "pronunciation": "..elvé"
+    },
+    {
+      "line": 12,
+      "target": "que seuls les restaurants “industriels” sont rentables.",
+      "base": "que solo los restaurantes ‘industriales’ son rentables."
+    },
+    {
+      "line": 13,
+      "target": "Mais ne t'en fais pas , mon touriste affamé.",
+      "base": "Pero no te preocupes, (mi) turista hambriento."
+    },
+    {
+      "line": 14,
+      "target": "Demain, je t'emmènerai dans un vrai restaurant français.",
+      "base": "Mañana, te llevaré a (en) un verdadero restaurante francés.",
+      "pronunciation": "..tammeneré"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Anne, est-ce que c'est vrai que les Français aiment bien manger ?",
+      "reasons": [
+        "vocab:vrai"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Mais oui. Cela fait partie (1) de nos qualités (ou de nos défauts !) ;",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "mais pourquoi tu me poses cette question ?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Avant de venir en France, tout le monde m'a dit :",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "vous mangerez des spécialités, des produits frais,",
+      "reasons": [
+        "short_response",
+        "vocab:spécialités"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "vous goûterez à des “petits vins de pays”",
+      "reasons": [
+        "short_response",
+        "vocab:pays"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "et, aux Champs Elysées, par exemple, je n'ai vu que (5)",
+      "reasons": [
+        "vocab:elysées"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Oui, mais le prix du mètre carré est tellement élevé (6) là",
+      "reasons": [
+        "vocab:prix"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "que seuls les restaurants “industriels” sont rentables.",
+      "reasons": [
+        "short_response",
+        "vocab:rentable"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Mais ne t'en fais pas (7), mon touriste affamé.",
+      "reasons": [
+        "vocab:touriste"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "Demain, je t'emmènerai dans un vrai restaurant français.",
+      "reasons": [
+        "short_response",
+        "vocab:vrai"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "deception",
+    "fr3b-spécialités",
+    "produits-frais",
+    "petits-vins-de-pays",
+    "fr3b-Champs-Elysées",
+    "prix",
+    "fr3b-mètre-carré",
+    "rentable",
+    "touriste",
+    "fr3b-affamé",
+    "vrai",
+    "restaurant-français"
+  ]
+}

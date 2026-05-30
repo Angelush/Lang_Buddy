@@ -1,0 +1,113 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l006",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 6,
+  "title": "\\\"If it's Tuesday it must be Belgium\\",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "corpus/Assimil - Ingles Perfeccionamiento/Audio/06 Lesson 06.mp3",
+  "themes": [
+    "travel",
+    "tourism",
+    "transport",
+    "culture"
+  ],
+  "lines": [
+    {
+      "line": 10,
+      "target": "The traveller intent on luxury may book",
+      "base": ""
+    },
+    {
+      "line": 12,
+      "target": "Perhaps the most exotic holiday of the",
+      "base": ""
+    },
+    {
+      "line": 19,
+      "target": "You know, this really is a lovely country,",
+      "base": ""
+    },
+    {
+      "line": 20,
+      "target": "Back in the Sixties, the US Army was",
+      "base": ""
+    },
+    {
+      "line": 21,
+      "target": "A group of students produced a spoof on",
+      "base": ""
+    },
+    {
+      "line": 22,
+      "target": "Join the Army. Travel to exotic countries.",
+      "base": ""
+    },
+    {
+      "line": 23,
+      "target": "The campaign was not very successful!",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 12,
+      "target": "Perhaps the most exotic holiday of the",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 19,
+      "target": "You know, this really is a lovely country,",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 20,
+      "target": "Back in the Sixties, the US Army was",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 21,
+      "target": "A group of students produced a spoof on",
+      "reasons": [
+        "short_response",
+        "vocab:spoof"
+      ]
+    },
+    {
+      "line": 22,
+      "target": "Join the Army. Travel to exotic countries.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 23,
+      "target": "The campaign was not very successful!",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "enp1ai-trudge",
+    "enp1ai-jet-setter",
+    "enp1ai-globe-trotter",
+    "enp1ai-package-tour",
+    "enp1ai-charter-flight",
+    "enp1ai-thumb-a-ride",
+    "enp1ai-living-out-of-suitcase",
+    "enp1ai-sleep-in-the-open",
+    "enp1ai-stop-over",
+    "enp1ai-hurdle",
+    "enp1ai-parochial",
+    "enp1ai-lure",
+    "enp1ai-spoof"
+  ]
+}

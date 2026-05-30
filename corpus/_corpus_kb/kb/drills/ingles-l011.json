@@ -1,0 +1,202 @@
+{
+  "lesson_id": "ingles-l011",
+  "source": "ingles",
+  "lesson": 11,
+  "title": "Eleventh Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 011 - Anglais.mp3",
+  "themes": [
+    "sports",
+    "hobbies",
+    "abilities"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "| play; we play; you play; he (or she) plays.",
+      "base": "(Yo) juego; (nosotros) jugamos ; (vosotros) jugáis ; (él o ella) juega.",
+      "pronunciation": ".. plei... pleis — 2 a spiik... spiiks 3 teni ibó... teníss.., neibors... ivnin. — 4 teniss-kort... dzeér.. — 5... moch taim. — 6 ... rakit ... bols... 7 ... redi ? serviss ! aut! — 8 ... inóf (preste atención al sonido «f»)... aim taiéd olredi. 9 ai nou... ásuelás."
+    },
+    {
+      "line": 2,
+      "target": "| speak; we speak; you speak; she (or he) speaks.",
+      "base": "(Yo) hablo; (nosotros) hablamos ; (vosotros) habláis ; (ella o él) habla."
+    },
+    {
+      "line": 3,
+      "target": "We play tennis in the morning, and our neighbours play in the evening.",
+      "base": "(Nosotros) jugamos [al] tenis por la mañana y nuestros vecinos juegan por la tarde."
+    },
+    {
+      "line": 4,
+      "target": "They have a tennis court in their garden.",
+      "base": "(Ellos) tienen una pista de tenis en su jardín."
+    },
+    {
+      "line": 5,
+      "target": "Do you want to play? — Yes, but I haven't got much time.",
+      "base": "¿Quiere usted jugar ? — Sí, pero (yo) no tengo mucho tiempo."
+    },
+    {
+      "line": 6,
+      "target": "Here's a racket for you; there are some balls in the garden.",
+      "base": "(Aquí) hay una raqueta para usted. Hay algunas pelotas en el jardín."
+    },
+    {
+      "line": 7,
+      "target": "Are you ready? Service! Out!",
+      "base": "¿(Está usted) preparado ? ¡ Servicio! ¡ Fuera !"
+    },
+    {
+      "line": 8,
+      "target": "That's enough for today. I'm tired already.",
+      "base": "Basta (es suficiente) por hoy. (Yo) ya estoy cansado."
+    },
+    {
+      "line": 9,
+      "target": "| know someone who plays as well as you.",
+      "base": "(Yo) conozco a alguien que juega tan bien como usted."
+    },
+    {
+      "line": 10,
+      "target": "My girlfriend speaks Russian. Do you speak Russian?",
+      "base": "Mi novia habla ruso. ¿ Habla usted ruso ?",
+      "pronunciation": "guérifrend ... róshán. — 11 óntortiunetli. — 12 griik. — 13 tu (alar-gando un poco el sonido «u»)"
+    },
+    {
+      "line": 11,
+      "target": "Unfortunately no. Does she speak Greek, too?",
+      "base": "Desgraciadamente no. ¿Habla (ella) griego también?"
+    },
+    {
+      "line": 12,
+      "target": "No, she doesn’t. Do you speak Greek?",
+      "base": "No (ella no). ¿ Habla usted griego ?"
+    },
+    {
+      "line": 13,
+      "target": "No, | don't, but | play tennis well.",
+      "base": "No (yo no), pero (yo) juego bien [al] tenis."
+    },
+    {
+      "line": 14,
+      "target": "Yes, you do. Too well for me.",
+      "base": "Sí, es verdad. Demasiado bien para mi."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 3,
+      "target": "We play tennis in the morning, and our neighbours play in the evening.",
+      "reasons": [
+        "vocab:morning"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "They have a tennis court in their garden.",
+      "reasons": [
+        "short_response",
+        "vocab:court"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Here's a racket for you; there are some balls in the garden.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:racket"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Are you ready? Service! Out!",
+      "reasons": [
+        "short_response",
+        "vocab:out"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "That's enough for today. I'm tired already.",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:enough"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "| know someone who plays as well as you. (3)",
+      "reasons": [
+        "vocab:well"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "My girlfriend speaks Russian. Do you speak Russian?",
+      "reasons": [
+        "short_response",
+        "vocab:girlfriend"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Unfortunately no. Does she speak Greek, too?",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:unfortunately"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "No, she doesn’t. Do you speak Greek?",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:greek"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "No, | don't, but | play tennis well.",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:well"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "Yes, you do. Too well for me. (4) (5)",
+      "reasons": [
+        "vocab:too"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "tennis",
+    "morning",
+    "evening",
+    "neighbours",
+    "court",
+    "garden",
+    "racket",
+    "balls",
+    "service",
+    "out",
+    "enough",
+    "today",
+    "tired",
+    "already",
+    "girlfriend",
+    "en1a-Russian",
+    "en1a-Greek",
+    "unfortunately",
+    "too",
+    "well"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l030",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 30,
+  "title": "Chez Monsieur Duclos",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/30 Leçon 30.mp3",
+  "themes": [
+    "housing",
+    "descriptions",
+    "furniture"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "L'appartement de Monsieur Duclos est composé de deux pièces,",
+      "base": "El piso del señor Duclos está compuesto (tiene) de dos habitaciones (piezas),",
+      "pronunciation": ".. pies'"
+    },
+    {
+      "line": 2,
+      "target": "d'une cuisine et d'une salle de bains.",
+      "base": "(de) una cocina y (de) un cuarto (sala) de baño."
+    },
+    {
+      "line": 3,
+      "target": "I se trouve dans un vieil immeuble dans la banlieue parisienne.",
+      "base": "Se encuentra en un viejo inmueble en las afueras de Paris.",
+      "pronunciation": ".. Vlelimébl' ... banlië"
+    },
+    {
+      "line": 4,
+      "target": "Il y a six étages … et une concierge !",
+      "base": "Hay seis pisos. . . j y una portera !",
+      "pronunciation": ".. Sisetaj' . . . consierj'"
+    },
+    {
+      "line": 5,
+      "target": "Il vous ouvre la porte et vous arrivez dans l'entrée.",
+      "base": "Le abre la puerta y usted se encuentra con la entrada."
+    },
+    {
+      "line": 6,
+      "target": "A droite, il y a la cuisine et, à côté, la salle de bain.",
+      "base": "A la derecha, está la cocina y, al lado, el cuarto de baño."
+    },
+    {
+      "line": 7,
+      "target": "Plus loin, on voit la pièce principale, le salon",
+      "base": "Más allá (lejos) se ve la habitación principal : el salón,",
+      "pronunciation": "..luan ... vua"
+    },
+    {
+      "line": 8,
+      "target": "qui est meublé avec beaucoup de goût.",
+      "base": "que está amueblado con mucho gusto."
+    },
+    {
+      "line": 9,
+      "target": "Il y a deux beaux fauteuils et un canapé confortable.",
+      "base": "Hay dos bonitos sillones y un sofá muy cómodo.",
+      "pronunciation": "..fotéi... kan"
+    },
+    {
+      "line": 10,
+      "target": "Au milieu de la pièce, il y a une table basse.",
+      "base": "En el centro (medio) de la habitación, hay una mesa pequeña."
+    },
+    {
+      "line": 11,
+      "target": "Derrière, sur les murs, il a pendu des jolis tableaux.",
+      "base": "Detrás, en las paredes, ha colgado unos cuadros muy bonitos."
+    },
+    {
+      "line": 12,
+      "target": "Les fenêtres du salon donnent sur une petite cour.",
+      "base": "Las ventanas del salón dan a un pequeño patio."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "L'appartement de Monsieur Duclos est composés de deux piéces,",
+      "reasons": [
+        "vocab:appartement"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "d'une cuisine et d'une salle de bains.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "I se trouve dans un vieil immeuble dans la banlieue parisienne.",
+      "reasons": [
+        "vocab:banlieue"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Il ya six étages … et une concierge !",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Plus loin, on voit la pièce principale, le salon",
+      "reasons": [
+        "vocab:salon"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "qui est meublé avec beaucoup de goût.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Il y a deyx beaux fauteuils et un canapé confortable.",
+      "reasons": [
+        "vocab:fauteuil"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Les fenêtres du salon donnent sur une petite cour.",
+      "reasons": [
+        "vocab:salon"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "appartement",
+    "banlieue",
+    "salon",
+    "fauteuil"
+  ]
+}

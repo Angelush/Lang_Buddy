@@ -3,19 +3,19 @@ Idea.txt
 Next.txt
 
 # Pipeline iteration artifacts (LLM I/O, OCR cache, dispatch logs)
-Resources/_corpus_kb/_dispatch_prompts/
-Resources/_corpus_kb/_dispatch_outputs/
-Resources/_corpus_kb/_dispatch.log
-Resources/_corpus_kb/_md_cache/
-Resources/_corpus_kb/_pdf_staging/
-Resources/_corpus_kb/__pycache__/
-Resources/_corpus_kb/_orchestration_plan.json
-Resources/_corpus_kb/_RESUME_HERE.md
-Resources/_corpus_kb/kb/_inflight/
+corpus/_corpus_kb/_dispatch_prompts/
+corpus/_corpus_kb/_dispatch_outputs/
+corpus/_corpus_kb/_dispatch.log
+corpus/_corpus_kb/_md_cache/
+corpus/_corpus_kb/_pdf_staging/
+corpus/_corpus_kb/__pycache__/
+corpus/_corpus_kb/_orchestration_plan.json
+corpus/_corpus_kb/_RESUME_HERE.md
+corpus/_corpus_kb/kb/_inflight/
 
 # Raw corpus (huge + copyrighted — Assimil PDFs, audio, original ZIPs)
-Resources/Assimil*/
-Resources/Assimil*.zip
+corpus/Assimil*/
+corpus/Assimil*.zip
 
 # Editor / OS / Python noise
 __pycache__/

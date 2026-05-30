@@ -1,0 +1,130 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l039",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 39,
+  "title": "Un argument valable",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/39 Leçon 39.mp3",
+  "themes": [
+    "money",
+    "invitations",
+    "kitchen"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Vous n'avez pas un franc pour moi, monsieur ?",
+      "base": "¿ No tiene un franco para mí ?"
+    },
+    {
+      "line": 2,
+      "target": "Un franc? Bien sûr que non !",
+      "base": "¿ Un franco ? ¡ Claro que no !"
+    },
+    {
+      "line": 3,
+      "target": "Oh monsieur, je n'ai rien, je n'ai pas d'argent,",
+      "base": "No tengo nada, no tengo dinero,"
+    },
+    {
+      "line": 4,
+      "target": "je n'ai pas de maison et je n'ai plus d'amis.",
+      "base": "no tengo casa y ya no tengo amigos."
+    },
+    {
+      "line": 5,
+      "target": "Je n'ai plus qu'une chose au monde. -Quoi ?",
+      "base": "No tengo más que una cosa en el mundo. - ¿ Qué ?",
+      "pronunciation": ".. plükün’"
+    },
+    {
+      "line": 6,
+      "target": "Ce petit revolver ; alors, vous n'avez toujours pas franc ?",
+      "base": "Este pequeño revólver ; así que. . ¿ sigue sin tener un franco ?",
+      "pronunciation": "..révolvér"
+    },
+    {
+      "line": 7,
+      "target": "**A la fortune du pot**",
+      "base": "**A la pata la llana**"
+    },
+    {
+      "line": 8,
+      "target": "Je vous ai invité à dîner, mon cher ami, mais regardez :",
+      "base": "Le he invitado a cenar, mi querido amigo, pero mire:",
+      "pronunciation": "..gardmanj"
+    },
+    {
+      "line": 9,
+      "target": "je n'ai plus rien dans mon garde-manger ; plus de sucre, plus de pain, plus de riz, plus de biscuits, plus de conserves . .",
+      "base": "ya no tengo nada en la fresquera ; ni azûcar, ni pan, ni arroz, ni galletas, ni conservas. . ."
+    },
+    {
+      "line": 10,
+      "target": "tenez. . . si . . . il y a quelque chose :",
+      "base": "mire... sí... hay algo ;"
+    },
+    {
+      "line": 11,
+      "target": "une énorme toile d'araignée ! Bon appétit“",
+      "base": "¡ una enorme tela de araña ! ¡ Buen apetito !",
+      "pronunciation": ".. tual dareñé ... apeti"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Un franc? Bien sûr que non !",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Oh monsieur, je nai rien, je n'ai pas d'argent,",
+      "reasons": [
+        "answer_to_question",
+        "vocab:argent"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Ce petit revolver ; alors, vous n'avez toujours pas franc ?",
+      "reasons": [
+        "answer_to_question",
+        "vocab:revolver"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "**A la fortune du pot**",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "je n‘ai plus rien dans mon garde-manger ; plus de sucre, plus de pain, plus de riz, plus de biscuits, plus de conserves . .",
+      "reasons": [
+        "vocab:manger"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "une énorme toile d'araignée ! Bon appétit“",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "argent",
+    "revolver",
+    "garde-manger",
+    "araignee"
+  ]
+}

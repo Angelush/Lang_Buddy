@@ -1,0 +1,137 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l032",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 32,
+  "title": "Le métro",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/32 Leçon 32.mp3",
+  "themes": [
+    "transport",
+    "paris",
+    "city life"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "La meilleure façon de visiter Paris c’est à pied,",
+      "base": "La mejor manera de visitar Paris es a pie,"
+    },
+    {
+      "line": 2,
+      "target": "mais si vous voulez aller d'un endroit à un autre rapidement",
+      "base": "pero si quiere ir de un sitio a otro rápidamente",
+      "pronunciation": ".. andruá"
+    },
+    {
+      "line": 3,
+      "target": "faites comme les Parisiens : prenez le métro.",
+      "base": "haga como los parisienses : coja el metro."
+    },
+    {
+      "line": 4,
+      "target": "Le système est très efficace et, en plus,",
+      "base": "El sistema es muy eficaz y, además, no es caro.",
+      "pronunciation": ".. treseficás"
+    },
+    {
+      "line": 5,
+      "target": "il n'est pas cher.",
+      "base": "El precio del billete no depende de la duración del trayecto."
+    },
+    {
+      "line": 6,
+      "target": "Le prix de votre ticket ne dépend pas de la longueur du trajet :",
+      "base": "cuesta lo mismo para dos estaciones que para diez."
+    },
+    {
+      "line": 7,
+      "target": "il coûte le même prix pour deux stations que pour dix.",
+      "base": "Los trenes circulan todos los días, desde las cinco y media"
+    },
+    {
+      "line": 8,
+      "target": "Les trains roulent tous les jours, de cinq heures et demie",
+      "base": "hasta la una de la mañana."
+    },
+    {
+      "line": 9,
+      "target": "jusqu’à une heure du matin.",
+      "base": "Para ir de Vincennes al Barrio Latino coja la linea número uno."
+    },
+    {
+      "line": 10,
+      "target": "Pour aller de Vincennes au Quartier Latin prenez la ligne numéro un.",
+      "base": "cambia en Chátelet y se baja en Saint-Michel."
+    },
+    {
+      "line": 11,
+      "target": "Vous changez à Châtelet et vous descendez à Saint-Michel.",
+      "base": "¡ “El segundo coche, es el metro” !",
+      "pronunciation": ".. vuatúr"
+    },
+    {
+      "line": 12,
+      "target": "“La deuxième voiture, c'est le métro",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "mais si vous voulez aller d'un endroit à un otro rápidamente",
+      "reasons": [
+        "vocab:endroit"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "faites comme les Parisiens : prenez le métro.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "il n'est pas cher.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Le prix de votre ticket ne dépend pas de la longueur du trajet :",
+      "reasons": [
+        "vocab:ticket"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "jusqu’à une heure du matin.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Pour aller de Vincennes au Quartier Latin prenez la ligne numéro un.",
+      "reasons": [
+        "vocab:ligne"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "“La deuxième voiture, c'est le métro",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "endroit",
+    "ticket",
+    "trajet",
+    "ligne"
+  ]
+}

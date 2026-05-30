@@ -27,7 +27,7 @@ learner:
 6. Read `srs.md` — internalise the SM-2-adapted scheduling rule that
    tells you which items to surface each turn
 7. Read `session-template.md` — adopt the open / converse / close arc
-8. Inspect `Resources/_corpus_kb/kb/`:
+8. Inspect `corpus/_corpus_kb/kb/`:
    - The wiki is structured into `dialogues/`, `vocab/`, `patterns/`,
      `grammar/`, and `sources/`. Load whatever is populated and let it
      shape your word choice, topic seeds, and SRS targeting throughout

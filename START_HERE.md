@@ -22,23 +22,23 @@ System spec (top-level Markdown):
 
 Runtime corpus (load now; both languages — agent picks per session):
 
-- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/index/MANIFEST.md
-- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/index/lessons.json
-- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/index/grammar.json
-- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/index/patterns.json
-- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/index/themes.json
-- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/refs/cefr_can_do.md
-- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/refs/freq_anchors.md
+- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/index/MANIFEST.md
+- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/index/lessons.json
+- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/index/grammar.json
+- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/index/patterns.json
+- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/index/themes.json
+- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/refs/cefr_can_do.md
+- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/refs/freq_anchors.md
 
 Pitfalls reference (load the one matching the chosen language):
 
-- French session → https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/refs/es_pitfalls_fr.md
-- English session → https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/refs/es_pitfalls_en.md
+- French session → https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/refs/es_pitfalls_fr.md
+- English session → https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/refs/es_pitfalls_en.md
 
 Per-lesson, fetch the drill JSON only when you have picked a `lesson_id` from
 `lessons.json`:
 
-- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/Resources/_corpus_kb/kb/drills/`<lesson_id>`.json
+- https://raw.githubusercontent.com/Angelush/Lang_Buddy/main/corpus/_corpus_kb/kb/drills/`<lesson_id>`.json
 
 Once you've read everything, follow `orchestrator.md`: ask me which language,
 calibrate my level in 1–3 turns, then start the session naturally. Don't dump

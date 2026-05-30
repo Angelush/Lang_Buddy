@@ -1,0 +1,178 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l009",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 9,
+  "title": "Très simple !",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/09 Leçon 09.mp3",
+  "themes": [
+    "administration",
+    "family"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Ce monsieur s'appelle Henri Laforge et cette dame est sa femme.",
+      "base": "Este señor se llama Henri Laforge y esta señora es su mujer.",
+      "pronunciation": ".. sapèl enri... sa fam’"
+    },
+    {
+      "line": 2,
+      "target": "Ils sont à la mairie para buscar una tarjeta de identidad para su hijo, Jean.",
+      "base": "Están en el ayuntamiento para sacar (buscar) un carné de identidad para su hijo, Juan.",
+      "pronunciation": "il sontala mèri pur scherché ün cart’ didantité pur lër fis jan"
+    },
+    {
+      "line": 3,
+      "target": "Cet enfant, ¿ él tiene qué edad ? -Él tiene ocho años, señor.",
+      "base": "¿ Qué edad tiene ese niño ? - Tiene ocho años, (señor).",
+      "pronunciation": "sèt amfn …. uitân"
+    },
+    {
+      "line": 4,
+      "target": "-Et il s'appelle Laforge. Est-ce qu'il est votre enfant ? -Oui monsieur.",
+      "base": "Y se apellida (llama) Laforge. ¿ Es su hijo (niño) ? - Sí señor."
+    },
+    {
+      "line": 5,
+      "target": "-Bien. Et il habite chez vous ? -Mais évidemment ! Il a huit ans !",
+      "base": "Bien. ¿ Y vive en su casa ? - ¡ Pues claro ! (¡ Pero evidentemente !) | Tiene 8 años !",
+      "pronunciation": "..il abit xè vu... evidaman"
+    },
+    {
+      "line": 6,
+      "target": "-D'accord. Je fais mon travail, c'est tout.",
+      "base": "De acuerdo. No estoy haciendo más que mi trabajo (Yo hago mi trabajo), es todo.",
+      "pronunciation": "dacor yë fé mon travai se tu"
+    },
+    {
+      "line": 7,
+      "target": "Est-ce que vous avez le formulaire B-52 ?",
+      "base": "¿ Tienen el formulario B-52 ?",
+      "pronunciation": "..lé formülèr be sènkant dé"
+    },
+    {
+      "line": 8,
+      "target": "-Oui monsieur, nous l'avons. -Et l'imprimé A-65 ?",
+      "base": "Si, lo tenemos. - ¿ Y el impreso A-65 ?",
+      "pronunciation": "..elamprimé a suasantsènk"
+    },
+    {
+      "line": 9,
+      "target": "-Ça también, lo tenemos. -Ah, ¿sí? ¿Pero tienen su extracto de nacimiento?",
+      "base": "Ese también lo tenemos. - ¿ Ah, sí ? ¿ Pero tienen la partida (extracto) de nacimiento ?",
+      "pronunciation": "bién sûr... ün foto"
+    },
+    {
+      "line": 10,
+      "target": "-Bien sûr. Nous avons même une photo.",
+      "base": "Por supuesto. Incluso tenemos una foto."
+    },
+    {
+      "line": 11,
+      "target": "-Très bien. Alors je vous fais la carte. Voilà. Ça fait cent vingt francs.",
+      "base": "Muy bien. Entonces les hago el carné. Tengan (he aquí). Son (eso hace) 120 francos.",
+      "pronunciation": ".. jë vu fè la cart’. . . san vèn fran"
+    },
+    {
+      "line": 12,
+      "target": "-Oh zut ! J'ai oublié mon porte-feuille !",
+      "base": "¡ Vaya! He olvidado la (mi) cartera.",
+      "pronunciation": "..zútje ublié mon portéfëill'"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Ils sont à la mairie para buscar una tarjeta de identidad (2) para su hijo, Jean.",
+      "reasons": [
+        "vocab:mairie"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Cet enfant, (1) ¿ él tiene qué edad ? -Él tiene ocho años, señor.",
+      "reasons": [
+        "vocab:enfant"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "-Et il s'appelle Laforge. Est-ce qu'il est votre enfant (4) ? -Oui monsieur.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:enfant"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "-Bien. Et il habite chez (5) vous ? -Mais évidemment ! II a huit ans !",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "-D'accord. Je fais mon travail, c'est tout.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Est-ce que vous avez le formulaire B-52 ?",
+      "reasons": [
+        "vocab:formulaire"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "-Oui monsieur, nous l'avons. -Et l'imprimé A-65 ?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "-Ça también, lo tenemos. -Ah, ¿sí? ¿Pero tienen su extracto de nacimiento?",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "-Bien sûr. Nous avons même (6) une photo.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "-Très bien. Alors je vous fais la carte. Voilà. Ça fait cent vingt (120) francs.",
+      "reasons": [
+        "vocab:vingt"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "-Oh zut (7) ! J'ai oublié mon porte-feuille !",
+      "reasons": [
+        "vocab:feuille"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "mairie",
+    "carte-d-identité",
+    "fils",
+    "enfant",
+    "formulaire",
+    "naissance",
+    "porte-feuille",
+    "cent-vingt"
+  ]
+}

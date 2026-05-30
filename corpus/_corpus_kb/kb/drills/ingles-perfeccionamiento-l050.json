@@ -1,0 +1,435 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l050",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 50,
+  "title": "America the beautiful!",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "corpus/Assimil - Ingles Perfeccionamiento/Audio/50 Lesson 50.mp3",
+  "themes": [
+    "travel",
+    "immigration",
+    "cultural-diversity",
+    "american-history"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "This land is your land, this land is my land, from California to the New York islands...",
+      "base": "Esta tierra es la vuestra, esta tierra es la mía, desde California hasta las islas de New York..."
+    },
+    {
+      "line": 2,
+      "target": "So sang Woody Guthrie, and millions of people both American and non-American echo his sentiments about this most fascinating of countries.",
+      "base": "Así cantó Woody Guthrie, y muchos millones de gentes, americanos o no, se hacen eco de estos sentimientos con relación al más apasionante de los países."
+    },
+    {
+      "line": 3,
+      "target": "Its influence is felt throughout the world, but America is a land of such diversity and of so many contrasts, that it is impossible to think of the United States as a single entity.",
+      "base": "Su influencia se siente por todas partes del mundo, pero Norteamérica es un país de tal diversidad, de tantos contrastes, que es imposible considerar los Estados Unidos como una entidad única."
+    },
+    {
+      "line": 4,
+      "target": "From the golden beaches of California, through the sun-baked deserts of Arizona,",
+      "base": "Desde las playas doradas de California, hasta los desiertos resecos por el sol de Arizona,"
+    },
+    {
+      "line": 5,
+      "target": "across the vast, flat plains of the Middle West, to the covered bridges of Vermont",
+      "base": "a través de las vastas llanuras planas del centro oeste,"
+    },
+    {
+      "line": 6,
+      "target": "and the eclectic atmosphere and towering skyscrapers of New York:",
+      "base": "hasta los puentes cubiertos de Vermont"
+    },
+    {
+      "line": 7,
+      "target": "a journey across America is a journey through a bewildering array",
+      "base": "y la atmósfera ecléctica y los rascacielos enormes de New York:"
+    },
+    {
+      "line": 8,
+      "target": "of scenery and cultures that leave the traveler with a host of impressions and opinions.",
+      "base": "un viaje a través de los EU es un viaje a través de un conjunto desconcertante"
+    },
+    {
+      "line": 9,
+      "target": "This lesson is not intended to be a travelogue, so let's stop for a moment",
+      "base": "de paisajes y de culturas, que dejan al viajero con una multitud de impresiones y de opiniones contradictorias."
+    },
+    {
+      "line": 10,
+      "target": "at a place where so many people have seen their first — and sometimes last —",
+      "base": "Esta lección no pretende servir de documental para viajeros, así que detengámonos por un instante"
+    },
+    {
+      "line": 11,
+      "target": "glimpse of the land that opened its gates: Ellis Island in New York Sound.",
+      "base": "en un lugar donde tanta gente ha visto por primera y a veces por última vez"
+    },
+    {
+      "line": 12,
+      "target": "Popularly known as the Isle of Tears, Ellis Island was the processing center",
+      "base": "la tierra que abrió sus puertas a los «fatigados y pobres»: Ellis Island, en el estrecho de New York."
+    },
+    {
+      "line": 13,
+      "target": "for newly arrived immigrants from the Old World.",
+      "base": "Conocida popularmente como la Isla de las Lágrimas, Ellis Island era el centro donde se acogía a"
+    },
+    {
+      "line": 14,
+      "target": "From 1892 to 1943, would-be new Americans had to pass through this place",
+      "base": "los inmigrantes que recién desembarcaban procedentes del Viejo Mundo."
+    },
+    {
+      "line": 15,
+      "target": "where the fateful decision was made: could they or could they not",
+      "base": "Desde 1892 a 1943, los futuros «nuevos americanos» tuvieron que pasar a través del centro"
+    },
+    {
+      "line": 16,
+      "target": "enter the country and start a new life?",
+      "base": "donde se iba a tomar la decisión fatídica: ¿podrían o no entrar al país y comenzar una nueva vida?"
+    },
+    {
+      "line": 17,
+      "target": "Age, infirmity, a criminal record — any one of these was enough to send",
+      "base": "La edad, la enfermedad, o los antecedentes penales — solo hacía falta uno de estos elementos"
+    },
+    {
+      "line": 18,
+      "target": "immigrants back to where they had come from.",
+      "base": "para que el inmigrante lleno de esperanza fuera enviado a su punto de partida."
+    },
+    {
+      "line": 19,
+      "target": "Others, more fortunate, were allowed to enter, but often with a new name",
+      "base": "Otras personas, más afortunadas, pudieron entrar, pero a veces con un nuevo nombre"
+    },
+    {
+      "line": 20,
+      "target": "because the immigration officials were unable to read or to pronounce the foreign names.",
+      "base": "debido a que los funcionarios de inmigración eran incapaces de leer o de pronunciar los nombres extranjeros."
+    },
+    {
+      "line": 21,
+      "target": "All this went on under the gaze of the symbol of the United States: the Statue of Liberty Guiding the World.",
+      "base": "Todo esto ocurría bajo la mirada del símbolo de los Estados Unidos: la estatua de la Libertad que guía al mundo."
+    },
+    {
+      "line": 22,
+      "target": "Today's traveler jets into New York's JFK airport without even noticing the island;",
+      "base": "El viajero de hoy día, que llega por avión al aeropuerto de Kennedy, en New York ni siquiera se da cuenta de la isla;"
+    },
+    {
+      "line": 23,
+      "target": "but it is worth taking the time to visit the Isle of Tears, and to imagine yourself",
+      "base": "pero vale la pena hacer tiempo para visitar la Isla de las Lágrimas, e imaginarse que uno llega como hace cien años"
+    },
+    {
+      "line": 24,
+      "target": "arriving there one hundred years ago",
+      "base": "con la esperanza de recomenzar una nueva vida en el Nuevo Mundo."
+    },
+    {
+      "line": 25,
+      "target": "in the hope of starting afresh in the New World.",
+      "base": "Este es un buen sistema para comenzar a comprender cómo se fueron formando los Estados Unidos de América."
+    },
+    {
+      "line": 26,
+      "target": "It is a good way to begin to understand the making of the United States of America.",
+      "base": ""
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "This land is your land, this land is my land, from California to the New York islands...",
+      "reasons": [
+        "vocab:island"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "So sang Woody Guthrie, and millions of people both American and non-American echo his sentiments about this most fascinating of countries.",
+      "reasons": [
+        "vocab:guthrie"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Its influence is felt throughout the world, but America is a land of such diversity and of so many contrasts, that it is impossible to think of the United States as a single entity.",
+      "reasons": [
+        "vocab:world"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "From the golden beaches of California, through the sun-baked deserts of Arizona,",
+      "reasons": [
+        "vocab:from"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "across the vast, flat plains of the Middle West, to the covered bridges of Vermont",
+      "reasons": [
+        "vocab:west"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "and the eclectic atmosphere and towering skyscrapers of New York:",
+      "reasons": [
+        "vocab:atmosphere"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "a journey across America is a journey through a bewildering array",
+      "reasons": [
+        "vocab:journey"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "of scenery and cultures that leave the traveler with a host of impressions and opinions.",
+      "reasons": [
+        "vocab:host"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "This lesson is not intended to be a travelogue, so let's stop for a moment",
+      "reasons": [
+        "vocab:be"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "at a place where so many people have seen their first — and sometimes last —",
+      "reasons": [
+        "vocab:time"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "glimpse of the land that opened its gates: Ellis Island in New York Sound.",
+      "reasons": [
+        "vocab:island"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Popularly known as the Isle of Tears, Ellis Island was the processing center",
+      "reasons": [
+        "vocab:enter"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "for newly arrived immigrants from the Old World.",
+      "reasons": [
+        "short_response",
+        "vocab:world"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "From 1892 to 1943, would-be new Americans had to pass through this place",
+      "reasons": [
+        "vocab:americans"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "where the fateful decision was made: could they or could they not",
+      "reasons": [
+        "vocab:fateful"
+      ]
+    },
+    {
+      "line": 16,
+      "target": "enter the country and start a new life?",
+      "reasons": [
+        "short_response",
+        "vocab:enter"
+      ]
+    },
+    {
+      "line": 17,
+      "target": "Age, infirmity, a criminal record — any one of these was enough to send",
+      "reasons": [
+        "answer_to_question",
+        "vocab:age"
+      ]
+    },
+    {
+      "line": 18,
+      "target": "immigrants back to where they had come from.",
+      "reasons": [
+        "short_response",
+        "vocab:back"
+      ]
+    },
+    {
+      "line": 19,
+      "target": "Others, more fortunate, were allowed to enter, but often with a new name",
+      "reasons": [
+        "vocab:enter"
+      ]
+    },
+    {
+      "line": 20,
+      "target": "because the immigration officials were unable to read or to pronounce the foreign names.",
+      "reasons": [
+        "vocab:unable"
+      ]
+    },
+    {
+      "line": 21,
+      "target": "All this went on under the gaze of the symbol of the United States: the Statue of Liberty Guiding the World.",
+      "reasons": [
+        "vocab:world"
+      ]
+    },
+    {
+      "line": 22,
+      "target": "Today's traveler jets into New York's JFK airport without even noticing the island;",
+      "reasons": [
+        "vocab:jfk"
+      ]
+    },
+    {
+      "line": 23,
+      "target": "but it is worth taking the time to visit the Isle of Tears, and to imagine yourself",
+      "reasons": [
+        "vocab:worth"
+      ]
+    },
+    {
+      "line": 24,
+      "target": "arriving there one hundred years ago",
+      "reasons": [
+        "short_response",
+        "vocab:one"
+      ]
+    },
+    {
+      "line": 25,
+      "target": "in the hope of starting afresh in the New World.",
+      "reasons": [
+        "vocab:world"
+      ]
+    },
+    {
+      "line": 26,
+      "target": "It is a good way to begin to understand the making of the United States of America.",
+      "reasons": [
+        "vocab:understand"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "land",
+    "beach",
+    "desert",
+    "sun-baked",
+    "plains",
+    "bridge",
+    "covered-bridge",
+    "skyscraper",
+    "journey",
+    "scenary",
+    "culture",
+    "impression",
+    "opinion",
+    "traveler",
+    "host",
+    "glimpse",
+    "ellis-island",
+    "immigrant",
+    "gate",
+    "decision",
+    "fateful",
+    "age",
+    "infirmity",
+    "criminal-record",
+    "enter",
+    "life",
+    "name",
+    "official",
+    "read",
+    "pronounce",
+    "foreign",
+    "symbol",
+    "statue",
+    "liberty",
+    "world",
+    "jet",
+    "airport",
+    "notice",
+    "isle-of-tears",
+    "imagine",
+    "hope",
+    "start-afresh",
+    "new-world",
+    "understand",
+    "making",
+    "united-states",
+    "america",
+    "woody-guthrie",
+    "this-land-is-your-land",
+    "sentiments",
+    "influence",
+    "diversity",
+    "contrasts",
+    "entity",
+    "golden",
+    "middle-west",
+    "breadbasket",
+    "eclectic",
+    "atmosphere",
+    "towering",
+    "bewildering",
+    "array",
+    "new-york-sound",
+    "popularly-known",
+    "processing-center",
+    "newly-arrived",
+    "old-world",
+    "would-be",
+    "new-americans",
+    "pass-through",
+    "place",
+    "fateful-decision",
+    "could",
+    "start-new-life",
+    "any-one",
+    "send-back",
+    "come-from",
+    "allowed",
+    "often-with",
+    "new-name",
+    "unable",
+    "gaze",
+    "statue-of-liberty",
+    "guiding-the-world",
+    "todays-traveler",
+    "jfk",
+    "without-even-noticing",
+    "worth",
+    "taking-the-time",
+    "visit",
+    "yourself",
+    "arriving",
+    "one-hundred-years-ago",
+    "good-way",
+    "begin-to-understand",
+    "making-of-america"
+  ]
+}

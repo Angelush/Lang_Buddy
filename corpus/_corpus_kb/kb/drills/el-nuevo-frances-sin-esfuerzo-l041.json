@@ -1,0 +1,165 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l041",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 41,
+  "title": "Réservons une table",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/41 Leçon 41.mp3",
+  "themes": [
+    "restaurant",
+    "reservation",
+    "social interaction",
+    "time expressions"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Bonsoir. Est-ce bien le restaurant Aux Savoyards” ? -Oui monsieur.",
+      "base": "Buenas noches. ¿ Por favor, es éste el restaurante “Aux Savoyards” ? - Si señor.",
+      "pronunciation": "esbièn .. . restorän o savuayar"
+    },
+    {
+      "line": 2,
+      "target": "Je voudrais réserver une table pour quatre personnes pour ce soir.",
+      "base": "Quisiera (Querría) reservar una mesa para cuatro personas, para esta noche."
+    },
+    {
+      "line": 3,
+      "target": "Quatre couverts. Vers quelle heure voudriez-vous ?",
+      "base": "Cuatro cubiertos. ¿ (Hacia) Alrededor de qué hora la desearía ?",
+      "pronunciation": "katr' cuver ver . . . vudrié"
+    },
+    {
+      "line": 4,
+      "target": "Vers huit heures, si c'est possible.",
+      "base": "Hacia las ocho, si es posible."
+    },
+    {
+      "line": 5,
+      "target": "Désolé , monsieur, mais nous sommes complets jusqu’à dix heures.",
+      "base": "Lo siento señor (desolado), pero está(mos) completo(s) hasta las diez.",
+      "pronunciation": "..complé"
+    },
+    {
+      "line": 6,
+      "target": "Ca fait un peu tard . Vous êtes sûr que vous n'avez rien ?",
+      "base": "(Eso hace) Es un poco tarde. ¿ Está seguro de que no tiene nada ?"
+    },
+    {
+      "line": 7,
+      "target": "Je vous assure. A part une toute petite table",
+      "base": "Se lo aseguro. Aparte de una (toda) mesa pequeñita",
+      "pronunciation": "..vuzasur"
+    },
+    {
+      "line": 8,
+      "target": "qui est près de la cuisine et. . .",
+      "base": "que está cerca de la cocina y..."
+    },
+    {
+      "line": 9,
+      "target": "Ça ne fait rien. Je la prends. Je m'appelle Desroches.",
+      "base": "No importa. La cojo. Me llamo Desroches."
+    },
+    {
+      "line": 10,
+      "target": "Vous voulez bien l’épeler, s’il vous plaît?",
+      "base": "¿ Quiere deletrearlo, por favor ?",
+      "pronunciation": "..lepelé"
+    },
+    {
+      "line": 11,
+      "target": "D.E.S.R.O.C.H.E.S. -Merci monsieur. A tout à l'heure.",
+      "base": "D.ES.R.O.C.H.E.S. - Gracias señor. Hasta luego.",
+      "pronunciation": "de-é-es-er-o-se-asch-é-es .. . tutalër"
+    },
+    {
+      "line": 12,
+      "target": "“L'appétit vient en mangeant , la soif s'en va en buvant” Rabelais.",
+      "base": "“El apetito viene (comiendo) cuando se come, la sed se va (bebiendo) cuando se bebe” Rabelais.",
+      "pronunciation": "..manjeán...búván"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Bonsoir. Est-ce bien (1) le restaurant Aux Savoyards” ? -Oui monsieur.",
+      "reasons": [
+        "vocab:bonsoir"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Je voudrais (2) réserver une table pour quatre personnes pour ce soir.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Quatre couverts. Vers quelle heure voudriez-vous ?",
+      "reasons": [
+        "short_response",
+        "vocab:couvert"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Vers huit heures, si c'est possible.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Désolé (3), monsieur, mais nous sommes complets jusqu’à di eures.",
+      "reasons": [
+        "vocab:complet"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Je vous assure. A part une toute petite (5) table",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Vous voulez bien l’épeler, s’il vous plaît?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "D.E.S.R.O.C.H.E.S. -Merci monsieur. A tout a l'heure.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "“L'appétit vient en mangeant (6), la soif s'en va (7) en buvant” Rabelais.",
+      "reasons": [
+        "vocab:mangeant"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "bonsoir",
+    "reserver",
+    "couvert",
+    "desole",
+    "complet",
+    "appetit",
+    "venir",
+    "en-mangeant",
+    "soif",
+    "en-buvant"
+  ]
+}

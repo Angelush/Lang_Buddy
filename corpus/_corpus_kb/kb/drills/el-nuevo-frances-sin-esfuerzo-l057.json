@@ -1,0 +1,149 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l057",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 57,
+  "title": "Deux bonnes réponses",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/57 Leçon 57.mp3",
+  "themes": [
+    "humour",
+    "transport",
+    "city"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Un homme est assis dans un bus, une",
+      "base": "Un hombre está sentado en un autobús, con una pipa en la boca."
+    },
+    {
+      "line": 2,
+      "target": "Un contrôleur lui dit : -Vous ne pouvez",
+      "base": "Un revisor (controlador) le dice : - j No puede fumar aqui !"
+    },
+    {
+      "line": 3,
+      "target": "Je ne fume pas, répond l’homme calme-",
+      "base": "No estoy fumando (fumo), responde con tranquilidad (calmamente) el hombre."
+    },
+    {
+      "line": 4,
+      "target": "Mais vous avez une pipe à la bouche |",
+      "base": "| Pero si tiene una pipa en la boca ! exclama el revisor.",
+      "pronunciation": "..sekri"
+    },
+    {
+      "line": 5,
+      "target": "D'accord. J'ai aussi des -chaussures aux",
+      "base": "De acuerdo. ¡ También tengo zapatos en los pies"
+    },
+    {
+      "line": 6,
+      "target": "mais je ne marche pas !",
+      "base": "(pero) y no ando !"
+    },
+    {
+      "line": 7,
+      "target": "Visitant la Sorbonne , un touriste",
+      "base": "Visitando la Sorbona, un turista ve una biblioteca impresionante."
+    },
+    {
+      "line": 8,
+      "target": "Au-dessus de la porte est marqué",
+      "base": "Encima de la puerta está escrito (marcado):“Biblioteca Felix Fournier”",
+      "pronunciation": ".. feliks furnié"
+    },
+    {
+      "line": 9,
+      "target": "Je ne connais pas cet auteur ; qu'est-",
+      "base": "No conozco [a] este autor. ¿ Qué ha escrito ?",
+      "pronunciation": ".. sètolër"
+    },
+    {
+      "line": 10,
+      "target": "Son guide sourit et lui répond : - Un",
+      "base": "(Su) El guía sonríe y le responde : -¡ Un (gordo) buen cheque !",
+      "pronunciation": ".. gro schek"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Un homme est assis dans un bus, une",
+      "reasons": [
+        "vocab:bus"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Un contrôleur lui dit : -Vous ne pouvez",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Je ne fume pas, répond l’homme calme-",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Mais vous avez une pipe à la bouche |",
+      "reasons": [
+        "vocab:pipe"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "D'accord. J'ai aussi des -chaussures aux",
+      "reasons": [
+        "short_response",
+        "vocab:chaussures"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "mais je ne marche pas !",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Visitant la Sorbonne (2), un touriste",
+      "reasons": [
+        "short_response",
+        "vocab:sorbonne"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Au-dessus de la porte est marqué",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Je ne connais pas cet auteur ; qu'est-",
+      "reasons": [
+        "short_response",
+        "vocab:auteur"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "bus",
+    "controleur",
+    "pipe",
+    "chaussures",
+    "sorbonne",
+    "bibliotheque",
+    "auteur",
+    "cheque"
+  ]
+}

@@ -18,8 +18,8 @@ mode** that pairs L1 questions with TL answers and TL re-says.
 ## Assimil backbone
 
 Vocabulary and structures come from Assimil dialogues — short, natural,
-recurring. The pipeline (a separate agent working under `Resources/`)
-turns the raw archives into a wiki at `Resources/_corpus_kb/kb/` with:
+recurring. The pipeline (a separate agent working under `corpus/`)
+turns the raw archives into a wiki at `corpus/_corpus_kb/kb/` with:
 
 - `vocab/` — items by frequency, recency, and lesson
 - `patterns/` — grammatical structures that repeat across lessons

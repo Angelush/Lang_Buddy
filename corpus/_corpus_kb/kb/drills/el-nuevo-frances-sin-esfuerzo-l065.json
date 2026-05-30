@@ -1,0 +1,159 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l065",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 65,
+  "title": "La Tour Eiffel",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/65 Leçon 65.mp3",
+  "themes": [
+    "history",
+    "city",
+    "architecture"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Gustave Eiffel est né en mil huit cent",
+      "base": "G.E. nació en 1832, en Dijon.",
+      "pronunciation": "gistav...ne... mil úisán trent' de"
+    },
+    {
+      "line": 2,
+      "target": "Il est devenu ingénieur très jeune.",
+      "base": "Se hizo ingeniero muy joven.",
+      "pronunciation": ".. constrüir"
+    },
+    {
+      "line": 3,
+      "target": "Il a toujours voulu construire quelque",
+      "base": "Siempre quiso construir algo extraordinario,"
+    },
+    {
+      "line": 4,
+      "target": "donc il est venu à Paris en mil huit",
+      "base": "asi pues, vino a Paris en 1886"
+    },
+    {
+      "line": 5,
+      "target": "pour la Grande Exposition, où sa",
+      "base": "para la Gran Exposición, en la que su torre ganó el primer premio."
+    },
+    {
+      "line": 6,
+      "target": "La construction a commencé en mil",
+      "base": "La construcción comenzó en 1887 y duró 2 años."
+    },
+    {
+      "line": 7,
+      "target": "La tour est construite en fer et mesure",
+      "base": "La Torre es de (está construida con) hierro y mide 320 m. (de alto).",
+      "pronunciation": "..fer"
+    },
+    {
+      "line": 8,
+      "target": "Il y a trois étages et une antenne de",
+      "base": "Hay tres pisos y una antena de televisión en la parte más alta (todo en alto)."
+    },
+    {
+      "line": 9,
+      "target": "Heureusement, depuis mil neuf cent",
+      "base": "Afortunadamente, desde 1965, hay un ascensor eléctrico."
+    },
+    {
+      "line": 10,
+      "target": "Mais en mil neuf cent vingt - trois,",
+      "base": "Pero en 1923, ¡ un periodista bajó en bicicleta desde el tercer piso !",
+      "pronunciation": ".. bisiklet'"
+    },
+    {
+      "line": 11,
+      "target": "La tour a coûté six millions et demi de",
+      "base": "La construcción de la torre costó 6 millones y medio de francos"
+    },
+    {
+      "line": 12,
+      "target": "et elle appartient maintenant à la ville",
+      "base": "y ahora pertenece a la ciudad de París."
+    },
+    {
+      "line": 13,
+      "target": "Gustave Eiffel est mort en mil neuf",
+      "base": "G.E. murió en 1923."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Il est devenu (1) ingénieur très jeune.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Il a toujours voulu construire quelque",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "pour la Grande Exposition, où (4) sa",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "La construction a commencé en mil",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "La tour est construite en fer (6) et mesure",
+      "reasons": [
+        "vocab:fer"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Il y a trois étages et une antenne de",
+      "reasons": [
+        "vocab:antenne"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Heureusement, depuis mil neuf cent",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "et elle appartient maintenant à la ville",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Gustave Eiffel est mort en mil neuf",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "ingenieur",
+    "prix",
+    "fer",
+    "antenne",
+    "ascenseur",
+    "bicyclette"
+  ]
+}

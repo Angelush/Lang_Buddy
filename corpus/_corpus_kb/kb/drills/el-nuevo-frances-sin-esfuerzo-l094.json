@@ -1,0 +1,159 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l094",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 94,
+  "title": "Les Français — selon eux —",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/94 Leçon 94.mp3",
+  "themes": [
+    "national-stereotypes",
+    "idioms",
+    "culture"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Les Français — selon eux — sont des gens débrouillards , indisciplinés, cultivés.",
+      "base": "Los franceses - según ellos - son gente desenvuelta, indisciplinados, cultivados.",
+      "pronunciation": ".. debruyar andissipliné"
+    },
+    {
+      "line": 2,
+      "target": "Les Anglais sont “fair-play” , un peu froids et pragmatiques.",
+      "base": "Los ingleses son “fair play”, un poco fríos y pragmáticos."
+    },
+    {
+      "line": 3,
+      "target": "Les Allemands sont disciplinés, mélomanes, martiaux.",
+      "base": "Los alemanes son disciplinados, melómanos, marciales.",
+      "pronunciation": ".. marsiô"
+    },
+    {
+      "line": 4,
+      "target": "Ce sont là des stéréotypes qui influencent notre façon de penser,",
+      "base": "Estos son estereotipos que influencian nuestra manera de pensar"
+    },
+    {
+      "line": 5,
+      "target": "mais aussi notre façon de parler. Nous disons, par exemple,",
+      "base": "(pero) y, también, nuestra manera de hablar. Decimos, por ejemplo,"
+    },
+    {
+      "line": 6,
+      "target": "“filer à anglaise” pour “partir discrètement”.",
+      "base": "despedirse a la francesa (inglesa) en vez de (para) “irse discretamente”.",
+      "pronunciation": ".. filé"
+    },
+    {
+      "line": 7,
+      "target": "Quelqu'un qui a trop bu est saoul comme un Polonais”.",
+      "base": "Alguien que ha bebido demasiado está “borracho como un polaco”."
+    },
+    {
+      "line": 8,
+      "target": "Une personne que l’on attaque systématiquement est “une tête de Turc !",
+      "base": "Una persona a la que se ataca sistemáticamente es ¡ “un cabaza de turco” !"
+    },
+    {
+      "line": 9,
+      "target": "Si l'on ne gagne pas beaucoup d'argent on dit “ce n'est pas le Pérou” !",
+      "base": "Si no se gana mucho dinero se dice : ¡ “no es Jauja” ! (¡ “no es el Perú” !)"
+    },
+    {
+      "line": 10,
+      "target": "Et si l’on parle mal le Français — ce qui n'est point votre cas —",
+      "base": "Y si se habla mal el francés - lo que en absoluto es su caso -"
+    },
+    {
+      "line": 11,
+      "target": "on dit qu’on parle comme une vache espagnole‘ .",
+      "base": "se dice que se habla como una “vaca española”."
+    },
+    {
+      "line": 12,
+      "target": "\"L'Allemagne est faite pour y voyager ; l'Italie pour y séjourner,",
+      "base": "“Alemania está hecha para viajar, [a través de ella], Italia para pasar algún tiempo,"
+    },
+    {
+      "line": 13,
+      "target": "L'Angleterre pour y penser",
+      "base": "Inglaterra para pensar -"
+    },
+    {
+      "line": 14,
+      "target": "et la France pour y vivre” (D'Alembert)",
+      "base": "y Francia para vivir” (D'Alembert)"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Les Anglais sont “fair-play” (2), un peu froids et pragmatiques.",
+      "reasons": [
+        "vocab:play"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Les Allemands sont disciplinés, mélomanes, martiaux.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "“filer à anglaise” (3) pour “partir discrètement”.",
+      "reasons": [
+        "short_response",
+        "vocab:anglaise"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Quelqu'un qui a trop bu est saoul comme un Polonais”.",
+      "reasons": [
+        "vocab:polonais"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Une personne que l’on attaque systématiquement est “une tête de Turc !",
+      "reasons": [
+        "answer_to_question",
+        "vocab:turc"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "on dit qu’on parle comme une vache espagnole‘ (6).",
+      "reasons": [
+        "vocab:espagnole"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "L'Angleterre pour y penser",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "et la France pour y vivre” (D'Alembert)",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "debrouillard",
+    "fair-play",
+    "filer-a-l-anglaise",
+    "saoul-comme-un-polonais",
+    "tete-de-turc",
+    "le-perou",
+    "vache-espagnole"
+  ]
+}

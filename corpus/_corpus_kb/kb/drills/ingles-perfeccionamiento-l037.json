@@ -1,0 +1,208 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l037",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 37,
+  "title": "Stress",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "corpus/Assimil - Ingles Perfeccionamiento/Audio/37 Lesson 37.mp3",
+  "themes": [
+    "daily life",
+    "opinions",
+    "work",
+    "modern inconveniences"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Have you seen the sugar content of this soft drink? — He won’t be content with anything less than perfection.",
+      "base": ""
+    },
+    {
+      "line": 4,
+      "target": "Have you heard the new record by the Thugs? It’s terrible! A real flop.",
+      "base": ""
+    },
+    {
+      "line": 5,
+      "target": "Since they changed lead singers, they haven’t been able to record a decent album.",
+      "base": ""
+    },
+    {
+      "line": 6,
+      "target": "I’ve decided to go and spend a month in New York to perfect my English. What do you think?",
+      "base": ""
+    },
+    {
+      "line": 7,
+      "target": "Why bother? Your English is perfect as it is. Anyway, New York is so expensive.",
+      "base": ""
+    },
+    {
+      "line": 10,
+      "target": "When the headmaster left the school, the staff wanted to give him a suitable present.",
+      "base": ""
+    },
+    {
+      "line": 20,
+      "target": "They came to the realisation that it was necessary to upgrade the company image.",
+      "base": "Ellos se convencieron de que era necesario mejorar la imagen de la empresa."
+    },
+    {
+      "line": 21,
+      "target": "Yes, but the problem is that they’re too late. It took them five years to realise what a mess they were in.",
+      "base": "Sí, pero el problema es que se convencieron demasiado tarde. Les tomó cinco años para darse cuenta de la miseria en que estaban metidos."
+    },
+    {
+      "line": 22,
+      "target": "I sent off a load of photographs to a magazine in the hope that they would be published.",
+      "base": "Envié un montón de fotos a una revista con la esperanza de que fueran publicadas."
+    },
+    {
+      "line": 23,
+      "target": "But they have a permanent staff of twenty photographers, and photographic journalism is a cut-throat profession.",
+      "base": "Pero tienen un equipo permanente de veinte fotógrafos y el periodismo fotográfico es una profesión peligrosa."
+    },
+    {
+      "line": 24,
+      "target": "A new generation of workers is revolutionising the car industry — robots.",
+      "base": "Una nueva generación de trabajadores está en camino de revolucionar la industria automovilista: los robots."
+    },
+    {
+      "line": 25,
+      "target": "I’m sorry, I had no idea she was married.",
+      "base": "Lo siento, yo no sabía que ella estaba casada. — No se inquiete usted, su marido tampoco."
+    },
+    {
+      "line": 26,
+      "target": "He doesn’t possess the right qualities for a career in advertising. He’s not aggressive enough.",
+      "base": "Él no posee las cualidades necesarias para hacer carrera en la publicidad. No es lo suficiente agresivo."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Have you seen the sugar content of this soft drink? — He won’t be content with anything less than perfection. (1)",
+      "reasons": [
+        "vocab:with"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Have you heard the new record by the Thugs? It’s terrible! A real flop. (2)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:terrible"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Since they changed lead singers, they haven’t been able to record a decent album. (3)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:album"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Why bother? Your English is perfect as it is. Anyway, New York is so expensive. (4)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:bother"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "When the headmaster left the school, the staff wanted to give him a suitable present.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 20,
+      "target": "They came to the realisation that it was necessary to upgrade the company image. (9)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:upgrade"
+      ]
+    },
+    {
+      "line": 21,
+      "target": "Yes, but the problem is that they’re too late. It took them five years to realise what a mess they were in. (10)",
+      "reasons": [
+        "vocab:mess"
+      ]
+    },
+    {
+      "line": 22,
+      "target": "I sent off a load of photographs to a magazine in the hope that they would be published. (11)",
+      "reasons": [
+        "vocab:publish"
+      ]
+    },
+    {
+      "line": 23,
+      "target": "But they have a permanent staff of twenty photographers, and photographic journalism is a cut-throat profession.",
+      "reasons": [
+        "vocab:journalism"
+      ]
+    },
+    {
+      "line": 24,
+      "target": "A new generation of workers is revolutionising the car industry — robots.",
+      "reasons": [
+        "vocab:robots"
+      ]
+    },
+    {
+      "line": 26,
+      "target": "He doesn’t possess the right qualities for a career in advertising. He’s not aggressive enough.",
+      "reasons": [
+        "vocab:advertising"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "soft-drink",
+    "hard-liquor",
+    "terrible",
+    "flop",
+    "album",
+    "bother",
+    "software",
+    "hardware",
+    "inner-city",
+    "familiar-with",
+    "sore",
+    "eyesore",
+    "upgrade",
+    "mess",
+    "rally",
+    "desert",
+    "rescue",
+    "mayor",
+    "law-and-order",
+    "community-interaction",
+    "painting",
+    "eighteenth-century",
+    "artist",
+    "heirloom",
+    "accountant",
+    "advertise",
+    "effective",
+    "word-of-mouth",
+    "realisation",
+    "mess",
+    "load",
+    "photographs",
+    "magazine",
+    "publish",
+    "photographic-journalism",
+    "cut-throat",
+    "robots",
+    "aggressive",
+    "career",
+    "advertising"
+  ]
+}

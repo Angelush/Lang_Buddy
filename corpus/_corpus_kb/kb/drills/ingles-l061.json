@@ -1,0 +1,186 @@
+{
+  "lesson_id": "ingles-l061",
+  "source": "ingles",
+  "lesson": 61,
+  "title": "Holidays",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 061 - Anglais.mp3",
+  "themes": [
+    "travel",
+    "vacation planning",
+    "decision making"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "| got” these brochures yesterday from the travel agent's.",
+      "base": "Conseguí ayer los folletos de la agencia de viajes.",
+      "pronunciation": ".. broushérs... travél-adchénts. — 3 ... ábaut spei Sr nor... — 5 ... maté evri-bodi... p naidzé..."
+    },
+    {
+      "line": 2,
+      "target": "Oh good! Let's have a look at them!",
+      "base": "¡Qué bien! Vamos a verlos."
+    },
+    {
+      "line": 3,
+      "target": "| like the ones about Spain. Let's go* to Spain this year.",
+      "base": "Me gustan los de España. Vayamos a España este año."
+    },
+    {
+      "line": 4,
+      "target": "But neither you nor | speak* Spanish.",
+      "base": "Pero ni tú ni yo hablamos español."
+    },
+    {
+      "line": 5,
+      "target": "It doesn’t matter. In these towns, everybody speaks” English.",
+      "base": "No importa. En estas ciudades todo el mundo habla inglés."
+    },
+    {
+      "line": 6,
+      "target": "Well, we can either go* to Spain or to Scotland. (N. 2)",
+      "base": "Bueno, podemos ir a España o a Escocia."
+    },
+    {
+      "line": 7,
+      "target": "Scotland! But it’s cold in Scotland and | want some sun.",
+      "base": "¡Escocia! Hace frío en Escocia y yo quiero sol."
+    },
+    {
+      "line": 8,
+      "target": "It's not too cold, and it's very beautiful. And you don't have to take* a plane.",
+      "base": "No hace demasiado frío y es muy bonito. Y no hay que coger el avión."
+    },
+    {
+      "line": 9,
+      "target": "| don’t like flying and neither do you.",
+      "base": "No me gusta volar y a ti tampoco."
+    },
+    {
+      "line": 10,
+      "target": "But Spanish is easier to understand* than the English they speak in Scotland.",
+      "base": "Pero el español es más fácil de comprender que el inglés que hablan en Escocia."
+    },
+    {
+      "line": 11,
+      "target": "Nonsense! Anyway, we might see* the Loch Ness Monster.",
+      "base": "¡Tonterías! De todas formas, podríamos ver el monstruo del Lago Ness."
+    },
+    {
+      "line": 12,
+      "target": "|t doesn't exist! — How do you know*?",
+      "base": "No existe! — ¿Cómo lo sabes?"
+    },
+    {
+      "line": 13,
+      "target": "It's either a myth or an invention to attract tourists.",
+      "base": "Es un mito o una invención para atraer a los turistas."
+    },
+    {
+      "line": 14,
+      "target": "Well, we must decide: either Spain or Scotland.",
+      "base": "Bueno, debemos decidir: o España o Escocia."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "| got” these brochures yesterday from the travel agent's. (1)",
+      "reasons": [
+        "vocab:agent"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Oh good! Let's have a look at them!",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "| like the ones about Spain. Let's go* to Spain this year.",
+      "reasons": [
+        "vocab:spain"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "But neither you nor | speak* Spanish. (2)",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Well, we can either go* to Spain or to Scotland. (N. 2)",
+      "reasons": [
+        "vocab:scotland"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Scotland! But it’s cold in Scotland and | want some sun.",
+      "reasons": [
+        "vocab:scotland"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "| don’t like flying and neither do you.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "But Spanish is easier to understand* than the English they speak in Scotland.",
+      "reasons": [
+        "vocab:scotland"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Nonsense! Anyway, we might see* the Loch Ness Monster. (4)",
+      "reasons": [
+        "vocab:ness"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "|t doesn't exist! — How do you know*?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "It's either a myth or an invention to attract tourists.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "Well, we must decide: either Spain or Scotland.",
+      "reasons": [
+        "short_response",
+        "vocab:scotland"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "brochures",
+    "travel-agent",
+    "en2b-Spain",
+    "en2b-Scotland",
+    "sun",
+    "beach",
+    "mountains",
+    "en2b-Loch-Ness",
+    "monster"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "lesson_id": "ingles-l033",
+  "source": "ingles",
+  "lesson": 33,
+  "title": "Mr Marsden",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 033 - Anglais.mp3",
+  "themes": [
+    "work",
+    "media",
+    "holidays"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Mr Marsden is David's boss. He is the editor of the newspaper for which David works.",
+      "base": "El Sr. Marsden es el jefe de David. Es el redactor jefe del periódico para el que trabaja David.",
+      "pronunciation": ".. edit... foo uich... — 2 ... rispánsébilitis... dchob... endchois,.. — 4 bank kleek... — 5 ... asuel peid... — 7 ... tuais... — 9 artikó!... takseishén... — 11 ... aj kant helpit..."
+    },
+    {
+      "line": 2,
+      "target": "There are many responsibilities in his job, but he enjoys it very much.",
+      "base": "Tiene muchas responsabilidades en su trabajo, pero le divierte mucho."
+    },
+    {
+      "line": 3,
+      "target": "In his wife's opinion, there are too many responsibilities; she never sees him!",
+      "base": "En opinión de su mujer, tiene demasiadas responsabilidades ; ¡nunca lo ve!"
+    },
+    {
+      "line": 4,
+      "target": "She prefers her son’s job. He is a bank clerk and is home every day at six.",
+      "base": "Prefiere el trabajo de su hijo. Es empleado de banca y está en casa todos los días a las seis."
+    },
+    {
+      "line": 5,
+      "target": "His job is not as well paid as his father’s, but he works less,",
+      "base": "Su trabajo no está tan bien pagado como el de su padre, pero trabaja menos,"
+    },
+    {
+      "line": 6,
+      "target": "and the holidays are better.",
+      "base": "y las vacaciones son mejores."
+    },
+    {
+      "line": 7,
+      "target": "In England, twice a year, there is a day's holiday called a “ Bank Holiday ”.",
+      "base": "En Inglaterra hay dos días festivos al año que reciben el nombre de « Fiesta de la Banca »."
+    },
+    {
+      "line": 8,
+      "target": "I'll be home late tonight, dear. — Why?",
+      "base": "Liegaré a casa tarde esta noche, querida. — ¿ Por qué ?"
+    },
+    {
+      "line": 9,
+      "target": "I've got a new article about taxation to prepare.",
+      "base": "Tengo que preparar un nuevo artículo sobre los impuestos."
+    },
+    {
+      "line": 10,
+      "target": "But you always go to the office early and come home late!",
+      "base": "Pero siempre vas a la oficina pronto y vienes a casa tarde."
+    },
+    {
+      "line": 11,
+      "target": "I can't help it. An editor's life, you know...",
+      "base": "No puedo evitarlo. Es la vida de un redactor jefe, ya sabes."
+    },
+    {
+      "line": 12,
+      "target": "And his wife's life...!",
+      "base": "¡Y la vida de su mujer...!"
+    },
+    {
+      "line": 13,
+      "target": "I'll see you tonight, love, good-bye.",
+      "base": "Te veré esta noche, cariño, adiós."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Mr Marsden is David's boss. He is the editor of the newspaper for which David works. (1) (2)",
+      "reasons": [
+        "vocab:editor"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "There are many responsibilities in his job, but he enjoys it very much. (3)",
+      "reasons": [
+        "vocab:enjoys"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "She prefers her son’s job. He is a bank clerk and is home every day at six.",
+      "reasons": [
+        "vocab:clerk"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "and the holidays are better.",
+      "reasons": [
+        "short_response",
+        "vocab:holiday"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "In England, twice a year, there is a day's holiday called a “ Bank Holiday ”. (5) (6)",
+      "reasons": [
+        "vocab:holiday"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "I'll be home late tonight, dear. — Why?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "I've got a new article about taxation to prepare.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:taxation"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "I can't help it. An editor's life, you know...",
+      "reasons": [
+        "vocab:editor"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "And his wife's life...!",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "I'll see you tonight, love, good-bye.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "editor",
+    "enjoys",
+    "clerk",
+    "taxation",
+    "holiday"
+  ]
+}

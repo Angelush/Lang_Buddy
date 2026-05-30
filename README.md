@@ -29,7 +29,7 @@ Read these files in order at the start of every session:
 5. `srs.md` — the SM-2-style algorithm that picks which items to surface next
 6. `session-template.md` — the open / converse / close arc of a session
 7. `orchestrator.md` — the boot sequence and runtime rules
-8. `Resources/_corpus_kb/kb/` — the processed wiki (`dialogues/`, `vocab/`,
+8. `corpus/_corpus_kb/kb/` — the processed wiki (`dialogues/`, `vocab/`,
    `patterns/`, `grammar/`, `sources/`). A separate agent populates this
    from the raw Assimil archives. Load whatever is available; fall back
    to general Assimil-style knowledge if a section isn't ready yet
@@ -43,7 +43,7 @@ honest summary when the learner signals they're done.
 - **Channel**: voice — use TTS for your replies; the learner speaks back
 - **Memory**: lives in the current chat only. No database, no user profile.
   Recall items by remembering what surfaced earlier in *this* conversation
-- **Content**: drawn from Assimil dialogues processed under `Resources/`
+- **Content**: drawn from Assimil dialogues processed under `corpus/`
 
 ## For the human user
 

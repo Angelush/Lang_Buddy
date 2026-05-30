@@ -1,0 +1,180 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l096",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 96,
+  "title": "Dans un bureau de poste",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/96 Leçon 96.mp3",
+  "themes": [
+    "shopping",
+    "hotel",
+    "travel-logistics",
+    "signs"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Je voudrais un timbre pour l'Amérique. Combien je vous dois ?",
+      "base": "Quisiera (querría) un sello para América. ¿ Cuánto le debo ?"
+    },
+    {
+      "line": 2,
+      "target": "Où puis-je trouver un téléphone ? Avez-vous de la monnaie ?",
+      "base": "¿ Dónde puedo encontrar un teléfono ? ¿ Tiene cambio (de la moneda) ?"
+    },
+    {
+      "line": 3,
+      "target": "Il faut que j'achète des chaussures. J'ai mal aux pieds !",
+      "base": "Tengo que comprar unos zapatos. ¡ Me duelen los pies !",
+      "pronunciation": "ee: achosir"
+    },
+    {
+      "line": 4,
+      "target": "Vous chaussez du combien ? — Ah, je ne connais pas ma pointure en francais.",
+      "base": "¿ Qué número calza ? - Ah, no conozco mi medida en francés.",
+      "pronunciation": "..puanmtur"
+    },
+    {
+      "line": 5,
+      "target": "Payez à la caisse. — Acceptez - vous des travellers-chèques ?",
+      "base": "Pague (a la) encaja - ¿ Acepta cheques de viaje ?"
+    },
+    {
+      "line": 6,
+      "target": "Avec une pièce d'identité. — Voici mon permis de conduire.",
+      "base": "Con un(a) documento (pieza) de identidad - He aquí mi permiso de conducir."
+    },
+    {
+      "line": 7,
+      "target": "Je voudrais une chambre simple. — ll ne reste que des doubles.",
+      "base": "Quisiera una habitación individua: (simple). - No quedan más que dobles."
+    },
+    {
+      "line": 8,
+      "target": "Je la veux avec douche et W.C. Est-ce que le petit déjeuner est compris ?",
+      "base": "La quiero con ducha y W.C. ¿ El desayuno está incluido ?"
+    },
+    {
+      "line": 9,
+      "target": "Voulez-vous me préparer la note ? Je pars demain matin.",
+      "base": "¿ Quiere prepararme la cuenta (nota) ? Me voy mañana por la mañana."
+    },
+    {
+      "line": 10,
+      "target": "**Enseignes:** Entrée. Entrée interdite. Sortie. Sortie de secours.",
+      "base": "**Letreros:** Entrada. Entrada prohibida. Salida. Salida de socorro."
+    },
+    {
+      "line": 11,
+      "target": "Stationnement génant . Défense d'afficher. Complet.",
+      "base": "Estacionamiento prohibido. Prohibido poner carteles. Complet.",
+      "pronunciation": "stasionmán jénán"
+    },
+    {
+      "line": 12,
+      "target": "Lavabos . Vestiaire . Service en sus . Pourboire interdit.",
+      "base": "Aseos. Vestuario. Servicio no comprendido. Propina prohibida.",
+      "pronunciation": "..vestier... sus"
+    },
+    {
+      "line": 13,
+      "target": "(Propos entendu dans un piège à touristes à Paris :)",
+      "base": "(Conversación oída en una trampa para turistas en París) :"
+    },
+    {
+      "line": 14,
+      "target": "Garçon ! Est-ce que le service est compris ? — Oui Monsieur,",
+      "base": "¡ Chico ! ¿ El servicio está comprendido ? - Si señor,"
+    },
+    {
+      "line": 15,
+      "target": "mais le pourboire ne l’est pas !",
+      "base": "¡ pero la propina no (lo está) !"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Où puis-je (2) trouver un téléphone ? Avez-vous de la monnaie ?",
+      "reasons": [
+        "answer_to_question",
+        "vocab:monnaie"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Il faut que j'achète (3) des chaussures. J'ai mal aux pieds !",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Vous chaussez du combien ? — Ah, je ne connais pas ma pointure (4) en francais.",
+      "reasons": [
+        "vocab:pointure"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Payez à la caisse. — Acceptez - vous des travellers-chèques ?",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Avec une pièce d'identité. — Voici mon permis de conduire.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:conduire"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Voulez-vous me préparer la note ? Je pars demain matin.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "**Enseignes:** Entrée. Entrée interdite. Sortie. Sortie de secours.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Stationnement génant (6). Défense d'afficher. Complet.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Lavabos (7). Vestiaire . Service en sus (8). Pourboire interdit.",
+      "reasons": [
+        "vocab:pourboire"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "mais le pourboire ne l’est pas !",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:pourboire"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "monnaie",
+    "pointure",
+    "permis-de-conduire",
+    "pourboire"
+  ]
+}

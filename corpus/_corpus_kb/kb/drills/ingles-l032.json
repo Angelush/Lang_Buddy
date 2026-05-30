@@ -1,0 +1,167 @@
+{
+  "lesson_id": "ingles-l032",
+  "source": "ingles",
+  "lesson": 32,
+  "title": "Review Sentences",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 032 - Anglais.mp3",
+  "themes": [
+    "daily life",
+    "work",
+    "review"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Here are some sentences with the verbs of the last few lessons:",
+      "base": "He aqui algunas frases con los verbos de las últimas lecciones :"
+    },
+    {
+      "line": 2,
+      "target": "Joan types letters all morning.",
+      "base": "Joan escribe cartas a máquina toda la mañana.",
+      "pronunciation": ".. taips.. — 7 ... ekstrimli bisii, — 8 ... ánsér... — 13 ... hangri. — 14... zérsti..."
+    },
+    {
+      "line": 3,
+      "target": "David receives a call from a friend.",
+      "base": "David recibe una llamada de un amigo."
+    },
+    {
+      "line": 4,
+      "target": "Joan cooks at home if she is not too tired.",
+      "base": "Joan cocina en casa si no está demasiado cansada."
+    },
+    {
+      "line": 5,
+      "target": "Is your husband still working?",
+      "base": "¿Está aún trabajando su marido ?"
+    },
+    {
+      "line": 6,
+      "target": "Yes, he is not home yet.",
+      "base": "Si, aún no ha llegado a casa."
+    },
+    {
+      "line": 7,
+      "target": "Wait for him, he's extremely busy.",
+      "base": "Espérelo, está sumamente ocupado."
+    },
+    {
+      "line": 8,
+      "target": "The phone is ringing. Answer it please.",
+      "base": "Suena el teléfono. Contesta, por favor."
+    },
+    {
+      "line": 9,
+      "target": "His wife works full-time,",
+      "base": "Su mujer trabaja la jornada completa,"
+    },
+    {
+      "line": 10,
+      "target": "but he only works part-time.",
+      "base": "pero él trabaja sólo media jornada."
+    },
+    {
+      "line": 11,
+      "target": "I can't afford a new car. They're too expensive.",
+      "base": "No puedo permitirme un coche nuevo. Son demasiado caros."
+    },
+    {
+      "line": 12,
+      "target": "Let's go out to a restaurant tonight.",
+      "base": "Vayamos a un restaurante esta noche."
+    },
+    {
+      "line": 13,
+      "target": "No thanks, I'm not hungry,",
+      "base": "No gracias, no tengo hambre,"
+    },
+    {
+      "line": 14,
+      "target": "but I am thirsty: let's go to the pub.",
+      "base": "pero tengo sed ; vamos al pub."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "Joan types letters all morning. (1)",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "David receives a call from a friend.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Is your husband still working?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Yes, he is not home yet.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Wait for him, he's extremely busy.",
+      "reasons": [
+        "short_response",
+        "vocab:extremely"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "The phone is ringing. Answer it please. (3)",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "His wife works full-time,",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "but he only works part-time.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Let's go out to a restaurant tonight.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "No thanks, I'm not hungry,",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "typewriter",
+    "cooker",
+    "extremely"
+  ]
+}

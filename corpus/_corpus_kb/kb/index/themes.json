@@ -1,0 +1,1721 @@
+{
+  "travel": [
+    "el-nuevo-frances-sin-esfuerzo-l001",
+    "el-nuevo-frances-sin-esfuerzo-l016",
+    "el-nuevo-frances-sin-esfuerzo-l019",
+    "el-nuevo-frances-sin-esfuerzo-l044",
+    "el-nuevo-frances-sin-esfuerzo-l045",
+    "el-nuevo-frances-sin-esfuerzo-l046",
+    "el-nuevo-frances-sin-esfuerzo-l058",
+    "el-nuevo-frances-sin-esfuerzo-l059",
+    "el-nuevo-frances-sin-esfuerzo-l061",
+    "el-nuevo-frances-sin-esfuerzo-l064",
+    "el-nuevo-frances-sin-esfuerzo-l071",
+    "ingles-l024",
+    "ingles-l060",
+    "ingles-l061",
+    "ingles-l062",
+    "ingles-l087",
+    "ingles-l088",
+    "ingles-l106",
+    "ingles-l122",
+    "ingles-l134",
+    "ingles-l135",
+    "ingles-l138",
+    "ingles-perfeccionamiento-l006",
+    "ingles-perfeccionamiento-l026",
+    "ingles-perfeccionamiento-l044",
+    "ingles-perfeccionamiento-l050",
+    "ingles-perfeccionamiento-l053",
+    "ingles-perfeccionamiento-l054"
+  ],
+  "greetings": [
+    "el-nuevo-frances-sin-esfuerzo-l001",
+    "ingles-l001",
+    "ingles-l002",
+    "ingles-l006",
+    "ingles-l074"
+  ],
+  "paris": [
+    "el-nuevo-frances-sin-esfuerzo-l001",
+    "el-nuevo-frances-sin-esfuerzo-l012",
+    "el-nuevo-frances-sin-esfuerzo-l032"
+  ],
+  "shopping": [
+    "el-nuevo-frances-sin-esfuerzo-l002",
+    "el-nuevo-frances-sin-esfuerzo-l004",
+    "el-nuevo-frances-sin-esfuerzo-l006",
+    "el-nuevo-frances-sin-esfuerzo-l016",
+    "el-nuevo-frances-sin-esfuerzo-l027",
+    "el-nuevo-frances-sin-esfuerzo-l033",
+    "el-nuevo-frances-sin-esfuerzo-l040",
+    "el-nuevo-frances-sin-esfuerzo-l078",
+    "el-nuevo-frances-sin-esfuerzo-l096",
+    "ingles-l008",
+    "ingles-l020",
+    "ingles-l023",
+    "ingles-l083",
+    "ingles-l136",
+    "ingles-l138"
+  ],
+  "clothing": [
+    "el-nuevo-frances-sin-esfuerzo-l002",
+    "el-nuevo-frances-sin-esfuerzo-l026",
+    "el-nuevo-frances-sin-esfuerzo-l078"
+  ],
+  "food": [
+    "el-nuevo-frances-sin-esfuerzo-l003",
+    "el-nuevo-frances-sin-esfuerzo-l004",
+    "el-nuevo-frances-sin-esfuerzo-l006",
+    "el-nuevo-frances-sin-esfuerzo-l019",
+    "el-nuevo-frances-sin-esfuerzo-l024",
+    "el-nuevo-frances-sin-esfuerzo-l027",
+    "el-nuevo-frances-sin-esfuerzo-l071",
+    "el-nuevo-frances-sin-esfuerzo-l072",
+    "ingles-l003",
+    "ingles-l008",
+    "ingles-l009",
+    "ingles-l031",
+    "ingles-l036",
+    "ingles-l037",
+    "ingles-l083",
+    "ingles-l137"
+  ],
+  "social": [
+    "el-nuevo-frances-sin-esfuerzo-l003",
+    "el-nuevo-frances-sin-esfuerzo-l004",
+    "el-nuevo-frances-sin-esfuerzo-l005",
+    "el-nuevo-frances-sin-esfuerzo-l015",
+    "el-nuevo-frances-sin-esfuerzo-l017",
+    "el-nuevo-frances-sin-esfuerzo-l062",
+    "el-nuevo-frances-sin-esfuerzo-l076",
+    "ingles-l005",
+    "ingles-l036"
+  ],
+  "cafe": [
+    "el-nuevo-frances-sin-esfuerzo-l003"
+  ],
+  "proverbs": [
+    "el-nuevo-frances-sin-esfuerzo-l005",
+    "ingles-perfeccionamiento-l019"
+  ],
+  "grammar": [
+    "el-nuevo-frances-sin-esfuerzo-l007",
+    "el-nuevo-frances-sin-esfuerzo-l014",
+    "el-nuevo-frances-sin-esfuerzo-l021",
+    "el-nuevo-frances-sin-esfuerzo-l035",
+    "el-nuevo-frances-sin-esfuerzo-l063",
+    "el-nuevo-frances-sin-esfuerzo-l070",
+    "el-nuevo-frances-sin-esfuerzo-l077",
+    "ingles-l021",
+    "ingles-l028",
+    "ingles-l035",
+    "ingles-l084",
+    "ingles-l112",
+    "ingles-l119",
+    "ingles-l133",
+    "ingles-l140",
+    "ingles-perfeccionamiento-l007",
+    "ingles-perfeccionamiento-l009",
+    "ingles-perfeccionamiento-l010",
+    "ingles-perfeccionamiento-l045",
+    "ingles-perfeccionamiento-l046"
+  ],
+  "review": [
+    "el-nuevo-frances-sin-esfuerzo-l007",
+    "el-nuevo-frances-sin-esfuerzo-l011",
+    "el-nuevo-frances-sin-esfuerzo-l014",
+    "el-nuevo-frances-sin-esfuerzo-l020",
+    "el-nuevo-frances-sin-esfuerzo-l021",
+    "el-nuevo-frances-sin-esfuerzo-l042",
+    "el-nuevo-frances-sin-esfuerzo-l051",
+    "el-nuevo-frances-sin-esfuerzo-l070",
+    "ingles-l019",
+    "ingles-l021",
+    "ingles-l028",
+    "ingles-l032",
+    "ingles-l035",
+    "ingles-l070",
+    "ingles-l084",
+    "ingles-l119",
+    "ingles-l124",
+    "ingles-perfeccionamiento-l007"
+  ],
+  "work": [
+    "el-nuevo-frances-sin-esfuerzo-l008",
+    "el-nuevo-frances-sin-esfuerzo-l015",
+    "el-nuevo-frances-sin-esfuerzo-l036",
+    "el-nuevo-frances-sin-esfuerzo-l043",
+    "el-nuevo-frances-sin-esfuerzo-l051",
+    "el-nuevo-frances-sin-esfuerzo-l052",
+    "el-nuevo-frances-sin-esfuerzo-l078",
+    "ingles-l015",
+    "ingles-l029",
+    "ingles-l032",
+    "ingles-l033",
+    "ingles-l107",
+    "ingles-perfeccionamiento-l037"
+  ],
+  "visiting": [
+    "el-nuevo-frances-sin-esfuerzo-l008",
+    "ingles-l108",
+    "ingles-l118"
+  ],
+  "administration": [
+    "el-nuevo-frances-sin-esfuerzo-l009"
+  ],
+  "family": [
+    "el-nuevo-frances-sin-esfuerzo-l009",
+    "el-nuevo-frances-sin-esfuerzo-l036",
+    "el-nuevo-frances-sin-esfuerzo-l050",
+    "el-nuevo-frances-sin-esfuerzo-l062",
+    "el-nuevo-frances-sin-esfuerzo-l064",
+    "el-nuevo-frances-sin-esfuerzo-l078",
+    "ingles-l002",
+    "ingles-l004",
+    "ingles-l018",
+    "ingles-l020",
+    "ingles-l034",
+    "ingles-l108",
+    "ingles-l113",
+    "ingles-l118",
+    "ingles-l139"
+  ],
+  "routine": [
+    "el-nuevo-frances-sin-esfuerzo-l010",
+    "ingles-l086"
+  ],
+  "entertainment": [
+    "el-nuevo-frances-sin-esfuerzo-l010",
+    "el-nuevo-frances-sin-esfuerzo-l011",
+    "el-nuevo-frances-sin-esfuerzo-l074"
+  ],
+  "joke": [
+    "el-nuevo-frances-sin-esfuerzo-l011",
+    "el-nuevo-frances-sin-esfuerzo-l016",
+    "el-nuevo-frances-sin-esfuerzo-l025"
+  ],
+  "tourism": [
+    "el-nuevo-frances-sin-esfuerzo-l012",
+    "el-nuevo-frances-sin-esfuerzo-l064",
+    "ingles-l134",
+    "ingles-perfeccionamiento-l006"
+  ],
+  "music": [
+    "el-nuevo-frances-sin-esfuerzo-l013",
+    "el-nuevo-frances-sin-esfuerzo-l076",
+    "ingles-perfeccionamiento-l022"
+  ],
+  "opinions": [
+    "el-nuevo-frances-sin-esfuerzo-l013",
+    "ingles-perfeccionamiento-l037"
+  ],
+  "advertising": [
+    "el-nuevo-frances-sin-esfuerzo-l015"
+  ],
+  "telephone": [
+    "el-nuevo-frances-sin-esfuerzo-l017",
+    "el-nuevo-frances-sin-esfuerzo-l018",
+    "ingles-l010"
+  ],
+  "plans": [
+    "el-nuevo-frances-sin-esfuerzo-l017",
+    "el-nuevo-frances-sin-esfuerzo-l018"
+  ],
+  "health": [
+    "el-nuevo-frances-sin-esfuerzo-l018",
+    "el-nuevo-frances-sin-esfuerzo-l069",
+    "el-nuevo-frances-sin-esfuerzo-l075"
+  ],
+  "restaurant": [
+    "el-nuevo-frances-sin-esfuerzo-l019",
+    "el-nuevo-frances-sin-esfuerzo-l041"
+  ],
+  "expressions": [
+    "el-nuevo-frances-sin-esfuerzo-l020",
+    "el-nuevo-frances-sin-esfuerzo-l087",
+    "ingles-l112"
+  ],
+  "games": [
+    "el-nuevo-frances-sin-esfuerzo-l022",
+    "el-nuevo-frances-sin-esfuerzo-l023",
+    "el-nuevo-frances-sin-esfuerzo-l024",
+    "ingles-l012"
+  ],
+  "culture": [
+    "el-nuevo-frances-sin-esfuerzo-l022",
+    "el-nuevo-frances-sin-esfuerzo-l023",
+    "el-nuevo-frances-sin-esfuerzo-l024",
+    "el-nuevo-frances-sin-esfuerzo-l071",
+    "el-nuevo-frances-sin-esfuerzo-l094",
+    "ingles-l031",
+    "ingles-l062",
+    "ingles-l068",
+    "ingles-l081",
+    "ingles-l084",
+    "ingles-l089",
+    "ingles-l120",
+    "ingles-l121",
+    "ingles-perfeccionamiento-l001",
+    "ingles-perfeccionamiento-l004",
+    "ingles-perfeccionamiento-l006",
+    "ingles-perfeccionamiento-l009",
+    "ingles-perfeccionamiento-l011",
+    "ingles-perfeccionamiento-l026",
+    "ingles-perfeccionamiento-l027",
+    "ingles-perfeccionamiento-l040",
+    "ingles-perfeccionamiento-l044",
+    "ingles-perfeccionamiento-l046",
+    "ingles-perfeccionamiento-l048",
+    "ingles-perfeccionamiento-l051",
+    "ingles-perfeccionamiento-l054"
+  ],
+  "money": [
+    "el-nuevo-frances-sin-esfuerzo-l022",
+    "el-nuevo-frances-sin-esfuerzo-l039",
+    "el-nuevo-frances-sin-esfuerzo-l053",
+    "el-nuevo-frances-sin-esfuerzo-l076"
+  ],
+  "history": [
+    "el-nuevo-frances-sin-esfuerzo-l025",
+    "el-nuevo-frances-sin-esfuerzo-l065",
+    "ingles-l121",
+    "ingles-perfeccionamiento-l001",
+    "ingles-perfeccionamiento-l008",
+    "ingles-perfeccionamiento-l011",
+    "ingles-perfeccionamiento-l026",
+    "ingles-perfeccionamiento-l027",
+    "ingles-perfeccionamiento-l052"
+  ],
+  "daily-routine": [
+    "el-nuevo-frances-sin-esfuerzo-l026"
+  ],
+  "reflexive-verbs": [
+    "el-nuevo-frances-sin-esfuerzo-l026"
+  ],
+  "commerce": [
+    "el-nuevo-frances-sin-esfuerzo-l027",
+    "ingles-perfeccionamiento-l013"
+  ],
+  "daily-life": [
+    "el-nuevo-frances-sin-esfuerzo-l027",
+    "el-nuevo-frances-sin-esfuerzo-l053",
+    "el-nuevo-frances-sin-esfuerzo-l055"
+  ],
+  "grammar-review": [
+    "el-nuevo-frances-sin-esfuerzo-l028",
+    "el-nuevo-frances-sin-esfuerzo-l098",
+    "ingles-perfeccionamiento-l014",
+    "ingles-perfeccionamiento-l049"
+  ],
+  "pronouns": [
+    "el-nuevo-frances-sin-esfuerzo-l028",
+    "el-nuevo-frances-sin-esfuerzo-l070"
+  ],
+  "alphabet": [
+    "el-nuevo-frances-sin-esfuerzo-l028"
+  ],
+  "verbs": [
+    "el-nuevo-frances-sin-esfuerzo-l028",
+    "el-nuevo-frances-sin-esfuerzo-l070",
+    "ingles-l119",
+    "ingles-perfeccionamiento-l002",
+    "ingles-perfeccionamiento-l003",
+    "ingles-perfeccionamiento-l014"
+  ],
+  "comparisons": [
+    "el-nuevo-frances-sin-esfuerzo-l029",
+    "ingles-l062",
+    "ingles-l066"
+  ],
+  "humor": [
+    "el-nuevo-frances-sin-esfuerzo-l029",
+    "el-nuevo-frances-sin-esfuerzo-l034",
+    "el-nuevo-frances-sin-esfuerzo-l037",
+    "el-nuevo-frances-sin-esfuerzo-l038",
+    "el-nuevo-frances-sin-esfuerzo-l052",
+    "el-nuevo-frances-sin-esfuerzo-l054",
+    "el-nuevo-frances-sin-esfuerzo-l055",
+    "el-nuevo-frances-sin-esfuerzo-l075",
+    "el-nuevo-frances-sin-esfuerzo-l076",
+    "el-nuevo-frances-sin-esfuerzo-l079",
+    "ingles-l020",
+    "ingles-l026",
+    "ingles-l034",
+    "ingles-l064",
+    "ingles-l067",
+    "ingles-l080",
+    "ingles-l082",
+    "ingles-l139",
+    "ingles-perfeccionamiento-l004",
+    "ingles-perfeccionamiento-l015",
+    "ingles-perfeccionamiento-l031",
+    "ingles-perfeccionamiento-l048"
+  ],
+  "descriptions": [
+    "el-nuevo-frances-sin-esfuerzo-l029",
+    "el-nuevo-frances-sin-esfuerzo-l030"
+  ],
+  "housing": [
+    "el-nuevo-frances-sin-esfuerzo-l030",
+    "el-nuevo-frances-sin-esfuerzo-l031"
+  ],
+  "furniture": [
+    "el-nuevo-frances-sin-esfuerzo-l030"
+  ],
+  "neighbors": [
+    "el-nuevo-frances-sin-esfuerzo-l031"
+  ],
+  "lifestyle": [
+    "el-nuevo-frances-sin-esfuerzo-l031",
+    "ingles-l013"
+  ],
+  "transport": [
+    "el-nuevo-frances-sin-esfuerzo-l032",
+    "el-nuevo-frances-sin-esfuerzo-l033",
+    "el-nuevo-frances-sin-esfuerzo-l057",
+    "el-nuevo-frances-sin-esfuerzo-l076",
+    "el-nuevo-frances-sin-esfuerzo-l083",
+    "ingles-l015",
+    "ingles-l016",
+    "ingles-l071",
+    "ingles-l072",
+    "ingles-perfeccionamiento-l006"
+  ],
+  "city life": [
+    "el-nuevo-frances-sin-esfuerzo-l032",
+    "ingles-l022"
+  ],
+  "inquiry": [
+    "el-nuevo-frances-sin-esfuerzo-l033"
+  ],
+  "art": [
+    "el-nuevo-frances-sin-esfuerzo-l034",
+    "ingles-l025"
+  ],
+  "mistakes": [
+    "el-nuevo-frances-sin-esfuerzo-l034"
+  ],
+  "revision": [
+    "el-nuevo-frances-sin-esfuerzo-l035",
+    "el-nuevo-frances-sin-esfuerzo-l063",
+    "el-nuevo-frances-sin-esfuerzo-l077",
+    "ingles-l007",
+    "ingles-l014",
+    "ingles-l112",
+    "ingles-l124",
+    "ingles-l133",
+    "ingles-l140",
+    "ingles-perfeccionamiento-l035"
+  ],
+  "phone calls": [
+    "el-nuevo-frances-sin-esfuerzo-l036"
+  ],
+  "theater": [
+    "el-nuevo-frances-sin-esfuerzo-l037"
+  ],
+  "emotions": [
+    "el-nuevo-frances-sin-esfuerzo-l037",
+    "el-nuevo-frances-sin-esfuerzo-l053"
+  ],
+  "cinema": [
+    "el-nuevo-frances-sin-esfuerzo-l038",
+    "el-nuevo-frances-sin-esfuerzo-l047",
+    "el-nuevo-frances-sin-esfuerzo-l053",
+    "ingles-perfeccionamiento-l061"
+  ],
+  "behavior": [
+    "el-nuevo-frances-sin-esfuerzo-l038"
+  ],
+  "invitations": [
+    "el-nuevo-frances-sin-esfuerzo-l039",
+    "ingles-l036"
+  ],
+  "kitchen": [
+    "el-nuevo-frances-sin-esfuerzo-l039"
+  ],
+  "market": [
+    "el-nuevo-frances-sin-esfuerzo-l040"
+  ],
+  "daily life": [
+    "el-nuevo-frances-sin-esfuerzo-l040",
+    "ingles-l032",
+    "ingles-l067",
+    "ingles-l111",
+    "ingles-perfeccionamiento-l037"
+  ],
+  "urban scene": [
+    "el-nuevo-frances-sin-esfuerzo-l040"
+  ],
+  "reservation": [
+    "el-nuevo-frances-sin-esfuerzo-l041",
+    "el-nuevo-frances-sin-esfuerzo-l046"
+  ],
+  "social interaction": [
+    "el-nuevo-frances-sin-esfuerzo-l041",
+    "el-nuevo-frances-sin-esfuerzo-l072"
+  ],
+  "time expressions": [
+    "el-nuevo-frances-sin-esfuerzo-l041",
+    "ingles-l016",
+    "ingles-l070",
+    "ingles-perfeccionamiento-l022"
+  ],
+  "grammar consolidation": [
+    "el-nuevo-frances-sin-esfuerzo-l042",
+    "ingles-l070"
+  ],
+  "negation": [
+    "el-nuevo-frances-sin-esfuerzo-l042"
+  ],
+  "demonstratives": [
+    "el-nuevo-frances-sin-esfuerzo-l042"
+  ],
+  "professions": [
+    "el-nuevo-frances-sin-esfuerzo-l043"
+  ],
+  "careers": [
+    "el-nuevo-frances-sin-esfuerzo-l043"
+  ],
+  "education": [
+    "el-nuevo-frances-sin-esfuerzo-l043",
+    "ingles-l111"
+  ],
+  "business": [
+    "el-nuevo-frances-sin-esfuerzo-l044",
+    "ingles-l122",
+    "ingles-l132",
+    "ingles-perfeccionamiento-l012",
+    "ingles-perfeccionamiento-l013",
+    "ingles-perfeccionamiento-l053"
+  ],
+  "airport": [
+    "el-nuevo-frances-sin-esfuerzo-l044",
+    "ingles-l122"
+  ],
+  "meeting clients": [
+    "el-nuevo-frances-sin-esfuerzo-l044"
+  ],
+  "miscommunication": [
+    "el-nuevo-frances-sin-esfuerzo-l045",
+    "ingles-perfeccionamiento-l031"
+  ],
+  "hotel": [
+    "el-nuevo-frances-sin-esfuerzo-l045",
+    "el-nuevo-frances-sin-esfuerzo-l046",
+    "el-nuevo-frances-sin-esfuerzo-l096"
+  ],
+  "apologies": [
+    "el-nuevo-frances-sin-esfuerzo-l045"
+  ],
+  "check-in": [
+    "el-nuevo-frances-sin-esfuerzo-l046"
+  ],
+  "queueing": [
+    "el-nuevo-frances-sin-esfuerzo-l047"
+  ],
+  "social norms": [
+    "el-nuevo-frances-sin-esfuerzo-l047"
+  ],
+  "confrontation": [
+    "el-nuevo-frances-sin-esfuerzo-l047"
+  ],
+  "idioms": [
+    "el-nuevo-frances-sin-esfuerzo-l048",
+    "el-nuevo-frances-sin-esfuerzo-l094",
+    "el-nuevo-frances-sin-esfuerzo-l097",
+    "ingles-l027",
+    "ingles-perfeccionamiento-l013"
+  ],
+  "everyday expressions": [
+    "el-nuevo-frances-sin-esfuerzo-l048"
+  ],
+  "communication": [
+    "el-nuevo-frances-sin-esfuerzo-l048",
+    "el-nuevo-frances-sin-esfuerzo-l060",
+    "el-nuevo-frances-sin-esfuerzo-l061",
+    "ingles-perfeccionamiento-l002",
+    "ingles-perfeccionamiento-l003",
+    "ingles-perfeccionamiento-l058"
+  ],
+  "advice": [
+    "el-nuevo-frances-sin-esfuerzo-l048"
+  ],
+  "letter writing": [
+    "el-nuevo-frances-sin-esfuerzo-l050"
+  ],
+  "holidays": [
+    "el-nuevo-frances-sin-esfuerzo-l050",
+    "ingles-l033",
+    "ingles-l087",
+    "ingles-l106",
+    "ingles-l120"
+  ],
+  "past tense": [
+    "el-nuevo-frances-sin-esfuerzo-l050"
+  ],
+  "questions": [
+    "el-nuevo-frances-sin-esfuerzo-l051",
+    "ingles-l019"
+  ],
+  "fatigue": [
+    "el-nuevo-frances-sin-esfuerzo-l051"
+  ],
+  "interview": [
+    "el-nuevo-frances-sin-esfuerzo-l052",
+    "el-nuevo-frances-sin-esfuerzo-l074"
+  ],
+  "biography": [
+    "el-nuevo-frances-sin-esfuerzo-l052"
+  ],
+  "narrative": [
+    "el-nuevo-frances-sin-esfuerzo-l054",
+    "el-nuevo-frances-sin-esfuerzo-l055"
+  ],
+  "death": [
+    "el-nuevo-frances-sin-esfuerzo-l054"
+  ],
+  "folklore": [
+    "el-nuevo-frances-sin-esfuerzo-l054"
+  ],
+  "alcohol": [
+    "el-nuevo-frances-sin-esfuerzo-l055"
+  ],
+  "missing": [
+    "el-nuevo-frances-sin-esfuerzo-l080",
+    "el-nuevo-frances-sin-esfuerzo-l081",
+    "el-nuevo-frances-sin-esfuerzo-l082"
+  ],
+  "humour": [
+    "el-nuevo-frances-sin-esfuerzo-l057",
+    "el-nuevo-frances-sin-esfuerzo-l062",
+    "el-nuevo-frances-sin-esfuerzo-l086",
+    "ingles-l037",
+    "ingles-l038",
+    "ingles-l072",
+    "ingles-l073"
+  ],
+  "city": [
+    "el-nuevo-frances-sin-esfuerzo-l057",
+    "el-nuevo-frances-sin-esfuerzo-l058",
+    "el-nuevo-frances-sin-esfuerzo-l059",
+    "el-nuevo-frances-sin-esfuerzo-l065"
+  ],
+  "directions": [
+    "el-nuevo-frances-sin-esfuerzo-l058",
+    "ingles-l037"
+  ],
+  "nature": [
+    "el-nuevo-frances-sin-esfuerzo-l059"
+  ],
+  "technology": [
+    "el-nuevo-frances-sin-esfuerzo-l060",
+    "el-nuevo-frances-sin-esfuerzo-l061",
+    "ingles-l006",
+    "ingles-perfeccionamiento-l038",
+    "ingles-perfeccionamiento-l039",
+    "ingles-perfeccionamiento-l055"
+  ],
+  "architecture": [
+    "el-nuevo-frances-sin-esfuerzo-l065"
+  ],
+  "human body": [
+    "el-nuevo-frances-sin-esfuerzo-l068",
+    "el-nuevo-frances-sin-esfuerzo-l069"
+  ],
+  "anatomy": [
+    "el-nuevo-frances-sin-esfuerzo-l068",
+    "el-nuevo-frances-sin-esfuerzo-l069"
+  ],
+  "body parts": [
+    "el-nuevo-frances-sin-esfuerzo-l068",
+    "ingles-l058"
+  ],
+  "everyday vocabulary": [
+    "el-nuevo-frances-sin-esfuerzo-l068"
+  ],
+  "everyday actions": [
+    "el-nuevo-frances-sin-esfuerzo-l069"
+  ],
+  "disappointment": [
+    "el-nuevo-frances-sin-esfuerzo-l071"
+  ],
+  "restaurants": [
+    "el-nuevo-frances-sin-esfuerzo-l072",
+    "ingles-l031"
+  ],
+  "modern life": [
+    "el-nuevo-frances-sin-esfuerzo-l072"
+  ],
+  "memory": [
+    "el-nuevo-frances-sin-esfuerzo-l073"
+  ],
+  "past": [
+    "el-nuevo-frances-sin-esfuerzo-l073"
+  ],
+  "nostalgia": [
+    "el-nuevo-frances-sin-esfuerzo-l073"
+  ],
+  "imperfect tense": [
+    "el-nuevo-frances-sin-esfuerzo-l073"
+  ],
+  "media": [
+    "el-nuevo-frances-sin-esfuerzo-l074",
+    "ingles-l033",
+    "ingles-perfeccionamiento-l010",
+    "ingles-perfeccionamiento-l028",
+    "ingles-perfeccionamiento-l058"
+  ],
+  "career": [
+    "el-nuevo-frances-sin-esfuerzo-l074"
+  ],
+  "medicine": [
+    "el-nuevo-frances-sin-esfuerzo-l075"
+  ],
+  "diagnosis": [
+    "el-nuevo-frances-sin-esfuerzo-l075"
+  ],
+  "numbers": [
+    "el-nuevo-frances-sin-esfuerzo-l077",
+    "ingles-l010",
+    "ingles-perfeccionamiento-l012"
+  ],
+  "politics": [
+    "el-nuevo-frances-sin-esfuerzo-l079",
+    "ingles-perfeccionamiento-l032",
+    "ingles-perfeccionamiento-l036",
+    "ingles-perfeccionamiento-l059"
+  ],
+  "society": [
+    "el-nuevo-frances-sin-esfuerzo-l079",
+    "ingles-l107",
+    "ingles-perfeccionamiento-l015"
+  ],
+  "elections": [
+    "el-nuevo-frances-sin-esfuerzo-l079",
+    "ingles-perfeccionamiento-l032",
+    "ingles-perfeccionamiento-l059"
+  ],
+  "voyage": [
+    "el-nuevo-frances-sin-esfuerzo-l083"
+  ],
+  "famille": [
+    "el-nuevo-frances-sin-esfuerzo-l083"
+  ],
+  "révision": [
+    "el-nuevo-frances-sin-esfuerzo-l084"
+  ],
+  "grammaire": [
+    "el-nuevo-frances-sin-esfuerzo-l084",
+    "el-nuevo-frances-sin-esfuerzo-l086"
+  ],
+  "tourisme": [
+    "el-nuevo-frances-sin-esfuerzo-l085"
+  ],
+  "vin": [
+    "el-nuevo-frances-sin-esfuerzo-l085"
+  ],
+  "vignobles": [
+    "el-nuevo-frances-sin-esfuerzo-l085"
+  ],
+  "école": [
+    "el-nuevo-frances-sin-esfuerzo-l086"
+  ],
+  "idiomes": [
+    "el-nuevo-frances-sin-esfuerzo-l087"
+  ],
+  "médias": [
+    "el-nuevo-frances-sin-esfuerzo-l088"
+  ],
+  "société": [
+    "el-nuevo-frances-sin-esfuerzo-l088"
+  ],
+  "télévision": [
+    "el-nuevo-frances-sin-esfuerzo-l088"
+  ],
+  "sport": [
+    "el-nuevo-frances-sin-esfuerzo-l089",
+    "ingles-l038"
+  ],
+  "cyclisme": [
+    "el-nuevo-frances-sin-esfuerzo-l089"
+  ],
+  "histoire": [
+    "el-nuevo-frances-sin-esfuerzo-l089"
+  ],
+  "national-stereotypes": [
+    "el-nuevo-frances-sin-esfuerzo-l094"
+  ],
+  "politeness": [
+    "el-nuevo-frances-sin-esfuerzo-l095",
+    "ingles-l023",
+    "ingles-perfeccionamiento-l004"
+  ],
+  "travel-expressions": [
+    "el-nuevo-frances-sin-esfuerzo-l095"
+  ],
+  "travel-logistics": [
+    "el-nuevo-frances-sin-esfuerzo-l096"
+  ],
+  "signs": [
+    "el-nuevo-frances-sin-esfuerzo-l096"
+  ],
+  "informal-speech": [
+    "el-nuevo-frances-sin-esfuerzo-l097"
+  ],
+  "conditional": [
+    "el-nuevo-frances-sin-esfuerzo-l098"
+  ],
+  "subjunctive": [
+    "el-nuevo-frances-sin-esfuerzo-l098",
+    "ingles-perfeccionamiento-l046"
+  ],
+  "farewell": [
+    "el-nuevo-frances-sin-esfuerzo-l099"
+  ],
+  "encouragement": [
+    "el-nuevo-frances-sin-esfuerzo-l099",
+    "ingles-l123"
+  ],
+  "learning-process": [
+    "el-nuevo-frances-sin-esfuerzo-l099"
+  ],
+  "introductions": [
+    "ingles-l001",
+    "ingles-l015",
+    "ingles-l074"
+  ],
+  "identity": [
+    "ingles-l001",
+    "ingles-perfeccionamiento-l044"
+  ],
+  "location": [
+    "ingles-l002"
+  ],
+  "home": [
+    "ingles-l003",
+    "ingles-l005",
+    "ingles-l009",
+    "ingles-l036"
+  ],
+  "objects": [
+    "ingles-l003"
+  ],
+  "age": [
+    "ingles-l004"
+  ],
+  "description": [
+    "ingles-l004",
+    "ingles-l005"
+  ],
+  "streets": [
+    "ingles-l004"
+  ],
+  "people": [
+    "ingles-l005"
+  ],
+  "daily routines": [
+    "ingles-l006",
+    "ingles-l060",
+    "ingles-l065",
+    "ingles-perfeccionamiento-l025"
+  ],
+  "personal information": [
+    "ingles-l006"
+  ],
+  "pronunciation": [
+    "ingles-l007",
+    "ingles-perfeccionamiento-l042"
+  ],
+  "grammar review": [
+    "ingles-l007",
+    "ingles-perfeccionamiento-l042"
+  ],
+  "quantifiers": [
+    "ingles-l008"
+  ],
+  "possession": [
+    "ingles-l009"
+  ],
+  "polite expressions": [
+    "ingles-l010"
+  ],
+  "sports": [
+    "ingles-l011",
+    "ingles-l067",
+    "ingles-l068",
+    "ingles-l071",
+    "ingles-perfeccionamiento-l011",
+    "ingles-perfeccionamiento-l060"
+  ],
+  "hobbies": [
+    "ingles-l011",
+    "ingles-l012"
+  ],
+  "abilities": [
+    "ingles-l011"
+  ],
+  "preferences": [
+    "ingles-l012",
+    "ingles-l013"
+  ],
+  "living": [
+    "ingles-l013"
+  ],
+  "articles": [
+    "ingles-l014",
+    "ingles-perfeccionamiento-l009",
+    "ingles-perfeccionamiento-l010",
+    "ingles-perfeccionamiento-l014"
+  ],
+  "possessives": [
+    "ingles-l014"
+  ],
+  "personal details": [
+    "ingles-l015"
+  ],
+  "daily routine": [
+    "ingles-l016",
+    "ingles-l017",
+    "ingles-l018",
+    "ingles-l019",
+    "ingles-l029",
+    "ingles-perfeccionamiento-l039"
+  ],
+  "time": [
+    "ingles-l017",
+    "ingles-l021"
+  ],
+  "rushing": [
+    "ingles-l017"
+  ],
+  "train travel": [
+    "ingles-l017"
+  ],
+  "commuting": [
+    "ingles-l018"
+  ],
+  "leisure": [
+    "ingles-l022"
+  ],
+  "weekend": [
+    "ingles-l022",
+    "ingles-l085"
+  ],
+  "permission": [
+    "ingles-l023"
+  ],
+  "train": [
+    "ingles-l024"
+  ],
+  "etiquette": [
+    "ingles-l024"
+  ],
+  "socializing": [
+    "ingles-l025",
+    "ingles-l030"
+  ],
+  "party": [
+    "ingles-l025"
+  ],
+  "anecdotes": [
+    "ingles-l026",
+    "ingles-perfeccionamiento-l003"
+  ],
+  "concert": [
+    "ingles-l026"
+  ],
+  "feelings": [
+    "ingles-l027"
+  ],
+  "months": [
+    "ingles-l027"
+  ],
+  "office": [
+    "ingles-l029"
+  ],
+  "pub": [
+    "ingles-l030",
+    "ingles-l038"
+  ],
+  "future": [
+    "ingles-l030",
+    "ingles-perfeccionamiento-l038"
+  ],
+  "complaints": [
+    "ingles-l034"
+  ],
+  "street": [
+    "ingles-l037"
+  ],
+  "comparatives": [
+    "ingles-l038"
+  ],
+  "Useful expressions": [
+    "ingles-l040"
+  ],
+  "Comparisons": [
+    "ingles-l040"
+  ],
+  "Etiquette": [
+    "ingles-l040",
+    "ingles-l047"
+  ],
+  "Humor": [
+    "ingles-l041",
+    "ingles-l044",
+    "ingles-l047",
+    "ingles-l053",
+    "ingles-l054",
+    "ingles-l115"
+  ],
+  "Anecdotes": [
+    "ingles-l041"
+  ],
+  "Review": [
+    "ingles-l042",
+    "ingles-l046",
+    "ingles-l049"
+  ],
+  "Grammar": [
+    "ingles-l042",
+    "ingles-l049",
+    "ingles-l052"
+  ],
+  "Future": [
+    "ingles-l043"
+  ],
+  "Transport": [
+    "ingles-l043",
+    "ingles-l048"
+  ],
+  "Possession": [
+    "ingles-l044"
+  ],
+  "Character": [
+    "ingles-l044"
+  ],
+  "Holidays": [
+    "ingles-l045"
+  ],
+  "Family": [
+    "ingles-l045",
+    "ingles-l116"
+  ],
+  "Planning": [
+    "ingles-l045"
+  ],
+  "Seasons": [
+    "ingles-l046"
+  ],
+  "Cultural stereotypes": [
+    "ingles-l047"
+  ],
+  "Distance": [
+    "ingles-l048"
+  ],
+  "Business": [
+    "ingles-l048"
+  ],
+  "Past tense": [
+    "ingles-l050",
+    "ingles-l051"
+  ],
+  "Learning": [
+    "ingles-l050"
+  ],
+  "Theater": [
+    "ingles-l051"
+  ],
+  "Socializing": [
+    "ingles-l051",
+    "ingles-l053"
+  ],
+  "Verbs": [
+    "ingles-l052"
+  ],
+  "Travel": [
+    "ingles-l054",
+    "ingles-l116"
+  ],
+  "History": [
+    "ingles-l054"
+  ],
+  "plurals": [
+    "ingles-l058"
+  ],
+  "daily expressions": [
+    "ingles-l058"
+  ],
+  "vocabulary": [
+    "ingles-l058",
+    "ingles-l068",
+    "ingles-l112",
+    "ingles-l124",
+    "ingles-perfeccionamiento-l009",
+    "ingles-perfeccionamiento-l047",
+    "ingles-perfeccionamiento-l051",
+    "ingles-perfeccionamiento-l052"
+  ],
+  "phrasal verbs": [
+    "ingles-l060",
+    "ingles-perfeccionamiento-l016",
+    "ingles-perfeccionamiento-l018",
+    "ingles-perfeccionamiento-l022",
+    "ingles-perfeccionamiento-l025"
+  ],
+  "vacation planning": [
+    "ingles-l061"
+  ],
+  "decision making": [
+    "ingles-l061"
+  ],
+  "geography": [
+    "ingles-l062",
+    "ingles-l081",
+    "ingles-l089",
+    "ingles-perfeccionamiento-l010"
+  ],
+  "engineering": [
+    "ingles-l064"
+  ],
+  "problem solving": [
+    "ingles-l064"
+  ],
+  "transportation": [
+    "ingles-l065",
+    "ingles-l066",
+    "ingles-perfeccionamiento-l057"
+  ],
+  "urban life": [
+    "ingles-l065"
+  ],
+  "question formation": [
+    "ingles-l066"
+  ],
+  "current-events": [
+    "ingles-l071"
+  ],
+  "conversation": [
+    "ingles-l071"
+  ],
+  "social-interaction": [
+    "ingles-l072"
+  ],
+  "crime": [
+    "ingles-l073",
+    "ingles-l113"
+  ],
+  "police": [
+    "ingles-l073"
+  ],
+  "mystery": [
+    "ingles-l073",
+    "ingles-l113"
+  ],
+  "social-conventions": [
+    "ingles-l074"
+  ],
+  "British-culture": [
+    "ingles-l074"
+  ],
+  "smoking": [
+    "ingles-l080"
+  ],
+  "social etiquette": [
+    "ingles-l080",
+    "ingles-l087"
+  ],
+  "england": [
+    "ingles-l081"
+  ],
+  "quiz": [
+    "ingles-l082"
+  ],
+  "imagination": [
+    "ingles-l082"
+  ],
+  "domestic life": [
+    "ingles-l083"
+  ],
+  "picnic": [
+    "ingles-l085"
+  ],
+  "mishap": [
+    "ingles-l085"
+  ],
+  "tradition": [
+    "ingles-l086"
+  ],
+  "sunday": [
+    "ingles-l086"
+  ],
+  "budget": [
+    "ingles-l088"
+  ],
+  "relationships": [
+    "ingles-l088"
+  ],
+  "wales": [
+    "ingles-l089"
+  ],
+  "Correspondence": [
+    "ingles-l095"
+  ],
+  "Work": [
+    "ingles-l095",
+    "ingles-l102",
+    "ingles-l109"
+  ],
+  "Asking for help": [
+    "ingles-l095"
+  ],
+  "Health": [
+    "ingles-l096",
+    "ingles-l103"
+  ],
+  "Social services": [
+    "ingles-l096"
+  ],
+  "Taxation": [
+    "ingles-l096"
+  ],
+  "Revision": [
+    "ingles-l097",
+    "ingles-l109"
+  ],
+  "Culture": [
+    "ingles-l097"
+  ],
+  "Humour": [
+    "ingles-l097",
+    "ingles-l101"
+  ],
+  "Grammar review": [
+    "ingles-l098",
+    "ingles-l105"
+  ],
+  "Vocabulary review": [
+    "ingles-l098"
+  ],
+  "Emergency": [
+    "ingles-l099"
+  ],
+  "Phone usage": [
+    "ingles-l099"
+  ],
+  "Language learning": [
+    "ingles-l100"
+  ],
+  "Motivation": [
+    "ingles-l100"
+  ],
+  "Stories": [
+    "ingles-l101"
+  ],
+  "Art": [
+    "ingles-l102"
+  ],
+  "Family life": [
+    "ingles-l102"
+  ],
+  "Language analysis": [
+    "ingles-l103"
+  ],
+  "Wit": [
+    "ingles-l104"
+  ],
+  "Aphorisms": [
+    "ingles-l104"
+  ],
+  "planning": [
+    "ingles-l106"
+  ],
+  "domestic": [
+    "ingles-l106"
+  ],
+  "economics": [
+    "ingles-l107",
+    "ingles-perfeccionamiento-l013",
+    "ingles-perfeccionamiento-l036"
+  ],
+  "unemployment": [
+    "ingles-l107",
+    "ingles-perfeccionamiento-l036"
+  ],
+  "presents": [
+    "ingles-l108"
+  ],
+  "Industry": [
+    "ingles-l109"
+  ],
+  "Daily life": [
+    "ingles-l114",
+    "ingles-l115"
+  ],
+  "jokes": [
+    "ingles-l111"
+  ],
+  "wordplay": [
+    "ingles-l111",
+    "ingles-perfeccionamiento-l034"
+  ],
+  "legal": [
+    "ingles-l113"
+  ],
+  "Grammar (Make/Do)": [
+    "ingles-l114"
+  ],
+  "Driving": [
+    "ingles-l116"
+  ],
+  "traditions": [
+    "ingles-l118",
+    "ingles-l120",
+    "ingles-perfeccionamiento-l011"
+  ],
+  "prepositions": [
+    "ingles-l119",
+    "ingles-perfeccionamiento-l016"
+  ],
+  "customs": [
+    "ingles-l120"
+  ],
+  "legends": [
+    "ingles-l121"
+  ],
+  "superstitions": [
+    "ingles-l121"
+  ],
+  "meeting": [
+    "ingles-l122"
+  ],
+  "language learning": [
+    "ingles-l123",
+    "ingles-perfeccionamiento-l042"
+  ],
+  "progress": [
+    "ingles-l123",
+    "ingles-perfeccionamiento-l038"
+  ],
+  "study tips": [
+    "ingles-l123"
+  ],
+  "practice": [
+    "ingles-l124"
+  ],
+  "letters": [
+    "ingles-l132"
+  ],
+  "arrival": [
+    "ingles-l135"
+  ],
+  "conversions": [
+    "ingles-l136"
+  ],
+  "sightseeing": [
+    "ingles-l137"
+  ],
+  "language": [
+    "ingles-perfeccionamiento-l001",
+    "ingles-perfeccionamiento-l015",
+    "ingles-perfeccionamiento-l027",
+    "ingles-perfeccionamiento-l043",
+    "ingles-perfeccionamiento-l047",
+    "ingles-perfeccionamiento-l051"
+  ],
+  "introduction": [
+    "ingles-perfeccionamiento-l001"
+  ],
+  "say-vs-tell": [
+    "ingles-perfeccionamiento-l002"
+  ],
+  "cultural-idioms": [
+    "ingles-perfeccionamiento-l002"
+  ],
+  "cultural-references": [
+    "ingles-perfeccionamiento-l003"
+  ],
+  "social-norms": [
+    "ingles-perfeccionamiento-l004"
+  ],
+  "word-formation": [
+    "ingles-perfeccionamiento-l007"
+  ],
+  "historical-english": [
+    "ingles-perfeccionamiento-l007"
+  ],
+  "language-evolution": [
+    "ingles-perfeccionamiento-l008",
+    "ingles-perfeccionamiento-l049"
+  ],
+  "british-culture": [
+    "ingles-perfeccionamiento-l008"
+  ],
+  "norman-influence": [
+    "ingles-perfeccionamiento-l008"
+  ],
+  "finance": [
+    "ingles-perfeccionamiento-l012"
+  ],
+  "dialogue": [
+    "ingles-perfeccionamiento-l012"
+  ],
+  "usage": [
+    "ingles-perfeccionamiento-l014"
+  ],
+  "gender": [
+    "ingles-perfeccionamiento-l015"
+  ],
+  "idiomatic expressions": [
+    "ingles-perfeccionamiento-l016"
+  ],
+  "daily language": [
+    "ingles-perfeccionamiento-l016"
+  ],
+  "statistics": [
+    "ingles-perfeccionamiento-l017"
+  ],
+  "critical thinking": [
+    "ingles-perfeccionamiento-l017"
+  ],
+  "media literacy": [
+    "ingles-perfeccionamiento-l017"
+  ],
+  "measurements": [
+    "ingles-perfeccionamiento-l017"
+  ],
+  "preposition placement": [
+    "ingles-perfeccionamiento-l018"
+  ],
+  "colloquial speech": [
+    "ingles-perfeccionamiento-l018"
+  ],
+  "public speaking": [
+    "ingles-perfeccionamiento-l018"
+  ],
+  "uncountable nouns": [
+    "ingles-perfeccionamiento-l019"
+  ],
+  "mass media": [
+    "ingles-perfeccionamiento-l019"
+  ],
+  "academic subjects": [
+    "ingles-perfeccionamiento-l019"
+  ],
+  "sports news": [
+    "ingles-perfeccionamiento-l020"
+  ],
+  "broadcasting": [
+    "ingles-perfeccionamiento-l020"
+  ],
+  "collective nouns": [
+    "ingles-perfeccionamiento-l020",
+    "ingles-perfeccionamiento-l021"
+  ],
+  "violence in sports": [
+    "ingles-perfeccionamiento-l020"
+  ],
+  "gender neutrality": [
+    "ingles-perfeccionamiento-l021"
+  ],
+  "sick vs ill": [
+    "ingles-perfeccionamiento-l021"
+  ],
+  "Latin vs Germanic roots": [
+    "ingles-perfeccionamiento-l021"
+  ],
+  "who vs whom": [
+    "ingles-perfeccionamiento-l021"
+  ],
+  "persistence": [
+    "ingles-perfeccionamiento-l022"
+  ],
+  "Latin vs Germanic vocabulary": [
+    "ingles-perfeccionamiento-l023"
+  ],
+  "official language": [
+    "ingles-perfeccionamiento-l023"
+  ],
+  "jargon": [
+    "ingles-perfeccionamiento-l023",
+    "ingles-perfeccionamiento-l033"
+  ],
+  "word formation": [
+    "ingles-perfeccionamiento-l023"
+  ],
+  "phrasal verbs vs Latin verbs": [
+    "ingles-perfeccionamiento-l024"
+  ],
+  "prepositional verbs": [
+    "ingles-perfeccionamiento-l024"
+  ],
+  "everyday vs formal language": [
+    "ingles-perfeccionamiento-l024"
+  ],
+  "problem-solving": [
+    "ingles-perfeccionamiento-l025"
+  ],
+  "time management": [
+    "ingles-perfeccionamiento-l025"
+  ],
+  "city-life": [
+    "ingles-perfeccionamiento-l026"
+  ],
+  "dialects": [
+    "ingles-perfeccionamiento-l027"
+  ],
+  "press": [
+    "ingles-perfeccionamiento-l028"
+  ],
+  "British culture": [
+    "ingles-perfeccionamiento-l028"
+  ],
+  "journalism": [
+    "ingles-perfeccionamiento-l028",
+    "ingles-perfeccionamiento-l058"
+  ],
+  "media ethics": [
+    "ingles-perfeccionamiento-l029"
+  ],
+  "sensationalism": [
+    "ingles-perfeccionamiento-l029"
+  ],
+  "investigative journalism": [
+    "ingles-perfeccionamiento-l029"
+  ],
+  "British press": [
+    "ingles-perfeccionamiento-l029",
+    "ingles-perfeccionamiento-l030"
+  ],
+  "media comparison": [
+    "ingles-perfeccionamiento-l030"
+  ],
+  "language register": [
+    "ingles-perfeccionamiento-l030"
+  ],
+  "crime reporting": [
+    "ingles-perfeccionamiento-l030"
+  ],
+  "media satire": [
+    "ingles-perfeccionamiento-l031"
+  ],
+  "celebrities": [
+    "ingles-perfeccionamiento-l031"
+  ],
+  "media relations": [
+    "ingles-perfeccionamiento-l032"
+  ],
+  "political language": [
+    "ingles-perfeccionamiento-l032",
+    "ingles-perfeccionamiento-l059"
+  ],
+  "media language": [
+    "ingles-perfeccionamiento-l033",
+    "ingles-perfeccionamiento-l034"
+  ],
+  "clichés": [
+    "ingles-perfeccionamiento-l033"
+  ],
+  "journalistic style": [
+    "ingles-perfeccionamiento-l033",
+    "ingles-perfeccionamiento-l034"
+  ],
+  "headlines": [
+    "ingles-perfeccionamiento-l034",
+    "ingles-perfeccionamiento-l035"
+  ],
+  "Spanish-English cognates": [
+    "ingles-perfeccionamiento-l035"
+  ],
+  "passive voice": [
+    "ingles-perfeccionamiento-l035"
+  ],
+  "impersonal one": [
+    "ingles-perfeccionamiento-l035"
+  ],
+  "European Community": [
+    "ingles-perfeccionamiento-l036"
+  ],
+  "modern inconveniences": [
+    "ingles-perfeccionamiento-l037"
+  ],
+  "globalization": [
+    "ingles-perfeccionamiento-l038"
+  ],
+  "American lifestyle": [
+    "ingles-perfeccionamiento-l039"
+  ],
+  "satire": [
+    "ingles-perfeccionamiento-l039"
+  ],
+  "literature": [
+    "ingles-perfeccionamiento-l040"
+  ],
+  "British authors": [
+    "ingles-perfeccionamiento-l040"
+  ],
+  "reading": [
+    "ingles-perfeccionamiento-l040"
+  ],
+  "dystopia": [
+    "ingles-perfeccionamiento-l041",
+    "ingles-perfeccionamiento-l043"
+  ],
+  "surveillance": [
+    "ingles-perfeccionamiento-l041"
+  ],
+  "totalitarianism": [
+    "ingles-perfeccionamiento-l041"
+  ],
+  "literary analysis": [
+    "ingles-perfeccionamiento-l041"
+  ],
+  "word stress": [
+    "ingles-perfeccionamiento-l042"
+  ],
+  "linguistics": [
+    "ingles-perfeccionamiento-l043",
+    "ingles-perfeccionamiento-l062"
+  ],
+  "control": [
+    "ingles-perfeccionamiento-l043"
+  ],
+  "appearance": [
+    "ingles-perfeccionamiento-l044"
+  ],
+  "relative-clauses": [
+    "ingles-perfeccionamiento-l045"
+  ],
+  "language-precision": [
+    "ingles-perfeccionamiento-l045"
+  ],
+  "language-debate": [
+    "ingles-perfeccionamiento-l046"
+  ],
+  "sensory-description": [
+    "ingles-perfeccionamiento-l047"
+  ],
+  "onomatopoeia": [
+    "ingles-perfeccionamiento-l047"
+  ],
+  "language-variation": [
+    "ingles-perfeccionamiento-l048"
+  ],
+  "national-identity": [
+    "ingles-perfeccionamiento-l048"
+  ],
+  "vocabulary-building": [
+    "ingles-perfeccionamiento-l049"
+  ],
+  "cultural-knowledge": [
+    "ingles-perfeccionamiento-l049"
+  ],
+  "immigration": [
+    "ingles-perfeccionamiento-l050"
+  ],
+  "cultural-diversity": [
+    "ingles-perfeccionamiento-l050"
+  ],
+  "american-history": [
+    "ingles-perfeccionamiento-l050"
+  ],
+  "american-english": [
+    "ingles-perfeccionamiento-l051",
+    "ingles-perfeccionamiento-l052"
+  ],
+  "british-english": [
+    "ingles-perfeccionamiento-l051",
+    "ingles-perfeccionamiento-l052"
+  ],
+  "spelling": [
+    "ingles-perfeccionamiento-l052"
+  ],
+  "British vs American English": [
+    "ingles-perfeccionamiento-l053"
+  ],
+  "air travel": [
+    "ingles-perfeccionamiento-l053"
+  ],
+  "East vs West Coast": [
+    "ingles-perfeccionamiento-l054"
+  ],
+  "California": [
+    "ingles-perfeccionamiento-l054"
+  ],
+  "computing": [
+    "ingles-perfeccionamiento-l055"
+  ],
+  "language of IT": [
+    "ingles-perfeccionamiento-l055"
+  ],
+  "neologisms": [
+    "ingles-perfeccionamiento-l055"
+  ],
+  "language variation": [
+    "ingles-perfeccionamiento-l056"
+  ],
+  "American English": [
+    "ingles-perfeccionamiento-l056"
+  ],
+  "British English": [
+    "ingles-perfeccionamiento-l056"
+  ],
+  "historical linguistics": [
+    "ingles-perfeccionamiento-l056"
+  ],
+  "cultural differences": [
+    "ingles-perfeccionamiento-l057"
+  ],
+  "automotive industry": [
+    "ingles-perfeccionamiento-l057"
+  ],
+  "US vs UK vocabulary": [
+    "ingles-perfeccionamiento-l057"
+  ],
+  "television": [
+    "ingles-perfeccionamiento-l058"
+  ],
+  "US government": [
+    "ingles-perfeccionamiento-l059"
+  ],
+  "metaphors": [
+    "ingles-perfeccionamiento-l060"
+  ],
+  "American culture": [
+    "ingles-perfeccionamiento-l060"
+  ],
+  "baseball": [
+    "ingles-perfeccionamiento-l060"
+  ],
+  "Hollywood": [
+    "ingles-perfeccionamiento-l061"
+  ],
+  "entertainment industry": [
+    "ingles-perfeccionamiento-l061"
+  ],
+  "cultural history": [
+    "ingles-perfeccionamiento-l061"
+  ],
+  "language evolution": [
+    "ingles-perfeccionamiento-l062"
+  ],
+  "international English": [
+    "ingles-perfeccionamiento-l062"
+  ],
+  "cultural influence": [
+    "ingles-perfeccionamiento-l062"
+  ],
+  "American society": [
+    "ingles-perfeccionamiento-l063"
+  ],
+  "ethnic identity": [
+    "ingles-perfeccionamiento-l063"
+  ],
+  "political terms": [
+    "ingles-perfeccionamiento-l063"
+  ],
+  "education system": [
+    "ingles-perfeccionamiento-l063"
+  ]
+}

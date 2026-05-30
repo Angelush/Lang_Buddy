@@ -1,0 +1,234 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l036",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 36,
+  "title": "Politics and economics",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "C1",
+  "audio": "corpus/Assimil - Ingles Perfeccionamiento/Audio/36 Lesson 36.mp3",
+  "themes": [
+    "politics",
+    "economics",
+    "European Community",
+    "unemployment"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "The general economic situation in the member-States of the EC over the last year is far from rosy.",
+      "base": "La situación económica global de los Estados miembros de la CEE durante el año pasado está lejos de ser favorable."
+    },
+    {
+      "line": 2,
+      "target": "In Britain, inflation rose by one percent (1 %) and that increase was reflected in consumer prices.",
+      "base": "En Gran Bretaña, la inflación ha aumentado el uno por ciento (1%) y ese aumento está reflejado en los precios al consumo."
+    },
+    {
+      "line": 3,
+      "target": "Unemployment continued its upward movement to reach record levels, and the government is unable to find a lasting solution.",
+      "base": "El desempleo continuó su ascenso hasta llegar a niveles nunca antes alcanzados y el gobierno es incapaz de encontrar una solución duradera."
+    },
+    {
+      "line": 4,
+      "target": "Over the Channel in France, unemployment appears to have peaked at twelve percent (12 %) of the population,",
+      "base": "Al otro lado de la Mancha, en Francia, el desempleo parece que ha alcanzado su punto máximo: el doce por ciento (12 %) de la población"
+    },
+    {
+      "line": 5,
+      "target": "while inflation dropped from four to three point six percent (3.6 %).",
+      "base": "mientras que la inflación se ha reducido pasando del cuatro al tres punto seis por ciento (3.6 %)."
+    },
+    {
+      "line": 6,
+      "target": "However, GNP shrank slightly last year, and manufacturing output remains sluggish.",
+      "base": "Sin embargo, el PNB disminuyó ligeramente el año pasado, y la producción de productos manufacturados permanece estancada."
+    },
+    {
+      "line": 10,
+      "target": "In Spain, after a post-election economic boom had led to a consumer spending spree,",
+      "base": "En España, después de un florecimiento económico post-electoral que provocó un frenético crecimiento en los gastos de artículos de consumo,"
+    },
+    {
+      "line": 11,
+      "target": "the government was obliged to introduce a prices and wages policy to curb galloping inflation.",
+      "base": "el gobierno se vió obligado a introducir una política sobre precios y salarios con el fin de contener una inflación galopante."
+    },
+    {
+      "line": 12,
+      "target": "Spain’s neighbour on the Iberian peninsula, Portugal, is seeking to turn around its economy",
+      "base": "El vecino de España en la península ibérica, Portugal, busca poner en marcha su economía alentando las inversiones extranjeras que evidencian una tendencia bastante más optimista que en los últimos años."
+    },
+    {
+      "line": 13,
+      "target": "by encouraging foreign investment which showed a somewhat more optimistic trend than in the past few years.",
+      "base": "El gobierno busca una base económica más amplia que permita separarse de su dependencia tradicional del turismo."
+    },
+    {
+      "line": 14,
+      "target": "The government is seeking a broader economic base and is moving away from its traditional reliance on tourism.",
+      "base": "En Italia, un aumento dramático en las cifras oficiales de desempleo"
+    },
+    {
+      "line": 15,
+      "target": "In Italy, a dramatic increase in the official unemployment figures",
+      "base": "ha alimentado una mayor especulación con respecto al alcance real de la economía sumergida."
+    },
+    {
+      "line": 16,
+      "target": "West Germany, traditionally the locomotive of Europe’s economy, showed few signs of euphoria,",
+      "base": "la R.F.A., considerada tradicionalmente como la locomotora de la economía europea, mostró pocos signos de euforia,"
+    },
+    {
+      "line": 17,
+      "target": "although the number of jobless tumbled to its lowest level in ten years.",
+      "base": "aunque el número de desempleados alcanzó su nivel más bajo en diez años."
+    },
+    {
+      "line": 18,
+      "target": "Growth remained constant at one percent (1%) annually, but capital investment slipped three points.",
+      "base": "El crecimiento permaneció constante en un uno por ciento (1%) anual, pero las inversiones de capital disminuyeron en tres puntos."
+    },
+    {
+      "line": 19,
+      "target": "Across the border, Belgium shows signs of substantial improvements compared to the doldrums of the last few years.",
+      "base": "Al otro lado de la frontera, Bélgica muestra signos de mejoría sustancial comparada con la calma de los últimos años."
+    },
+    {
+      "line": 20,
+      "target": "Job creation has kept pace with the surge in the labour force: some thirty thousand (30,000) new jobs were created over a period of six months, a remarkable performance.",
+      "base": "La creación de empleo ha mantenido el ritmo paralelamente con el desarrollo de la mano de obra: se han creado alrededor de treinta mil (30.000) nuevos empleos"
+    },
+    {
+      "line": 21,
+      "target": "Denmark provides an example of stability and steady growth.",
+      "base": "en un período de seis meses, un resultado notable."
+    },
+    {
+      "line": 22,
+      "target": "Unit labour costs lifted only slightly, and wage demands remained well below inflation.",
+      "base": "Dinamarca ofrece un ejemplo de estabilidad y de crecimiento regulares."
+    },
+    {
+      "line": 23,
+      "target": "Elsewhere, the situation was very much the same. The outlook is not so gloomy as it sounds, however.",
+      "base": "Los costos unitarios de producción solo se han incrementado ligeramente, y las demandas de aumento de salarios permanecieron muy por debajo de la inflación."
+    },
+    {
+      "line": 24,
+      "target": "",
+      "base": "En otros lugares, la situación es en general muy parecida. Entonces, las perspectivas no son tan desfavorables como parecen."
+    },
+    {
+      "line": 25,
+      "target": "Overall, inflation is on the decrease and labour costs appear to be bottoming out.",
+      "base": "Globalmente la inflación cede terreno y los costos de producción parecen estabilizarse en el nivel más bajo."
+    },
+    {
+      "line": 26,
+      "target": "Only unemployment spirals inexorably upwards, which leads most observers to wonder whether the solution to the problem",
+      "base": "Solo queda el desempleo que continua su espiral inexorable hacia arriba, lo que lleva a la mayoría de los observadores a preguntarse si la solución del problema"
+    },
+    {
+      "line": 27,
+      "target": "is to be found at the pan-European level.",
+      "base": "se encontrará a nivel europeo."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "The general economic situation in the member-States of the EC over the last year is far from rosy. (1)",
+      "reasons": [
+        "vocab:rosy"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Over the Channel in France, unemployment appears to have peaked at twelve percent (12 %) of the population, (2)",
+      "reasons": [
+        "vocab:peak"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "However, GNP shrank slightly last year, and manufacturing output remains sluggish. (3) (4)",
+      "reasons": [
+        "vocab:sluggish"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "In Spain, after a post-election economic boom had led to a consumer spending spree, (5)",
+      "reasons": [
+        "answer_to_question",
+        "vocab:spree"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "the government was obliged to introduce a prices and wages policy to curb galloping inflation. (6)",
+      "reasons": [
+        "vocab:curb"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "by encouraging foreign investment which showed a somewhat more optimistic trend than in the past few years. (7)",
+      "reasons": [
+        "vocab:aging"
+      ]
+    },
+    {
+      "line": 17,
+      "target": "although the number of jobless tumbled to its lowest level in ten years. (10)",
+      "reasons": [
+        "vocab:tumble"
+      ]
+    },
+    {
+      "line": 19,
+      "target": "Across the border, Belgium shows signs of substantial improvements compared to the doldrums of the last few years. (11)",
+      "reasons": [
+        "vocab:doldrums"
+      ]
+    },
+    {
+      "line": 23,
+      "target": "Elsewhere, the situation was very much the same. The outlook is not so gloomy as it sounds, however.",
+      "reasons": [
+        "vocab:out"
+      ]
+    },
+    {
+      "line": 25,
+      "target": "Overall, inflation is on the decrease and labour costs appear to be bottoming out. (12)",
+      "reasons": [
+        "vocab:out"
+      ]
+    },
+    {
+      "line": 27,
+      "target": "is to be found at the pan-European level.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "rosy",
+    "peak",
+    "gnp",
+    "gdp",
+    "sluggish",
+    "spree",
+    "curb",
+    "somewhat",
+    "fuel",
+    "plant",
+    "aging",
+    "tumble",
+    "doldrums",
+    "bottom-out"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l024",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 24,
+  "title": "Le passe-temps numéro un",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/24 Leçon 24.mp3",
+  "themes": [
+    "games",
+    "culture",
+    "food"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Il y a un quatrième jeu que nous avons oublié.",
+      "base": "Hay un cuarto juego que hemos olvidado."
+    },
+    {
+      "line": 2,
+      "target": "C'est un jeu qui vient du Sud de la France :",
+      "base": "Es un juego que viene del sur de (la) Francia :",
+      "pronunciation": "..vian dú süûd'"
+    },
+    {
+      "line": 3,
+      "target": "le jeu de boules, ou la “pétanque” !",
+      "base": "el juego de bolas, o ¡ la petanca !"
+    },
+    {
+      "line": 4,
+      "target": "Partout où il y a un peu d'espace,",
+      "base": "En todos los sitios donde hay un (poco de espacio) [pequeño espacio libre],"
+    },
+    {
+      "line": 5,
+      "target": "vous voyez des joueurs de boules",
+      "base": "se ven (usted ve) jugadores de bolas."
+    },
+    {
+      "line": 6,
+      "target": "qui jouent dans les parcs ou sur la place du marché .",
+      "base": "Estos (que) juegan [sobre todo] en los parques o en (sobre) la plaza del mercado.",
+      "pronunciation": "..park... marxé"
+    },
+    {
+      "line": 7,
+      "target": "C'e n jeu qui demande beaucoup d'adresse,",
+      "base": "Es un juego que exige (pide) mucha habilidad,",
+      "pronunciation": "..démand'... dabilité"
+    },
+    {
+      "line": 8,
+      "target": "beaucoup de concentration... y un poco de pasión.",
+      "base": "mucha concentración. .. y un poco de pasión.",
+      "pronunciation": "..consantrasiôn .. . pasión"
+    },
+    {
+      "line": 9,
+      "target": "Mais il y a un autre passe-temps en France.",
+      "base": "Pero hay(un) otro pasatiempo en Francia.",
+      "pronunciation": "..pastám"
+    },
+    {
+      "line": 10,
+      "target": "Les gens le font ; ils en parlent, ils le vivent à chaque moment.",
+      "base": "La gente lo hace, habla de él, lo vive a cada momento.",
+      "pronunciation": "..ilsán parl'.. . viv' a xak'"
+    },
+    {
+      "line": 11,
+      "target": "C'est la passion nationale numéro un : bien manger.",
+      "base": "Es la pasión nacional número uno : comer bien."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Il y a un quatrième jeu que nous avons oublié.",
+      "reasons": [
+        "vocab:oublié"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "C'est un jeu qui vient du Sud (1) de la France :",
+      "reasons": [
+        "vocab:sud"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "le jeu de boules, ou la “pétanque” !",
+      "reasons": [
+        "short_response",
+        "vocab:pétanque"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Partout (2) où il y a un peu d'espace,",
+      "reasons": [
+        "vocab:espace"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "vous voyez (3) des joueurs de boules",
+      "reasons": [
+        "short_response",
+        "vocab:boules"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "mucho de concentración... y un poco de pasión.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Mais il y a un autre passe-temps en France.",
+      "reasons": [
+        "vocab:temps"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Les gens (6) le font ; ils en parlent, ils le vivent à chaque (7) moment.",
+      "reasons": [
+        "vocab:gens"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "C'est la passion nationale número uno : bien manger.",
+      "reasons": [
+        "vocab:passion"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "passe-temps",
+    "fr1-oublié",
+    "sud",
+    "boules",
+    "fr1-pétanque",
+    "espace",
+    "fr1-habileté",
+    "concentration",
+    "passion",
+    "gens"
+  ]
+}

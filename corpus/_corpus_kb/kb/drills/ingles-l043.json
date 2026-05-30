@@ -1,0 +1,145 @@
+{
+  "lesson_id": "ingles-l043",
+  "source": "ingles",
+  "lesson": 43,
+  "title": "The future",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 043 - Anglais.mp3",
+  "themes": [
+    "Future",
+    "Transport"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "We will now look at the future tense.",
+      "base": "Nos referiremos ahora al tiempo [de] futuro.",
+      "pronunciation": ".. fiuché tens. — 4 ... ulil dress, luél dress ; dzeil dress. — 9 ... meinli... sádchesstshéns... — 12 ... tiubs on straik aél.. — 13 ... foun... ¡ul bit feit ?"
+    },
+    {
+      "line": 2,
+      "target": "You form the future by putting “will” in front of nearly all our verbs.",
+      "base": "Se forma el futuro poniendo 'will' ante casi todos los verbos."
+    },
+    {
+      "line": 3,
+      "target": "For instance, the verb “to dress”, in the future, becomes “I will dress; you will dress”.",
+      "base": "Por ejemplo: vestirse -> yo me vestiré."
+    },
+    {
+      "line": 4,
+      "target": "We continue with the contraction: “we'll dress, you'll dress, they'll dress”.",
+      "base": "Continuaremos con la contracción."
+    },
+    {
+      "line": 5,
+      "target": "You see, it's easy!",
+      "base": "¡Es fácil!"
+    },
+    {
+      "line": 6,
+      "target": "Let's look at some sentences in the future:",
+      "base": "Consideremos algunas frases en futuro."
+    },
+    {
+      "line": 7,
+      "target": "I'll go to the cinema tonight if you'll come with me.",
+      "base": "Iré al cine esta noche si usted viene conmigo."
+    },
+    {
+      "line": 8,
+      "target": "You will learn English quickly if you read a lesson every day.",
+      "base": "Aprenderá inglés rápidamente si lee una lección cada día."
+    },
+    {
+      "line": 9,
+      "target": "The word “shall” is mainly used for suggestions: It's raining, shall we take a taxi?",
+      "base": "'Shall' se utiliza para sugerencias: ¿cogemos un taxi?"
+    },
+    {
+      "line": 10,
+      "target": "How much money will you need? Shall I give you some more?",
+      "base": "¿Cuánto dinero necesitarás? ¿Quieres que te dé algo más?"
+    },
+    {
+      "line": 11,
+      "target": "Will you give me some more coffee, please?",
+      "base": "¿Quiere darme algo más [de] café, por favor?"
+    },
+    {
+      "line": 12,
+      "target": "How will you go to work? The tube's on strike. — I'll take my car.",
+      "base": "¿Cómo irá al trabajo? El metro está en huelga. — Cogeré mi coche."
+    },
+    {
+      "line": 13,
+      "target": "Shall I phone the office and tell them you'll be late?",
+      "base": "¿Quiere que llame a la oficina y les diga que llegará tarde?"
+    },
+    {
+      "line": 14,
+      "target": "I'll drive; you'll be late; you will have problems.",
+      "base": "Conduciré yo; llegarás tarde; tendrá problemas."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 5,
+      "target": "You see, it's easy!",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Let's look at some sentences in the future:",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "How much money will you need? Shall I give you some more? (5) (6)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Will you give me some more coffee, please?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "How will you go to work? The tube's on strike. — I'll take my car.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:tube"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "Shall I phone the office and tell them you'll be late?",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "I'll drive; you'll be late; you will have problems.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "strike",
+    "tube",
+    "hurry-up"
+  ]
+}

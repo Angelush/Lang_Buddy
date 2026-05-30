@@ -1,0 +1,50 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l040",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 40,
+  "title": "La rue Mouffetard",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/40 Leçon 40.mp3",
+  "themes": [
+    "market",
+    "shopping",
+    "daily life",
+    "urban scene"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Le dimanche matin, Madame Martin va",
+      "base": "El domingo, por la mañana, la señora Martin va al"
+    },
+    {
+      "line": 2,
+      "target": "C'est un très vieux marché en bas d'une",
+      "base": "Es un (muy viejo) antiguo mercado al pie [abajo] de"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "C'est yun très vieux marché en bas d'une",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "monde",
+    "gens",
+    "accordeon",
+    "guitare",
+    "tract",
+    "primeur",
+    "ceux-ci",
+    "celles-ci",
+    "etal",
+    "haricot",
+    "carotte"
+  ]
+}

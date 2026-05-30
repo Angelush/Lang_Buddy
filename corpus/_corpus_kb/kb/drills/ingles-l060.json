@@ -1,0 +1,144 @@
+{
+  "lesson_id": "ingles-l060",
+  "source": "ingles",
+  "lesson": 60,
+  "title": "To get",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 060 - Anglais.mp3",
+  "themes": [
+    "phrasal verbs",
+    "daily routines",
+    "travel"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Let's look at some expressions with the verb “to get”. (N. 1)",
+      "base": "Veamos algunas expresiones con el verbo to get.",
+      "pronunciation": ".. ekspreshéns... — 2 ... komén... oolredi nou... — 3 ... lérn... — 4 ... guetsip.. — 5 ... getsin... zérti."
+    },
+    {
+      "line": 2,
+      "target": "These expressions are very common, and you already know* a few.",
+      "base": "Estas expresiones son muy corrientes y ya conoce usted algunas."
+    },
+    {
+      "line": 3,
+      "target": "Here are some more. Try and learn them.",
+      "base": "Aquí tenemos algunas más. Intente aprenderlas."
+    },
+    {
+      "line": 4,
+      "target": "He gets* up at half past seven every morning.",
+      "base": "Se levanta a las siete y media todas las mañanas."
+    },
+    {
+      "line": 5,
+      "target": "The train gets* in at eleven thirty.",
+      "base": "El tren llega a las once y media."
+    },
+    {
+      "line": 6,
+      "target": "lt took” him a long time to get* over his illness.",
+      "base": "Le llevó mucho tiempo superar su enfermedad.",
+      "pronunciation": ".. getouvé — 7 daark. — 8 aude... def. — 9 chiipé..."
+    },
+    {
+      "line": 7,
+      "target": "Lets go* home. It's getting* dark.",
+      "base": "Vamos a casa. Está oscureciendo (se está poniendo oscuro)."
+    },
+    {
+      "line": 8,
+      "target": "Speak” louder. She's getting” very deaf.",
+      "base": "Habla más fuerte. Se está quedando muy sorda."
+    },
+    {
+      "line": 9,
+      "target": "These records are cheaper than those, but they are still quite expensive.",
+      "base": "Estos discos son más baratos que aquellos, pero aún son muy caros."
+    },
+    {
+      "line": 10,
+      "target": "Please go* and get* me a paper, I'm too busy to go* myself.",
+      "base": "Por favor, ve y tráeme un periódico, estoy demasiado ocupado para ir yo mismo."
+    },
+    {
+      "line": 11,
+      "target": "The burglar got* into the house through a small window.",
+      "base": "El ratero entró en la casa a través de una ventana pequeña.",
+      "pronunciation": ".. bérglé... zru... — 13 eevriua"
+    },
+    {
+      "line": 12,
+      "target": "Take* a number thirty-seven bus and get” off at Charing Cross.",
+      "base": "Tome el autobús número treinta y siete y baje en Charing Cross."
+    },
+    {
+      "line": 13,
+      "target": "Everyone was trying to get* on the bus at once.",
+      "base": "Todo el mundo intentaba coger el autobús a la vez."
+    },
+    {
+      "line": 14,
+      "target": "What's the matter? — I've got* a headache, a toothache, a sore throat and a cold |",
+      "base": "¿Qué pasa? — Tengo dolor de cabeza, dolor de muelas, dolor de garganta y un constipado,"
+    },
+    {
+      "line": 15,
+      "target": "and nobody asks me how I feel*!",
+      "base": "y nadie me pregunta cómo me siento."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 3,
+      "target": "Here are some more. Try and learn them.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "The train gets* in at eleven thirty.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Lets go* home. It's getting* dark.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Speak” louder. She's getting” very deaf.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "and nobody asks me how I feel*!",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "brochures",
+    "travel-agent",
+    "seaside",
+    "mountains",
+    "abroad",
+    "season-ticket",
+    "double-decker",
+    "conductor",
+    "fare"
+  ]
+}

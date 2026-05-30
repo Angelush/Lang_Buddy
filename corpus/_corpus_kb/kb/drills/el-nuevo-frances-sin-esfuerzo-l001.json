@@ -1,0 +1,144 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l001",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 1,
+  "title": "A Paris",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/01 Leçon 01.mp3",
+  "themes": [
+    "travel",
+    "greetings",
+    "paris"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Pardon, monsieur . Où est le métro St. Michel ?",
+      "base": "Perdón (señor). ¿ Dónde está el metro St. Michel ?",
+      "pronunciation": "pardón, m'sié, ¿ u € lé metré ?"
+    },
+    {
+      "line": 2,
+      "target": "Le métro St Michel ? Attendez une minute...",
+      "base": "¿ El metro St. Michel ? Espere un momento (minuto)...",
+      "pronunciation": "¿lé metró sen mixel ? atandé ún minút'"
+    },
+    {
+      "line": 3,
+      "target": "Nous sommes au Boulevard St. Michel. La fontaine est là-bas.",
+      "base": "Estamos (al) [en el] boulevard St. Michel. La fuente está allí.",
+      "pronunciation": "nusomz o bulévar sén mixel. la fontèn’ e labà"
+    },
+    {
+      "line": 4,
+      "target": "Oui, d'accord . Mais où est le métro, s’il vous plaît ?",
+      "base": "Si, de acuerdo. ¿ Pero, dónde está el metro, (si le place) por favor ?",
+      "pronunciation": "ui dacor. ¿ mé u à lé metró, sil vu ple ?"
+    },
+    {
+      "line": 5,
+      "target": "Mais bien sûr ! Voilà la Seine, et voici le pont .",
+      "base": "¡(Pero bien seguro) Pues claro ! Ahí está el Sena y aquí está el puente.",
+      "pronunciation": "¡mé bién sir ! vualà la sen e vuasi lé pon"
+    },
+    {
+      "line": 6,
+      "target": "C'est joli ; mais s’il vous plaît...",
+      "base": "Es bonito, pero por favor...",
+      "pronunciation": "se joli ; mé sil vu ple..."
+    },
+    {
+      "line": 7,
+      "target": "Ce n'est pas, à gauche, alors c'est à droite .",
+      "base": "No es a la izquierda, entonces es a [la] derecha.",
+      "pronunciation": "së n’è paza goch alor seta druat"
+    },
+    {
+      "line": 8,
+      "target": "Voilà. Le métro est à droite !",
+      "base": "¡ Eso es. El metro está a la derecha !",
+      "pronunciation": "vualà. lë metró eta druat !"
+    },
+    {
+      "line": 9,
+      "target": "Mais vous êtes sûr ?",
+      "base": "¿ Pero (usted) está seguro ?",
+      "pronunciation": "mé vuzèt sûr."
+    },
+    {
+      "line": 10,
+      "target": "Non. Je suis touriste aussi !",
+      "base": "No. Yo también soy turista !",
+      "pronunciation": "non. jé süi turist osí"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Pardon, monsieur (1). Où est le métro St. Michel ?",
+      "reasons": [
+        "vocab:pardon"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Le métro St Michel ? (2) Attendez una minute...",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Nous sommes au Boulevard St. Michel. La fontaine est là-bas.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:bas"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Mais bien sûr ! Voilà la Seine, et voici le pont (4).",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "C'est joli (5) ; mais s’il vous plaít...",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Voilà. Le métro est à droite !",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Mais vous êtes sûr ?",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Non. Je suis touriste aussi !",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "pardon",
+    "monsieur",
+    "metro",
+    "fontaine",
+    "la-bas"
+  ]
+}

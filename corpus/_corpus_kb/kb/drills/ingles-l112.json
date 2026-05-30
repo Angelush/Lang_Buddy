@@ -1,0 +1,97 @@
+{
+  "lesson_id": "ingles-l112",
+  "source": "ingles",
+  "lesson": 112,
+  "title": "Revision and Notes",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 112 - Anglais.mp3",
+  "themes": [
+    "revision",
+    "grammar",
+    "vocabulary",
+    "expressions"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Formas perifrásticas. — Son locuciones que no suelen corresponder entre sí, en los diversos idiomas. Así pasa entre el español y el inglés con expresiones como «tener que», «hacer falta», «tener necesidad», etc.; veamos algunos ejemplos.",
+      "base": "Periphrastic forms — These are locutions that often do not correspond directly between languages. This is the case between Spanish and English with expressions like \"to have to\", \"to need\", \"to be necessary\", etc. Let's see some examples."
+    },
+    {
+      "line": 2,
+      "target": "El pasado del condicional. — No debería plantear problemas. «Ella lo habría comprado»: Primero tomamos el condicional, she would, luego el auxiliar de pasado, have: she would have, y por fin el participio de pasado del verbo, bought: she would have bought it.",
+      "base": "The past of the conditional — Should not pose problems. \"She would have bought it\": First take the conditional, she would, then the past auxiliary, have: she would have, and finally the past participle of the verb, bought: she would have bought it."
+    },
+    {
+      "line": 3,
+      "target": "Whatever: cualquiera que, cualquier cosa que, sea lo que sea... La traducción dependerá del contexto. «Whatever he says, he's wrong»: «cualquier cosa que diga» / «diga lo que diga», está equivocado.",
+      "base": "Whatever: whoever, whatever, wherever... Translation depends on context. \"Whatever he says, he's wrong\" admits various translations: \"whatever he says / whatever he may say / say what he may, he's wrong\"."
+    },
+    {
+      "line": 4,
+      "target": "Despite his money, he’s still unhappy. 5 She no longer works here. 6 How long will the job take? 7 The miners went on strike. 8 A doctor is available all night. 9 I don’t want to join a trade union. 10 Thanks for your help. — Not at all. 11 We always get lost in Paris. 12 I might buy a new one.",
+      "base": "Despite his money, he’s still unhappy. 5 She no longer works here. 6 How long will the job take? 7 The miners went on strike. 8 A doctor is available all night. 9 I don’t want to join a trade union. 10 Thanks for your help. — Not at all. 11 We always get lost in Paris. 12 I might buy a new one."
+    },
+    {
+      "line": 5,
+      "target": "Expresiones que conviene retener: 1 He'll be down in a minute. 2 We should have decided a month ago. 3 You've got more than you need.",
+      "base": "Expressions to retain: 1 He'll be down in a minute. 2 We should have decided a month ago. 3 You've got more than you need."
+    },
+    {
+      "line": 6,
+      "target": "Traducción. — 1 Bajará dentro de un momento. — 2 Habríamos debido decidir hace un mes.",
+      "base": "Translation — 1 He'll be down in a minute. 2 We should have decided a month ago."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Formas perifrásticas. — Son locuciones que no suelen corresponder entre sí, en los diversos idiomas. Así pasa entre el español y el inglés con expresiones como «tener que», «hacer falta», «tener necesidad», etc.; veamos algunos ejemplos.",
+      "reasons": [
+        "vocab:as"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "El pasado del condicional. — No debería plantear problemas. «Ella lo habría comprado»: Primero tomamos el condicional, she would, luego el auxiliar de pasado, have: she would have, y por fin el participio de pasado del verbo, bought: she would have bought it.",
+      "reasons": [
+        "vocab:as"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Whatever: cualquiera que, cualquier cosa que, sea lo que sea... La traducción dependerá del contexto. «Whatever he says, he's wrong»: «cualquier cosa que diga» / «diga lo que diga», está equivocado.",
+      "reasons": [
+        "vocab:whatever"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Despite his money, he’s still unhappy. 5 She no longer works here. 6 How long will the job take? 7 The miners went on strike. 8 A doctor is available all night. 9 I don’t want to join a trade union. 10 Thanks for your help. — Not at all. 11 We always get lost in Paris. 12 I might buy a new one.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Expresiones que conviene retener: 1 He'll be down in a minute. 2 We should have decided a month ago. 3 You've got more than you need.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:need"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "en4ai-necessary",
+    "en4ai-need",
+    "en4ai-should-have",
+    "en4ai-could-have",
+    "en4ai-whatever",
+    "en4ai-whoever",
+    "en4ai-wherever",
+    "en4ai-such",
+    "en4ai-such-as"
+  ]
+}

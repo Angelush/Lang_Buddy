@@ -1,0 +1,216 @@
+{
+  "lesson_id": "ingles-l018",
+  "source": "ingles",
+  "lesson": 18,
+  "title": "Eighteenth Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 018 - Anglais.mp3",
+  "themes": [
+    "daily routine",
+    "commuting",
+    "family"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "On the train, David reads his paper.",
+      "base": "En el tren, David lee el (su) periódico.",
+      "pronunciation": ".. riids. — 2 hi stands... ful."
+    },
+    {
+      "line": 2,
+      "target": "He stands because the train is full.",
+      "base": "Está de pie porque el tren está lleno."
+    },
+    {
+      "line": 3,
+      "target": "People that travel to work every day are called \"commuters\".",
+      "base": "[A] la gente que viaja al trabajo todos los días se la llaman (son llamados) « commuters »,",
+      "pronunciation": ".. evii dei. kómiulérs. — 4... doh i tel yorni leiks... uok.. — 5... yok ikli, — 6... 7 --. teiks dze lift... forz floor. — 8 Si ce iS... liivs.., — 10 kualt niér. — 12 ... selrálir, skaunt-"
+    },
+    {
+      "line": 4,
+      "target": "The journey takes twenty minutes and he has ten minutes to walk to the office.",
+      "base": "El viaje dura (toma) 20 minutos y tarda (tiene) diez minutos para llegar (caminar) hasta la oficina."
+    },
+    {
+      "line": 5,
+      "target": "He hasn't much time, so he walks quickly,",
+      "base": "No tiene mucho tiempo, por eso anda deprisa."
+    },
+    {
+      "line": 6,
+      "target": "He crosses the City and arrives at the office.",
+      "base": "Atraviesa la « City » y llega a la (su) oficina."
+    },
+    {
+      "line": 7,
+      "target": "He takes the lift to the fourth floor.",
+      "base": "Coge el ascensor hasta el cuarto piso."
+    },
+    {
+      "line": 8,
+      "target": "He goes to his desk and sits down. He is on time.",
+      "base": "Va a su mesa y se sienta. Llega a tiempo."
+    },
+    {
+      "line": 9,
+      "target": "His wife Joan washes the dishes and leaves the house at ten to nine.",
+      "base": "Su mujer Joan friega los platos y se va (deja la) casa a las nueve menos diez."
+    },
+    {
+      "line": 10,
+      "target": "Her office is quite near, so she always walks.",
+      "base": "Su oficina está muy cerca, por eso va siempre andando (siempre anda)."
+    },
+    {
+      "line": 11,
+      "target": "It takes her eight minutes to arrive at her office.",
+      "base": "Tarda (ello le toma) 8 minutos en llegar a la (su) oficina."
+    },
+    {
+      "line": 12,
+      "target": "She is a secretary in an accountants firm.",
+      "base": "Es (una) secretaria en una empresa de contabilidad."
+    },
+    {
+      "line": 13,
+      "target": "At nine o'clock, both the Wilsons are working.",
+      "base": "A [las] nueve los dos Wilson están trabajando.",
+      "pronunciation": ".. uéking."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "On the train, David reads his paper.",
+      "reasons": [
+        "vocab:read"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "He stands because the train is full. (1)",
+      "reasons": [
+        "short_response",
+        "vocab:because"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "People that travel to work every day are called \"commuters\".",
+      "reasons": [
+        "vocab:commuters"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "The journey takes twenty minutes and he has ten minutes to walk to the office.",
+      "reasons": [
+        "vocab:minutes"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "He hasn't much time, so he walks quickly,",
+      "reasons": [
+        "short_response",
+        "vocab:quickly"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "He crosses the City and arrives at the office.",
+      "reasons": [
+        "vocab:arrives"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "He takes the lift to the fourth floor.",
+      "reasons": [
+        "short_response",
+        "vocab:floor"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "He goes to his desk and sits down. He is on time. (3) (4)",
+      "reasons": [
+        "vocab:desk"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "His wife Joan washes the dishes and leaves the house at ten to nine. (5) (6)",
+      "reasons": [
+        "vocab:washes"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Her office is quite near, so she always walks.",
+      "reasons": [
+        "vocab:walk"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "It takes her eight minutes to arrive at her office.",
+      "reasons": [
+        "vocab:minutes"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "She is a secretary in an accountants firm.",
+      "reasons": [
+        "short_response",
+        "vocab:secretary"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "At nine o'clock, both the Wilsons are working.",
+      "reasons": [
+        "short_response",
+        "vocab:o'clock"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "husband",
+    "wife",
+    "train",
+    "read",
+    "paper",
+    "stand",
+    "because",
+    "full",
+    "commuters",
+    "journey",
+    "takes",
+    "minutes",
+    "walk",
+    "quickly",
+    "crosses",
+    "city",
+    "arrives",
+    "office",
+    "take-the-lift",
+    "fourth-floor",
+    "go-to-his-desk",
+    "sit-down",
+    "on-time",
+    "washes",
+    "dishes",
+    "leaves",
+    "house",
+    "ten-to-nine",
+    "secretary",
+    "accountants-firm",
+    "o'clock"
+  ]
+}

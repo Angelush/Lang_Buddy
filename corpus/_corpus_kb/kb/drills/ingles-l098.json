@@ -1,0 +1,23 @@
+{
+  "lesson_id": "ingles-l098",
+  "source": "ingles",
+  "lesson": 98,
+  "title": "Revision Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 098 - Anglais.mp3",
+  "themes": [
+    "Grammar review",
+    "Vocabulary review"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "[This is a revision lesson reviewing previous grammar points including accusative and infinitive structures, question tags, and 'whose'.]",
+      "base": "[Lección de repaso que cubre estructuras de acusativo e infinitivo, question tags y el uso de 'whose'.]"
+    }
+  ],
+  "gap_candidates": [],
+  "vocab_introduced": []
+}

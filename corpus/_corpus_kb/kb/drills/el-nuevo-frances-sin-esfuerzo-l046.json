@@ -1,0 +1,196 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l046",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 46,
+  "title": "À l'hôtel",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/46 Leçon 46.mp3",
+  "themes": [
+    "hotel",
+    "travel",
+    "reservation",
+    "check-in"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Les deux hommes arrivent ensemble",
+      "base": "Los dos hombres llegan juntos a (en) la entrada del"
+    },
+    {
+      "line": 2,
+      "target": "C'est un hôtel trois étoiles situé non",
+      "base": "Es un hotel de tres estrellas situado no muy lejos de",
+      "pronunciation": "..truasetual...luan...chanselisé"
+    },
+    {
+      "line": 3,
+      "target": "La première chose qu'ils voient",
+      "base": "La primera cosa que ven es un cartel que",
+      "pronunciation": ".. komplé"
+    },
+    {
+      "line": 4,
+      "target": "mais ils ne s'inquiètent pas parce que",
+      "base": "pero no se preocupan (inquietan) porque el Sr.",
+      "pronunciation": ".. sankièt"
+    },
+    {
+      "line": 5,
+      "target": "Ils s'approchent de la réception et le",
+      "base": "Se acercan a (de) la recepción y el suizo se dirige a"
+    },
+    {
+      "line": 6,
+      "target": "Bonjour, madame ; j'ai une chambre",
+      "base": ""
+    },
+    {
+      "line": 7,
+      "target": "Une minute, s’il vous plaît. Quel nom",
+      "base": ""
+    },
+    {
+      "line": 8,
+      "target": "Oh pardon. Voilà. Une chambre avec",
+      "base": "",
+      "pronunciation": "..ve-se"
+    },
+    {
+      "line": 9,
+      "target": "réservée pour trois nuits. Signez ici,",
+      "base": "",
+      "pronunciation": "..siñé"
+    },
+    {
+      "line": 10,
+      "target": "C'est la chambre trois cent un ,",
+      "base": "",
+      "pronunciation": "..schasër"
+    },
+    {
+      "line": 11,
+      "target": "Merci madame ; je préfère porter mes",
+      "base": "",
+      "pronunciation": "..me prop"
+    },
+    {
+      "line": 12,
+      "target": "Vous en êtes sûr, Monsieur ? L'ascen-",
+      "base": "¿Está seguro señor? El ascensor (está averiado)"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "C'est un hôtel trois étoiles situé non",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "La première chose qu'ils voient (2)",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "mais ils ne s'inquiétent pas (4) parce que",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Ils s'approchent de (5) la réception et le",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Bonjour, madame ; j'ai une chambre",
+      "reasons": [
+        "short_response",
+        "vocab:chambre"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Une minute, s’il vous plaît. Quel nom",
+      "reasons": [
+        "short_response",
+        "vocab:nom"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Oh pardon. Voilà. Une chambre avec",
+      "reasons": [
+        "short_response",
+        "vocab:chambre"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "réservée pour trois nuits. Signez ici,",
+      "reasons": [
+        "short_response",
+        "vocab:nuit"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "C'est la chambre trois cent un (301),",
+      "reasons": [
+        "short_response",
+        "vocab:chambre"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Merci (9) madame ; je préfère porter mes",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 12,
+      "target": "Vous en êtes sûr, Monsieur ? L'ascen-",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "entree",
+    "hotel",
+    "etoile",
+    "situe",
+    "loin",
+    "fr2b-Champs-Elysees",
+    "affiche",
+    "marque",
+    "complet",
+    "sinquieter",
+    "reception",
+    "receptionniste",
+    "chambre",
+    "reservee",
+    "nom",
+    "salle-de-bains",
+    "wc",
+    "nuit",
+    "signer",
+    "etage",
+    "chasseur",
+    "propre",
+    "valise",
+    "ascenseur",
+    "en-panne"
+  ]
+}

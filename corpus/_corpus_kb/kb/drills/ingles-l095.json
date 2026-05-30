@@ -1,0 +1,133 @@
+{
+  "lesson_id": "ingles-l095",
+  "source": "ingles",
+  "lesson": 95,
+  "title": "A favour",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 095 - Anglais.mp3",
+  "themes": [
+    "Correspondence",
+    "Work",
+    "Asking for help"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Oh, is that George's letter? I haven't seen him for a long time.",
+      "base": "¡Oh! ¿es la carta de George? No le he visto desde hace mucho tiempo."
+    },
+    {
+      "line": 2,
+      "target": "In fact, since that party last year. How is he?",
+      "base": "De hecho, desde aquella fiesta el año pasado. ¿Cómo está?"
+    },
+    {
+      "line": 3,
+      "target": "Oh he's fine. He needs some help with his new job.",
+      "base": "¡Oh! está bien. Necesita (alguna) ayuda en (con) su nuevo trabajo."
+    },
+    {
+      "line": 4,
+      "target": "Yes, he's working in that school with a strange name.",
+      "base": "Si, está trabajando en esa escuela que tiene (con) un nombre raro."
+    },
+    {
+      "line": 5,
+      "target": "You mean Hungerford? It's a school that has an excellent reputation.",
+      "base": "¿Te refieres a Hungerford? Es una escuela que tiene una excelente reputación."
+    },
+    {
+      "line": 6,
+      "target": "How long has he been teaching there?",
+      "base": "¿Desde cuándo ha estado dando clases (enseñando) allí ?"
+    },
+    {
+      "line": 7,
+      "target": "For a month. Since another teacher resigned. He seems to be enjoying himself.",
+      "base": "Desde hace un mes. Desde que otro profesor dimitió. Parece que le gusta."
+    },
+    {
+      "line": 8,
+      "target": "May I read the letter? — Of course. It's over there on top of the television.",
+      "base": "¿Puedo leer la carta? — Por supuesto, está allí, encima de la televisión."
+    },
+    {
+      "line": 9,
+      "target": "He always asks for information which is difficult to find.",
+      "base": "Siempre pide (por) información difícil de encontrar."
+    },
+    {
+      "line": 10,
+      "target": "Not really. We've got lots of files at the office.",
+      "base": "En realidad no. Tenemos muchos informes en la oficina."
+    },
+    {
+      "line": 11,
+      "target": "I hope he doesn't expect you to write a book!",
+      "base": "Espero que no espere que escribas un libro."
+    },
+    {
+      "line": 12,
+      "target": "No, just a few lines with the main points. It won't take too long.",
+      "base": "No, sólo unas (pocas) líneas sobre los puntos importantes. No [me] llevará mucho."
+    },
+    {
+      "line": 13,
+      "target": "I hope not. — I'll start straight away and I should be finished by tomorrow at the latest.",
+      "base": "Espero que no. — Empezaré de inmediato y debería acabarlo (yo debería estar acabado) para mañana lo más tarde."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "In fact, since that party last year. How is he? (1)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Oh he's fine. He needs some help with his new job.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "You mean Hungerford? It's a school that has an excellent reputation. (2)",
+      "reasons": [
+        "vocab:reputation"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "How long has he been teaching there?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "For a month. Since another teacher resigned. He seems to be enjoying himself.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:resign"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "He always asks for information which is difficult to find.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "favour",
+    "reputation",
+    "resign"
+  ]
+}

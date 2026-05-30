@@ -141,9 +141,9 @@ practice.
 
 Candidate sources:
 
-- `Resources/_corpus_kb/kb/vocab/` — frequency-ranked vocabulary
-- `Resources/_corpus_kb/kb/patterns/` — recurring grammatical structures
-- `Resources/_corpus_kb/kb/grammar/` — points that recur across lessons
+- `corpus/_corpus_kb/kb/vocab/` — frequency-ranked vocabulary
+- `corpus/_corpus_kb/kb/patterns/` — recurring grammatical structures
+- `corpus/_corpus_kb/kb/grammar/` — points that recur across lessons
 - **Anything the learner asked about earlier in this session** — items
   they asked *"what does X mean?"* about become `learning` items with
   `n=0, EF=2.5`, due 2 turns later
@@ -162,7 +162,7 @@ Candidate sources:
   the content enter as `learning` (graded on the spot); items you
   modeled enter as `new` due 2 turns later
 
-If the wiki under `Resources/_corpus_kb/kb/` carries CEFR metadata
+If the wiki under `corpus/_corpus_kb/kb/` carries CEFR metadata
 (e.g. `vocab/B1/`, pattern tags), prefer those when filtering by
 level. If the wiki isn't populated, source from general CEFR-aware
 Assimil-style high-frequency vocabulary and patterns at the right

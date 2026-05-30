@@ -1,0 +1,121 @@
+{
+  "lesson_id": "ingles-l100",
+  "source": "ingles",
+  "lesson": 100,
+  "title": "Hundredth Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 100 - Anglais.mp3",
+  "themes": [
+    "Language learning",
+    "Motivation"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "This is our hundredth lesson. If you have spent an average of half an hour, revision included,",
+      "base": "Esta es nuestra lección cien. Si usted ha dedicado (pasado) una media de media hora, incluida la revisión,"
+    },
+    {
+      "line": 2,
+      "target": "on each of the preceding ones, it makes a total of nearly fifty hours.",
+      "base": "a cada una de las precedentes, hace un total de casi cincuenta horas."
+    },
+    {
+      "line": 3,
+      "target": "Are you pleased with the result of your work?",
+      "base": "¿ Está usted contento con el resultado de su trabajo ?"
+    },
+    {
+      "line": 4,
+      "target": "Obviously, you do not know by heart every word and every expression we have seen: that would be too perfect.",
+      "base": "Obviamente no sabe usted de memoria cada palabra y cada expresión que hemos visto : eso sería demasiado perfecto."
+    },
+    {
+      "line": 5,
+      "target": "Learning a foreign language is a matter of patience, regular daily repetition — and optimism.",
+      "base": "Aprender una lengua extranjera es una cuestión de paciencia, repetición diaria regular y optimismo."
+    },
+    {
+      "line": 6,
+      "target": "Somebody once said that English was like Mount Everest:",
+      "base": "Alguien dijo una vez que el inglés es como el Monte Everest:"
+    },
+    {
+      "line": 7,
+      "target": "because access is easy, but the summit is impossible to reach.",
+      "base": "porque el acceso es fácil pero la cumbre es imposible de alcanzar."
+    },
+    {
+      "line": 8,
+      "target": "We think this is wrong because nobody speaks his own language perfectly.",
+      "base": "Pensamos que esto es un error porque nadie habla su propia lengua perfectamente."
+    },
+    {
+      "line": 9,
+      "target": "You must try, by regular practice, to climb as high as you want, until you feel comfortable.",
+      "base": "Debe usted intentar, con la práctica regular, trepar tan alto como quiera, hasta que se sienta cómodo."
+    },
+    {
+      "line": 10,
+      "target": "But be careful! In order not to fall, you must practise as often as possible.",
+      "base": "Pero tenga cuidado (sea precavido), para no caer (en orden a no caer) debe usted practicar tan a menudo como [sea] posible."
+    },
+    {
+      "line": 11,
+      "target": "You will learn new words and expressions and forget them, and learn them again and forget them once more.",
+      "base": "Aprenderá usted nuevas palabras y expresiones y las olvidará, y las aprenderá de nuevo y las olvidará una vez más."
+    },
+    {
+      "line": 12,
+      "target": "But you are making progress. Compare what you know now with what you knew three months ago.",
+      "base": "Pero usted está haciendo progresos. Compare lo que sabe ahora con lo que sabía hace tres meses."
+    },
+    {
+      "line": 13,
+      "target": "The hardest and most tedious part of your work is done; before long, you will speak fluently.",
+      "base": "La parte más dura y aburrida de su trabajo está hecha; en poco tiempo (antes de largo) hablará usted con fluidez."
+    },
+    {
+      "line": 14,
+      "target": "But remember: in order to stay on the mountain, you need daily practice.",
+      "base": "Pero recuerde: para permanecer encima de la montaña se necesita la práctica diaria."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "This is our hundredth lesson. If you have spent an average of half an hour, revision included,",
+      "reasons": [
+        "vocab:average"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Obviously, you do not know by heart every word and every expression we have seen: that would be too perfect. (1)",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "because access is easy, but the summit is impossible to reach.",
+      "reasons": [
+        "vocab:summit"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "The hardest and most tedious part of your work is done; before long, you will speak fluently.",
+      "reasons": [
+        "vocab:fluent"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "average",
+    "summit",
+    "fluent"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "lesson_id": "ingles-perfeccionamiento-l001",
+  "source": "ingles-perfeccionamiento",
+  "lesson": 1,
+  "title": "Welcome, reader",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "corpus/Assimil - Ingles Perfeccionamiento/Audio/01 Lesson 01.mp3",
+  "themes": [
+    "language",
+    "culture",
+    "history",
+    "introduction"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Knowledge of English is vital in today's fast-moving world;",
+      "base": "[El]* conocimiento del inglés es vital (en)** [el] mundo agitado y en rápido movimiento de hoy día;"
+    },
+    {
+      "line": 2,
+      "target": "it is spoken by some three hundred and sixty million people",
+      "base": "Es hablado por alrededor [de] trescientos sesenta millones [de] personas"
+    },
+    {
+      "line": 3,
+      "target": "and is the tool of communication in so many fields that we will not even attempt to number them.",
+      "base": "y sirve de vehículo de comunicación en tantos (muchos) campos que ni siquiera intentaremos enumerarlos."
+    },
+    {
+      "line": 4,
+      "target": "But the language we hear today is not the language of the people who live in the British Isles.",
+      "base": "Pero el idioma que escuchamos hoy no es la lengua de las personas que viven en las Islas Británicas."
+    },
+    {
+      "line": 5,
+      "target": "Of course, that is where it all started, but, for several hundred years,",
+      "base": "Por supuesto, (que) fué allí donde todo comenzó, pero durante varios cientos de años,"
+    },
+    {
+      "line": 6,
+      "target": "different peoples and ethnic groups have added their own particular contributions to English",
+      "base": "distintos pueblos y grupos étnicos han añadido sus propias contribuciones particulares al inglés"
+    },
+    {
+      "line": 7,
+      "target": "(N 1) so that what we hear and speak now is truly a « United Nations » of languages.",
+      "base": "de manera que [lo] que escuchamos y hablamos ahora es realmente unas «Naciones Unidas» de idiomas."
+    },
+    {
+      "line": 8,
+      "target": "But why is English so widespread? Why not French or Spanish — both major languages —",
+      "base": "¿Pero por qué [el] inglés está tan [ampliamente] difundido? ¿por qué no [el] francés o el español — ambos idiomas importantes,"
+    },
+    {
+      "line": 9,
+      "target": "or even Esperanto, the international language?",
+      "base": "o incluso [el] esperanto, el idioma internacional?"
+    },
+    {
+      "line": 10,
+      "target": "Apart from the enormous influence of the United States (although some claim that American is a separate language),",
+      "base": "Aparte de la influencia enorme de los Estados Unidos (aunque algunos plantean que el [inglés] americano es un idioma diferente),"
+    },
+    {
+      "line": 11,
+      "target": "and the extent of Britain's old colonial empire, which at one time spanned one-third of the surface of the globe,",
+      "base": "y la extensión del viejo imperio colonial británico, el cual en una época se extendía por un tercio de la superficie del globo,"
+    },
+    {
+      "line": 12,
+      "target": "the real answer is that English is an extremely flexible language — it is structurally closer to Chinese than to its European cousins!",
+      "base": "la respuesta válida es que [el] inglés es un idioma extremadamente flexible — ¡«cuya estructura se asemeja más a la del chino que a la sus primos [lingüísticos] europeos»!"
+    },
+    {
+      "line": 13,
+      "target": "Words can be nouns or verbs: a chair becomes to chair with no complexes; (N 1)",
+      "base": "Las palabras pueden ser nombres o verbos: a chair (una silla) se convierte en to chair (presidir) sin complejos;"
+    },
+    {
+      "line": 14,
+      "target": "up can be an adverb, a preposition, a noun, an adjective or even a verb.",
+      "base": "up puede ser un adverbio, una preposición, un nombre, un adjetivo, o aún un verbo."
+    },
+    {
+      "line": 15,
+      "target": "Neologisms — made-up words — enter the language on tiptoe so that nobody notices,",
+      "base": "[Los] neologismos — palabras creadas — entran en el idioma imperceptiblemente (de puntillas), de manera que nadie lo advierte,"
+    },
+    {
+      "line": 16,
+      "target": "and different trades, crafts and sciences give us new expressions every week.",
+      "base": "y diferentes intercambios, gremios y ciencias nos aportan nuevas expresiones cada semana."
+    },
+    {
+      "line": 17,
+      "target": "It is because of this wealth that we need a guide to help the speaker and the writer to use English,",
+      "base": "Es debido a esta riqueza [por lo] que necesitamos una guía para ayudar al que habla y escribe el inglés,"
+    },
+    {
+      "line": 18,
+      "target": "so follow us now on our trip through the highways and byways of the English language.",
+      "base": "así que sigamos ahora en nuestro viaje a través de las avenidas, senderos [y desvíos] del idioma inglés."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Knowledge of English is vital in today's fast-moving world;",
+      "reasons": [
+        "vocab:vital"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "But why is English so widespread? Why not French or Spanish — both major languages —",
+      "reasons": [
+        "vocab:widespread"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "or even Esperanto, the international language?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "Apart from the enormous influence of the United States (although some claim that American is a separate language),",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "and the extent of Britain's old colonial empire, which at one time spanned one-third of the surface of the globe,",
+      "reasons": [
+        "vocab:span"
+      ]
+    },
+    {
+      "line": 15,
+      "target": "Neologisms — made-up words — enter the language on tiptoe so that nobody notices,",
+      "reasons": [
+        "vocab:neologism"
+      ]
+    },
+    {
+      "line": 18,
+      "target": "so follow us now on our trip through the highways and byways of the English language.",
+      "reasons": [
+        "vocab:byway"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "knowledge",
+    "vital",
+    "widespread",
+    "span",
+    "neologism",
+    "byway"
+  ]
+}

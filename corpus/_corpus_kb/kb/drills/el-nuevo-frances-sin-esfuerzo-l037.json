@@ -1,0 +1,138 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l037",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 37,
+  "title": "Une soirée au théâtre",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/37 Leçon 37.mp3",
+  "themes": [
+    "theater",
+    "humor",
+    "emotions"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Jean et Marie-Claude vont au théâtre pour voir une pièce",
+      "base": "Jean y Marie-Claude van al teatro a ver una obra"
+    },
+    {
+      "line": 2,
+      "target": "qui s'appelle \"L'amour, toujours l'amour”.",
+      "base": "que se llama “El amor, siempre el amor”."
+    },
+    {
+      "line": 3,
+      "target": "lls arrivent au théâtre à huit heures et quart,",
+      "base": "Llegan al teatro a las ocho y cuarto,"
+    },
+    {
+      "line": 4,
+      "target": "un quart d'heure avant le lever du rideau.",
+      "base": "un cuarto de hora antes de la subida del telón.",
+      "pronunciation": ".. lëvé dû ridó"
+    },
+    {
+      "line": 5,
+      "target": "L'ouvreuse leur montre les fauteuils et Jean lui donne un pourboire.",
+      "base": "La acomodadora les muestra los asientos y Jean le da una propina.",
+      "pronunciation": "luvrës’ . . . purbuar"
+    },
+    {
+      "line": 6,
+      "target": "La pièce commence : deux comédiens entrent en scène :",
+      "base": "La obra comienza : dos actores entran en escena :",
+      "pronunciation": "..Comedián antr' ... sen’"
+    },
+    {
+      "line": 7,
+      "target": "Je vous aime Gisèle. Vous m’entendez ? Je vous aime.",
+      "base": "La quiero Gisela ¿ Me oye? La quiero."
+    },
+    {
+      "line": 8,
+      "target": "Ah bon ? Mais je ne vous aime pas. J'aime Pierre.",
+      "base": "¿ Ah, sí ? Pero yo no le quiero a usted. Yo quiero a Pierre."
+    },
+    {
+      "line": 9,
+      "target": "Pourquoi ? -Parce qu'il me donne des bijoux",
+      "base": "¿ Por qué ? - Porque él me regala joyas",
+      "pronunciation": "..parskel... bijú"
+    },
+    {
+      "line": 10,
+      "target": "et vous ne me donnez rien.",
+      "base": "y usted no me da nada."
+    },
+    {
+      "line": 11,
+      "target": "A ce moment, Jean commence à ronfler très fort. II dort.",
+      "base": "En ese momento, Jean empieza a roncar muy fuerte. Duerme.",
+      "pronunciation": "..ronflé...dor"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "qui s'appelle \"L'amour, siempre l'amour”.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "lls arrivent au théâtre à huit heures et quart,",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "un quart d'heure avant le lever du rideau.",
+      "reasons": [
+        "short_response",
+        "vocab:rideau"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "L'ouvreuse leur montre les fauteuils et Jean lui donne un pourboire.",
+      "reasons": [
+        "vocab:pourboire"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Ah bon ? Mais je ne vous aime pas. J'aime Pierre.",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Pourquoi ? -Parce qu'il me donne des bijoux",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:bijoux"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "et vous ne me donnez rien.",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "ouvreuse",
+    "pourboire",
+    "bijoux",
+    "rideau"
+  ]
+}

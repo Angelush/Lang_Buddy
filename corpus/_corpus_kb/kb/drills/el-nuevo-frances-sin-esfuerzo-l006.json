@@ -1,0 +1,141 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l006",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 6,
+  "title": "Les achats",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/06 Leçon 06.mp3",
+  "themes": [
+    "shopping",
+    "food"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "-Bonjour Monsieur Lefèvre. Comment ça va ?",
+      "base": "¡ Buenos días, señor Lefèvre ! ¿Cómo va eso ?",
+      "pronunciation": "bonjur m'sié léfévr. ¿ comán savá ?"
+    },
+    {
+      "line": 2,
+      "target": "-Bien, merci, et vous ? -Ça va, merci. -Qu'est-ce que vous voulez ?",
+      "base": "Bien, gracias. ¿ Y usted ? - (Eso va) Bien, gracias. - ¿Qué desea ? (¿ Qué es lo que usted quiere ?)",
+      "pronunciation": "bién mersí ¿ e vu ? sa va, mersi ; kés ké vu vulé ?"
+    },
+    {
+      "line": 3,
+      "target": "-Est-ce que vous avez du beurre ? -Oui, bien sûr.",
+      "base": "¿ Tiene mantequilla ? - ¡ Si, claro !",
+      "pronunciation": "; és ké vusavé dû berr ? ui, bién sûr."
+    },
+    {
+      "line": 4,
+      "target": "-Alors, une livre de beurre. Est-ce que vous avez du fromage italien ?",
+      "base": "Entonces, [déme] medio kilo (una libra) de mantequilla. ¿ Tiene queso italiano ?",
+      "pronunciation": "… liv dé bér . . . fromag' italián"
+    },
+    {
+      "line": 5,
+      "target": "-Du parmesan ? Non, je n'ai pas de fromage italien. -Dommage !.",
+      "base": "¿ (Algo de) Parmesano ? No, no tengo queso italiano. - ¡ Lástima !",
+      "pronunciation": "dú parmézän .. . domaj'"
+    },
+    {
+      "line": 6,
+      "target": "Eh bien, donnez-moi du fromage ordinaire.",
+      "base": "Pues bien, déme (algo de) queso ordinario.",
+      "pronunciation": "..doné-mua ... ordinèr"
+    },
+    {
+      "line": 7,
+      "target": "-Mais, Monsieur Lefèvre, nous n'avons pas de fromage ordinaire en France.",
+      "base": "Pero, Sr. Lefèvre, en Francia no tenemos queso ordinario."
+    },
+    {
+      "line": 8,
+      "target": "Nous avons un fromage pour chaque jour de l’année !",
+      "base": "¡ Para cada día del año tenemos un queso !",
+      "pronunciation": "nusavén . . .schak jur dë lané"
+    },
+    {
+      "line": 9,
+      "target": "-Alors, donnez-moi le fromage d'aujourd’hui !",
+      "base": "¡ Entonces, déme el queso de hoy !",
+      "pronunciation": "… dojurdüf"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 2,
+      "target": "-Bien, merci, et vous ? -Ça va, merci. -Qu'est-ce que vous voulez ?",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "-Est-ce que vous avez du beurre (2) ? -Oui, bien sûr.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:beurre"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "-Alors, une livre (3) de beurre. Est-ce que vous avez du fromage italien ?",
+      "reasons": [
+        "answer_to_question",
+        "vocab:fromage"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "-Du parmesan ? Non, je nai pas de (4) fromage italien. -Dommage (5)!.",
+      "reasons": [
+        "answer_to_question",
+        "vocab:fromage"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Eh bien, donnez-moi du fromage or-dinaire.",
+      "reasons": [
+        "answer_to_question",
+        "short_response",
+        "vocab:fromage"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "-Mais, Monsieur Lefèvre, nous n'avons pas de fromage ordinaire en France.",
+      "reasons": [
+        "vocab:fromage"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Nous avons un fromage pour chaque jour de l’année !",
+      "reasons": [
+        "vocab:fromage"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "-Alors, donnez-moi le fromage d'au-jourd’hui !",
+      "reasons": [
+        "short_response",
+        "vocab:fromage"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "beurre",
+    "fromage",
+    "italien",
+    "ordinaire",
+    "aujourd-hui",
+    "annee"
+  ]
+}

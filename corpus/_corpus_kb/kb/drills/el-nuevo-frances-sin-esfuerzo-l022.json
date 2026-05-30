@@ -1,0 +1,167 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l022",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 22,
+  "title": "Les trois jeux nationaux",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A1",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/22 Leçon 22.mp3",
+  "themes": [
+    "games",
+    "culture",
+    "money"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Il y a trois grands jeux d'argent en France :",
+      "base": "Hay tres grandes juegos de dinero en Francia."
+    },
+    {
+      "line": 2,
+      "target": "Le Loto, la Loterie Nationale et le Tiercé.",
+      "base": "El “Loto”, la Lotería Nacional y el “Tiercé” [la apuesta triple gemela).",
+      "pronunciation": "..iotó, lotérí nasional .. . tiersé"
+    },
+    {
+      "line": 3,
+      "target": "Les deux premiers sont des jeux de hasard",
+      "base": "Los dos primeros son juegos de azar",
+      "pronunciation": "..]édé hazar"
+    },
+    {
+      "line": 4,
+      "target": "et le dernier est un jeu où on parie sur des chevaux ( T",
+      "base": "y el último es un juego en el que se apuesta sobre caballos.",
+      "pronunciation": "..jé u on pari sûr de schevó"
+    },
+    {
+      "line": 5,
+      "target": "lls ont tous lieu une fois par semaine",
+      "base": "Todos tienen lugar una vez por semana."
+    },
+    {
+      "line": 6,
+      "target": "On achète des billets de loterie à des guichets",
+      "base": "Los billetes de loteria se compran en taquilla",
+      "pronunciation": ".. guixè"
+    },
+    {
+      "line": 7,
+      "target": "ou, comme pour le Loto , au tabac.",
+      "base": "o, como en el caso del (para el) Loto, en el (al tabaco) estanco."
+    },
+    {
+      "line": 8,
+      "target": "Si vous voulez jouer au Tiercé ,",
+      "base": "Si usted quiere jugar al “Tiercé”"
+    },
+    {
+      "line": 9,
+      "target": "vous allez dans un café spécial",
+      "base": "va a un bar especial"
+    },
+    {
+      "line": 10,
+      "target": "qui s'appelle un P.M.U.",
+      "base": "que se llama P.M.U.",
+      "pronunciation": "..peem'ü"
+    },
+    {
+      "line": 11,
+      "target": "Tous ceux qui jouent espèrent faire fortune !",
+      "base": "¡ Todos los que juegan esperan hacer fortuna !",
+      "pronunciation": "tu sé qui yu espèr' tér fortún'"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "Il y a trois grands jeux d'argent en France :",
+      "reasons": [
+        "vocab:argent"
+      ]
+    },
+    {
+      "line": 2,
+      "target": "Le Loto, la Loterie Nationale et le Tiercé.",
+      "reasons": [
+        "short_response",
+        "vocab:loto"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "Les deux premiers sont des jeux de hasard",
+      "reasons": [
+        "short_response",
+        "vocab:hasard"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "et le dernier est un jeu où on parie sur des chevaux ( T",
+      "reasons": [
+        "vocab:chevaux"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "On achète des billets de loterie à des guichets (3)",
+      "reasons": [
+        "vocab:loterie"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "ou, comme pour le Loto (4), au tabac.",
+      "reasons": [
+        "short_response",
+        "vocab:loto"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "Si vous voulez jouer au Tiercé (5),",
+      "reasons": [
+        "short_response",
+        "vocab:tiercé"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "vous allez dans (6) un café spécial",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "qui s'appelle un P.M.U. (7)",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "Tous ceux qui jouent espèrent faire fortune !",
+      "reasons": [
+        "short_response",
+        "vocab:fortune"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "argent",
+    "loto",
+    "loterie",
+    "fr1-tiercé",
+    "hasard",
+    "parier",
+    "chevaux",
+    "guichet",
+    "tabac",
+    "fortune"
+  ]
+}

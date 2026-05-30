@@ -1,0 +1,116 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l083",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 83,
+  "title": "Voyage à Beaune (II)",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "B2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/83 Leçon 83.mp3",
+  "themes": [
+    "voyage",
+    "famille",
+    "transport"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "À onze heures, la voiture chargée d'enfants) de nourriture et d'essence ,",
+      "base": "A las once, el coche cargado de niños, de comida, y de gasolina,"
+    },
+    {
+      "line": 2,
+      "target": "les Martin s’en vont pour Beaune. À la Porte d'Orléans",
+      "base": "los Martin se van a (para) Beaune. En (A) la Puerta de Orleans"
+    },
+    {
+      "line": 3,
+      "target": "ils prennent l'autoroute du Sud. Il n'y a pas trop de monde.",
+      "base": "cogen la autopista del sur. No hay demasiada gente."
+    },
+    {
+      "line": 4,
+      "target": "II fait un temps magnifique et tout le monde est heureux.",
+      "base": "Hace un tiempo magnífico y todo el mundo está (feliz) contento."
+    },
+    {
+      "line": 5,
+      "target": "lls ne s'arrêtent pas mais ils mangent les sandwichs, que Mme Martin a préparés, dans la voiture.",
+      "base": "No se paran, pero comen en el coche los bocadillos que la Sra. Martin ha preparado."
+    },
+    {
+      "line": 6,
+      "target": "Bientôt, ils arrivent en Bourgogne.",
+      "base": "Pronto llegan a Borgoña."
+    },
+    {
+      "line": 7,
+      "target": "C'est facile à reconnaître à cause des vignobles qui couvrent toutes les collines.",
+      "base": "Es fácil de (a) reconocer a causa de los viñedos que cubren todas las colinas."
+    },
+    {
+      "line": 8,
+      "target": "lls prennent la sortie de Beaune et M. Martin s'arrête au péage .",
+      "base": "Cogen la salida de Beaune y el Sr. Martin se para en el peaje.",
+      "pronunciation": "..burgoñ."
+    },
+    {
+      "line": 9,
+      "target": "Ils passent quelques minutes à chercher des pièces dans leurs poches",
+      "base": "Pasan unos minutos buscando (a buscar) monedas (piezas) en sus bolsos"
+    },
+    {
+      "line": 10,
+      "target": "et, les ayant trouvées, M. Martin paie.",
+      "base": "y, habiéndolas encontrado, el Sr. Martin paga."
+    },
+    {
+      "line": 11,
+      "target": "La famille continue son chemin vers le centre ville.",
+      "base": "La familia continúa su camino hacia el centro de la ciudad."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 1,
+      "target": "À onze heures, la voiture chargée d'enfants) de nourriture et d'essence (1),",
+      "reasons": [
+        "vocab:essence"
+      ]
+    },
+    {
+      "line": 3,
+      "target": "ils prennent l'autoroute du Sud. |! ny a pas trop de monde.",
+      "reasons": [
+        "vocab:autoroute"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Bientôt, ils arrivent en Bourgogne.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "et, les ayant (5) trouvées, M. Martin paie.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "La famille continue son chemin (6) vers le centre ville.",
+      "reasons": [
+        "vocab:chemin"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "essence",
+    "autoroute",
+    "peage",
+    "chemin"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "lesson_id": "el-nuevo-frances-sin-esfuerzo-l042",
+  "source": "el-nuevo-frances-sin-esfuerzo",
+  "lesson": 42,
+  "title": "Révision",
+  "target_lang": "fr",
+  "base_lang": "es",
+  "cefr": "A2",
+  "audio": "corpus/Assimil - El Nuevo Francés sin Esfuerzo/Audio/42 Leçon 42.mp3",
+  "themes": [
+    "review",
+    "grammar consolidation",
+    "negation",
+    "demonstratives"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Ne... que. Ne... plus. (Ver lección 39).",
+      "base": "Este tipo de expresiones no tiene traducción directa al castellano. Veamos algunos ejemplos."
+    },
+    {
+      "line": 2,
+      "target": "El pronombre demostrativo (Ver lección 34, note 3 y lección 40, nota 7)",
+      "base": "El pronombre reemplaza al nombre y puede indicar proximidad o lejanía. En castellano, el pronombre demostrativo se distingue del adjetivo únicamente por el acento. En francés se forma con palabras diferentes."
+    },
+    {
+      "line": 3,
+      "target": "El gerundio (Ver lecciones 38, 39 y 41, notas 3, 6 y 6 respectivamente).",
+      "base": "El gerundio, en castellano, es un verdadero tiempo de verbo y, en general, para traducirlo al francés debemos anteponer en al participe présent (participio presente)."
+    },
+    {
+      "line": 4,
+      "target": "Ne...pas.",
+      "base": "Es importante recordar que las formas negativas tienen en francés dos partes : ne y otra partícula. Generalmente, esa otra partícula será pas."
+    },
+    {
+      "line": 5,
+      "target": "Ejercicio de revisión.",
+      "base": "¿ Recuerda cómo decir la hora en francés ?"
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 4,
+      "target": "Ne...pas.",
+      "reasons": [
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Ejercicio de revisión.",
+      "reasons": [
+        "short_response"
+      ]
+    }
+  ],
+  "vocab_introduced": []
+}

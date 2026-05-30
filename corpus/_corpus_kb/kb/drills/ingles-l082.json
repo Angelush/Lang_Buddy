@@ -1,0 +1,178 @@
+{
+  "lesson_id": "ingles-l082",
+  "source": "ingles",
+  "lesson": 82,
+  "title": "Eighty-second (82nd) Lesson",
+  "target_lang": "en",
+  "base_lang": "es",
+  "cefr": "B1",
+  "audio": "corpus/Assimil Inglés/Audio/Lesson 082 - Anglais.mp3",
+  "themes": [
+    "quiz",
+    "humor",
+    "imagination"
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "target": "Read* this lesson as usual and when you have finished it, answer the questions.",
+      "base": "Lea esta lección como de costumbre y cuando haya terminado, responda a las preguntas.",
+      "pronunciation": ".. riid... ansér... — 2 ... diférenss bituiin... — 3 ... k&ziidral? — 5... sentrálaisd. — 6 ... aksent... — 7 keunti — 8 ... kantri. — 9 ... biin... 10 .. essei... tiché... — 11 ... von... — 12 ... uiilii... — 13 ... kélektit... s00... — 14 ¡uv dan... aid... uán."
+    },
+    {
+      "line": 2,
+      "target": "What is the difference between a city and a town?",
+      "base": "¿Cúal es la diferencia entre una ciudad y un pueblo ?"
+    },
+    {
+      "line": 3,
+      "target": "Where would you find* a cathedral?",
+      "base": "¿ Dónde encontraría usted una catedral ?"
+    },
+    {
+      "line": 4,
+      "target": "Is England as centralised as France?",
+      "base": "¿ Está Inglaterra tan centralizada como España ?"
+    },
+    {
+      "line": 5,
+      "target": "Are there any differences between the North and South of England?",
+      "base": "¿ Hay diferencias entre el norte y el sur de inglaterra ?"
+    },
+    {
+      "line": 6,
+      "target": "Which accent are you learning?",
+      "base": "¿ Qué acento está usted aprendiendo ?"
+    },
+    {
+      "line": 7,
+      "target": "Which county is called the “ Garden of England '?",
+      "base": "¿ Qué condado se llama « El jardín de Inglaterra » ?"
+    },
+    {
+      "line": 8,
+      "target": "In which part of the country is Cornwall?",
+      "base": "¿En qué parte del país está Cornwall ?"
+    },
+    {
+      "line": 9,
+      "target": "Have you ever been to England?",
+      "base": "¿ Ha estado usted alguna vez en Inglaterra ?"
+    },
+    {
+      "line": 10,
+      "target": "| want you all to write* an essay, said the teacher, Miss Smith, to her class,",
+      "base": "Quiero que todos vosotros escribáis una redacción, dijo la profesora, señorita Smith, a su clase,"
+    },
+    {
+      "line": 11,
+      "target": "about what you would do if you won* a fortune.",
+      "base": "sobre lo que haríais si ganarais una fortuna."
+    },
+    {
+      "line": 12,
+      "target": "Everybody started writing*, except Willy who looked out of the window.",
+      "base": "Todo el mundo empezó a escribir, menos Willy que miraba por la ventana."
+    },
+    {
+      "line": 13,
+      "target": "At the end of the lesson, the teacher collected the essays and saw that Willy had written” nothing.",
+      "base": "Al final de la clase (lección), la profesora recogió las redacciones y vió que Willy no había escrito nada."
+    },
+    {
+      "line": 14,
+      "target": "But you've done nothing, Willy! — That's what I'd do if I won* a fortune... nothing.",
+      "base": "Pero Willy, ¡no has hecho nada! — Es lo que yo haría si ganara una fortuna... nada."
+    }
+  ],
+  "gap_candidates": [
+    {
+      "line": 3,
+      "target": "Where would you find* a cathedral?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 4,
+      "target": "Is England as centralised as France?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 5,
+      "target": "Are there any differences between the North and South of England?",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 6,
+      "target": "Which accent are you learning? (2)",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 7,
+      "target": "Which county is called the “ Garden of England '?",
+      "reasons": [
+        "answer_to_question"
+      ]
+    },
+    {
+      "line": 8,
+      "target": "In which part of the country is Cornwall?",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 9,
+      "target": "Have you ever been to England? (3)",
+      "reasons": [
+        "answer_to_question",
+        "short_response"
+      ]
+    },
+    {
+      "line": 10,
+      "target": "| want you all to write* an essay, said the teacher, Miss Smith, to her class,",
+      "reasons": [
+        "answer_to_question",
+        "vocab:essay"
+      ]
+    },
+    {
+      "line": 11,
+      "target": "about what you would do if you won* a fortune.",
+      "reasons": [
+        "vocab:fortune"
+      ]
+    },
+    {
+      "line": 13,
+      "target": "At the end of the lesson, the teacher collected the essays and saw that Willy had written” nothing.",
+      "reasons": [
+        "vocab:collect"
+      ]
+    },
+    {
+      "line": 14,
+      "target": "But you've done nothing, Willy! — That's what I'd do if I won* a fortune... nothing.",
+      "reasons": [
+        "vocab:fortune"
+      ]
+    }
+  ],
+  "vocab_introduced": [
+    "essay",
+    "fortune",
+    "collect"
+  ]
+}
