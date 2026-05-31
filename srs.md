@@ -1,18 +1,23 @@
-# SRS — Anki-style algorithm, adapted for live conversation
+# Graduated interval recall — Pimsleur's principle, adapted for live conversation
 
 ## Why this exists
 
-Anki uses **SM-2** to schedule flashcard reviews across days. We don't
-have days; we have a single chat session and the chatbot's context
-window. But the *shape* of SM-2 — show new items, bring them back as
-they're about to fade, space successful items further out, drop ease on
-items the learner struggled with — is exactly the steering signal we
-want during a conversation.
+Pimsleur's **graduated interval recall** schedules each item to recur at
+expanding intervals — seconds, then minutes, then hours, days, months —
+catching it right as it is about to fade. The classic Pimsleur audio
+courses bake a fixed version of that schedule into the recordings.
 
-This file specifies a simplified SM-2 the agent runs *in its head*,
-using the chat itself as persistence. No database, no flashcards, no
-review sessions — just a rule for what vocabulary and structures to
-surface next.
+We don't have days or a fixed track; we have a single chat session and
+the chatbot's context window. So we keep the *shape* of graduated
+interval recall — show new items, bring them back as they're about to
+fade, space successful items further out, shorten the interval on items
+the learner struggled with — and drive it with a compact **SM-2-style**
+update (the same expanding-interval math Anki uses) as the engine.
+
+This file specifies that scheduler, run *in the agent's head*, using the
+chat itself as persistence. No database, no flashcards, no review
+sessions — just a rule for what vocabulary and structures to surface
+next, turn by turn.
 
 The learner must never notice this is happening.
 

@@ -49,12 +49,12 @@ Follow `tutor.md` and `methodology.md`. The shape of every turn:
    - reuses one item from earlier in the session (disguised SRS) if there's
      a natural opening
    - ends on something that pulls them into the next turn — a question, a
-     setup, or a deliberate pause (Pincer)
+     setup, or a deliberate pause (anticipation)
 
 If they ask **"what does X mean?"** — answer briefly, then return to the
 topic without making it a lesson.
 
-If they go quiet — **wait**. Silence is a Pincer pause, not a problem. Only
+If they go quiet — **wait**. Silence is an anticipation pause, not a problem. Only
 prompt after a real beat.
 
 If they switch into their L1 — follow them for a turn or two, then nudge

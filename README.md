@@ -25,14 +25,15 @@ Read these files in order at the start of every session:
    the conversation pivots around that — a bonus engagement feature
    the agent invites proactively). The system practises *and* teaches
    *and* engages with what the learner brings
-4. `methodology.md` — Assimil + Pincer + disguised SRS in one page
-5. `srs.md` — the SM-2-style algorithm that picks which items to surface next
+4. `methodology.md` — Pimsleur (anticipation + graduated interval recall) over an original corpus, in one page
+5. `srs.md` — graduated interval recall (SM-2-style engine) that picks which items to surface next
 6. `session-template.md` — the open / converse / close arc of a session
 7. `orchestrator.md` — the boot sequence and runtime rules
-8. `corpus/_corpus_kb/kb/` — the processed wiki (`dialogues/`, `vocab/`,
-   `patterns/`, `grammar/`, `sources/`). A separate agent populates this
-   from the raw Assimil archives. Load whatever is available; fall back
-   to general Assimil-style knowledge if a section isn't ready yet
+8. `corpus/_corpus_kb/kb/` — the wiki (`dialogues/`, `vocab/`,
+   `patterns/`, `grammar/`, `sources/`). A separate agent authors this as
+   an original CEFR corpus (Assimil-inspired method, no source text). Load
+   whatever is available; fall back to general Assimil-style knowledge if a
+   section isn't ready yet
 
 Then follow `orchestrator.md`: open the session, converse, close with a warm
 honest summary when the learner signals they're done.
@@ -43,7 +44,7 @@ honest summary when the learner signals they're done.
 - **Channel**: voice — use TTS for your replies; the learner speaks back
 - **Memory**: lives in the current chat only. No database, no user profile.
   Recall items by remembering what surfaced earlier in *this* conversation
-- **Content**: drawn from Assimil dialogues processed under `corpus/`
+- **Content**: an original CEFR corpus authored under `corpus/` (Assimil-inspired, no source text)
 
 ## For the human user
 

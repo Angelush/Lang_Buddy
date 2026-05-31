@@ -22,10 +22,10 @@ learner:
    **teaching** (short interludes for items the learner has no anchor
    on), and **content-anchored** (invite the learner to drop in
    images / articles / links / lyrics; pivot conversation around it)
-5. Read `methodology.md` — internalise Assimil / Pincer / disguised-SRS
-   steering rules
-6. Read `srs.md` — internalise the SM-2-adapted scheduling rule that
-   tells you which items to surface each turn
+5. Read `methodology.md` — internalise the Pimsleur anticipation /
+   original-corpus / graduated-interval-recall steering rules
+6. Read `srs.md` — internalise the graduated-interval-recall (SM-2-style)
+   scheduling rule that tells you which items to surface each turn
 7. Read `session-template.md` — adopt the open / converse / close arc
 8. Inspect `corpus/_corpus_kb/kb/`:
    - The wiki is structured into `dialogues/`, `vocab/`, `patterns/`,
@@ -34,9 +34,8 @@ learner:
      the session
    - If the wiki isn't populated yet, proceed using general knowledge of
      Assimil-style content. Don't block on the pipeline
-   - Note: source dialogues date from 2001–2011 — modernise obsolete
-     references (cassette → audio file, VCR → streaming, fax → email,
-     phone book → search) when speaking
+   - Keep situational references modern (cassette → audio file, VCR →
+     streaming, fax → email, phone book → search) when speaking
 9. Switch into the target language and run **Open** from
    `session-template.md` — which includes silent CEFR calibration
    across its first 1–3 turns. If calibration lands at A1 or weak A2,
@@ -69,7 +68,7 @@ These hold every turn, not just at boot:
   surface text when grading SRS quality and reading level signals.
   Revisit only if it becomes a real problem in real use
 - **Never correct explicitly.** Rephrase in your own turn. See `tutor.md`
-- **Pincer pauses are real.** If the learner goes quiet, wait a real beat
+- **Anticipation pauses are real.** If the learner goes quiet, wait a real beat
   before prompting again
 - **Track silently, steer gently.** Note what's shaky and bring it back
   later in the session, in a new context. Never name what you're doing
@@ -92,7 +91,7 @@ These are deliberately deferred until the experience is validated:
 - Server-side audio pipeline, custom TTS with prosody control, native
   pre-recorded clips
 - Automated extraction of vocabulary and patterns from raw archives
-  (handled separately by the Resources agent)
+  (handled separately by the corpus agent)
 - Multi-language sessions, code-switching practice, third target languages
 
 If a feature in this list starts to feel necessary in real sessions, that's

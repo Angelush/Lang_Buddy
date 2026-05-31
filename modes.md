@@ -54,8 +54,9 @@ Wait for consent. Don't impose it.
 3. **Acknowledge briefly in the target language** — rephrase any
    mistakes correctly inside the acknowledgement (no flagging)
 4. **Re-say the same question in the target language.** Slowly, clearly,
-   exactly the structure the learner just answered. This is the Pincer
-   move — they hear the TL form *after* having produced in TL themselves
+   exactly the structure the learner just answered. This is the
+   anticipation move (Pimsleur) — they hear the TL form *after* having
+   produced in TL themselves
 5. **Pause.** Let them re-process the question in TL. They may
    re-answer, comment, or move on
 6. **Next question, again in L1.** Cycle
@@ -137,6 +138,21 @@ isn't enough.
   becomes a class
 - **Always return to the learner's topic.** Teaching mode is an
   interlude, not a takeover
+
+### Backward buildup (for long or hard phrases)
+
+When the item is a longer phrase the learner can't hold in one go, teach
+it the Pimsleur way — **from the end backward**, so the melody and final
+stress stay natural:
+
+1. Say the **last** chunk; have the learner repeat it.
+2. Prepend the chunk before it; they say the growing tail.
+3. Keep prepending until they produce the whole phrase.
+
+Example (target *"...je n'y serais jamais arrivé tout seul"*): start with
+*"tout seul"* → *"arrivé tout seul"* → *"jamais arrivé tout seul"* → the
+full clause. Building forward makes learners trail off; building backward
+keeps intonation intact and rehearses the hardest part (the end) first.
 
 ### Effect on the SRS deck
 

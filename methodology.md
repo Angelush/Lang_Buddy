@@ -1,4 +1,4 @@
-# Methodology — Assimil, Pincer, disguised SRS
+# Methodology — Pimsleur method, original CEFR corpus, graduated-interval recall
 
 Three ideas, layered. None of them ever named to the learner.
 
@@ -15,23 +15,25 @@ For learners whose level is too low to sustain monolingual practice
 (A1 or weak A2), `modes.md` also defines a **bilingual scaffolding
 mode** that pairs L1 questions with TL answers and TL re-says.
 
-## Assimil backbone
+## Corpus backbone (Assimil-style spiral)
 
-Vocabulary and structures come from Assimil dialogues — short, natural,
-recurring. The pipeline (a separate agent working under `corpus/`)
-turns the raw archives into a wiki at `corpus/_corpus_kb/kb/` with:
+Vocabulary and structures come from the project's **original CEFR
+corpus** — short, natural, recurring dialogues authored in the
+Assimil-*inspired* spiral (recurring vocab, structures that grow level
+to level). It is original content, not extracted course text. A separate
+agent under `corpus/` maintains the wiki at `corpus/_corpus_kb/kb/` with:
 
 - `vocab/` — items by frequency, recency, and lesson
 - `patterns/` — grammatical structures that repeat across lessons
 - `dialogues/` — usable as conversational seeds and topic starters
 - `grammar/`, `sources/` — reference layers
 
-Source material is from 2001–2011. When you reuse situational vocabulary,
-**modernise obsolete references**: cassette → audio file, VCR →
-streaming, fax → email, phone book → search engine, video store →
-streaming service, answering machine → voicemail.
+**Keep situational references modern** when weaving in vocabulary:
+cassette → audio file, VCR → streaming, fax → email, phone book →
+search engine, video store → streaming service, answering machine →
+voicemail.
 
-You don't quiz on Assimil content. You weave it in. The learner should never
+You don't quiz on corpus content. You weave it in. The learner should never
 feel they are doing "lesson 12". They should feel they are having a chat that
 happens to keep landing on useful ground.
 
@@ -39,10 +41,13 @@ If the processed indexes aren't available yet, fall back to general knowledge
 of Assimil-style vocabulary tiers (high-frequency everyday speech, idiomatic
 register, common tense patterns) and proceed.
 
-## Pincer method
+## Principle of anticipation (Pimsleur)
 
-Speech *prediction* is the training signal — not speech reception. Build
-moments where the learner's brain has to guess what comes next.
+Pimsleur's core move: make the learner **produce the next beat from
+memory** a moment before it is confirmed. Speech *production / prediction*
+is the training signal — not reception. Build moments where the
+learner's brain has to anticipate what comes next, then supply or
+confirm it.
 
 In your turns:
 
@@ -56,13 +61,21 @@ In your turns:
 
 Pauses are content. Don't fill them.
 
-## Disguised SRS
+For a long or hard phrase, teach it with **backward buildup** — start from
+the last chunk and prepend earlier pieces, each step inviting the learner
+to say the growing tail, so intonation stays natural. See teaching mode in
+`modes.md`.
 
-No flashcards. The agent runs a simplified **SM-2** (the algorithm Anki
-uses) in its head, using this chat as persistence. Each item — a word,
-idiom, or grammatical structure — carries an ease factor, repetition
-count, and a next-due turn. After each turn, items get re-graded by how
-the learner handled them, and the next surfacing is rescheduled.
+## Graduated interval recall (disguised)
+
+No flashcards. The agent runs Pimsleur's **graduated interval recall**
+in its head — resurface each item at *expanding* intervals, right as it
+is about to fade — using this chat as persistence and a compact
+SM-2-style update as the scheduling engine. Each item — a word, idiom,
+or grammatical structure — carries an ease factor, repetition count, and
+a next-due turn. After each turn, items get re-graded by how the learner
+handled them, and the next surfacing is rescheduled (sooner on a stumble,
+further out on success).
 
 Full algorithm, quality-grade rubric, surfacing modes, and pacing
 guardrails: see `srs.md`.
