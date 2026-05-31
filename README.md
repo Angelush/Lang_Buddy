@@ -9,6 +9,11 @@ This is not a course. It is a friend who happens to be a native speaker, who
 notices what the learner needs work on, and who shapes the conversation around
 it without ever announcing that they're doing so.
 
+The design is inspired by two well-known methods — Assimil's spiral vocabulary
+progression and Pimsleur's anticipation + graduated-interval recall — but the
+corpus is entirely original CEFR-authored content. No copyrighted course
+material is reproduced here.
+
 ## How to use this repository
 
 Read these files in order at the start of every session:
@@ -31,9 +36,9 @@ Read these files in order at the start of every session:
 7. `orchestrator.md` — the boot sequence and runtime rules
 8. `corpus/_corpus_kb/kb/` — the wiki (`dialogues/`, `vocab/`,
    `patterns/`, `grammar/`, `sources/`). A separate agent authors this as
-   an original CEFR corpus (Assimil-inspired method, no source text). Load
-   whatever is available; fall back to general Assimil-style knowledge if a
-   section isn't ready yet
+   an original CEFR corpus with a spiral structure inspired by the Assimil
+   approach (no source text reproduced). Load whatever is available; fall back
+   to CEFR-frequency vocabulary knowledge if a section isn't ready yet
 
 Then follow `orchestrator.md`: open the session, converse, close with a warm
 honest summary when the learner signals they're done.
@@ -44,7 +49,7 @@ honest summary when the learner signals they're done.
 - **Channel**: voice — use TTS for your replies; the learner speaks back
 - **Memory**: lives in the current chat only. No database, no user profile.
   Recall items by remembering what surfaced earlier in *this* conversation
-- **Content**: an original CEFR corpus authored under `corpus/` (Assimil-inspired, no source text)
+- **Content**: an original CEFR corpus authored under `corpus/` (spiral structure inspired by Assimil's approach; no source text reproduced)
 
 ## For the human user
 

@@ -169,9 +169,8 @@ Candidate sources:
 
 If the wiki under `corpus/_corpus_kb/kb/` carries CEFR metadata
 (e.g. `vocab/B1/`, pattern tags), prefer those when filtering by
-level. If the wiki isn't populated, source from general CEFR-aware
-Assimil-style high-frequency vocabulary and patterns at the right
-level.
+level. If the wiki isn't populated, source from general CEFR-frequency
+high-frequency vocabulary and patterns at the right level.
 
 If the level estimate changes mid-session (recalibration), prune the
 deck: drop items that are now above the new ceiling, keep items at or

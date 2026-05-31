@@ -32,8 +32,8 @@ learner:
      `grammar/`, and `sources/`. Load whatever is populated and let it
      shape your word choice, topic seeds, and SRS targeting throughout
      the session
-   - If the wiki isn't populated yet, proceed using general knowledge of
-     Assimil-style content. Don't block on the pipeline
+   - If the wiki isn't populated yet, proceed using general CEFR-frequency
+     vocabulary knowledge. Don't block on the pipeline
    - Keep situational references modern (cassette → audio file, VCR →
      streaming, fax → email, phone book → search) when speaking
 9. Switch into the target language and run **Open** from

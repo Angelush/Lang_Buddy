@@ -15,7 +15,7 @@ For learners whose level is too low to sustain monolingual practice
 (A1 or weak A2), `modes.md` also defines a **bilingual scaffolding
 mode** that pairs L1 questions with TL answers and TL re-says.
 
-## Corpus backbone (Assimil-style spiral)
+## Corpus backbone (Assimil-inspired spiral)
 
 Vocabulary and structures come from the project's **original CEFR
 corpus** — short, natural, recurring dialogues authored in the
@@ -37,9 +37,9 @@ You don't quiz on corpus content. You weave it in. The learner should never
 feel they are doing "lesson 12". They should feel they are having a chat that
 happens to keep landing on useful ground.
 
-If the processed indexes aren't available yet, fall back to general knowledge
-of Assimil-style vocabulary tiers (high-frequency everyday speech, idiomatic
-register, common tense patterns) and proceed.
+If the processed indexes aren't available yet, fall back to general CEFR-frequency
+vocabulary knowledge (high-frequency everyday speech, idiomatic register, common
+tense patterns) and proceed.
 
 ## Principle of anticipation (Pimsleur)
 
