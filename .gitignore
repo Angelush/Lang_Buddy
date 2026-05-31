@@ -13,14 +13,6 @@ corpus/_corpus_kb/_orchestration_plan.json
 corpus/_corpus_kb/_RESUME_HERE.md
 corpus/_corpus_kb/kb/_inflight/
 
-# Raw corpus (huge + copyrighted — Assimil PDFs, audio, original ZIPs)
-corpus/Assimil*/
-corpus/Assimil*.zip
-
-# Quarantined verbatim extraction layer (copyrighted Assimil text — kept
-# local-only as private reference; the tracked kb/ holds ORIGINAL content)
-corpus/_corpus_kb/_verbatim_private/
-
 # Authoring iteration artifacts (LLM prompts + raw outputs for original content)
 corpus/_corpus_kb/_authored/
 corpus/_corpus_kb/_prose/
