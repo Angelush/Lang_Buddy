@@ -1,23 +1,27 @@
 ---
-title: "heure"
+title: une heure
 type: vocab
 slug: heure
-lemma: "heure"
+lemma: une heure
 target_lang: fr
-pos: phrase
-gloss_es: "hora"
-frequency: 3
-first_lesson: ["el-nuevo-frances-sin-esfuerzo", 5]
-lessons: [["el-nuevo-frances-sin-esfuerzo", 5], ["el-nuevo-frances-sin-esfuerzo", 8], ["el-nuevo-frances-sin-esfuerzo", 14]]
+pos: noun
+gloss_es: hora
+gloss_en: hour
+frequency: 1
+first_lesson: fr-a1-nombres-heure-01
+lessons: [fr-a1-nombres-heure-01]
 register: neutral
 cefr: A1
 stability: evergreen
-updated: 2026-05-18
+updated: 2026-05-30
 ---
 
-**heure** — hora
+## Definition
+Se refiere a la unidad de tiempo (hora) o a la hora del día.
 
-## Appears in
-- [[dialogues/el-nuevo-frances-sin-esfuerzo-l005]]
-- [[dialogues/el-nuevo-frances-sin-esfuerzo-l008]]
-- [[dialogues/el-nuevo-frances-sin-esfuerzo-l014]]
+## Examples
+- "Pardon, quelle heure est-il ?" — [[dialogues/fr-a1-nombres-heure-01]]
+- "C'est l'heure de partir pour l'école." — [[dialogues/fr-a1-nombres-heure-01]]
+
+## Notes
+- Se utiliza siempre con *Il est* para decir la hora.

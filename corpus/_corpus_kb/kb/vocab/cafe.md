@@ -1,23 +1,28 @@
 ---
-title: "café"
+title: café
 type: vocab
 slug: cafe
-lemma: "café"
+lemma: café
 target_lang: fr
-pos: phrase
-gloss_es: "café"
-frequency: 3
-first_lesson: ["el-nuevo-frances-sin-esfuerzo", 3]
-lessons: [["el-nuevo-frances-sin-esfuerzo", 3], ["el-nuevo-frances-sin-esfuerzo", 4], ["el-nuevo-frances-sin-esfuerzo", 19]]
+pos: noun
+gloss_es: café
+gloss_en: coffee
+frequency: 2
+first_lesson: fr-a1-cafe-01
+lessons: [fr-a1-cafe-01, en-a2-directions-01]
 register: neutral
 cefr: A1
 stability: evergreen
-updated: 2026-05-18
+updated: 2026-05-30
 ---
 
-**café** — café
+## Definition
+Bebida caliente estimulante preparada con granos de café. También se refiere al establecimiento (cafetería) donde se sirve.
 
-## Appears in
-- [[dialogues/el-nuevo-frances-sin-esfuerzo-l003]]
-- [[dialogues/el-nuevo-frances-sin-esfuerzo-l004]]
-- [[dialogues/el-nuevo-frances-sin-esfuerzo-l019]]
+## Examples
+- "Et un café ?" — [[dialogues/fr-a1-cafe-01]]
+- "J'aime le café avec du lait." — [[dialogues/fr-a1-cafe-01]]
+
+## Notes
+- Pronunciación: la 'é' final se pronuncia como una /e/ cerrada y clara.
+- En Francia, *un café* se refiere casi siempre a un *espresso* pequeño (un *café allongé* es un café americano).

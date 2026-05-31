@@ -1,492 +1,1101 @@
 {
-  "subjontif-present": {
-    "title": "Le Subjonctif Présent",
-    "category": "verb-mood",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/subjontif-present.md"
-  },
-  "possessives": {
-    "title": "Possessive Pronouns",
-    "category": "Pronouns",
-    "target_lang": "",
-    "cefr": "A2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/possessives.md"
-  },
-  "must-have-participle": {
-    "title": "Must have + Participle (Deduction)",
-    "category": "modals",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/must-have-participle.md"
-  },
-  "enp3b": {
-    "title": "Subjunctive: be that as it may",
-    "category": "mood",
-    "target_lang": "",
-    "cefr": "C1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/enp3b.md"
-  },
-  "chez": {
-    "title": "La préposition 'chez'",
-    "category": "syntax",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/chez.md"
-  },
-  "have-to-do": {
-    "title": "Have to do",
-    "category": "verb_forms",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/have-to-do.md"
-  },
-  "future-will": {
-    "title": "Future with Will",
-    "category": "Verbs",
-    "target_lang": "",
-    "cefr": "A2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/future-will.md"
-  },
-  "en4ai-conditional-past": {
-    "title": "Conditional Past",
-    "category": "Verb Tenses",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/en4ai-conditional-past.md"
-  },
-  "accusative-infinitive": {
-    "title": "Accusative and infinitive",
-    "category": "syntax",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/accusative-infinitive.md"
-  },
-  "enp1aii": {
-    "title": "Definite article usage with proper nouns",
-    "category": "articles",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/enp1aii.md"
-  },
-  "fr3b": {
-    "title": "Possessive adjectives and pronouns",
-    "category": "determiners_pronouns",
-    "target_lang": "",
-    "cefr": "B1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/fr3b.md"
-  },
-  "irregular-plurals": {
-    "title": "Irregular Plurals",
-    "category": "Nouns",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/irregular-plurals.md"
-  },
-  "relatifs-composes": {
-    "title": "Pronombres relativos compuestos (lequel, auquel)",
-    "category": "Sintaxis",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/relatifs-composes.md"
-  },
-  "relative-pronouns-whose": {
-    "title": "Whose (relative)",
-    "category": "pronouns",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/relative-pronouns-whose.md"
-  },
-  "enp2ai": {
-    "title": "Spanish-English cognates (es- → s-)",
-    "category": "vocabulary strategy",
-    "target_lang": "",
-    "cefr": "A2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/enp2ai.md"
-  },
-  "modal-verbs": {
-    "title": "Modal verbs (might/may/could)",
-    "category": "Verbs",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/modal-verbs.md"
-  },
-  "en1a": {
-    "title": "Present Simple: Statements and Questions",
-    "category": "verb tense",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/en1a.md"
-  },
-  "en4ai-make-vs-do": {
-    "title": "Make vs Do",
-    "category": "Vocabulary/Verb Usage",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/en4ai-make-vs-do.md"
-  },
-  "enp1ai": {
-    "title": "Distinction between 'say' and 'tell'",
-    "category": "verbs",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/enp1ai.md"
-  },
-  "phone-language": {
-    "title": "Phone language",
-    "category": "functional",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/phone-language.md"
-  },
-  "quantifiers-countable": {
-    "title": "Much, Many, Few, Little",
-    "category": "Quantifiers",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/quantifiers-countable.md"
-  },
-  "y-en-pronouns": {
-    "title": "Y and En Pronouns",
-    "category": "syntax",
-    "target_lang": "fr",
-    "cefr": "A2",
-    "rule": "In French, the pronouns **y** and **en** are used to replace phrases introduced by prepositions to avoid repetition and streamline the sentence.\n\n- **y** replaces a group introduced by the preposition **à** (or other locative prepositions like *dans*, *sur*, *sous*, except *de*). It often refers to a place (locative) or an abstract thing/idea.\n- **en** replaces a group introduced by the preposition **de**. It is used for partitives (quantity), origins, or things/ideas introduced by *de*.",
-    "common_errors": "- **Confusion with people**: [SPECULATIVE] Learners often try to use *y* or *en* to replace people (e.g., *Je parle à Pierre* -> *J'y parle* is incorrect; it should be *Je lui parle*).\n- **Misuse of 'en' for locations**: [SPECULATIVE] English speakers might use *en* thinking of \"in\", whereas *y* is the correct locative pronoun for \"there\" (except when the location is introduced by *de*).",
-    "correct_policy": "The agent should always correct the misuse of *y* and *en* as they are fundamental to natural-sounding French. However, in the very early stages of oral practice, if the learner uses the full noun phrase instead of the pronoun (e.g., *Je vais à l'école* instead of *J'y vais*), the agent should model the pronominal version in the next turn rather than interrupting with a formal correction.",
-    "file_path": "kb/grammar/y-en-pronouns.md"
-  },
-  "relative-clauses": {
-    "title": "Relative clauses",
-    "category": "syntax",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/relative-clauses.md"
-  },
-  "enp2b": {
-    "title": "Relative Clauses Omission",
-    "category": "Syntax",
-    "target_lang": "",
-    "cefr": "C1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/enp2b.md"
-  },
-  "past-simple": {
-    "title": "Past Simple Regular",
-    "category": "Verbs",
-    "target_lang": "",
-    "cefr": "A2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/past-simple.md"
-  },
-  "pronoms-ordre": {
-    "title": "Orden de los pronombres personales",
-    "category": "Pronombres",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/pronoms-ordre.md"
-  },
-  "negation": {
-    "title": "La négation (ne ... pas)",
-    "category": "syntax",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/negation.md"
-  },
-  "en4aii": {
-    "title": "Reflexive and impersonal constructions",
-    "category": "pronouns",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/en4aii.md"
-  },
-  "possessive-case": {
-    "title": "The Saxon Genitive ('s)",
-    "category": "Possession",
-    "target_lang": "",
-    "cefr": "A2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/possessive-case.md"
-  },
-  "en4ai": {
-    "title": "Verb send and its idioms",
-    "category": "lexical-verb",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/en4ai.md"
-  },
-  "en4ai-periphrastic-forms": {
-    "title": "Periphrastic forms",
-    "category": "Syntax",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/en4ai-periphrastic-forms.md"
-  },
-  "possessif": {
-    "title": "L'adjectif possessif",
-    "category": "agreement",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/possessif.md"
-  },
-  "etre-auxiliary": {
-    "title": "L'auxiliaire être",
-    "category": "verbs",
-    "target_lang": "",
-    "cefr": "B1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/etre-auxiliary.md"
-  },
-  "enp1b": {
-    "title": "Prepositional phrases and their idiomatic use",
-    "category": "prepositions",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/enp1b.md"
-  },
-  "fr2b": {
-    "title": "Gerund with en + participe présent",
-    "category": "verb-forms",
-    "target_lang": "",
-    "cefr": "A2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/fr2b.md"
-  },
-  "enp2aii": {
-    "title": "Word stress patterns",
-    "category": "pronunciation",
-    "target_lang": "",
-    "cefr": "A2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/enp2aii.md"
-  },
-  "review": {
-    "title": "General Review",
-    "category": "misc",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/review.md"
-  },
-  "enp3a": {
-    "title": "Will vs Would for offers",
-    "category": "modals",
-    "target_lang": "",
-    "cefr": "C1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/enp3a.md"
-  },
-  "pronom-en": {
-    "title": "Le pronom 'en'",
-    "category": "syntax",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/pronom-en.md"
-  },
-  "verbe-faire": {
-    "title": "Usos idiomáticos del verbo faire",
-    "category": "Verbos",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/verbe-faire.md"
-  },
-  "heure": {
-    "title": "L'heure",
-    "category": "syntax",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/heure.md"
-  },
-  "partitif": {
-    "title": "L'article partitif",
-    "category": "syntax",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/partitif.md"
-  },
-  "front-room-expression": {
-    "title": "Expressions for living room",
-    "category": "Vocabulary",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/front-room-expression.md"
-  },
-  "en2b": {
-    "title": "Plural nouns (irregular)",
-    "category": "nouns",
-    "target_lang": "",
-    "cefr": "B1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/en2b.md"
-  },
-  "falloir-usage": {
-    "title": "Le verbe falloir",
-    "category": "verbs",
-    "target_lang": "",
-    "cefr": "B1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/falloir-usage.md"
-  },
-  "demonstratifs": {
-    "title": "Les adjectifs démonstratifs",
-    "category": "agreement",
-    "target_lang": "",
-    "cefr": "A1",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/demonstratifs.md"
-  },
-  "en4bi": {
-    "title": "Present continuous",
-    "category": "tenses",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/en4bi.md"
-  },
-  "present-perfect-vs-simple-past": {
-    "title": "Present Perfect vs Simple Past",
-    "category": "verbs",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/present-perfect-vs-simple-past.md"
-  },
-  "conditionnel": {
-    "title": "Le Conditionnel Présent",
-    "category": "verb-mood",
-    "target_lang": "",
-    "cefr": "B2",
-    "rule": "(See lessons listed below.)",
-    "common_errors": "",
-    "correct_policy": "",
-    "file_path": "kb/grammar/conditionnel.md"
-  }
+ "accord-participe-passe": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ironie-01"
+  ],
+  "page": true
+ },
+ "adjectives-basic": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-cafe-01"
+  ],
+  "page": true
+ },
+ "advanced-conditionals": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-debate-citylife-01"
+  ],
+  "page": true
+ },
+ "advanced-connectors": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-complaint-01",
+   "en-c1-cultural-difference-01",
+   "en-c1-work-ethics-01"
+  ],
+  "page": true
+ },
+ "adverbes-frequence": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01",
+   "fr-a2-routine-01"
+  ],
+  "page": true
+ },
+ "articles": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-shopping-01"
+  ],
+  "page": true
+ },
+ "articles-a-an": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-cafe-01"
+  ],
+  "page": true
+ },
+ "articles-definis": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-classe-01",
+   "fr-a1-famille-01",
+   "fr-a1-nombres-heure-01"
+  ],
+  "page": true
+ },
+ "articles-indefinis": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01",
+   "fr-a1-cafe-01",
+   "fr-a1-classe-01",
+   "fr-a1-famille-01",
+   "fr-a1-nombres-heure-01"
+  ],
+  "page": true
+ },
+ "articles-partitifs": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-cafe-01"
+  ],
+  "page": true
+ },
+ "avoir-present": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01",
+   "fr-a1-cafe-01",
+   "fr-a1-classe-01",
+   "fr-a1-famille-01",
+   "fr-a1-nombres-heure-01"
+  ],
+  "page": true
+ },
+ "can-cant": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-describing-people-01",
+   "en-a2-doctor-01",
+   "en-a2-plans-01"
+  ],
+  "page": true
+ },
+ "causative-have": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ai-creativity-01"
+  ],
+  "page": true
+ },
+ "cleft-sentences": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-complaint-01",
+   "en-c1-cultural-difference-01",
+   "en-c1-debate-citylife-01",
+   "en-c1-negotiation-01",
+   "en-c1-work-ethics-01",
+   "en-c2-ambiguity-01",
+   "en-c2-irony-01"
+  ],
+  "page": true
+ },
+ "comparatif": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01",
+   "fr-a2-directions-01",
+   "fr-a2-routine-01",
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "comparative-adjectives": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "comparatives": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-describing-people-01",
+   "en-a2-doctor-01",
+   "en-a2-plans-01"
+  ],
+  "page": true
+ },
+ "complex-conditionals": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-literature-01"
+  ],
+  "page": true
+ },
+ "complex-modals": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ai-creativity-01"
+  ],
+  "page": true
+ },
+ "concordance-des-temps": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ambiguite-01",
+   "fr-c2-ia-creativite-01",
+   "fr-c2-litterature-01"
+  ],
+  "page": true
+ },
+ "conditional-sentences": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-negotiation-01"
+  ],
+  "page": true
+ },
+ "conditionnel": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-voyage-01",
+   "fr-c1-difference-culturelle-01",
+   "fr-c2-ambiguite-01",
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "conditionnel-passe": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-actualite-01",
+   "fr-b2-carriere-01",
+   "fr-b2-environnement-01",
+   "fr-b2-technologie-01",
+   "fr-b2-travail-01",
+   "fr-c2-litterature-01"
+  ],
+  "page": true
+ },
+ "conditionnel-present": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01",
+   "fr-b1-ma-ville-01",
+   "fr-b1-opinions-film-01",
+   "fr-b1-projets-avenir-01",
+   "fr-b2-carriere-01",
+   "fr-b2-environnement-01"
+  ],
+  "page": true
+ },
+ "connecteurs": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-actualite-01",
+   "fr-b2-technologie-01"
+  ],
+  "page": true
+ },
+ "connecteurs-avances": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01",
+   "fr-c1-difference-culturelle-01",
+   "fr-c1-ethique-travail-01",
+   "fr-c1-negociation-01"
+  ],
+  "page": true
+ },
+ "connecteurs-concession": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-travail-01"
+  ],
+  "page": true
+ },
+ "connecteurs-logiques": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-carriere-01",
+   "fr-b2-environnement-01"
+  ],
+  "page": true
+ },
+ "contractions-be": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-greetings-01"
+  ],
+  "page": true
+ },
+ "devoir": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-medecin-01"
+  ],
+  "page": true
+ },
+ "discours-indirect": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-actualite-01",
+   "fr-b2-carriere-01",
+   "fr-b2-environnement-01",
+   "fr-b2-technologie-01",
+   "fr-b2-travail-01"
+  ],
+  "page": true
+ },
+ "discourse-markers": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-career-01",
+   "en-b2-environment-01",
+   "en-b2-news-01",
+   "en-b2-technology-01",
+   "en-b2-workplace-01"
+  ],
+  "page": true
+ },
+ "dont": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-actualite-01",
+   "fr-b2-carriere-01"
+  ],
+  "page": true
+ },
+ "dont-pronoun": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-environnement-01"
+  ],
+  "page": true
+ },
+ "ellipsis": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ambiguity-01"
+  ],
+  "page": true
+ },
+ "etre-present": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01",
+   "fr-a1-cafe-01",
+   "fr-a1-classe-01",
+   "fr-a1-famille-01",
+   "fr-a1-nombres-heure-01",
+   "fr-a1-rencontres-01"
+  ],
+  "page": true
+ },
+ "first-conditional": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01",
+   "en-b1-hotel-01",
+   "en-b1-opinions-film-01",
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "frequency-adverbs": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-describing-people-01",
+   "en-a2-routine-01"
+  ],
+  "page": true
+ },
+ "futur-anterieur": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-negociation-01"
+  ],
+  "page": true
+ },
+ "futur-proche": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01",
+   "fr-a2-directions-01",
+   "fr-a2-medecin-01",
+   "fr-a2-projets-01",
+   "fr-a2-routine-01",
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "futur-simple": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01",
+   "fr-b1-ma-ville-01",
+   "fr-b1-opinions-film-01",
+   "fr-b1-projets-avenir-01",
+   "fr-b1-voyage-01",
+   "fr-c2-ironie-01"
+  ],
+  "page": true
+ },
+ "genre-nombre": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01",
+   "fr-a1-classe-01",
+   "fr-a1-famille-01"
+  ],
+  "page": true
+ },
+ "going-to-future": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-describing-people-01",
+   "en-a2-doctor-01",
+   "en-a2-plans-01",
+   "en-a2-routine-01",
+   "en-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "have-present": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-family-01"
+  ],
+  "page": true
+ },
+ "have-to": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01"
+  ],
+  "page": true
+ },
+ "hedging": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-complaint-01"
+  ],
+  "page": true
+ },
+ "il-faut-que": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01",
+   "fr-b1-ma-ville-01",
+   "fr-b1-opinions-film-01",
+   "fr-b1-projets-avenir-01",
+   "fr-b1-voyage-01"
+  ],
+  "page": true
+ },
+ "il-y-a": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01",
+   "fr-a1-cafe-01",
+   "fr-a1-classe-01",
+   "fr-a1-famille-01"
+  ],
+  "page": true
+ },
+ "imparfait": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01",
+   "fr-b1-ma-ville-01",
+   "fr-b1-opinions-film-01",
+   "fr-b1-voyage-01"
+  ],
+  "page": true
+ },
+ "imparfait-vs-passe-compose": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-projets-avenir-01"
+  ],
+  "page": true
+ },
+ "imperatives": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01",
+   "en-a2-doctor-01"
+  ],
+  "page": true
+ },
+ "infinitif-nominal": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "interrogation-inversion": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-litterature-01"
+  ],
+  "page": true
+ },
+ "inversion": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-negotiation-01",
+   "en-c1-work-ethics-01",
+   "en-c2-literature-01",
+   "fr-c1-debat-ville-campagne-01",
+   "fr-c1-difference-culturelle-01",
+   "fr-c1-ethique-travail-01",
+   "fr-c1-negociation-01",
+   "fr-c1-plainte-01"
+  ],
+  "page": true
+ },
+ "inverted-conditionals": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ai-creativity-01"
+  ],
+  "page": true
+ },
+ "inverted-syntax": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-irony-01"
+  ],
+  "page": true
+ },
+ "locutions-idiomatiques": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-negociation-01"
+  ],
+  "page": true
+ },
+ "mise-en-relief": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01",
+   "fr-c1-difference-culturelle-01",
+   "fr-c1-ethique-travail-01",
+   "fr-c1-negociation-01",
+   "fr-c1-plainte-01"
+  ],
+  "page": true
+ },
+ "modal-can": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01"
+  ],
+  "page": true
+ },
+ "modal-verbs": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-negotiation-01"
+  ],
+  "page": true
+ },
+ "modal-verbs-deduction": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ambiguity-01",
+   "en-c2-literature-01"
+  ],
+  "page": true
+ },
+ "modal-verbs-nuance": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-complaint-01",
+   "en-c1-work-ethics-01"
+  ],
+  "page": true
+ },
+ "modal-verbs-speculation": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-irony-01"
+  ],
+  "page": true
+ },
+ "modalite": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-plainte-01"
+  ],
+  "page": true
+ },
+ "modalite-nuancee": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01",
+   "fr-c1-ethique-travail-01"
+  ],
+  "page": true
+ },
+ "modals-advice": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hometown-01"
+  ],
+  "page": true
+ },
+ "modals-of-obligation": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hotel-01"
+  ],
+  "page": true
+ },
+ "negation-ne-pas": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01",
+   "fr-a1-cafe-01",
+   "fr-a1-classe-01",
+   "fr-a1-famille-01",
+   "fr-a1-nombres-heure-01",
+   "fr-a1-rencontres-01",
+   "fr-a2-medecin-01"
+  ],
+  "page": true
+ },
+ "negative-inversion": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-complaint-01",
+   "en-c1-cultural-difference-01",
+   "en-c1-debate-citylife-01",
+   "en-c2-ai-creativity-01"
+  ],
+  "page": true
+ },
+ "nuanced-modality": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-cultural-difference-01",
+   "en-c1-debate-citylife-01"
+  ],
+  "page": true
+ },
+ "participes-presents": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-litterature-01"
+  ],
+  "page": true
+ },
+ "participial-phrases": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-irony-01"
+  ],
+  "page": true
+ },
+ "partitif-de-la": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01"
+  ],
+  "page": true
+ },
+ "partitifs": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-directions-01",
+   "fr-a2-medecin-01",
+   "fr-a2-projets-01",
+   "fr-a2-routine-01"
+  ],
+  "page": true
+ },
+ "partitive-articles": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "passe-compose": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-projets-01",
+   "fr-a2-routine-01",
+   "fr-b1-hotel-01",
+   "fr-b1-ma-ville-01",
+   "fr-b1-opinions-film-01",
+   "fr-b1-voyage-01",
+   "fr-c2-ironie-01"
+  ],
+  "page": true
+ },
+ "passe-compose-avoir": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01",
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "passe-compose-etre": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "passive-voice": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-career-01",
+   "en-b2-environment-01",
+   "en-b2-news-01",
+   "en-b2-technology-01",
+   "en-b2-workplace-01"
+  ],
+  "page": true
+ },
+ "past-simple": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-doctor-01",
+   "en-b1-hotel-01",
+   "en-b1-opinions-film-01",
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "past-simple-irregular": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-routine-01",
+   "en-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "past-simple-regular": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-routine-01",
+   "en-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "phrasal-verbs": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-career-01",
+   "en-b2-technology-01",
+   "en-c1-cultural-difference-01",
+   "en-c1-work-ethics-01"
+  ],
+  "page": true
+ },
+ "plurals": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-family-01"
+  ],
+  "page": true
+ },
+ "possessive-adjectives": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-classroom-01",
+   "en-a1-family-01",
+   "en-a1-numbers-time-01",
+   "en-a1-shopping-01"
+  ],
+  "page": true
+ },
+ "pouvoir": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01",
+   "fr-a2-projets-01"
+  ],
+  "page": true
+ },
+ "pouvoir-devoir": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-directions-01",
+   "fr-a2-routine-01",
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "prepositions-depuis": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-medecin-01"
+  ],
+  "page": true
+ },
+ "prepositions-lieu": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01",
+   "fr-a2-directions-01",
+   "fr-a2-routine-01",
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "prepositions-of-place": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01"
+  ],
+  "page": true
+ },
+ "prepositions-place": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-classroom-01"
+  ],
+  "page": true
+ },
+ "present-continuous": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-describing-people-01"
+  ],
+  "page": true
+ },
+ "present-perfect": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hometown-01",
+   "en-b1-hotel-01",
+   "en-b1-opinions-film-01"
+  ],
+  "page": true
+ },
+ "present-perfect-experience": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "present-perfect-simple": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01"
+  ],
+  "page": true
+ },
+ "present-simple-questions": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01"
+  ],
+  "page": true
+ },
+ "pronom-relatif": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ironie-01"
+  ],
+  "page": true
+ },
+ "pronoms-combines": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "pronoms-en": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-opinions-film-01"
+  ],
+  "page": true
+ },
+ "pronoms-en-y": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01",
+   "fr-b1-projets-avenir-01",
+   "fr-b1-voyage-01"
+  ],
+  "page": true
+ },
+ "pronoms-relatifs": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01",
+   "fr-b1-ma-ville-01",
+   "fr-b1-opinions-film-01",
+   "fr-b1-projets-avenir-01",
+   "fr-b1-voyage-01",
+   "fr-c2-ambiguite-01"
+  ],
+  "page": true
+ },
+ "pronoms-relatifs-dont": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-travail-01"
+  ],
+  "page": true
+ },
+ "pronoms-sujet": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-famille-01"
+  ],
+  "page": true
+ },
+ "pronoms-sujets": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01",
+   "fr-a1-cafe-01",
+   "fr-a1-classe-01",
+   "fr-a1-nombres-heure-01"
+  ],
+  "page": true
+ },
+ "question-est-ce-que": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-famille-01"
+  ],
+  "page": true
+ },
+ "questions-est-ce-que": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-cafe-01",
+   "fr-a1-nombres-heure-01"
+  ],
+  "page": true
+ },
+ "questions-intonation": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-classe-01"
+  ],
+  "page": true
+ },
+ "registre-familier": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ironie-01"
+  ],
+  "page": true
+ },
+ "relative-clauses": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01",
+   "en-b1-hometown-01",
+   "en-b1-hotel-01",
+   "en-b1-opinions-film-01",
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "reported-speech": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-career-01",
+   "en-b2-environment-01",
+   "en-b2-news-01",
+   "en-b2-technology-01",
+   "en-b2-workplace-01"
+  ],
+  "page": true
+ },
+ "second-conditional": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-career-01",
+   "en-b2-environment-01",
+   "en-b2-news-01",
+   "en-b2-technology-01",
+   "en-b2-workplace-01"
+  ],
+  "page": true
+ },
+ "should": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01"
+  ],
+  "page": true
+ },
+ "should-have": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-opinions-film-01"
+  ],
+  "page": true
+ },
+ "subject-pronouns": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-family-01"
+  ],
+  "page": true
+ },
+ "subjonctif": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ambiguite-01"
+  ],
+  "page": true
+ },
+ "subjonctif-imparfait": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "subjonctif-passe": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01",
+   "fr-c1-difference-culturelle-01",
+   "fr-c1-ethique-travail-01",
+   "fr-c1-negociation-01",
+   "fr-c1-plainte-01"
+  ],
+  "page": true
+ },
+ "subjonctif-present": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01",
+   "fr-b2-actualite-01",
+   "fr-b2-carriere-01",
+   "fr-b2-environnement-01",
+   "fr-b2-technologie-01",
+   "fr-b2-travail-01",
+   "fr-c1-ethique-travail-01",
+   "fr-c1-negociation-01",
+   "fr-c1-plainte-01",
+   "fr-c2-litterature-01"
+  ],
+  "page": true
+ },
+ "subjunctive-mood": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-literature-01"
+  ],
+  "page": true
+ },
+ "there-is": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01"
+  ],
+  "page": true
+ },
+ "there-is-there-are": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-plans-01"
+  ],
+  "page": true
+ },
+ "third-conditional": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-environment-01",
+   "en-b2-news-01",
+   "en-b2-technology-01",
+   "en-b2-workplace-01"
+  ],
+  "page": true
+ },
+ "to-be-present": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-cafe-01",
+   "en-a1-classroom-01",
+   "en-a1-family-01",
+   "en-a1-greetings-01",
+   "en-a1-numbers-time-01",
+   "en-a1-shopping-01"
+  ],
+  "page": true
+ },
+ "to-have-present": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-cafe-01",
+   "en-a1-numbers-time-01",
+   "en-a1-shopping-01"
+  ],
+  "page": true
+ },
+ "used-to": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01",
+   "en-b1-hometown-01",
+   "en-b1-opinions-film-01",
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "voix-passive": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-carriere-01",
+   "fr-b2-environnement-01",
+   "fr-b2-technologie-01",
+   "fr-b2-travail-01",
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "wh-questions": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-classroom-01",
+   "en-a1-numbers-time-01",
+   "en-a1-shopping-01"
+  ],
+  "page": true
+ },
+ "will-future": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01"
+  ],
+  "page": true
+ }
 }

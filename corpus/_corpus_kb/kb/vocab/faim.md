@@ -1,22 +1,27 @@
 ---
-title: "faim"
+title: faim
 type: vocab
 slug: faim
-lemma: "faim"
+lemma: faim
 target_lang: fr
-pos: phrase
-gloss_es: "hambre"
-frequency: 2
-first_lesson: ["el-nuevo-frances-sin-esfuerzo", 19]
-lessons: [["el-nuevo-frances-sin-esfuerzo", 19], ["el-nuevo-frances-sin-esfuerzo", 20]]
+pos: noun
+gloss_es: hambre (*j'ai faim*)
+gloss_en: hunger
+frequency: 1
+first_lesson: fr-a1-cafe-01
+lessons: [fr-a1-cafe-01]
 register: neutral
 cefr: A1
 stability: evergreen
-updated: 2026-05-18
+updated: 2026-05-30
 ---
 
-**faim** — hambre
+## Definition
+Sensación física que indica la necesidad de comer. Se utiliza siempre con el verbo *avoir* (tener).
 
-## Appears in
-- [[dialogues/el-nuevo-frances-sin-esfuerzo-l019]]
-- [[dialogues/el-nuevo-frances-sin-esfuerzo-l020]]
+## Examples
+- "J'ai faim." — [[dialogues/fr-a1-cafe-01]]
+- "Il a faim, il mange une pomme." — [[dialogues/fr-a1-cafe-01]]
+
+## Notes
+- Error común: los hispanohablantes a veces intentan usar el verbo *être* (soy hambre) o *tenir* (tengo hambre, pero *tenir* no funciona aquí). Siempre *avoir faim*.

@@ -1,650 +1,1524 @@
 {
-  "passer-temps-a": {
-    "title": "passer [temps] à [infinitif]",
-    "form": "passer [temps] à [infinitif]",
-    "function": "expresar duración de una actividad",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/passer-temps-a.md"
-  },
-  "en4ai-used-to-be": {
-    "title": "used to be",
-    "form": "used to be",
-    "function": "past state/habit",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-used-to-be.md"
-  },
-  "i-hope-not": {
-    "title": "I hope not",
-    "form": "I hope not",
-    "function": "expresar deseo de que algo no suceda",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/i-hope-not.md"
-  },
-  "make-love-to": {
-    "title": "make love to",
-    "form": "make love to",
-    "function": "hacer la corte a (histórico)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/make-love-to.md"
-  },
-  "i-d-better": {
-    "title": "I'd better <verb>",
-    "form": "I'd better <verb>",
-    "function": "Advising or deciding a better course of action",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/i-d-better.md"
-  },
-  "enp3b": {
-    "title": "be that as it may",
-    "form": "be that as it may",
-    "function": "concesión; pesar de todo; sea como sea",
-    "target_lang": "",
-    "cefr": "C1",
-    "file_path": "kb/patterns/enp3b.md"
-  },
-  "by-heart": {
-    "title": "by heart",
-    "form": "by heart",
-    "function": "de memoria",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/by-heart.md"
-  },
-  "en4ai-make-up-your-mind": {
-    "title": "make up one's mind",
-    "form": "make up one's mind",
-    "function": "reaching a decision",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-make-up-your-mind.md"
-  },
-  "en4ai-make-yourself-understood": {
-    "title": "make oneself understood",
-    "form": "make oneself understood",
-    "function": "ability to communicate effectively",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-make-yourself-understood.md"
-  },
-  "se-faire-comprendre": {
-    "title": "se faire + infinitif",
-    "form": "se faire + infinitif",
-    "function": "causativo reflexivo (hacerse entender/reír)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/se-faire-comprendre.md"
-  },
-  "y-pronoun": {
-    "title": "Pronoun Y",
-    "form": "y + verb",
-    "function": "pronoun replacing à + complement / locative",
-    "target_lang": "fr",
-    "cefr": "A2",
-    "file_path": "kb/patterns/y-pronoun.md"
-  },
-  "de-plus-en-plus": {
-    "title": "de plus en plus",
-    "form": "de plus en plus",
-    "function": "progresión (cada vez más)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/de-plus-en-plus.md"
-  },
-  "what-does-do": {
-    "title": "What does [subject] do?",
-    "form": "What does [subject] do?",
-    "function": "Ask about profession or action",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/what-does-do.md"
-  },
-  "knock-over": {
-    "title": "knock over",
-    "form": "knock over",
-    "function": "atropellar / hacer caer",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/knock-over.md"
-  },
-  "make-sure": {
-    "title": "make sure",
-    "form": "make sure",
-    "function": "asegurarse de algo",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/make-sure.md"
-  },
-  "quelque-chose-de": {
-    "title": "quelque chose de + adjectif",
-    "form": "quelque chose de + adjectif",
-    "function": "something [adjective]",
-    "target_lang": "",
-    "cefr": "B1",
-    "file_path": "kb/patterns/quelque-chose-de.md"
-  },
-  "venir-de": {
-    "title": "venir de + infinitif",
-    "form": "venir de + infinitif",
-    "function": "recent past (to have just done something)",
-    "target_lang": "",
-    "cefr": "B1",
-    "file_path": "kb/patterns/venir-de.md"
-  },
-  "enp1aii": {
-    "title": "the + plural-form country name",
-    "form": "the + plural-form country name",
-    "function": "definite article with countries that are plural in form (United States, Netherlands, Maldives)",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/enp1aii.md"
-  },
-  "il-ne-reste-que": {
-    "title": "ne ... que",
-    "form": "ne ... que",
-    "function": "restricción (solo, no queda más que)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/il-ne-reste-que.md"
-  },
-  "en4ai-make-do-with": {
-    "title": "make do with [something]",
-    "form": "make do with [something]",
-    "function": "managing with what is available",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-make-do-with.md"
-  },
-  "dont": {
-    "title": "dont",
-    "form": "dont",
-    "function": "pronombre relativo (del cual, de los que)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/dont.md"
-  },
-  "fr3b": {
-    "title": "D'habitude, [subject] [verb]",
-    "form": "D'habitude, [subject] [verb]",
-    "function": "Expressing habitual actions",
-    "target_lang": "",
-    "cefr": "B1",
-    "file_path": "kb/patterns/fr3b.md"
-  },
-  "en4ai-make-a-choice": {
-    "title": "make a choice",
-    "form": "make a choice",
-    "function": "deciding between options",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-make-a-choice.md"
-  },
-  "ca-fait": {
-    "title": "Ça fait ...",
-    "form": "Ça fait ...",
-    "function": "total / cost",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/ca-fait.md"
-  },
-  "voila-voici": {
-    "title": "Voilà / Voici",
-    "form": "Voilà / Voici",
-    "function": "presentative",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/voila-voici.md"
-  },
-  "at-once": {
-    "title": "at once",
-    "form": "at once",
-    "function": "de inmediato / enseguida",
-    "target_lang": "",
-    "cefr": "B1",
-    "file_path": "kb/patterns/at-once.md"
-  },
-  "quand-futur": {
-    "title": "quand + futur... futur",
-    "form": "quand + futur... futur",
-    "function": "correlación temporal en futuro (cuando + subjuntivo en ES)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/quand-futur.md"
-  },
-  "remind-me-of": {
-    "title": "remind me of",
-    "form": "remind me of",
-    "function": "recordar a (alguien/algo)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/remind-me-of.md"
-  },
-  "enp2ai": {
-    "title": "so much so that",
-    "form": "so much so that",
-    "function": "consecutive clause (tal... que)",
-    "target_lang": "",
-    "cefr": "A2",
-    "file_path": "kb/patterns/enp2ai.md"
-  },
-  "en4ai-drawing-up": {
-    "title": "draw up [a document]",
-    "form": "draw up [a document]",
-    "function": "drafting or writing a formal document",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-drawing-up.md"
-  },
-  "ni-ni": {
-    "title": "ni... ni...",
-    "form": "ni... ni...",
-    "function": "negación doble",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/ni-ni.md"
-  },
-  "comment-ca-va": {
-    "title": "Comment ça va ?",
-    "form": "Comment ça va ?",
-    "function": "greeting",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/comment-ca-va.md"
-  },
-  "d-une-pierre-deux-coups": {
-    "title": "faire d'une pierre deux coups",
-    "form": "faire d'une pierre deux coups",
-    "function": "matar dos pájaros de un tiro",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/d-une-pierre-deux-coups.md"
-  },
-  "have-been-to": {
-    "title": "have you ever been to <place>",
-    "form": "have you ever been to <place>",
-    "function": "Asking about experience visiting a place",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/have-been-to.md"
-  },
-  "en1a": {
-    "title": "How are you?",
-    "form": "How are you?",
-    "function": "greeting and asking about well-being",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/en1a.md"
-  },
-  "i-wonder": {
-    "title": "I wonder",
-    "form": "I wonder",
-    "function": "expresar curiosidad / preguntarse",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/i-wonder.md"
-  },
-  "ne-point": {
-    "title": "ne ... point",
-    "form": "ne ... point",
-    "function": "negación enfática (más que ne...pas)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/ne-point.md"
-  },
-  "enp1ai": {
-    "title": "say vs tell",
-    "form": "say vs tell",
-    "function": "distinguishing direct/indirect speech (say) from content reporting to someone (tell + obj)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/enp1ai.md"
-  },
-  "look-well": {
-    "title": "look well",
-    "form": "look well",
-    "function": "tener buen aspecto",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/look-well.md"
-  },
-  "assis-pipe": {
-    "title": "une pipe à la bouche / des chaussures aux pieds",
-    "form": "une pipe à la bouche / des chaussures aux pieds",
-    "function": "describing state/clothing without 'with' or 'having'",
-    "target_lang": "",
-    "cefr": "B1",
-    "file_path": "kb/patterns/assis-pipe.md"
-  },
-  "in-order-to": {
-    "title": "in order to",
-    "form": "in order to",
-    "function": "para (propósito)",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/in-order-to.md"
-  },
-  "enp2b": {
-    "title": "get rid of",
-    "form": "get rid of",
-    "function": "deshacerse de",
-    "target_lang": "",
-    "cefr": "C1",
-    "file_path": "kb/patterns/enp2b.md"
-  },
-  "en-pronoun": {
-    "title": "Pronoun EN",
-    "form": "en + verb",
-    "function": "pronoun replacing de + complement / partitive",
-    "target_lang": "fr",
-    "cefr": "A2",
-    "file_path": "kb/patterns/en-pronoun.md"
-  },
-  "abbreviations": {
-    "title": "e.g., i.e.",
-    "form": "e.g., i.e.",
-    "function": "Used for examples and clarification",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/abbreviations.md"
-  },
-  "i-want-you-to": {
-    "title": "I want you to <verb>",
-    "form": "I want you to <verb>",
-    "function": "Requesting someone to do something",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/i-want-you-to.md"
-  },
-  "i-had-better": {
-    "title": "I had better [verb]",
-    "form": "I had better [verb]",
-    "function": "Expressing a strong suggestion or necessity for oneself",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/i-had-better.md"
-  },
-  "used-to-doing": {
-    "title": "used to doing",
-    "form": "used to doing",
-    "function": "estar acostumbrado a",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/used-to-doing.md"
-  },
-  "do-you-mind": {
-    "title": "Do you mind if I [verb]?",
-    "form": "Do you mind if I [verb]?",
-    "function": "Politely ask for permission",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/do-you-mind.md"
-  },
-  "take-for-granted": {
-    "title": "take for granted",
-    "form": "take for granted",
-    "function": "dar por sentado",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/take-for-granted.md"
-  },
-  "en4aii": {
-    "title": "ought to + verb",
-    "form": "ought to + verb",
-    "function": "giving advice or recommendations",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4aii.md"
-  },
-  "en4ai-worth-buying": {
-    "title": "be worth [verb]-ing",
-    "form": "be worth [verb]-ing",
-    "function": "express the value of an action",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-worth-buying.md"
-  },
-  "il-y-a": {
-    "title": "Il y a ...",
-    "form": "Il y a ...",
-    "function": "existential",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/il-y-a.md"
-  },
-  "like-a-fish": {
-    "title": "drink like a fish",
-    "form": "drink like a fish",
-    "function": "beber muchísimo / como un pez",
-    "target_lang": "",
-    "cefr": "A2",
-    "file_path": "kb/patterns/like-a-fish.md"
-  },
-  "est-ce-que": {
-    "title": "Est-ce que ... ?",
-    "form": "Est-ce que ... ?",
-    "function": "interrogative",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/est-ce-que.md"
-  },
-  "nothing-wrong-with": {
-    "title": "nothing wrong with",
-    "form": "nothing wrong with",
-    "function": "no pasa nada con",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/nothing-wrong-with.md"
-  },
-  "question-tags": {
-    "title": "..., isn't it?",
-    "form": "..., isn't it?",
-    "function": "pedir confirmación",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/question-tags.md"
-  },
-  "en4ai-sending-people-to-sleep": {
-    "title": "send someone to sleep",
-    "form": "send someone to sleep",
-    "function": "idiom for making someone bored/tired",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-sending-people-to-sleep.md"
-  },
-  "en4ai": {
-    "title": "send someone to sleep",
-    "form": "send someone to sleep",
-    "function": "hacer dormir a alguien",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai.md"
-  },
-  "it-takes": {
-    "title": "it takes (time)",
-    "form": "it takes (time)",
-    "function": "se tarda (tiempo)",
-    "target_lang": "",
-    "cefr": "A2",
-    "file_path": "kb/patterns/it-takes.md"
-  },
-  "ca-va": {
-    "title": "Ça va",
-    "form": "Ça va",
-    "function": "status inquiry / response",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/ca-va.md"
-  },
-  "en4ai-more-than-i-need": {
-    "title": "more than I need",
-    "form": "more than I need",
-    "function": "express excess of requirement",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-more-than-i-need.md"
-  },
-  "enp1b": {
-    "title": "believe in (X) vs believe (X)",
-    "form": "believe in (X) vs believe (X)",
-    "function": "express acceptance of existence/truth of abstract concepts vs trust in a person's words",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/enp1b.md"
-  },
-  "neither-do-i": {
-    "title": "neither do I",
-    "form": "neither do I",
-    "function": "yo tampoco",
-    "target_lang": "",
-    "cefr": "A2",
-    "file_path": "kb/patterns/neither-do-i.md"
-  },
-  "fr2b": {
-    "title": "Jouer de [instrument]",
-    "form": "Jouer de [instrument]",
-    "function": "Tocar un instrumento musical",
-    "target_lang": "",
-    "cefr": "A2",
-    "file_path": "kb/patterns/fr2b.md"
-  },
-  "enp2aii": {
-    "title": "is far from rosy",
-    "form": "is far from rosy",
-    "function": "express strong negative assessment (lit. not like a rose)",
-    "target_lang": "",
-    "cefr": "A2",
-    "file_path": "kb/patterns/enp2aii.md"
-  },
-  "could-have-been": {
-    "title": "could have been",
-    "form": "could have been",
-    "function": "podría haber sido",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/could-have-been.md"
-  },
-  "je-vous-en-prie": {
-    "title": "Je vous en prie",
-    "form": "Je vous en prie",
-    "function": "polite response",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/je-vous-en-prie.md"
-  },
-  "enp3a": {
-    "title": "Will that be...?",
-    "form": "Will that be...?",
-    "function": "offering options in service contexts",
-    "target_lang": "",
-    "cefr": "C1",
-    "file_path": "kb/patterns/enp3a.md"
-  },
-  "en4ai-used-to-looking-after": {
-    "title": "be used to [verb]-ing",
-    "form": "be used to [verb]-ing",
-    "function": "express being accustomed to an action",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-used-to-looking-after.md"
-  },
-  "better-than": {
-    "title": "better than",
-    "form": "better than",
-    "function": "mejor que (comparativo)",
-    "target_lang": "",
-    "cefr": "A2",
-    "file_path": "kb/patterns/better-than.md"
-  },
-  "en4ai-set-off": {
-    "title": "set off",
-    "form": "set off",
-    "function": "starting a journey",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-set-off.md"
-  },
-  "pas-du-tout": {
-    "title": "Pas du tout",
-    "form": "Pas du tout",
-    "function": "strong negation",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/pas-du-tout.md"
-  },
-  "as-vs-like": {
-    "title": "as vs like",
-    "form": "as vs like",
-    "function": "Used for comparisons",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/as-vs-like.md"
-  },
-  "en2b": {
-    "title": "Is X singular or plural?",
-    "form": "Is X singular or plural?",
-    "function": "Question about noun number",
-    "target_lang": "",
-    "cefr": "B1",
-    "file_path": "kb/patterns/en2b.md"
-  },
-  "ou-est": {
-    "title": "Où est ... ?",
-    "form": "Où est ... ?",
-    "function": "location inquiry",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/ou-est.md"
-  },
-  "en4bi": {
-    "title": "present continuous for current activities",
-    "form": "present continuous for current activities",
-    "function": "describing ongoing actions",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4bi.md"
-  },
-  "criticise-for": {
-    "title": "criticise for",
-    "form": "criticise for",
-    "function": "criticar por",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/criticise-for.md"
-  },
-  "en4ai-agree-on": {
-    "title": "agree on [something]",
-    "form": "agree on [something]",
-    "function": "express agreement regarding a specific topic",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-agree-on.md"
-  },
-  "en4ai-ladies-first": {
-    "title": "ladies first",
-    "form": "ladies first",
-    "function": "polite social convention",
-    "target_lang": "",
-    "cefr": "B2",
-    "file_path": "kb/patterns/en4ai-ladies-first.md"
-  },
-  "ne-plus": {
-    "title": "ne ... plus",
-    "form": "ne ... plus",
-    "function": "no longer",
-    "target_lang": "",
-    "cefr": "B1",
-    "file_path": "kb/patterns/ne-plus.md"
-  },
-  "a-quelle-heure": {
-    "title": "À quelle heure ... ?",
-    "form": "À quelle heure ... ?",
-    "function": "time inquiry",
-    "target_lang": "",
-    "cefr": "A1",
-    "file_path": "kb/patterns/a-quelle-heure.md"
-  }
+ "accepter-un-rendez-vous": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-projets-01"
+  ],
+  "page": true
+ },
+ "acheter": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01"
+  ],
+  "page": true
+ },
+ "adoucir-une-demande": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-difference-culturelle-01"
+  ],
+  "page": true
+ },
+ "although-despite": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-environment-01"
+  ],
+  "page": true
+ },
+ "analyser-un-texte": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-litterature-01"
+  ],
+  "page": true
+ },
+ "anything-else": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-cafe-01"
+  ],
+  "page": true
+ },
+ "argumenter": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-environnement-01",
+   "fr-c1-debat-ville-campagne-01"
+  ],
+  "page": true
+ },
+ "asking-about-trips": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "asking-for-description": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-describing-people-01"
+  ],
+  "page": true
+ },
+ "asking-for-repetition": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-classroom-01"
+  ],
+  "page": true
+ },
+ "asking-the-time": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-numbers-time-01"
+  ],
+  "page": true
+ },
+ "at-the": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01"
+  ],
+  "page": true
+ },
+ "at-time": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-numbers-time-01"
+  ],
+  "page": true
+ },
+ "be-expected-to": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-career-01"
+  ],
+  "page": true
+ },
+ "be-past": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "be-questions": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-family-01",
+   "en-a1-greetings-01"
+  ],
+  "page": true
+ },
+ "beg-to-differ": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ai-creativity-01"
+  ],
+  "page": true
+ },
+ "by-the-same-token": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-debate-citylife-01"
+  ],
+  "page": true
+ },
+ "c-est-que": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-difference-culturelle-01",
+   "fr-c1-plainte-01"
+  ],
+  "page": true
+ },
+ "can-i": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-shopping-01"
+  ],
+  "page": true
+ },
+ "cleft-sentences": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-negotiation-01"
+  ],
+  "page": true
+ },
+ "commander": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-cafe-01"
+  ],
+  "page": true
+ },
+ "comparatif-superiorite": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01"
+  ],
+  "page": true
+ },
+ "comparative-adjectives": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "comparing-things": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-plans-01"
+  ],
+  "page": true
+ },
+ "concession": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "conditional-inversion": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-negotiation-01"
+  ],
+  "page": true
+ },
+ "conditionnel-hypothese": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-opinions-film-01",
+   "fr-b2-carriere-01"
+  ],
+  "page": true
+ },
+ "conditionnel-passe": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-technologie-01"
+  ],
+  "page": true
+ },
+ "conjunction-then": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-routine-01"
+  ],
+  "page": true
+ },
+ "connecteurs-avances": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01"
+  ],
+  "page": true
+ },
+ "connecteurs-logiques": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-actualite-01",
+   "fr-b2-environnement-01"
+  ],
+  "page": true
+ },
+ "conseil-devoir": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-medecin-01"
+  ],
+  "page": true
+ },
+ "contre-argument": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "deadpan-understatement": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-irony-01"
+  ],
+  "page": true
+ },
+ "debat-philosophique": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "debattre": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01"
+  ],
+  "page": true
+ },
+ "debattre-de-maniere-erudite": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-litterature-01"
+  ],
+  "page": true
+ },
+ "debattre-pour-contre": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-technologie-01"
+  ],
+  "page": true
+ },
+ "decrire-apparence": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01"
+  ],
+  "page": true
+ },
+ "decrire-caractere": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01"
+  ],
+  "page": true
+ },
+ "decrire-routine": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-routine-01"
+  ],
+  "page": true
+ },
+ "decrire-symptomes": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-medecin-01"
+  ],
+  "page": true
+ },
+ "decrire-une-ville": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-ma-ville-01"
+  ],
+  "page": true
+ },
+ "defendres-son-point-de-vue": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-ethique-travail-01"
+  ],
+  "page": true
+ },
+ "demander-aide": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01"
+  ],
+  "page": true
+ },
+ "demander-chemin": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-directions-01"
+  ],
+  "page": true
+ },
+ "demander-de-repeter": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-classe-01"
+  ],
+  "page": true
+ },
+ "demander-le-prix": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-cafe-01"
+  ],
+  "page": true
+ },
+ "demander-lheure": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-nombres-heure-01"
+  ],
+  "page": true
+ },
+ "demander-prix": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01"
+  ],
+  "page": true
+ },
+ "demander-taille": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01"
+  ],
+  "page": true
+ },
+ "demander-une-place": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-classe-01"
+  ],
+  "page": true
+ },
+ "demander-une-revision": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-negociation-01"
+  ],
+  "page": true
+ },
+ "describing-appearance": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-describing-people-01"
+  ],
+  "page": true
+ },
+ "describing-people": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-family-01"
+  ],
+  "page": true
+ },
+ "describing-personality": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-describing-people-01"
+  ],
+  "page": true
+ },
+ "despite-vs-although": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-news-01"
+  ],
+  "page": true
+ },
+ "diplomatic-disagreement": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-negotiation-01"
+  ],
+  "page": true
+ },
+ "disagreeing": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-opinions-film-01"
+  ],
+  "page": true
+ },
+ "discours-indirect": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-actualite-01"
+  ],
+  "page": true
+ },
+ "discours-indirect-b2": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-technologie-01"
+  ],
+  "page": true
+ },
+ "do-you-have": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-shopping-01"
+  ],
+  "page": true
+ },
+ "doing-the-rounds": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ai-creativity-01"
+  ],
+  "page": true
+ },
+ "donner-conseil": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-voyage-01",
+   "fr-b2-carriere-01"
+  ],
+  "page": true
+ },
+ "donner-directions": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-directions-01"
+  ],
+  "page": true
+ },
+ "donner-lheure": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-nombres-heure-01"
+  ],
+  "page": true
+ },
+ "donner-numero-telephone": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-nombres-heure-01"
+  ],
+  "page": true
+ },
+ "donner-son-opinion": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-travail-01"
+  ],
+  "page": true
+ },
+ "donner-une-page": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-classe-01"
+  ],
+  "page": true
+ },
+ "dont-pronoun": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-environnement-01"
+  ],
+  "page": true
+ },
+ "double-edged-sword": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-technology-01"
+  ],
+  "page": true
+ },
+ "double-entendre": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ambiguity-01"
+  ],
+  "page": true
+ },
+ "double-sens": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ambiguite-01",
+   "fr-c2-ironie-01"
+  ],
+  "page": true
+ },
+ "duree-depuis": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-medecin-01"
+  ],
+  "page": true
+ },
+ "expressing-dissent": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-work-ethics-01"
+  ],
+  "page": true
+ },
+ "expression-opinion": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-actualite-01"
+  ],
+  "page": true
+ },
+ "exprimer-besoin": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01"
+  ],
+  "page": true
+ },
+ "exprimer-comparaison": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "exprimer-consequence": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-environnement-01"
+  ],
+  "page": true
+ },
+ "exprimer-des-nuances": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-litterature-01"
+  ],
+  "page": true
+ },
+ "exprimer-des-reserves": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-negociation-01"
+  ],
+  "page": true
+ },
+ "exprimer-des-souhaits": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-projets-avenir-01"
+  ],
+  "page": true
+ },
+ "exprimer-desaccord": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-ethique-travail-01"
+  ],
+  "page": true
+ },
+ "exprimer-desaccord-poli": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-travail-01"
+  ],
+  "page": true
+ },
+ "exprimer-doute": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-carriere-01"
+  ],
+  "page": true
+ },
+ "exprimer-obligation": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "exprimer-opinion": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-ma-ville-01",
+   "fr-b1-opinions-film-01",
+   "fr-b2-environnement-01",
+   "fr-b2-technologie-01",
+   "fr-c1-debat-ville-campagne-01"
+  ],
+  "page": true
+ },
+ "exprimer-regret": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-voyage-01"
+  ],
+  "page": true
+ },
+ "faire-des-allusions": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-litterature-01"
+  ],
+  "page": true
+ },
+ "faire-des-plans": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-projets-avenir-01"
+  ],
+  "page": true
+ },
+ "faire-hypotheses": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-environnement-01"
+  ],
+  "page": true
+ },
+ "faire-une-concession": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-negociation-01"
+  ],
+  "page": true
+ },
+ "faire-une-plainte": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01"
+  ],
+  "page": true
+ },
+ "faire-une-suggestion": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-travail-01"
+  ],
+  "page": true
+ },
+ "first-conditional": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "formal-request": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-negotiation-01"
+  ],
+  "page": true
+ },
+ "formal-ultimatums": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-work-ethics-01"
+  ],
+  "page": true
+ },
+ "formuler-plainte-diplomatique": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-plainte-01"
+  ],
+  "page": true
+ },
+ "formuler-une-demande-polie": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-difference-culturelle-01"
+  ],
+  "page": true
+ },
+ "frequency-expressions": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "futur-proche": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-projets-01"
+  ],
+  "page": true
+ },
+ "future-intentions": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-routine-01"
+  ],
+  "page": true
+ },
+ "get-by": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-technology-01"
+  ],
+  "page": true
+ },
+ "giving-numbers": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-numbers-time-01"
+  ],
+  "page": true
+ },
+ "giving-opinions": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-opinions-film-01"
+  ],
+  "page": true
+ },
+ "go-straight": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01"
+  ],
+  "page": true
+ },
+ "hardly-had-when": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-cultural-difference-01"
+  ],
+  "page": true
+ },
+ "have-a-symptom": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-doctor-01"
+  ],
+  "page": true
+ },
+ "have-already-done": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01"
+  ],
+  "page": true
+ },
+ "have-questions": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-family-01"
+  ],
+  "page": true
+ },
+ "have-to": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hotel-01"
+  ],
+  "page": true
+ },
+ "hedging": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-negotiation-01"
+  ],
+  "page": true
+ },
+ "hedging-emphasis": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-work-ethics-01"
+  ],
+  "page": true
+ },
+ "how-much": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-shopping-01"
+  ],
+  "page": true
+ },
+ "how-much-price": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-cafe-01"
+  ],
+  "page": true
+ },
+ "hyperbolic-praise": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-irony-01"
+  ],
+  "page": true
+ },
+ "hypothese": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "hypothese-passee": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-actualite-01"
+  ],
+  "page": true
+ },
+ "hypothetical-preferences": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "hypothetical-questions": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-travel-01"
+  ],
+  "page": true
+ },
+ "hypothetical-situations": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-news-01"
+  ],
+  "page": true
+ },
+ "i-should-think": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-debate-citylife-01"
+  ],
+  "page": true
+ },
+ "idiomatic-comparison": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ambiguity-01"
+  ],
+  "page": true
+ },
+ "if-clauses": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-opinions-film-01",
+   "en-b2-environment-01"
+  ],
+  "page": true
+ },
+ "if-i-were-you": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-career-01"
+  ],
+  "page": true
+ },
+ "if-will": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01"
+  ],
+  "page": true
+ },
+ "il-faut-que": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-opinions-film-01",
+   "fr-c1-plainte-01"
+  ],
+  "page": true
+ },
+ "il-y-a": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-famille-01"
+  ],
+  "page": true
+ },
+ "imparfait-vs-passe-compose": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-ma-ville-01"
+  ],
+  "page": true
+ },
+ "inversion-formelle": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-difference-culturelle-01"
+  ],
+  "page": true
+ },
+ "inverted-conditionals": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-workplace-01"
+  ],
+  "page": true
+ },
+ "ironic-understatement": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-literature-01"
+  ],
+  "page": true
+ },
+ "ironie": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ironie-01"
+  ],
+  "page": true
+ },
+ "ironie-situationnelle": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ambiguite-01"
+  ],
+  "page": true
+ },
+ "it-clefts": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-complaint-01"
+  ],
+  "page": true
+ },
+ "it-is-better-to": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-doctor-01"
+  ],
+  "page": true
+ },
+ "je-prefere-que": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-plainte-01"
+  ],
+  "page": true
+ },
+ "jeu-de-mots": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ambiguite-01"
+  ],
+  "page": true
+ },
+ "justifier-opinion": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-opinions-film-01"
+  ],
+  "page": true
+ },
+ "justifier-un-choix": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-travail-01"
+  ],
+  "page": true
+ },
+ "litote": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ironie-01"
+  ],
+  "page": true
+ },
+ "little-did-i-realize": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-cultural-difference-01"
+  ],
+  "page": true
+ },
+ "location-questions": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-classroom-01"
+  ],
+  "page": true
+ },
+ "look-onto": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hotel-01"
+  ],
+  "page": true
+ },
+ "lost-the-plot": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ai-creativity-01"
+  ],
+  "page": true
+ },
+ "making-plans": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-plans-01"
+  ],
+  "page": true
+ },
+ "metaphorical-extensions": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-literature-01"
+  ],
+  "page": true
+ },
+ "mettre-en-relief": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-ethique-travail-01"
+  ],
+  "page": true
+ },
+ "mise-en-relief": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01"
+  ],
+  "page": true
+ },
+ "modalite-nuancee": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01"
+  ],
+  "page": true
+ },
+ "moving-the-goalposts": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ai-creativity-01"
+  ],
+  "page": true
+ },
+ "ne-pas-etre-d-accord": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-opinions-film-01"
+  ],
+  "page": true
+ },
+ "need-to-verb": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-doctor-01"
+  ],
+  "page": true
+ },
+ "negation-rien": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-medecin-01"
+  ],
+  "page": true
+ },
+ "negative-adverbial-inversion": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-complaint-01"
+  ],
+  "page": true
+ },
+ "negocier-diplomatiquement": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-negociation-01"
+  ],
+  "page": true
+ },
+ "not-so-much-as": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-cultural-difference-01"
+  ],
+  "page": true
+ },
+ "nuance": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ia-creativite-01"
+  ],
+  "page": true
+ },
+ "nuancer": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01"
+  ],
+  "page": true
+ },
+ "nuancer-argument": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-ethique-travail-01"
+  ],
+  "page": true
+ },
+ "on-the-contrary": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-debate-citylife-01"
+  ],
+  "page": true
+ },
+ "parler-de-projets": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-projets-avenir-01"
+  ],
+  "page": true
+ },
+ "parler-des-changements": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-ma-ville-01"
+  ],
+  "page": true
+ },
+ "partitifs": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-projets-01"
+  ],
+  "page": true
+ },
+ "passive-monitoring": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-environment-01"
+  ],
+  "page": true
+ },
+ "past-simple-questions": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-routine-01",
+   "en-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "payer": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-cafe-01"
+  ],
+  "page": true
+ },
+ "payer-par-telephone": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-achats-01"
+  ],
+  "page": true
+ },
+ "peser-pour-et-contre": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-carriere-01"
+  ],
+  "page": true
+ },
+ "phrasal-verbs": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-workplace-01"
+  ],
+  "page": true
+ },
+ "polite-requests-modal": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-complaint-01"
+  ],
+  "page": true
+ },
+ "poser-question-sur-le-passe": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "poser-questions-sur-qualqu-un": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-decrire-personne-01"
+  ],
+  "page": true
+ },
+ "possessive-s": {
+  "cefr": "A1",
+  "lessons": [
+   "en-a1-greetings-01"
+  ],
+  "page": true
+ },
+ "pouvoir": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-projets-01"
+  ],
+  "page": true
+ },
+ "prepositions-lieu": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-directions-01"
+  ],
+  "page": true
+ },
+ "presenter-famille": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-famille-01"
+  ],
+  "page": true
+ },
+ "proposer-solution": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-hotel-01"
+  ],
+  "page": true
+ },
+ "proposer-un-compromis": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-negociation-01"
+  ],
+  "page": true
+ },
+ "proposer-une-activite": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-projets-01"
+  ],
+  "page": true
+ },
+ "proposer-une-heure": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-projets-01"
+  ],
+  "page": true
+ },
+ "proposing-alternatives": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-negotiation-01"
+  ],
+  "page": true
+ },
+ "pseudo-clefts": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-complaint-01"
+  ],
+  "page": true
+ },
+ "raconter-son-weekend": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "raconter-un-voyage": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-voyage-01"
+  ],
+  "page": true
+ },
+ "raconter-veille": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-routine-01"
+  ],
+  "page": true
+ },
+ "relatif-dont": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-actualite-01"
+  ],
+  "page": true
+ },
+ "relative-pronouns": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hometown-01"
+  ],
+  "page": true
+ },
+ "relative-who-which-that": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hometown-01"
+  ],
+  "page": true
+ },
+ "reporting-verbs": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-news-01"
+  ],
+  "page": true
+ },
+ "rhetorical-irony": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-irony-01"
+  ],
+  "page": true
+ },
+ "rhetorical-questions": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-literature-01"
+  ],
+  "page": true
+ },
+ "s-appeler": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-famille-01"
+  ],
+  "page": true
+ },
+ "se-presenter": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-classe-01",
+   "fr-a1-rencontres-01"
+  ],
+  "page": true
+ },
+ "short-answers-past": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "should-have": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hotel-01"
+  ],
+  "page": true
+ },
+ "sous-entendu": {
+  "cefr": "C2",
+  "lessons": [
+   "fr-c2-ambiguite-01",
+   "fr-c2-ironie-01"
+  ],
+  "page": true
+ },
+ "subjonctif-passe": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-debat-ville-campagne-01"
+  ],
+  "page": true
+ },
+ "suggesting-time": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-plans-01"
+  ],
+  "page": true
+ },
+ "take-a-toll": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-technology-01"
+  ],
+  "page": true
+ },
+ "tech-metaphor": {
+  "cefr": "C2",
+  "lessons": [
+   "en-c2-ambiguity-01"
+  ],
+  "page": true
+ },
+ "there-is": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01"
+  ],
+  "page": true
+ },
+ "there-used-to-be": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hometown-01"
+  ],
+  "page": true
+ },
+ "turn-left-right": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01"
+  ],
+  "page": true
+ },
+ "used-to-habits": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-hometown-01"
+  ],
+  "page": true
+ },
+ "utiliser-futur-proche": {
+  "cefr": "A2",
+  "lessons": [
+   "fr-a2-weekend-01"
+  ],
+  "page": true
+ },
+ "utiliser-subjonctif": {
+  "cefr": "C1",
+  "lessons": [
+   "fr-c1-ethique-travail-01"
+  ],
+  "page": true
+ },
+ "utiliser-technologie": {
+  "cefr": "B1",
+  "lessons": [
+   "fr-b1-voyage-01"
+  ],
+  "page": true
+ },
+ "venir-de": {
+  "cefr": "A1",
+  "lessons": [
+   "fr-a1-rencontres-01"
+  ],
+  "page": true
+ },
+ "voix-passive": {
+  "cefr": "B2",
+  "lessons": [
+   "fr-b2-environnement-01",
+   "fr-b2-technologie-01"
+  ],
+  "page": true
+ },
+ "weigh-pros-and-cons": {
+  "cefr": "B2",
+  "lessons": [
+   "en-b2-career-01"
+  ],
+  "page": true
+ },
+ "what-i-need-is": {
+  "cefr": "C1",
+  "lessons": [
+   "en-c1-debate-citylife-01"
+  ],
+  "page": true
+ },
+ "where-is": {
+  "cefr": "A2",
+  "lessons": [
+   "en-a2-directions-01"
+  ],
+  "page": true
+ },
+ "who-relative-clause": {
+  "cefr": "B1",
+  "lessons": [
+   "en-b1-future-plans-01"
+  ],
+  "page": true
+ }
 }

@@ -54,11 +54,21 @@ def main():
                 else:
                     broken.append((root_name, base))
 
+    # The tutor retrieves via the index catalog (kb/index/*.json), not graph
+    # traversal — so a page listed there IS reachable. Treat index presence as a
+    # reference; a true orphan is neither wikilinked nor in the catalog.
+    import json
+    indexed = set()
+    for cat in ("vocab", "patterns", "grammar"):
+        p = KB / "index" / f"{cat}.json"
+        if p.is_file():
+            indexed.update(f"{cat}/{k}" for k in json.loads(p.read_text(encoding="utf-8")))
+
     orphans = []
     for (cat, slug), text in pages.items():
         if cat in ("dialogues",):
             continue  # dialogues are leaf documents
-        if inbound[f"{cat}/{slug}"] == 0 and inbound[slug] == 0:
+        if inbound[f"{cat}/{slug}"] == 0 and inbound[slug] == 0 and f"{cat}/{slug}" not in indexed:
             orphans.append(f"{cat}/{slug}")
 
     counts = {cat: sum(1 for (c, _) in pages if c == cat) for cat in CATEGORIES}

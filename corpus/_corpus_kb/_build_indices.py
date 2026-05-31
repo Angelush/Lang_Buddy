@@ -114,7 +114,7 @@ def main():
             "audio_exists": audio_exists,
             "has_modernized": has_mod,
             "line_count": line_count,
-            "pincer_gap_count": gap_count,
+            "anticipation_gap_count": gap_count,
             "file_path": f"kb/dialogues/{slug}.md",
         }
         lessons.append(row)

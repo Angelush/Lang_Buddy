@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build Pincer drill packs from dialogue markdown.
+"""Build anticipation drill packs from dialogue markdown.
 
 For each dialogue, emit kb/drills/<lesson_id>.json with the dialogue cleaned to
 a conversational form the tutor agent can drive directly — no OCR garbage, no
@@ -72,7 +72,7 @@ def is_question(line: str) -> bool:
 
 def gap_candidates(target_lines: dict[int, str],
                    vocab_introduced: list[str]) -> list[dict]:
-    """Identify which lines are good Pincer gap candidates.
+    """Identify which lines are good anticipation gap candidates.
 
     A line is a candidate if:
     1. It immediately follows a question line (predictable answer pattern)

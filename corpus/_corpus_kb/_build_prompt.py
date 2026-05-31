@@ -37,7 +37,7 @@ For each lesson in the requested range, emit a JSON object with these keys:
   - `## Exercises` (Ejercicio/Exercice + Corrigé verbatim; omit if absent)
   - `## Vocabulary highlights` (bullets `- **lemma** — gloss [[vocab/<group-prefixed-slug>]]`)
   - `## Patterns` (bullets with [[patterns/...]] links)
-  - `## Agent cues` (2-4 sentences on Pincer gaps, prosody, register)
+  - `## Agent cues` (2-4 sentences on anticipation gaps, prosody, register)
   - `## Audio` (audio path)
 
 Top-level alongside `dialogues`:

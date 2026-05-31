@@ -1,21 +1,28 @@
 ---
-title: "argent"
+title: argent
 type: vocab
 slug: argent
-lemma: "argent"
+lemma: argent
 target_lang: fr
-pos: phrase
-gloss_es: "dinero"
+pos: noun
+gloss_es: dinero
+gloss_en: money
 frequency: 1
-first_lesson: ["el-nuevo-frances-sin-esfuerzo", 22]
-lessons: [["el-nuevo-frances-sin-esfuerzo", 22]]
+first_lesson: fr-b2-environnement-01
+lessons: [fr-b2-environnement-01]
 register: neutral
-cefr: A1
+cefr: B2
 stability: evergreen
-updated: 2026-05-18
+updated: 2026-05-31
 ---
 
-**argent** — dinero
+## Definition
+Medio de intercambio y valor monetario. En francés, se usa tanto para el dinero en efectivo como para la riqueza en general.
 
-## Appears in
-- [[dialogues/el-nuevo-frances-sin-esfuerzo-l022]]
+## Examples
+- "Et en plus, tu économiserais de l’argent." — [[dialogues/fr-b2-environnement-01]]
+- "Il est difficile de gérer son argent quand les prix augmentent." — [[dialogues/fr-b2-environnement-01]]
+
+## Notes
+- No confundir con el adjetivo *argenté* (plateado).
+- Registro neutral. Se utiliza en contextos cotidianos y formales.
